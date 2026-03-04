@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Karla-Heinrike Langer
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=19 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 3rd Fighter Wing 7th Flying Corps ([[Wikipedia:Jagdgeschwader_3|7./JG3]])
+|team=
+|rank=Flight Lieutenant 
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#G-5,_G-6|Messerscharf Bf109G-6]] (White No.1)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Karla-Heinrike Langer''' originating from [[Karlsland]] and affiliated with the Karlsland Air Force.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-6 (white No. 1)]]
+|image=Bf109G-6 Langer SW1.jpg
+|description=A white meteor emblem is painted on the bulge of the striker unit. This marking was inspired by the rockets used against large Neuroi that the squadron was equipped with.
+}}
+
+==Trivia==
+*Her ace archetype is [http://www.cieldegloire.com/001_langer_k-h.php Karl-Heinz Langer].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

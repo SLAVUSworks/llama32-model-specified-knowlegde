@@ -1,0 +1,30 @@
+{{Infobox
+|Box title=Big Sister and Little Sister
+|image=File:Gundula & Edytha.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Ane to Imōto to
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 10
+|Row 4 title = Airdate:
+|Row 4 info = December 13, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 9, "Break Witches"|Break Witches]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 11, "We Won't Know Until We Try"|We Won't Know Until We Try]]
+}}
+
+Now fully recovered and awake from her coma, [[Karibuchi Takami|Takami]] is seen on a [[Fuso]] carrier that is currently on its way to Murmansk. The scene shifts to the [[502nd Joint Fighter Wing|502nd]] fighting a [[Neuroi]], and [[Karibuchi Hikari|Hikari]] using her Contact Eye ability to locate its core, allowing [[Kanno Naoe|Kanno]] to finish it off. A transport plane then arrives, carrying Field Marshal Manstein, who informs that Operation Freyja has moved forward. Instead of being in one month, the attack will now begin in one week, with a witch locating the core of the Grigori nest in order to allow two railway cannons an opening to destroy it. Initially, it is assumed to be Hikari who will take on this role. Takami is then seen flying past the room's window, leading to Hikari running out and greeting her sister, but Takami greets her in a cold fashion. After a short conversation, Takami states that Hikari has been ordered to [[Kauhava]] base, as originally intended for her. A very cold attitude continues between the two sisters, until Commander [[Gundula Rall|Rall]] steps in and recommends that Takami should just tell Hikari her true feelings. Takami, tearing up, feels that it must be done for Hikari's own safety, despite wishing to give her a "big hug" instead. The next day, a Neuroi is seen moving towards the Operation Freyja rally point, and so the squadron prepares to sortie. Before leaving, Hikari says that she wants to go as well, so Rall decides to use this as a way to hold a little competition between the rival sisters; if Hikari can find a Neuroi core faster and more accurately than her sister, then she can stay while Takami goes to Kauhava, but vice versa if Takami wins. The squadron then moves out, along with Rall accompanying this time as well. It is revealed that the newly spotted Neuroi is the same one that was previously thought to be destroyed by [[Waltrud Krupinski|Krupinski]]. After a small skirmish, Takami finds the core first and Rall destroys it, but the core itself regenerates; there is a core inside the core. After more battling, both sisters find the core close to the same time. Rall destroys the true core and the Neuroi is finally destroyed. Neither sister knows who won and before they find out, one of the smaller Neuroi hits Hikari and knocks her out. Takami catches her falling sister, and holds her close as she begins to cry. They all return to base where Rall states that Takami won and will now be staying with the 502nd. Hikari is then seen standing on the runway, watching the sunset. She begins to cry intensely as she falls to her knees.
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 9, "Break Witches"|09: "Break Witches"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 11, "We Won't Know Until We Try"|11: "We Won't Know Until We Try"]] >>
+|}
+
+[[Category:Brave Witches]]

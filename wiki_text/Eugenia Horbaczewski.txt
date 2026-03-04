@@ -1,0 +1,41 @@
+{{stub}}
+{{Character_Infobox
+|title1=Eugenia Horbaczewski
+|image1=Eugenia Horbaczewski.jpg
+|caption1=
+|kanji_name=エウゲーニャ・ホルバチェフスキ
+|romaji_name=
+|age=17 (1944)
+|birth_date=28 September
+|height=159 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Britannian 43rd Fighter Squadron
+|team = 
+|rank=Flight Lieutenant
+|striker unit(s)=[[wikipedia:Supermarine Spitfire (late Merlin powered variants)#Mk IX .28type 361.29|Ultramarine Spitfire Mk. IX]] (MA259)<br>[[wikipedia:North American P-51 variants#P-51B and P-51C|North Liberion P-51B]] (FB166)
+|weapon(s)=[[wikipedia:Thompson submachine gun|M1928A1 Submachine gun]] and others
+|familiar=[[wikipedia:Wolf|Wolf]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Eugenia Horbaczewski''' (エウゲーニャ・ホルバチェフスキ) is a witch from [[Ostmark]], her nickname is Horbie (ホービー)
+
+==Equipment==
+Her Ultramarine Spitfire Mk. IX is the unit she used in the Britannian 43rd Fighter Squadron. This unit is actually made with Merlin 60 engine mounted on a used Mk.V frame used by the local Britannian forces. The Ostmark squadron often used units from other countries.
+
+Commonly known as "Mustang III" in Britannia, the North Liberion P-51B were originally prepared for the landing operations in Gallia. The surplus units were sent to Africa after the release of Gallia, but the western front specification painting remains. On Eugenia unit, a Neuroi kill mark and dive attack mark were added.
+
+==Trivia==
+*She is based on [[wikipedia:Eugeniusz Horbaczewski|Eugeniusz Horbaczewski]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Eugenia Scan 1.jpg
+Eugenia Scan 2.jpg
+</gallery>
+[[Category:Article stubs]]
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Ostmark]]

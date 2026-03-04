@@ -1,0 +1,97 @@
+{{Character_Infobox
+|title1=Fernandia Malvezzi
+|image1=Fernandia.jpg
+|caption1=
+|kanji_name=フェルナンディア・マルヴェッツィ
+|romaji_name=
+|age=17 (end of 1944)
+|birth_date=22 October 1927
+|height=161 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force 4th Wing 9th Air Group 97th Squadron<br>The Redpants
+|team = [[504th Joint Fighter Wing]]
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Reggiane_Re.2001|Reggione Re.2001 CB]] (236)<br>[[Wikipedia:Fiat_G.55|Farotto G.55 "Centauro"]]<br>Farotto G.55S "Strega" (97-1) (tuned G.55.)
+|weapon(s)=[[Wikipedia:MG 42|MG42]]
+|familiar=[[Wikipedia:Marmot|Marmot]]
+|seiyuu_(japanese)=[[Wikipedia:Rika Morinaga|Morinaga Rika]]
+|seiyuu_(english)=[[Wikipedia:Maxey Whitehead|Maxey Whitehead]]
+|appearances=
+}}
+'''Fernandia Malvezzi''' (フェルナンディア・マルヴェッツィ) is a Witch of the [[504th Joint Fighter Wing]], originating from [[Romagna]]. Her nickname is "Commander Fer".
+
+==Background==
+Graduate of a military academy for witches in [[Romagna]]. With a small degree of skill in [[w:c:powerlisting:Healing|healing]] magic, Fernandia was assigned to the magic medical corps, but she actually had a strong desire for a combat role. The Romagna Air Force forcibly assigned her into an understrength ground attack witch unit.
+
+After studying tactics with a [[Karlsland]]er dive-bomber squadron, Fernandia, together with her best friends [[Luciana Mazzei|Luciana]] and [[Martina Crespi|Martina]] from the academy, was assigned to the North African Front. At first their military reputation was low, but they flew many missions, even recording a destroyed heavy land [[Neuroi]] to their name. As she's the type to involve herself in other's affairs, she was the leader-in-name of the three dive_bombers, called "the three weirdos". In recognition of the team's fame and overwhelmingly positive evaluations, all three were given the honor of being admitted into the Pantaloni Rossi (Red Pants). The Red Pants are an elite unit that reports directly to the Romagna Office with commanding power independent of the other three armies.
+
+Not long after, Fernandia's unit was undergoing model conversion training, and she was transferred to the Air Combat Witches. Her experience with those enlightened her towards air combat, and ever since '44 she has been using the [[Farotto G55|G-55]].
+
+In normal units, witches often team up by pairs in battles, but Fernandia usually forms a three witches unit with Luciana and Martina. If a team of four is needed, she selects the friendly [[Angela Salas Larrazabal]] from Hispania.
+
+==Personality==
+Even though Fernandia can be extremely self-assured, headstrong, and impulsive, she also displays an undeniable friendliness, and she is a natural leader with the power to get others to do things her way. Within the team, she takes the role of commander and also vanguard. Se loves planning operations, commanding units, and combat, but hates paperwork and pushes them all to Pilot Officer Mazzei.
+
+Despite looking selfish sometimes, she is strangely liked by people because of her confident, honest and open personality.
+
+She's a determined fighter who doesn't beat around the bush.
+
+She feels sorry that she can only perform simple treatments because she left magical medicine training on the way. She would like to study medicine again when the peace return.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55S (No. 97-1))]]
+|image=G55S Malvezzi SW2.jpg
+|description=This is the unit of Flying Officer Malvezzi. The paint job remains the same as when she was in her home squadron, but the marking of the new 504th Joint Fighter Wing has been added.
+}}
+
+==Appearances==
+'''Anime'''
+*She appeared together with her fellow Red Pants comrades at the beginning of [[Season 02 Episode 01, "Into the Sky Once More"|&quot;Into the Sky Once More&quot;]]
+*[[Season 02 Episode 12, "Beyond The Skies To Eternity"|Final Episode of Season 2]]
+*[[Strike Witches: The Movie]] (trailer - 1:06)
+*[[World Witches: Hasshin Shimasu!!]], episode 5
+'''Manga'''
+*[[Strike Witches: Kurenai no Majo-tachi]]
+'''Light Novels'''
+*[[Strike Witches the Movie: The sky I want to return to]], chapter 3
+'''Audio Media'''
+*[[Himegoe CD 2 Voice Albums]], Volume 2
+*Movie Hime Uta Collection 2
+'''Video Games'''
+*[[Strike Witches 2: Heal, Cure and Squish]]
+*[[Strike Witches: Kiseki no Rondo]], not playable
+*[[World Witches United Front]]
+'''Other'''
+*[[504th Twitter Story Translation#Part C|504th Twitter Story]], Part 4
+
+==Trivia==
+*She is based on Italian ace pilot [https://it.wikipedia.org/wiki/Fernando_Malvezzi Fernando Malvezzi]. Fernando, together with the archetypes of [[Luciana Mazzei]] and [[Martina Crespi]], were responsible for the sinking of the British light cruiser HMS ''Southampton''; this is most certainly the inspiration for their respective witches being close friends.
+*She has the habit of saying "okay okay".
+*Because there are only a few dive bombing witches in Romagna, they were called the "Three Weirdos" by the others.
+*She personally like Sergeant [[Miyafuji Yoshika|Miyafuji]] of the 501st JFW, and she refused to solicit her for the 504th JFW.
+*Specialties include homemade Parmigiano Reggiano (which is a local specialty) and pasta risotto using raw ham.
+*Her dream for the future is to be a doctor and fly her own plane on the weekends.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Fernandia Scan.jpg
+Fernandia Scan 1.jpg
+Fernandiamalvezzi.jpg
+File:Fernandia Malvezzi Remastered.jpg
+Fernandia Art Works of Strike Witches.png
+Lucciana Fernandia Martina 5.jpg
+Yoshika Lynette Fernandia.png
+Fernandia & Junko helping a boy.jpg
+504th Junko, Fernandia, Martina, Luciana.jpg
+Kurenai no majo Tachi cover 1 Fernandia Luciana Martina.jpg
+Strike Witches Kurenai no Majo Tachi Promo splash-art 2.png
+Strike Witches Kurenai no Majo Tachi Promo splash-art.png
+Fernandia Kurenai no majo tachi scan.png
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:504th Joint Fighter Wing]]
+[[Category:Romagna]]

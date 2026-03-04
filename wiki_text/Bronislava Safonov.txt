@@ -1,0 +1,63 @@
+{{Character_Infobox
+|title1=Bronislava F. Safonov
+|image1=Bronislava Safonov (1).jpg
+|caption1=
+|kanji_name=ブロニスラヴァ・フェオクチストヴナ・サフォーノフ
+|romaji_name=
+|age=?
+|birth_date=26 August 
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Navy Northern Fleet Flying Corps 72nd Mixed Air Force (Commander)<br>Orussia Navy 78th Fighter Regiment (Commander)
+|team =[[503rd Joint Fighter Wing]]
+|rank=Flight Lieutenant<br>Wing Commander
+|striker unit(s)=Mir Gosudarstvo MiG60 early model (white No. 11)<br>Mir Gosudarstvo I-225 (white No. 77)
+|weapon(s)=?
+|familiar=[[Wikipedia:Mountain hare|Snow hare]]<ref>[https://twitter.com/humikane/status/1256943147243827212 Humikane tweet on the familiars of the 503rd members]</ref>
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Bronislava Feoktistovna Safonov''' (ブロニスラヴァ・F・サフォーノフ, Бронислава Феоктистовна Сафонова) is a Witch of the [[503rd Joint Fighter Wing]], originating from [[Orussia]].
+
+==Background==
+Because her witch abilities manifested very early on, she was taught by the famous Orussian witch [[Valeriya Grizodubova]] and went in aeronautics school. She was quickly noted for her skills and she worked as the teachers' assistant. She would sometimes go there to teach even after graduation. When the [[Neuroi]] attacked, she was assigned to the Northern Fleet Flying Squadron as the commanding officer of the 72nd Mixed Air Force to defend the naval base. As she steadily accumulated military gains she was promoted to Squadron Leader.
+
+When she was taken out from the front lines to receive new striker units, she was promoted as the commander of the reunited 78th Fighter Regiment. She was sent to protect Tsaritsyn, a valuable point on the bank of Volga, and she spent there half a year in intense battles, amidst which she was promoted to Wing Commander. She fought alongside armies of many countries, like [[Karlsland]], and she especially became good friends with the commanding officer of JG 54, Wing Commander [[Huberta von Bonin|Bonin]]. Later, although Safonov tried to decline because of her age, she was made the commander of the [[503rd Joint Fighter Wing|503rd JFW]].
+
+==Personality==
+Bronislava always has a gentle look in her eyes and a smile on her face, she is reserved and quiet. She knows the feelings of her subordinates. She doesn't really talk unless it's necessary, but when she has things to say she has put a lot of thought in them, so that they are often very significant and important.
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau MiG60|Mir Gosudartsvo Design Bureau MiG60 early model (white No. 11)]]
+|image=
+|description=The unit of Flight Lieutenant Safonov, who was a member of the Northern Corps that retreated to Suomus. It is almost entirely painted in a dark olive green color, with the words "For the Emperor" painted on it in white.
+}}
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau i-225|Mir Gosudartsvo Design Bureau MiG i-225 (white No. 77)]]
+|image=MiG i-225 Safonov SW2.jpg
+|description=A pre-production model sent to the 503rd JFW. Equipped with a flame extinguishing exhaust pipe for nighttime use. The pre-production model is based on the second prototype, while the mass-production model is based on the simpler third prototype.
+}}
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]]
+
+==Trivia==
+*Her archetype is [[wikipedia:Boris_Safonov|Boris]] [http://soviet-awards.com/digest/safonov/safonov1.htm Safonov]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+503 Humikane 2.jpg|503rd Joint Fighter Wing
+Luminous Witch.Typhoon Witches EP12 1.jpg
+Luminous Witch.Typhoon Witches EP12 2.jpg
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Wing Commanders]]
+[[Category:503rd Joint Fighter Wing]]
+[[Category:Orussia]]

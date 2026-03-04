@@ -1,0 +1,44 @@
+{{Character_Infobox
+|title1=Jacqueline de Puybusque
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=22 October 
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Free Gallia Air Force GC 1/2
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39]] (White No. 15)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Jacqueline de Puybusque''' is a witch originating from [[Gallia]]. Her mother was Colonel Puybusque who was active in the previous war.
+
+==Background==
+Flying Officer Puybusque is the heir to a duke's family and one of those who was approached to become the commander of the [[506th Joint Fighter Wing]]. She is currently resting in Africa after an injury and is semi-retired.
+
+In addition to being almost incapable of flying due to her injury, the rank of Flying Officer is merely an honorary promotion due to the injury. She is originally a Sergeant Major and has not received formal officer training, so she refuses to be a practical commander.
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39 (White No. 15)]]
+|image=VG39 Puybusque SW OVA3.jpg
+|description= Although she is currently recovering and is semi-retired, a unit painted with the same colors as when she was on active duty was sent to her.
+}}
+
+==Trivia==
+*She is based on [http://www.cieldegloire.fr/004_de_puybusque_j.php Jacques de Puybusque].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

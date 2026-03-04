@@ -1,0 +1,61 @@
+{{Character_Infobox
+|title1=Heinrike Bär
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ハインリーケ・ベーア
+|romaji_name=
+|age= ?
+|birth_date=25 May
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Kalrsland Air Force 1st Fighter Wing 2nd Flying corps ([[Wikipedia:Jagdgeschwader_1_(World_War_II)|II./JG1]]) (Commander)<br>Kalrsland Air Force 2nd Supplementary Fighter Wing 3rd Flying Corps ([[Wikipedia:Ergänzungs-Jagdgeschwader|III./EJG2]])<br>Kalrsland Air Force 44th Fighter Group ([[Wikipedia:Jagdverband_44|JV44]])
+|team = 
+|rank=Flight Lieutenant<br>Wing Commander
+|striker unit(s)=[[Wikipedia:Focke-Wulf_Fw_190#Fw_190_A|FlakWolf Fw190A-7]] (No. W.Nr431007)<br>
+[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262A-1a]] (No. 110559, red 13)<br>[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262C-2a]] ( No. 130186)<br>[[Wikipedia:Heinkel_He_162|Heinzel He162A-2a]] (unknown machine number)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Heinrike Bär''' is a Witch from [[Karlsland]], and attached with the [[Karlsland|Karlsland Air Force]].
+
+==Background==
+She has fought on all [[Karlsland]] war fronts - including the Eastern, Western and Mediterranean - and already achieved countless military results.
+
+Throughout her career, Heinrike took command of two different [[Wikipedia:Wing_(military_aviation_unit)|fighter-wings]], the [[Wikipedia:Jagdgeschwader_1_(World_War_II)#Group_II..2FJG_1|Jagdgeschwader 1 Gruppe II (II./JG 1)]] and the [[Wikipedia:Ergänzungs-Jagdgeschwader#Erg.C3.A4nzungs-Jagdgeschwader_2|Ergänzungs-Jagdgeschwader 2 Gruppe III (III./EJG 2)]]. Of these, the latter is a unit that performs [[Wikipedia:Fleet_Replacement_Squadron|replacement training]] on new models of striker units.
+
+==Striker units==
+{{Striker unit template
+|name=[[Flakwolf Fw190|FlakWolf Fw190A-7 (No. W.Nr431007)]]
+|image=Fw190A-7 Bär SW1.jpg
+|description=The unit Flight Lieutenant Bär used when she was awarded for shooting down 200 Neuroi, after constantly achieving military gains in the western, eastern, and Mediterranean fronts of Karlsland.
+}}
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262A-1a (No. 110559)]]
+|image=Me262A-1a Bär SW OVA1.jpg
+|description=Wing Commander Bär was recognized for her skills and conducted tests on many jet units, but she also had dedicated units she normally used. This unit is one of them. Since her lucky number red 13 is always painted on her personal machines, it's easy to distinguish between her personal units and the test units.
+}}
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262C-2a (No. 130186)]]
+|image=Me262C-2a Bär SW2.jpg
+|description=The 2nd Conversion Training Fighter Wing conducts training to switch to new striker units. Its 3rd Squadron carries out training on the Me262. Various variants are being tested at the same time, and the C-2a type equipped with a rocket engine is one of them. It has recorded extremely high climbing performance.
+}}
+{{Striker unit template
+|name=[[Heinzel He162|Heinzel He162A-2 (unknown machine number)]]
+|image=He162A-2 Bär SW OVA1.jpg
+|description=After undergoing jet striker model conversion training, Wing Commander Bär was transferred to the 44th Fighter Group where she tested and put into practical use various new units. This unit has the same paint job as her personal Me262.
+}}
+
+==Trivia==
+She is based on [[Wikipedia:Heinrich_Bär|Heinrich Bär]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 5.<br>Strike Witches II A complete record of 501st Joint Fighter Wing 6.<br>Strike Witches A complete record of 1st Independent Special Operations Wing.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Wing Commanders]]
+[[Category:Characters with no art]]
+[[Category:Karlsland]]

@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Clarissa Anderson
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=13 January
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 367th Fighter Group
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (44-14450 "Old Crow")
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Clarissa Anderson''' is a witch originating from [[Liberion]].
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D]]
+|image=P51-D Anderson SW1.jpg
+|description=Her P-51 is nicknamed "Old Crow". Even if the other fuselages were repainted silver, Anderson preferred to keep the drab olive color.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Bud_Anderson|Bud Anderson]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Liberion]]
+[[Category:Characters with no art]]

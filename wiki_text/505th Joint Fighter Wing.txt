@@ -1,0 +1,43 @@
+{{stub}}
+{{Unit Infobox
+|title1=505<sup>th</sup> Joint Fighter Wing
+|image1=image:505.png
+|caption1=505<sup>th</sup> Insignia
+|name=連合軍第505統合戦闘航空団
+|romaji_name=Rengō-gun dai 505 Tōgō Sentō Kōkū-dan
+|nickname(s)=Mirage Witches
+|affiliation(s)=[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] [[Ostmark]] <br>[[File:Flag of Orussia.svg|border|23px|link=Orussia]] [[Orussia]] <br>[[File:Flag of Dacia.svg|border|23px|link=Dacia]] [[Dacia]] <br>[[File:Flag of None.svg|border|23px|link=Moesia]] [[Moesia]] <br>[[File:Flag of None.svg|border|23px|link=Greece]] [[Greece]] <br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]
+|branch=
+|HQ=Pacific Ocean General Headquarters
+|commanding_officer=Squadron Leader [[Grete Gollob|Grete M. Gollob]]
+|area_of_operations=Eastern Orussia (Originally), and Pacific Rim
+|base=
+}}
+The '''505<sup>th</sup> Joint Fighter Wing "Mirage Witches"''' (第505統合戦闘航空団「ミラージュウィッチーズ」) are based at [[Wikipedia:Carpathian Mountains|Carpathian Mountains]] in the southern part of [[Ostmark]]. Their main objective is a border surveillance mission around the Carpathian Mountains. They have been retreating from time to time again. After the fall of Ostmark the 505<sup>th</sup> Joint Fighter Wing's headquarters often changed ([[Wikipedia:Volgograd|Tsaritsyn]], [[Wikipedia:Rostov-on-Don|Rostov]], [[Wikipedia:Kharkiv|Kharkiv]] and finally south across the [[Wikipedia:Caspian Sea|Caspian Sea]] to the [[Wikipedia:Absheron peninsula|Absheron peninsula]]). They then later received support from [[Fuso]] and were able to regroup themselves to face against the [[Neuroi]]. The reason they were being called the "Mirage Witches" is because of how good they were in retreating battles. It is also said that [[Kuroe Ayaka]] had temporarily being stationed in this team for quite some time before being transferred to another unit.
+
+==Members==
+Commanding Officer
+* [[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] Squadron Leader [[Grete Gollob|Grete M. Gollob]]
+Commanding Officer in battle
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Flight Lieutenant [[Alya Alelyuhin|Alya V. Alelyuhin]]
+Members
+* [[File:Flag of Dacia.svg|border|23px|link=Dacia]] Flight Lieutenant (Reserve) [[Constantia Cantacuzino]]
+* [[File:Flag of None.svg|border|23px|link=Moesia]] Flying Officer [[Stoyana Stoyanov]]
+* [[File:Flag of None.svg|border|23px|link=Greece]] Warrant Officer [[Vasilissa Vassiliades|Vasilissa M. Vassiliades]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Warrant Officer [[Inufusa Yuno]]
+* [[File:Flag of None.svg|border|23px|link=]] [[Emma Luening]]
+Member for an unknown period
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flight Lieutenant [[Kuroe Ayaka]]
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+505thjwfheadquarters1.png|The current location of 505<sup>th</sup> JFW's HQ
+505th Contrail of Witches.jpg|505th in Contrail of Witches
+Emma_CoW_03-32.png
+</gallery>
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:Article stubs]]
+[[Category:505th Joint Fighter Wing]]
+[[Category:Joint Fighter Wings]]

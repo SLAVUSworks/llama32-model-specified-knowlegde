@@ -1,0 +1,35 @@
+{{stub}}
+{{Character_Infobox
+|title1=Adolpha Malan
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=アドルファ・マラン
+|romaji_name=
+|age=?
+|birth_date=24 March 
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Britannia Air Force
+|team = 
+|rank=?
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Adolpha Malan''' (アドルファ・マラン) is a witch originating from [[Britannia]].
+
+==Background==
+She is famous for creating the "[[Wikipedia:Ten_Rules_for_Air_Fighting|Malan's 10 rules of Air Fighting]]".
+
+==Trivia==
+Her ace archetype is [[wikipedia:Adolph_Malan|Adolph Malan]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Characters with no art]]
+[[Category:Britannia]]

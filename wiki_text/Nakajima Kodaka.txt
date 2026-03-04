@@ -1,0 +1,31 @@
+{{Character_Infobox
+|title1=Nakajima Kodaka
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=中島小鷹
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army
+|team = 
+|rank=?
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Hayabusa]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Nakajima Kodaka''' (中島小鷹) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. She is the older sister of [[Nakajima Nishiki]] and [[Nakajima Hayate]].
+
+==Trivia==
+*Kodaka does not have an ace archetype. “Kodaka” is a collective term for small falcons, so there is a high possibility that she is based on the [[Wikipedia:Nakajima_Ki-43|Nakajima Ki-43 Hayabusa]] (peregrine falcon) fighter.
+
+==References==
+STRIKES (booklet included with Mechanized Maiden Secret Pack).
+[[Category:Strike Witch]]
+[[Category:Fuso]]
+[[Category:Characters with no art]]

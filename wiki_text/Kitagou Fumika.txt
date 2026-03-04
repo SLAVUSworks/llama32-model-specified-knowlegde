@@ -1,0 +1,71 @@
+{{Character_Infobox
+|title1=Kitagou Fumika
+|image1=Kitagou_Fumika.png
+|caption1=Kitagou Fumika '37
+|kanji_name=
+|romaji_name=
+|age=19 (1937)<br>26 (1944)
+|birth_date=1 July 1918
+|height=168cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy Maizuru Flying Corps<br>Fuso Imperial Navy 12th Flying Corps Kitagou Unit
+|team =
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Nakajima_A4N|Nagashima Flight Legs Type 95]]<br>[[Wikipedia:Mitsubishi_A5M|Miyabishi Heavy Industries Type 96]]
+|weapon(s)=[[Wikipedia:Lewis_Gun|Lewis Gun]]<br>[[Wikipedia:Japanese_sword|Fuso Swords]] (Kotetsu and an unidentified one)
+|familiar=
+|seiyuu_(japanese)=[[Wikipedia:Saki Fujita|Fujita Saki]]
+|seiyuu_(english)=[https://myanimelist.net/people/46746/Nicole_Endicott Nicole Endicott]
+|appearances=
+}}
+'''Kitagou Fumika''' (北郷章香<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch from [[Fuso]] attached with the [[Fuso Imperial Navy]]. She is commonly known as the "War Goddess" (軍神, ''gunshin'').
+
+==Background==
+As an instructor, Fumika has trained numerous Witches for the Fuso Navy, including [[Sakamoto Mio]], [[Takei Junko]] and [[Wakamoto Tetsuko]]. She would later lead those three into battle during the [[Fuso Sea Incident]].
+
+Sakamoto's master of swordsmanship, she was the one who guided the young Mio, who was faltering about becoming a Witch cadet, into a full-fledged Witch. After Mio became a civilian employee, Fumika continued to guide her as a superior officer. Consequentially, her existence became a huge influence on the girl, who eventually turned out just like her master - starting from hair style to personality and even lack of cooking skills.
+
+During the final battle of the Fuso Sea Incident she was injured, alongside [[Etou Toshiko]], when they fought a navy battleship that wasn't following the plan, putting other witches in danger. She drifted in the sea with Toshiko for 3 days before being rescued. Despite being in a wheelchair for a while, she was able to fully recover.
+
+Possessing a keen mind, Fumika also worked as a [[Wikipedia:Military_attaché|naval attaché]] in Europe, devising new flight tactics and air combat techniques. She was also involved in the negotiations of difficult treaties, which earned her a reputation for her diplomatic skills.
+
+After she retired in 1944, she became the headmaster of the [[Wikipedia:Sasebo_Naval_Arsenal|Sasebo]] Aviation Preparatory School, where [[Karibuchi Hikari]] and [[Misumi Miya]] were trained<ref>[https://twitter.com/humikane/status/785528555706851329 Humikane tweet on Fumika</ref>.
+
+==Abilities==
+When it comes to swords, her skills are on the level of possessing full mastery of Kodoukan Kendo (講導館剣道), which has a [[Wikipedia:Dojo|dojo]] set up at Maizuru where she serves as an [[Wikipedia:Shihan|assistant instructor]]. Fumika employs a dual-wielding style and her strength earned her the nickname of "God of War" (軍神, ''gunshin'').
+
+==Equipment==
+Since she was already a veteran since before the Fuso Sea Incident, Fumika initially employed a [[Miyafuji Ichiro|pre-Miyafuji]] [[Striker Unit]] that requires a supporting backpack.
+
+==Appearances==
+'''Anime'''
+*[[Brave Witches]], [[Brave Witches Episode 1, "The Witch of Sasebo?"|episode 1]]
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident]]
+*[[Strike Witches Zero:1939 Koukaku no majo]]
+*[[Brave Witches: 502nd Joint Fighter Wing]]
+
+==Trivia==
+She is based on the Second Sino-Japanese War's flying ace [[Wikipedia:Mochifumi_Nangō|Mochifumi Nangou]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+1356970501785.jpg
+1356970564121.jpg
+Mossan Fumika.jpg
+Tetsuko_&_Fumika_1937.jpg
+Toshiko & Fumika 1937.jpg
+Fumika 5.jpg
+Fumika 4.jpg
+Principal Kitagou Fumika.png
+Fumika and Takami.png
+</gallery>
+
+==References==
+<references/>
+[[Category:Article stubs]]
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]
+[[Category:Fuso]]

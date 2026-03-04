@@ -1,0 +1,1992 @@
+[[File:Witchery_Chart.jpg|thumb|250px]]
+
+This page contains a list of the witches featured in the series and in the universe.
+([[:Category:Other Characters|Click here]] to see other characters in this series that aren't Witches.)
+
+==List Of Witches==
+(Click a column header for sorting. Use Shift+Click to sort by multiple columns.)
+
+<!-- Add witches in alphabetical name order -->
+{|class="wikitable sortable"
+! Witch
+! Nation
+! Branch
+! Unit
+! Team
+! Birthday
+|-
+|data-sort-value="Abigail"|[[File:Abigail_Icon.jpg|border|center|75px|link=Abigail]]
+<center>[[Abigail]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|Patton Girls
+|
+|-
+|data-sort-value="Adelheid"|[[File:Adelheid_Icon.jpg|border|center|75px|link=Adelheid]]
+<center>[[Adelheid]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Adolfine Galland"|[[File:Adolfine_Icon.jpg|border|center|75px|link=Adolfine Galland]]
+<center>[[Adolfine Galland]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JV44
+|
+|March 19
+|-
+|data-sort-value="Adolpha Malan"|[[File:Unknown_Icon.jpg|border|center|75px|link=Adolpha Malan]]
+<center>[[Adolpha Malan]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|March 24
+|-
+|data-sort-value="Adriana Visconti"|[[File:Adriana_Icon.jpg|border|center|75px|link=Adriana Visconti]]
+<center>[[Adriana Visconti]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|506th JFW (A-Unit)
+|November 11
+|-
+|data-sort-value="Aira Paivikki Linnamaa"|[[File:Aira_Icon.jpg|border|center|75px|link=Aira Paivikki Linnamaa]]
+<center>[[Aira Paivikki Linnamaa]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|
+|72nd JFS
+|June 29
+|-
+|data-sort-value="Akiyama"|[[File:Unknown_Icon.jpg|border|center|75px|link=Akiyama]]
+<center>[[Akiyama]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|
+|
+|
+|
+|-
+|data-sort-value="Albertine Littolff"|[[File:Unknown_Icon.jpg|border|center|75px|link=Albertine Littolff]]
+<center>[[Albertine Littolff]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|October 31
+|-
+|data-sort-value="Aleksandra I. Pokryshkin"|[[File:Sasha_Icon.jpg|border|center|75px|link=Aleksandra I. Pokryshkin]]
+<center>[[Aleksandra I. Pokryshkin]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Army
+|
+|502nd JFW
+|March 6
+|-
+|data-sort-value="Alexandra Şerbanescu"|[[File:Alexandra_Icon.jpg|border|center|75px|link=Alexandra Şerbănescu]]
+<center>[[Alexandra Şerbănescu]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|
+|503rd JFW
+|May 17
+|-
+|data-sort-value="Alya V. Alelyuhin"|[[File:Unknown_Icon.jpg|border|center|75px|link=Alya Alelyuhin]]
+<center>[[Alya Alelyuhin|Alya V. Alelyuhin]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|505th JFW
+|March 30
+|-
+|data-sort-value="Amelie Planchard"|[[File:Amelie_Icon.jpg|border|center|75px|link=Amelie Planchard]]
+<center>[[Amelie Planchard]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|Isle of Wight Det.
+|November 22
+|-
+|data-sort-value="Anabuki Tomoko"|[[File:Anabuki_Icon.jpg|border|center|75px|link=Anabuki Tomoko]]
+<center>[[Anabuki Tomoko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|507th JFW (Misfit Squadron)
+|December 5
+|-
+|data-sort-value="Angela Salas Larrazabal"|[[File:Angela_Icon.jpg|border|center|75px|link=Angela Salas Larrazabal]]
+<center>[[Angela Salas Larrazabal]]</center>
+|[[File:Flag of Hispania.svg|border|23px]] [[Hispania]]
+|Air Force
+|
+|504th JFW
+|October 1
+|-
+|data-sort-value="Anna Ferrara"|[[File:Anna_Icon.jpg|border|center|75px|link=Anna Ferrara]]
+<center>[[Anna Ferrara]]</center>
+|[[File:Flag of Venezia.svg|border|23px]] [[Venezia]]
+|Air Force
+|
+|
+|February 12
+|-
+|data-sort-value="Antonina Yakimenko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Antonina Yakimenko]]
+<center>[[Antonina Yakimenko|Antonina D. Yakimenko]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|
+|December 5
+|-
+|data-sort-value="Aryona Shoropov"|[[File:Unknown_Icon.jpg|border|center|75px|link=Aryona Shoropov]]
+<center>[[Aryona Shoropov|Aryona V. Shoropov]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Aurora E. Juutilainen"|[[File:Aurora_Icon.jpg|border|center|75px|link=Aurora E. Juutilainen]]
+<center>[[Aurora E. Juutilainen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Army
+|
+|
+|October 18
+|-
+|data-sort-value="Aurora Sanson"|[[File:Unknown_Icon.jpg|border|center|75px|link=Aurora Sanson]]
+<center>[[Aurora Sanson]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Berta Welch"|[[File:Unknown_Icon.jpg|border|center|75px|link=Berta Welch]]
+<center>[[Berta Welch]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="W. Blume"|[[File:Unknown_Icon.jpg|border|center|75px|link=Blume]]
+<center>[[Blume|W. Blume]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Bronislava F. Safonov"|[[File:Bronislava_Icon.jpg|border|center|75px|link=Bronislava Safonov]]
+<center>[[Bronislava Safonov|Bronislava F. Safonov]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Navy
+|
+|503rd JFW
+|August 26
+|-
+|data-sort-value="Carla Baur"|[[File:Unknown_Icon.jpg|border|center|75px|link=Carla Baur]]
+<center>[[Carla Baur]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|November 13
+|-
+|data-sort-value="Carla J. Luksic"|[[File:Carla_Icon.jpg|border|center|75px|link=Carla Luksic]]
+<center>[[Carla Luksic|Carla J. Luksic]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|506th JFW (B-Unit)
+|June 20
+|-
+|data-sort-value="Carla G. E. von Rosen"|[[File:Rosen_Icon.jpg|border|center|75px|link=Carla von Rosen]]
+<center>[[Carla von Rosen|Carla G. E. von Rosen]]</center>
+|data-sort-value="Flag of Baltland"|[[File:Flag of None.svg|border|23px]] [[Baltland]]
+|Independent
+|
+|506th JFW (Unofficially)
+|August 19
+|-
+|data-sort-value="Carla Ruspoli"|[[File:Ruspoli_Icon.jpg|border|center|75px|link=Carla Ruspoli]]
+<center>[[Carla Ruspoli]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|August 25
+|-
+|data-sort-value="Cecilia E. Harris"|[[File:Cecilia_Icon.jpg|border|center|75px|link=Cecilia Harris]]
+<center>[[Cecilia Harris|Cecilia E. Harris]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Navy
+|
+|508th JFW
+|December 2
+|-
+|data-sort-value="Cecilia Glinda Miles"|[[File:Miles_Icon.jpg|border|center|75px|link=Cecilia Miles]]
+<center>[[Cecilia Miles|Cecilia Glinda Miles]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Charlotte Lueder"|[[File:Lueder_Icon.jpg|border|center|75px|link=Charlotte Lueder]]
+<center>[[Charlotte Lueder]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Charlotte E. Yeager"|[[File:Shirley_Icon.jpg|border|center|75px|link=Charlotte E. Yeager]]
+<center>[[Charlotte E. Yeager]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|501st JFW
+|February 13
+|-
+|data-sort-value="Chkalov"|[[File:Unknown_Icon.jpg|border|center|75px|link=Chkalov]]
+<center>[[Chkalov]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Civilian
+|
+|
+|February 2
+|-
+|data-sort-value="Chris Keera"|[[File:Keera_Icon.jpg|border|center|75px|link=Chris Keera]]
+<center>[[Chris Keera]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Intelligence
+|
+|
+|
+|-
+|data-sort-value="Clarissa Anderson"|[[File:Unknown_Icon.jpg|border|center|75px|link=Clarissa Anderson]]
+<center>[[Clarissa Anderson]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|January 13
+|-
+|data-sort-value="Constantia Cantacuzin"|[[File:Constantia_Icon.jpg|border|center|75px|link=Constantia Cantacuzino]]
+<center>[[Constantia Cantacuzino]]</center>
+|[[File:Flag of Dacia.svg|border|23px]] [[Dacia]]
+|Air Force
+|
+|505th JFW
+|November 11
+|-
+|data-sort-value="Cunningham"|[[File:Unknown_Icon.jpg|border|center|75px|link=Cunningham]]
+<center>[[Cunningham]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|July 27
+|-
+|data-sort-value="De la Penne"|[[File:Unknown_Icon.jpg|border|center|75px|link=De la Penne]]
+<center>[[De la Penne]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Navy
+|
+|
+|February 11
+|-
+|data-sort-value="Delia M. Jeram"|[[File:Unknown_Icon.jpg|border|center|75px|link=Delia Jeram]]
+<center>[[Delia Jeram|Delia M. Jeram]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|508th JFW
+|
+|-
+|data-sort-value="Dolores Bader"|[[File:Unknown_Icon.jpg|border|center|75px|link=Dolores Bader]]
+<center>[[Dolores Bader]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|11th JFS (HMW Squadron)
+|February 21
+|-
+|data-sort-value="Dominica S. Gentile"|[[File:Don_Icon.jpg|border|center|75px|link=Dominica S. Gentile]]
+<center>[[Dominica S. Gentile]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|504th JFW
+|December 6
+|-
+|data-sort-value="Dona Strait"|[[File:Unknown_Icon.jpg|border|center|75px|link=Dona Strait]]
+<center>[[Dona Strait]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|April 28
+|-
+|data-sort-value="Dorothy Baker"|[[File:Unknown_Icon.jpg|border|center|75px|link=Dorothy Baker]]
+<center>[[Dorothy Baker]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Marines
+|
+|508th JFW
+|August 27
+|-
+|data-sort-value="Edith M. la Meslée"|[[File:Unknown_Icon.jpg|border|center|75px|link=Edith M. la Meslée]]
+<center>[[Edith M. la Meslée]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|February 6
+|-
+|data-sort-value="Edytha Neumann"|[[File:Neumann_Icon.jpg|border|center|75px|link=Edytha Neumann]]
+<center>[[Edytha Neumann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG27
+|
+|June 5
+|-
+|data-sort-value="Edytha Prinzessin zur Lippe-Weissenfeld"|[[File:Unknown_Icon.jpg|border|center|75px|link=Edytha Prinzessin zur Lippe-Weissenfeld]]
+<center>[[Edytha Prinzessin zur Lippe-Weissenfeld]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|
+|July 14
+|-
+|data-sort-value="Edytha Rossmann"|[[File:Edytha_Icon.jpg|border|center|75px|link=Edytha Rossmann]]
+<center>[[Edytha Rossmann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|502nd JFW
+|January 11
+|-
+|data-sort-value="Eila Ilmatar Juutilainen"|[[File:Eila_Icon.jpg|border|center|75px|link=Eila Ilmatar Juutilainen]]
+<center>[[Eila Ilmatar Juutilainen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|501st JFW
+|February 21
+|-
+|data-sort-value="Eini A. Luukkanen"|[[File:Eini_Icon.jpg|border|center|75px|link=Eini Luukkanen]]
+<center>[[Eini Luukkanen|Eini A. Luukkanen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|
+|June 4
+|-
+|data-sort-value="Eleonore Giovanna Gassion"|[[File:Ellie_Icon.jpg|border|center|75px|link=Eleonore Giovanna Gassion]]
+<center>[[Eleonore Giovanna Gassion]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Medical Corps
+|
+|72nd JFS
+|December 19
+|-
+|data-sort-value="Elfriede Schreiber"|[[File:Elfriede_Icon.jpg|border|center|75px|link=Elfriede Schreiber]]
+<center>[[Elfriede Schreiber]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|Ekdo131
+|
+|November 11
+|-
+|data-sort-value="Elizabeth F. Beurling"|[[File:Elizabeth_Icon.jpg|border|center|75px|link=Elizabeth F. Beurling]]
+<center>[[Elizabeth F. Beurling]]</center>
+|data-sort-value="Flag of Faraway Land"|[[File:Flag of None.svg|border|23px]] [[Faraway Land]]
+|Air Force
+|
+|507th JFW (Misfit Squadron)
+|December 6
+|-
+|data-sort-value="Elma Leivonen"|[[File:Elma_Icon.jpg|border|center|75px|link=Elma Leivonen]]
+<center>[[Elma Leivonen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|
+|507th JFW (Misfit Squadron)
+|June 4
+|-
+|data-sort-value="Elna Kinnunen"|[[File:Unknown_Icon.jpg|border|center|75px|link=Elna Kinnunen]]
+<center>[[Elna Kinnunen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|
+|January 11
+|-
+|data-sort-value="Else Riihikallio"|[[File:Unknown_Icon.jpg|border|center|75px|link=Else Riihikallio]]
+<center>[[Else Riihikallio]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|
+|March 20
+|-
+|data-sort-value="Emilia Demuth"|[[File:Unknown_Icon.jpg|border|center|75px|link=Emilia Demuth]]
+<center>[[Emilia Demuth]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG1
+|
+|
+|-
+|data-sort-value="Emma Luening"|[[File:Emma_Icon.jpg|border|center|75px|link=Emma]]
+<center>[[Emma Luening]]</center>
+|data-sort-value="Flag of Unknown"|[[File:Flag of None.svg|border|23px]] Unknown
+|Air Force
+|
+|505th JFW
+|
+|-
+|data-sort-value="Enrica Tarantola"|[[File:Enrica_Icon.jpg|border|center|75px|link=Enrica Tarantola]]
+<center>[[Enrica Tarantola]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|January 19
+|-
+|data-sort-value="Erica Hartmann"|[[File:Erica_Icon.jpg|border|center|75px|link=Erica Hartmann]]
+<center>[[Erica Hartmann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|501st JFW
+|April 19
+|-
+|data-sort-value="Erica Rudorffer"|[[File:Unknown_Icon.jpg|border|center|75px|link=Erica Rudorffer]]
+<center>[[Erica Rudorffer]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG54
+|
+|
+|-
+|data-sort-value="Erika Lyly"|[[File:Unknown_Icon.jpg|border|center|75px|link=Erika Lyly]]
+<center>[[Erika Lyly]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|
+|
+|August 5
+|-
+|data-sort-value="Erna Groth"|[[File:Unknown_Icon.jpg|border|center|75px|link=Erna Groth]]
+<center>[[Erna Groth]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|ZG76
+|
+|
+|-
+|data-sort-value="Etou Toshiko"|[[File:Etou_Icon.jpg|border|center|75px|link=Etou Toshiko]]
+<center>[[Etou Toshiko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|December 5
+|-
+|data-sort-value="Eugenia Horbaczewski"|[[File:Horbie_Icon.jpg|border|center|75px|link=Eugenia Horbaczewski]]
+<center>[[Eugenia Horbaczewski]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|Britannian 43rd FS
+|
+|September 28
+|-
+|data-sort-value="Federica N. Doglio"|[[File:Doglio_Icon.jpg|border|center|75px|link=Federica N. Doglio]]
+<center>[[Federica N. Doglio]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|504th JFW
+|April 24
+|-
+|data-sort-value="Fernandia Malvezzi"|[[File:Fer_Icon.jpg|border|center|75px|link=Fernandia Malvezzi]]
+<center>[[Fernandia Malvezzi]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|504th JFW
+|October 22
+|-
+|data-sort-value="Frida Wendel"|[[File:Unknown_Icon.jpg|border|center|75px|link=Frida Wendel]]
+<center>[[Frida Wendel]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="G. Fiesen"|[[File:Unknown_Icon.jpg|border|center|75px|link=Fiesen]]
+<center>[[Fiesen|G. Fiesen]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Francesca Lucchini"|[[File:Lucchini_Icon.jpg|border|center|75px|link=Francesca Lucchini]]
+<center>[[Francesca Lucchini]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|501st JFW
+|December 24
+|-
+|data-sort-value="Francie Gerard"|[[File:Francie_Icon.jpg|border|center|75px|link=Francie Gerard]]
+<center>[[Francie Gerard]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|Isle of Wight Det.
+|July 11
+|-
+|data-sort-value="Françoise de Geoffre de Chabrignac"|[[File:Unknown_Icon.jpg|border|center|75px|link=Françoise de Geoffre de Chabrignac]]
+<center>[[Françoise de Geoffre de Chabrignac]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|August 8
+|-
+|data-sort-value="Franziska Götz"|[[File:Unknown_Icon.jpg|border|center|75px|link=Franziska Götz]]
+<center>[[Franziska Götz]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG26
+|
+|
+|-
+|data-sort-value="Friederica Losigkeit"|[[File:Unknown_Icon.jpg|border|center|75px|link=Friederica Losigkeit]]
+<center>[[Friederica Losigkeit]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG1
+|
+|November 13
+|-
+|data-sort-value="Friederike Porsche"|[[File:Porsche_Icon.jpg|border|center|75px|link=Friederike Porsche]]
+<center>[[Friederike Porsche]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Army
+|
+|
+|September 3
+|-
+|data-sort-value="Fukuhara Katsumi"|[[File:Fukuhara_Icon.jpg|border|center|75px|link=Fukuhara Katsumi]]
+<center>[[Fukuhara Katsumi]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Gabi Gauthier"|[[File:Unknown_Icon.jpg|border|center|75px|link=Gabi Gauthier]]
+<center>[[Gabi Gauthier]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|September 12
+|-
+|data-sort-value="Galina D. Kostylev"|[[File:Galina_Icon.jpg|border|center|75px|link=Galina Kostylev]]
+<center>[[Galina Kostylev|Galina D. Kostylev]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|503rd JFW
+|April 20
+|-
+|data-sort-value="Gertrud Barkhorn"|[[File:Trude_Icon.jpg|border|center|75px|link=Gertrud Barkhorn]]
+<center>[[Gertrud Barkhorn]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|501st JFW
+|March 20
+|-
+|data-sort-value="Georgette Lemare"|[[File:Georgette_Icon.jpg|border|center|75px|link=Georgette Lemare]]
+<center>[[Georgette Lemare]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|502nd JFW
+|November 16
+|-
+|data-sort-value="Geena Preddy"|[[File:Geena_Icon.jpg|border|center|75px|link=Geena Preddy]]
+<center>[[Geena Preddy]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|506th JFW (B-Unit)
+|February 5
+|-
+|data-sort-value="Georgine Richter"|[[File:Unknown_Icon.jpg|border|center|75px|link=Georgine Richter]]
+<center>[[Georgine Richter]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|KG51
+|
+|
+|-
+|data-sort-value="Gina Baevskaya"|[[File:Unknown_Icon.jpg|border|center|75px|link=Gina Baevskaya]]
+<center>[[Gina Baevskaya]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|
+|July 11
+|-
+|data-sort-value="Giovanna Bonet"|[[File:Unknown_Icon.jpg|border|center|75px|link=Giovanna Bonet]]
+<center>[[Giovanna Bonet]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|July 24
+|-
+|data-sort-value="Giuseppina Cenni"|[[File:Cenni_Icon.jpg|border|center|75px|link=Giuseppina Cenni]]
+<center>[[Giuseppina Cenni]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|507th JFW (Misfit Squadron)
+|February 27
+|-
+|data-sort-value="Grace Maitland Steward"|[[File:Grace_Icon.jpg|border|center|75px|link=Grace Maitland Steward]]
+<center>[[Grace Maitland Steward]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|72nd JFS
+|May 20
+|-
+|data-sort-value="Grete M. Gollob"|[[File:Grete_Icon.jpg|border|center|75px|link=Grete Gollob]]
+<center>[[Grete Gollob|Grete M. Gollob]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|
+|505th JFW
+|June 16
+|-
+|data-sort-value="Grizel J. Murphy"|[[File:Unknown_Icon.jpg|border|center|75px|link=Grizel Murphy]]
+<center>[[Grizel Murphy|Grizel J. Murphy]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Gundula Rall"|[[File:Gundula_Icon.jpg|border|center|75px|link=Gundula Rall]]
+<center>[[Gundula Rall]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|502nd JFW
+|March 10
+|-
+|data-sort-value="Gunila Landt"|[[File:Unknown_Icon.jpg|border|center|75px|link=Gunila Landt]]
+<center>[[Gunila Landt]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG3
+|
+|
+|-
+|data-sort-value="Gunila Specht"|[[File:Unknown_Icon.jpg|border|center|75px|link=Gunila Specht]]
+<center>[[Gunila Specht]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|ZG26
+|
+|
+|-
+|data-sort-value="Gunter sisters"|[[File:Unknown_Icon.jpg|border|center|75px|link=Gunter sisters]]
+<center>[[Gunter sisters]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Hanna Dortenmann"|[[File:Unknown_Icon.jpg|border|center|75px|link=Hanna Dortenmann]]
+<center>[[Hanna Dortenmann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG26
+|
+|December 11
+|-
+|data-sort-value="Hanna-Justina Marseille"|[[File:Hanna_Icon.jpg|border|center|75px|link=Hanna-Justina Marseille]]
+<center>[[Hanna-Justina Marseille]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG27
+|31st JFS
+|December 13
+|-
+|data-sort-value="Hanna Philine"|[[File:Philine_Icon.jpg|border|center|75px|link=Hanna Philine]]
+<center>[[Hanna Philine]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG54
+|
+|March 17
+|-
+|data-sort-value="Hanna U. Rudel"|[[File:Rudel_Icon.jpg|border|center|75px|link=Hanna U. Rudel]]
+<center>[[Hanna U. Rudel]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|StG2
+|
+|July 2
+|-
+|data-sort-value="Hanna H. Wind"|[[File:Wind_Icon.jpg|border|center|75px|link=Hanna Wind]]
+<center>[[Hanna Wind|Hanna H. Wind]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|507th JFW
+|July 30
+|-
+|data-sort-value="Hanne Dammers"|[[File:Unknown_Icon.jpg|border|center|75px|link=Hanne Dammers]]
+<center>[[Hanne Dammers]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|
+|August 8
+|-
+|data-sort-value="Harriet Steer"|[[File:Steer_Icon.jpg|border|center|75px|link=Harriet Steer]]
+<center>[[Harriet Steer]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|February 7
+|-
+|data-sort-value="Hattori Shizuka"|[[File:Shizuka_Icon.jpg|border|center|75px|link=Hattori Shizuka]]
+<center>[[Hattori Shizuka]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|501st JFW
+|August 18
+|-
+|data-sort-value="Honda"|[[File:Honda_Icon.jpg|border|center|75px|link=Honda]]
+<center>[[Honda]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Heidemarie W. Schnaufer"|[[File:Heidemarie_Icon.jpg|border|center|75px|link=Heidemarie W. Schnaufer]]
+<center>[[Heidemarie W. Schnaufer]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|NJG1
+|501st JFW (Unofficially)
+|February 16
+|-
+|data-sort-value="Heinrike Bär"|[[File:Unknown_Icon.jpg|border|center|75px|link=Heinrike Bär]]
+<center>[[Heinrike Bär]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JV44
+|
+|May 25
+|-
+|data-sort-value="Heinrike von Bülow-Bothkamp"|[[File:Unknown_Icon.jpg|border|center|75px|link=Heinrike von Bülow-Bothkamp]]
+<center>[[Heinrike von Bülow-Bothkamp]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|
+|November 19
+|-
+|data-sort-value="Heinrike Knoke"|[[File:Unknown_Icon.jpg|border|center|75px|link=Heinrike Knoke]]
+<center>[[Heinrike Knoke]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG1
+|
+|
+|-
+|data-sort-value="Heinrike Prinzessin zu Sayn-Wittgenstein"|[[File:Prinzessin_Icon.jpg|border|center|75px|link=Heinrike Prinzessin zu Sayn-Wittgenstein]]
+<center>[[Heinrike Prinzessin zu Sayn-Wittgenstein]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|NJG2
+|506th JFW (A-Unit)
+|August 14
+|-
+|data-sort-value="Helma Lennartz"|[[File:Helma_Icon.jpg|border|center|75px|link=Helma Lennartz]]
+<center>[[Helma Lennartz]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|Ekdo131
+|
+|October 10
+|-
+|data-sort-value="Helmina Lent"|[[File:Helmina_Icon.jpg|border|center|75px|link=Helmina Lent]]
+<center>[[Helmina Lent]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|NJG3
+|
+|June 13
+|-
+|data-sort-value="Hildegard Altner"|[[File:Unknown_Icon.jpg|border|center|75px|link=Hildegard Altner]]
+<center>[[Hildegard Altner]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|NJG11
+|
+|
+|-
+|data-sort-value="Hrabak"|[[File:Unknown_Icon.jpg|border|center|75px|link=Hrabak]]
+<center>[[Hrabak]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG54
+|
+|
+|-
+|data-sort-value="Huberta von Bonin"|[[File:Huberta_Icon.jpg|border|center|75px|link=Huberta von Bonin]]
+<center>[[Huberta von Bonin]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG54
+|503rd JFW
+|August 3
+|-
+|data-sort-value="Ikuta"|[[File:Unknown_Icon.jpg|border|center|75px|link=Ikuta]]
+<center>[[Ikuta]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Inagaki Mami"|[[File:Mami_Icon.jpg|border|center|75px|link=Inagaki Mami]]
+<center>[[Inagaki Mami]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|31st JFS
+|February 14
+|-
+|data-sort-value="Inufusa Yuno"|[[File:Inufusa_Icon.jpg|border|center|75px|link=Inufusa Yuno]]
+<center>[[Inufusa Yuno]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|505th JFW
+|March 31
+|-
+|data-sort-value="Iris Monfort"|[[File:Iris_Icon.jpg|border|center|75px|link=Iris Monfort]]
+<center>[[Iris Monfort]]</center>
+|data-sort-value="Flag of Andorra"|[[File:Flag of None.svg|border|23px]] [[Andorra]]
+|Army
+|Andorra Det.
+|
+|
+|-
+|data-sort-value="Isabelle du Monceau de Bergendal"|[[File:Isabelle_Icon.jpg|border|center|75px|link=Isabelle du Monceau de Bergendal]]
+<center>[[Isabelle du Monceau de Bergendal]]</center>
+|[[File:Flag of Belgica.svg|border|23px]] [[Belgica]]
+|Air Force
+|
+|506th JFW (A-Unit)
+|December 10
+|-
+|data-sort-value="Ishida Yoko"|[[File:Yoko_Icon.jpg|border|center|75px|link=Ishida Yoko]]
+<center>[[Ishida Yoko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|
+|-
+|data-sort-value="Jacqueline de Puybusque"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jacqueline de Puybusque]]
+<center>[[Jacqueline de Puybusque]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|October 22
+|-
+|data-sort-value="Jamie E. Swett"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jamie Swett]]
+<center>[[Jamie Swett|Jamie E. Swett]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Marines
+|
+|508th JFW
+|June 15
+|-
+|data-sort-value="Jamie Watt"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jamie Watt]]
+<center>[[Jamie Watt]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Jane T. Godfrey"|[[File:Jane_Icon.jpg|border|center|75px|link=Jane T. Godfrey]]
+<center>[[Jane T. Godfrey]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|504th JFW
+|March 28
+|-
+|data-sort-value="Jane S. Thach"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jane Thach]]
+<center>[[Jane Thach|Jane S. Thach]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Navy
+|
+|508th JFW
+|April 19
+|-
+|data-sort-value="Jean Landers"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jean Landers]]
+<center>[[Jean Landers]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|June 23
+|-
+|data-sort-value="Jeanne Accart"|[[File:Unknown_Icon.jpg|border|center|75px|link=Jeanne Accart]]
+<center>[[Jeanne Accart]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|April 7
+|-
+|data-sort-value="Jennifer J. DeBlanc"|[[File:Jenny_Icon.jpg|border|center|75px|link=Jennifer DeBlanc]]
+<center>[[Jennifer DeBlanc|Jennifer J. DeBlanc]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Marines
+|
+|506th JFW (B-Unit)
+|February 15
+|-
+|data-sort-value="Joanna Elizabeth Stafford"|[[File:Jo_Icon.jpg|border|center|75px|link=Joanna Elizabeth Stafford]]
+<center>[[Joanna Elizabeth Stafford]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Navy
+|
+|72nd JFS
+|November 12
+|-
+|data-sort-value="Johanna Wiese"|[[File:Johanna_Icon.jpg|border|center|75px|link=Johanna Wiese]]
+<center>[[Johanna Wiese]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG52
+|
+|May 7
+|-
+|data-sort-value="Kadomaru Misa"|[[File:Misa_Icon.jpg|border|center|75px|link=Kadomaru Misa]]
+<center>[[Kadomaru Misa]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|Isle of Wight Det.
+|October 1
+|-
+|data-sort-value="Kanno Naoe"|[[File:Kanno_Icon.jpg|border|center|75px|link=Kanno Naoe]]
+<center>[[Kanno Naoe]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|502nd JFW
+|September 23
+|-
+|data-sort-value="Karibuchi Hikari"|[[File:Hikari_Icon.jpg|border|center|75px|link=Karibuchi Hikari]]
+<center>[[Karibuchi Hikari]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|502nd JFW
+|May 26
+|-
+|data-sort-value="Karibuchi Takami"|[[File:Takami_Icon.jpg|border|center|75px|link=Karibuchi Takami]]
+<center>[[Karibuchi Takami]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|502nd JFW (Liaison Officer)<br>
+----
+508th JFW
+|October 22
+|-
+|data-sort-value="Karla-Heinrike Langer"|[[File:Unknown_Icon.jpg|border|center|75px|link=Karla-Heinrike Langer]]
+<center>[[Karla-Heinrike Langer]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG3
+|
+|April 19
+|-
+|data-sort-value="Kashida Isami"|[[File:Isami_Icon.jpg|border|center|75px|link=Kashida Isami]]
+<center>[[Kashida Isami]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|November 2
+|-
+|data-sort-value="Kashiguchi Kana"|[[File:Unknown_Icon.jpg|border|center|75px|link=Kashiguchi Kana]]
+<center>[[Kashiguchi Kana]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|
+|-
+|data-sort-value="Katharine O'Hare"|[[File:Kathy_Icon.jpg|border|center|75px|link=Katharine O'Hare]]
+<center>[[Katharine O'Hare]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Navy
+|
+|507th JFW (Misfit Squadron)
+|March 13
+|-
+|data-sort-value="Katou Keiko"|[[File:Keiko_Icon.jpg|border|center|75px|link=Katou Keiko]]
+<center>[[Katou Keiko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|31st JFS
+|October 31
+|-
+|data-sort-value="Katou Takeko"|[[File:Takeko_Icon.jpg|border|center|75px|link=Katou Takeko]]
+<center>[[Katou Takeko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|September 28
+|-
+|data-sort-value="Kawaguchi Fumiyo"|[[File:Fumiyo_Icon.jpg|border|center|75px|link=Kawaguchi Fumiyo]]
+<center>[[Kawaguchi Fumiyo]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|503rd JFW
+|
+|-
+|data-sort-value="Kitagou Fumika"|[[File:Fumika_Icon.jpg|border|center|75px|link=Kitagou Fumika]]
+<center>[[Kitagou Fumika]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|July 1
+|-
+|data-sort-value="Kitano Furuko"|[[File:Furuko_Icon.jpg|border|center|75px|link=Kitano Furuko]]
+<center>[[Kitano Furuko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|31st JFS
+|
+|-
+|data-sort-value="Kobayashi Sadae"|[[File:Unknown_Icon.jpg|border|center|75px|link=Kobayashi Sadae]]
+<center>[[Kobayashi Sadae]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|508th JFW
+|April 18
+|-
+|data-sort-value="Kondou Sachiko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Kondou Sachiko]]
+<center>[[Kondou Sachiko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|September 9
+|-
+|data-sort-value="Kullamas Blengkam"|[[File:Blengkam_Icon.jpg|border|center|75px|link=Kullamas Blengkam]]
+<center>[[Kullamas Blengkam]]</center>
+|data-sort-value="Flag of Siamro"|[[File:Flag of None.svg|border|23px]] [[Siamro]]
+|Air Force
+|
+|507th JFW
+|
+|-
+|data-sort-value="Kuroda Kunika"|[[File:Kunika_Icon.jpg|border|center|75px|link=Kuroda Kunika]]
+<center>[[Kuroda Kunika]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|506th JFW (A-Unit)
+|September 17
+|-
+|data-sort-value="Kuroe Ayaka"|[[File:Ayaka_Icon.jpg|border|center|75px|link=Kuroe Ayaka]]
+<center>[[Kuroe Ayaka]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|505th JFW (Formerly)<br>
+----
+42nd JFS
+|February 17
+|-
+|data-sort-value="Kyoushi"|[[File:Unknown_Icon.jpg|border|center|75px|link=Kyoushi]]
+<center>[[Kyoushi]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|
+|
+|
+|
+|-
+|data-sort-value="Laura Nissinen"|[[File:Laura_Icon.jpg|border|center|75px|link=Laura Nissinen]]
+<center>[[Laura Nissinen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|
+|July 31
+|-
+|data-sort-value="Laura Toth"|[[File:Toth_Icon.jpg|border|center|75px|link=Laura Toth]]
+<center>[[Laura Toth]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Army
+|
+|Isle of Wight Det.<br>501st JFW (Formerly)
+|August 25
+|-
+|data-sort-value="Leigh Andrea Archer"|[[File:Archer_Icon.jpg|border|center|75px|link=Leigh Andrea Archer]]
+<center>[[Leigh Andrea Archer]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Air Force
+|
+|507th JFW
+|
+|-
+|data-sort-value="Leila A. Galichenko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Leila Galichenko]]
+<center>[[Leila Galichenko|Leila A. Galichenko]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|
+|April 2
+|-
+|data-sort-value="Leila L. Shestakov"|[[File:Unknown_Icon.jpg|border|center|75px|link=Leila Shestakov]]
+<center>[[Leila Shestakov|Leila L. Shestakov]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|
+|December 28
+|-
+|data-sort-value="Louis Hoche"|[[File:Unknown_Icon.jpg|border|center|75px|link=Louis Hoche]]
+<center>[[Louis Hoche]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Luciana Mazzei"|[[File:Luciana_Icon.jpg|border|center|75px|link=Luciana Mazzei]]
+<center>[[Luciana Mazzei]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|504th JFW
+|January 10
+|-
+|data-sort-value="Luisa Torchio"|[[File:Unknown_Icon.jpg|border|center|75px|link=Luisa Torchio]]
+<center>[[Luisa Torchio]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Lynette Bishop"|[[File:Lynn_Icon.jpg|border|center|75px|link=Lynette Bishop]]
+<center>[[Lynette Bishop]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|501st JFW
+|June 11
+|-
+|data-sort-value="Lyudmila Andreyevna Ruslanova"|[[File:Milasha_Icon.jpg|border|center|75px|link=Lyudmila Andreyevna Ruslanova]]
+<center>[[Lyudmila Andreyevna Ruslanova]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Army
+|
+|72nd JFS
+|October 27
+|-
+|data-sort-value="Mamoru Itokawa"|[[File:Unknown_Icon.jpg|border|center|75px|link=Mamoru Itokawa]]
+<center>[[Mamoru Itokawa]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|
+|
+|507th JFW (Misfit Squadron)
+|
+|-
+|data-sort-value="Manaia Matawhaura Hato"|[[File:Mana_Icon.jpg|border|center|75px|link=Manaia Matawhaura Hato]]
+<center>[[Manaia Matawhaura Hato]]</center>
+|[[File:Flag of New Zeeland.jpg|border|23px]] [[New Zeiland]]
+|Air Force
+|
+|72nd JFS
+|December 30
+|-
+|data-sort-value="Maria Magdalene Dietrich"|[[File:Maria_Icon.jpg|border|center|75px|link=Maria Magdalene Dietrich]]
+<center>[[Maria Magdalene Dietrich]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|72nd JFS
+|December 27
+|-
+|data-sort-value="Marian E. Carl"|[[File:Marian_Icon.jpg|border|center|75px|link=Marian Carl]]
+<center>[[Marian Carl|Marian E. Carl]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Marines
+|
+|506th JFW (B-Unit)
+|November 1
+|-
+|data-sort-value="Marilyn Savon"|[[File:Mary_Icon.jpg|border|center|75px|link=Marilyn]]
+<center>[[Marilyn|Marilyn Savon]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|Patton Girls
+|
+|-
+|data-sort-value="Marisha Raskova"|[[File:Unknown_Icon.jpg|border|center|75px|link=Marisha Raskova]]
+<center>[[Marisha Raskova]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Army
+|586rd Fighter Regiment
+|
+|March 28
+|-
+|data-sort-value="Martina Crespi"|[[File:Crespi_Icon.jpg|border|center|75px|link=Martina Crespi]]
+<center>[[Martina Crespi]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|504th JFW
+|September 2
+|-
+|data-sort-value="Matilda"|[[File:Matilda_Icon.jpg|border|center|75px|link=Matilda]]
+<center>[[Matilda]]</center>
+|data-sort-value="Flag of South Africa"|[[File:Flag of None.svg|border|23px]] [[South Africa]]
+|Independent
+|
+|31st JFS
+|
+|-
+|data-sort-value="Matsuda Shouko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Matsuda Shouko]]
+<center>[[Matsuda Shouko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|508th JFW
+|July 1
+|-
+|data-sort-value="Maxi Immelmann"|[[File:Unknown_Icon.jpg|border|center|75px|link=Maxi Immelmann]]
+<center>[[Maxi Immelmann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Army
+|
+|
+|September 21
+|-
+|data-sort-value="Mika Ahonen"|[[File:Mika_Icon.jpg|border|center|75px|link=Mika Ahonen]]
+<center>[[Mika Ahonen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Minna-Dietlinde Wilcke"|[[File:Minna_Icon.jpg|border|center|75px|link=Minna-Dietlinde Wilcke]]
+<center>[[Minna-Dietlinde Wilcke]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG53
+|501st JFW
+|March 11
+|-
+|data-sort-value="Minnie Bishop"|[[File:Unknown_Icon.jpg|border|center|75px|link=Minnie Bishop]]
+<center>[[Minnie Bishop]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|February 8
+|-
+|data-sort-value="Misumi Miya"|[[File:Miya_Icon.jpg|border|center|75px|link=Misumi Miya]]
+<center>[[Misumi Miya]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|507th JFW
+|March 1
+|-
+|data-sort-value="Miyafuji Yoshika"|[[File:Yoshika_Icon.jpg|border|center|75px|link=Miyafuji Yoshika]]
+<center>[[Miyafuji Yoshika]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|501st JFW
+|August 18
+|-
+|data-sort-value="Mori Ranmaru"|[[File:Mori_Icon.jpg|border|center|75px|link=Mori Ranmaru]]
+<center>[[Mori Ranmaru]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Morioka Hiroshi"|[[File:Unknown_Icon.jpg|border|center|75px|link=Morioka Hiroshi]]
+<center>[[Morioka Hiroshi]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|March 8
+|-
+|data-sort-value="Nakajima Hayate"|[[File:Hayate_Icon.jpg|border|center|75px|link=Nakajima Hayate]]
+<center>[[Nakajima Hayate]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|504th JFW (Retconned)
+|March 21
+|-
+|data-sort-value="Nakajima Kodaka"|[[File:Unknown_Icon.jpg|border|center|75px|link=Nakajima Kodaka]]
+<center>[[Nakajima Kodaka]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Nakajima Nishiki"|[[File:Nishiki_Icon.jpg|border|center|75px|link=Nakajima Nishiki]]
+<center>[[Nakajima Nishiki]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|504th JFW
+|December 20
+|-
+|data-sort-value="Nakaoka Yuzu"|[[File:Unknown_Icon.jpg|border|center|75px|link=Nakaoka Yuzu]]
+<center>[[Nakaoka Yuzu]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|February 24
+|-
+|data-sort-value="Natalia F. Duke"|[[File:Unknown_Icon.jpg|border|center|75px|link=Natalia Duke]]
+<center>[[Natalia Duke|Natalia F. Duke]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|
+|
+|
+|
+|-
+|data-sort-value="Nikka Edvardine Katajainen"|[[File:Nipa_Icon.jpg|border|center|75px|link=Nikka Edvardine Katajainen]]
+<center>[[Nikka Edvardine Katajainen|Nikka E. Katajainen]]</center>
+|[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|Air Force
+|LLv24
+|502nd JFW
+|May 31
+|-
+|data-sort-value="Nishisugi Tomomi"|[[File:Tomomi_Icon.jpg|border|center|75px|link=Nishisugi Tomomi]]
+<center>[[Nishisugi Tomomi]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Nishizawa"|[[File:Nishizawa_Icon.jpg|border|center|75px|link=Nishizawa]]
+<center>[[Nishizawa]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Nishizawa Yoshiko"|[[File:Yoshiko_Icon.jpg|border|center|75px|link=Nishizawa Yoshiko]]
+<center>[[Nishizawa Yoshiko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|January 27
+|-
+|data-sort-value="Nora Taylor"|[[File:Nora_Icon.jpg|border|center|75px|link=Nora Taylor]]
+<center>[[Nora Taylor]]</center>
+|data-sort-value="Flag of Australis"|[[File:Flag of None.svg|border|23px]] [[Australis]]
+|Navy
+|
+|
+|
+|-
+|data-sort-value="Ohta"|[[File:Ohta_Icon.jpg|border|center|75px|link=Ohta]]
+<center>[[Ohta]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Oobayashi Teruko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Oobayashi Teruko]]
+<center>[[Oobayashi Teruko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Oswalda Boelcke"|[[File:Unknown_Icon.jpg|border|center|75px|link=Oswalda Boelcke]]
+<center>[[Oswalda Boelcke]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Army
+|
+|
+|May 19
+|-
+|data-sort-value="Ottilie Kittel"|[[File:Kittel_Icon.jpg|border|center|75px|link=Ottilie Kittel]]
+<center>[[Ottilie Kittel]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG54
+|503rd JFW
+|February 21
+|-
+|data-sort-value="amela W. McKennon"|[[File:Unknown_Icon.jpg|border|center|75px|link=Pamela McKennon]]
+<center>[[Pamela McKennon|Pamela W. McKennon]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|November 30
+|-
+|data-sort-value="Patricia"|[[File:Patricia_Icon.jpg|border|center|75px|link=Patricia]]
+<center>[[Patricia]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|Patton Girls
+|
+|-
+|data-sort-value="Patricia Schade"|[[File:Schade_Icon.jpg|border|center|75px|link=Patricia Schade]]
+<center>[[Patricia Schade]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|504th JFW
+|July 15
+|-
+|data-sort-value="Pauline Zorner"|[[File:Unknown_Icon.jpg|border|center|75px|link=Pauline Zorner]]
+<center>[[Pauline Zorner]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|NJG5
+|
+|-
+|data-sort-value="Perrine H. Clostermann"|[[File:Perrine_Icon.jpg|border|center|75px|link=Perrine H. Clostermann]]
+<center>[[Perrine H. Clostermann]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|501st JFW
+|February 28
+|-
+|data-sort-value="Petra Danford"|[[File:Unknown_Icon.jpg|border|center|75px|link=Petra Danford]]
+<center>[[Petra Danford]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|
+|
+|-
+|data-sort-value="Petra Gotthard"|[[File:Unknown_Icon.jpg|border|center|75px|link=Petra Gotthard]]
+<center>[[Petra Gotthard]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Pierrette Le Gloan"|[[File:Unknown_Icon.jpg|border|center|75px|link=Pierrette Le Gloan]]
+<center>[[Pierrette Le Gloan]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|January 6
+|-
+|data-sort-value="Raisa Pöttgen"|[[File:Raisa_Icon.jpg|border|center|75px|link=Raisa Pöttgen]]
+<center>[[Raisa Pöttgen]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG27
+|31st JFS
+|September 16
+|-
+|data-sort-value="Regina H. P. Carver"|[[File:Unknown_Icon.jpg|border|center|75px|link=Regina Carver]]
+<center>[[Regina Carver|Regina H. P. Carver]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|
+|
+|
+|
+|-
+|data-sort-value="Reine Fonck"|[[File:Unknown_Icon.jpg|border|center|75px|link=Reine Fonck]]
+<center>[[Reine Fonck]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|
+|March 27
+|-
+|data-sort-value="Renate Holter"|[[File:Unknown_Icon.jpg|border|center|75px|link=Renate Holter]]
+<center>[[Renate Holter]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|
+|March 2
+|-
+|data-sort-value="Rike Sachsenberg"|[[File:Unknown_Icon.jpg|border|center|75px|link=Rike Sachsenberg]]
+<center>[[Rike Sachsenberg]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JV44
+|
+|
+|-
+|data-sort-value="Rita A. Brabner"|[[File:Unknown_Icon.jpg|border|center|75px|link=Rita Brabner]]
+<center>[[Rita Brabner|Rita A. Brabner]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|
+|
+|
+|
+|-
+|data-sort-value="Robina Gibbes"|[[File:Unknown_Icon.jpg|border|center|75px|link=Robina Gibbes]]
+<center>[[Robina Gibbes]]</center>
+|data-sort-value="Flag of Australis"|[[File:Flag of None.svg|border|23px]] [[Australis]]
+|Air Force
+|
+|
+|May 6
+|-
+|data-sort-value="Rosalie de Hemricourt de Grunne"|[[File:Rosalie_Icon.jpg|border|center|75px|link=Rosalie de Hemricourt de Grunne]]
+<center>[[Rosalie de Hemricourt de Grunne]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|506th JFW (A-Unit)
+|November 18
+|-
+|data-sort-value="Rosalie de La Poype"|[[File:Poype_Icon.jpg|border|center|75px|link=Rosalie de La Poype]]
+<center>[[Rosalie de La Poype]]</center>
+|[[File:Flag of Gallia.svg|border|23px]] [[Gallia]]
+|Air Force
+|
+|503rd JFW
+|July 28
+|-
+|data-sort-value="Rudolfine Müller"|[[File:Unknown_Icon.jpg|border|center|75px|link=Rudolfine Müller]]
+<center>[[Rudolfine Müller]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG5
+|
+|
+|-
+|data-sort-value="Sakamoto Mio"|[[File:Mio_Icon.jpg|border|center|75px|link=Sakamoto Mio]]
+<center>[[Sakamoto Mio]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|501st JFW
+|August 26
+|-
+|data-sort-value="Sakatani Shigeko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Sakatani Shigeko]]
+<center>[[Sakatani Shigeko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|July 10
+|-
+|data-sort-value="Sakomizu Haruka"|[[File:Haruka_Icon.jpg|border|center|75px|link=Sakomizu Haruka]]
+<center>[[Sakomizu Haruka]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|507th JFW
+|April 1
+|-
+|data-sort-value="Sano Honoka"|[[File:Unknown_Icon.jpg|border|center|75px|link=Sano Honoka]]
+<center>[[Sano Honoka]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Sanya V. Litvyak"|[[File:Sanya_Icon.jpg|border|center|75px|link=Sanya V. Litvyak]]
+<center>[[Sanya V. Litvyak]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Army
+|
+|501st JFW
+|August 18
+|-
+|data-sort-value="Sasauchi Satoko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Sasauchi Satoko]]
+<center>[[Sasauchi Satoko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Shibuya Inori"|[[File:Inori_Icon.jpg|border|center|75px|link=Shibuya Inori]]
+<center>[[Shibuya Inori]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|72nd JFS
+|August 12
+|-
+|data-sort-value="Shimohara Sadako"|[[File:Sadako_Icon.jpg|border|center|75px|link=Shimohara Sadako]]
+<center>[[Shimohara Sadako]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|502nd JFW
+|May 7
+|-
+|data-sort-value="Shindou Mie"|[[File:Mie_Icon.jpg|border|center|75px|link=Shindou Mie]]
+<center>[[Shindou Mie]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|508th JFW
+|August 28
+|-
+|data-sort-value="Silvie Cariello"|[[File:Silvie_Icon.jpg|border|center|75px|link=Silvie Cariello]]
+<center>[[Silvie Cariello]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|72nd JFS
+|October 11
+|-
+|data-sort-value="Stasha Skalski"|[[File:Unknown_Icon.jpg|border|center|75px|link=Stasha Skalski]]
+<center>[[Stasha Skalski]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|Britannian 601st FS
+|
+|November 27
+|-
+|data-sort-value="Stoyana Stoyanov"|[[File:Unknown_Icon.jpg|border|center|75px|link=Stoyana Stoyanov]]
+<center>[[Stoyana Stoyanov]]</center>
+|data-sort-value="Flag of Moesia"|[[File:Flag of None.svg|border|23px]] [[Moesia]]
+|Air Force
+|
+|505th JFW
+|March 12
+|-
+|data-sort-value="Suwa Amaki"|[[File:Amaki_Icon.jpg|border|center|75px|link=Suwa Amaki]]
+<center>[[Suwa Amaki]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|504th JFW
+|April 30
+|-
+|data-sort-value="Suwa Goshiki"|[[File:Goshiki_Icon.jpg|border|center|75px|link=Suwa Goshiki]]
+<center>[[Suwa Goshiki]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|504th JFW (Retconned)
+|February 1
+|-
+|data-sort-value="Suwa Masuzu"|[[File:Masuzu_Icon.jpg|border|center|75px|link=Suwa Masuzu]]
+<center>[[Suwa Masuzu]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Takami Tadae"|[[File:Unknown_Icon.jpg|border|center|75px|link=Takami Tadae]]
+<center>[[Takami Tadae]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Takei Junko"|[[File:Junko_Icon.jpg|border|center|75px|link=Takei Junko]]
+<center>[[Takei Junko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|504th JFW
+|February 13
+|-
+|data-sort-value="Teresa Martinoli"|[[File:Unknown_Icon.jpg|border|center|75px|link=Teresa Martinoli]]
+<center>[[Teresa Martinoli]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|March 26
+|-
+|data-sort-value="Theodora Weissenberger"|[[File:Unknown_Icon.jpg|border|center|75px|link=Theodora Weissenberger]]
+<center>[[Theodora Weissenberger]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG7
+|
+|
+|-
+|data-sort-value="Tomoko"|[[File:Tomoko_Icon.jpg|border|center|75px|link=Tomoko]]
+<center>[[Tomoko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Army
+|
+|
+|
+|-
+|data-sort-value="Tsurata Keiko"|[[File:Unknown_Icon.jpg|border|center|75px|link=Tsurata Keiko]]
+<center>[[Tsurata Keiko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|Naval Air Technical Arsenal
+|
+|
+|-
+|data-sort-value="Ursula Hartmann"|[[File:Ursula_Icon.jpg|border|center|75px|link=Ursula Hartmann]]
+<center>[[Ursula Hartmann]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|Ministry of Technology
+|507th JFW (Misfit Squadron)
+|April 19
+|-
+|data-sort-value="Una Drago"|[[File:Unknown_Icon.jpg|border|center|75px|link=Una Drago]]
+<center>[[Una Drago]]</center>
+|[[File:Flag of Romagna.svg|border|23px]] [[Romagna]]
+|Air Force
+|
+|
+|March 3
+|-
+|data-sort-value="Valeriya S. Grizodubova"|[[File:Unknown_Icon.jpg|border|center|75px|link=Valeriya Grizodubova]]
+<center>[[Valeriya Grizodubova|Valeriya S. Grizodubova]]</center>
+|[[File:Flag of Orussia.svg|border|23px]] [[Orussia]]
+|Air Force
+|
+|
+|May 10
+|-
+|data-sort-value="Vallia Holter"|[[File:Unknown_Icon.jpg|border|center|75px|link=Vallia Holter]]
+<center>[[Vallia Holter]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|
+|
+|November 13
+|-
+|data-sort-value="Vasilissa M. Vassiliades"|[[File:Unknown_Icon.jpg|border|center|75px|link=Vasilissa Vassiliades]]
+<center>[[Vasilissa Vassiliades|Vasilissa M. Vassiliades]]</center>
+|data-sort-value="Flag of Greece"|[[File:Flag of None.svg|border|23px]] [[Greece]]
+|Air Force
+|
+|505th JFW
+|
+|-
+|data-sort-value="Vera Moelders"|[[File:Unknown_Icon.jpg|border|center|75px|link=Vera Moelders]]
+<center>[[Vera Moelders]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG51
+|
+|March 18
+|-
+|data-sort-value="Vesna Mikovic"|[[File:Vesna_Icon.jpg|border|center|75px|link=Vesna Mikovič]]
+<center>[[Vesna Mikovič]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|
+|507th JFW
+|January 7
+|-
+|data-sort-value="Virginia Robertson"|[[File:Ginny_Icon.jpg|border|center|75px|link=Virginia Robertson]]
+<center>[[Virginia Robertson]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|72nd JFS
+|April 7
+|-
+|data-sort-value="Wakamoto Tetsuko"|[[File:Wakamoto_Icon.jpg|border|center|75px|link=Wakamoto Tetsuko]]
+<center>[[Wakamoto Tetsuko]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|June 14
+|-
+|data-sort-value="Waltraud Nowotny"|[[File:Waltraud_Icon.jpg|border|center|75px|link=Waltraud Nowotny]]
+<center>[[Waltraud Nowotny]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|JG54
+|503rd JFW
+|December 7
+|-
+|data-sort-value="Waltrud Krupinski"|[[File:Waltrud_Icon.jpg|border|center|75px|link=Waltrud Krupinski]]
+<center>[[Waltrud Krupinski]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JV44
+|502nd JFW
+|November 11
+|-
+|data-sort-value="Wendelin Schroer"|[[File:Wendelin_Icon.jpg|border|center|75px|link=Wendelin Schröer]]
+<center>[[Wendelin Schröer]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG27
+|
+|February 12
+|-
+|data-sort-value="Wendergart Schenck"|[[File:Unknown_Icon.jpg|border|center|75px|link=Wendergart Schenck]]
+<center>[[Wendergart Schenck]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|SKG210
+|
+|
+|-
+|data-sort-value="Wendy B. Bailey"|[[File:Unknown_Icon.jpg|border|center|75px|link=Wendy Bailey]]
+<center>[[Wendy Bailey|Wendy B. Bailey]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Army
+|
+|
+|August 20
+|-
+|data-sort-value="Wiktoria Urbanowicz"|[[File:Wiktoria_Icon.jpg|border|center|75px|link=Wiktoria Urbanowicz]]
+<center>[[Wiktoria Urbanowicz]]</center>
+|[[File:Flag of Ostmark.svg|border|23px]] [[Ostmark]]
+|Air Force
+|Britannian 303rd FS
+|
+|March 30
+|-
+|data-sort-value="Wilma Bishop"|[[File:Wilma_Icon.jpg|border|center|75px|link=Wilma Bishop]]
+<center>[[Wilma Bishop]]</center>
+|[[File:Flag of Britannia.svg|border|23px]] [[Britannia]]
+|Air Force
+|
+|Isle of Wight Det.
+|May 20
+|-
+|data-sort-value="Wolfhilda Tonne"|[[File:Unknown_Icon.jpg|border|center|75px|link=Wolfhilda Tonne]]
+<center>[[Wolfhilda Tonne]]</center>
+|[[File:Flag of Karlsland.svg|border|23px]] [[Karlsland]]
+|Air Force
+|JG53
+|
+|February 28
+|-
+|data-sort-value="Wright sisters"|[[File:Unknown_Icon.jpg|border|center|75px|link=Wright Sisters]]
+<center>[[Wright Sisters|Wright sisters]]</center>
+|[[File:Flag of Liberion.svg|border|23px]] [[Liberion]]
+|Civilian
+|
+|
+|
+|-
+|data-sort-value="Yokokawa Kazumi"|[[File:Yokokawa_Icon.jpg|border|center|75px|link=Yokokawa Kazumi]]
+<center>[[Yokokawa Kazumi]]</center>
+|[[File:Flag of Fuso.svg|border|23px]] [[Fuso]]
+|Navy
+|
+|
+|August 11
+|}
+
+==Witch Units==
+
+===Joint Fighter Wings===
+* 501<sup>st</sup> - "[[501st Joint Fighter Wing|Strike Witches]]", Defense of [[Britannia]] and recovery of [[Gallia]] (Later [[Romagna]] and [[Venezia]]).
+* 502<sup>nd</sup> - "[[502nd Joint Fighter Wing|Brave Witches]]", Defense and recovery of [[Orussia]] and [[Karlsland]].
+* 503<sup>rd</sup> - "[[503rd Joint Fighter Wing|Typhoon Witches]]", Defense and recovery of [[Orussia]] and [[Karlsland]].
+* 504<sup>th</sup> - "[[504th Joint Fighter Wing|Ardor Witches]]", General Defense ([[Romagna]]).
+* 505<sup>th</sup> - "[[505th Joint Fighter Wing|Mirage Witches]]", General Defense.
+* 506<sup>th</sup> - "[[506th Joint Fighter Wing|Noble Witches]]", General Defense (Eastern [[Gallia]]).
+* 507<sup>th</sup> - "[[507th Joint Fighter Wing|Silent Witches]]", General Defense ([[Suomus]]).
+* 508<sup>th</sup> - "[[508th Joint Fighter Wing|Mighty Witches]]", General Defense (?); An Aircraft Carrier Task Force.
+
+===Joint Fighter Squadrons===
+*11<sup>th</sup> - "[[Her Majesty's Witch]]", a.k.a. Glorious Witches; defense of [[Britannia]], especially London.
+*31<sup>st</sup> - "[[31st Joint Fighter Squadron Africa|Storm Witches]]", Defense of Africa.
+*42<sup>nd</sup> - "Shinigami", Defense of [[Fuso]].
+
+===Other units===
+*[[Isle of Wight Detachment Group]], Defense of [[Britannia]].
+*[[Music Squadron]].
+*[[Patton Girls]] (ground unit).
+*Suomus Air Force LLv24 (Lentolaivue 24, No. 24 Squadron), Defense of [[Suomus]].
+*Karlsland Air Force JG27, Defense of Africa.
+*Karlsland Air Force JG3.
+*Karlsland Air Force JG52.
+*Karlsland Air Force JG54 "Grünherz" (Green Heart).
+*USAAF 352nd Fighter Group.
+*USAAF 4th Fighter Group (Gentile/Godfrey served in the 4th Fighter Group "Debden Eagles" in 2NW).
+
+==External Links==
+* [[Wikipedia:List of Strike Witches characters|List of World Witches characters on Wikipedia]]
+
+[[Category:Strike Witch|1]]
+[[Category:Terminology]]

@@ -1,0 +1,40 @@
+The Karlsland Navy is the naval branch for the [[Karlsland|Empire of Karlsland]] armed forces.
+
+==History==
+The Karlsland Navy was first seen offshore in 1943 when two of their battleships provided shore bombardment for Liberian and Karlsland army units. The unnamed Karlsland battleships were then blasted by a large Neuroi aircraft along with a majority of the other warships accompanying it.
+
+In 1945, battleship ''Bismarck'' was briefly seen serving as an escort for ''Yamato'' when an [[X-18 Class Neuroi|X-18 class Neuroi]] attacked the fleet and was able to retreat as [[Lynette Bishop]] bought them time to do so. Later, ''Bismarck'' is seen sailing with other warships participating in taking out the [[X-20 Class Neuroi|X-20 class Neuroi]] that has taken over Malta. For Operation Mars, ''Bismarck'' and her sister ship ''Tirpitz'' helped provide cover for ''Yamato'' as they fired their main batteries to shoot down incoming Neuroi. The Fuso battleship was unable to destroy the hive completely and the intact Neuroi core fired its laser at one of the battleships. However, both ''Bismarck''-class battleships are still present at the end of the operation and still sailing in formation with the rest of the fleet as they return to base.
+
+==List of Karlsland Navy Ships==
+
+===Aircraft Carrier===
+
+* [[Wikipedia:German_aircraft_carrier_Graf_Zeppelin|''Graf Zeppelin'']]
+* Two unnamed [[Wikipedia:Amagi-class_battlecruiser|''Akagi''-class aircraft carriers]]
+
+===Battleships===
+
+* [[Wikipedia:German_battleship_Bismarck|''Bismarck'']]
+* [[Wikipedia:German_battleship_Tirpitz|''Tirpitz'']]
+
+
+==Trivia==
+
+* The Karlsland Navy is based on the [https://en.wikipedia.org/wiki/Kriegsmarine Kreigsmarine] of Nazi Germany.
+* It is mentioned on the [[Messerscharf Bf109]] page that the ''Graf Zeppelin'' was lost, though when and how the aircraft carrier was lost is unknown.
+* The extra section detailing Fuso's ''Kii''-class battleships in [[Strike Witches Zero:1937 Fuso Sea Incident]] mentions that the third and fourth ''Amagi''-class battlecruisers converted to aircraft carriers were sold to Karlsland, in exchange for advanced technology and machinery.
+* The two Karlsland ships seen in The Movie reuse ''Bismarck'' and ''Tirpitz'''s 3D models, which presents a continuity issue as all (or nearly all) of that fleet was sunk; this also applies to the Britannian, Venezian, Romagnan, and Fuso ships present. The simplest explanation would be that this short scene is simply a case of model reuse, and canonically the ships could be considered to be different, similar classes of ship.
+
+==Gallery==
+<gallery>
+File:Karlsland Battleship standing by.png|Unnamed ''Bismarck''-class battleship with Allied warships
+File:Karlsland Battleship firing.png|Firing it's 38 cm main batteries at the Neuroi
+File:Karlsland Battlehip hit.png|Being hit by Neuroi laser fire
+File:Karlsland Battleship destroyed.png|Unnamed ''Bismarck''-class battleship exploding
+File:Bismarck.png|''Bismarck'' sailing in 1945
+File:Takao and Admiral Hipper-class cruiser.png|''Bismarck'' in the background, as cruiser ''Takao'' is hit by a Neuroi beam
+File:StrikeWitchesS2E6 Bismark Colour Page 1.png|''Bismarck''-class information page 1
+File:StrikeWitchesS2E6 Bismark Colour Page 2.png|''Bismarck''-class information page 2
+</gallery>
+[[Category:Organizations]]
+[[Category:Karlsland]]

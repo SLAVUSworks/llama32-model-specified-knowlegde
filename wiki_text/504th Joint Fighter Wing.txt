@@ -1,0 +1,57 @@
+{{stub}}
+{{Unit Infobox
+|title1=504<sup>th</sup> Joint Fighter Wing
+|image1=image:504.png
+|caption1=504<sup>th</sup>JFW icon
+|name=連合軍第504統合戦闘航空団
+|romaji_name=Rengō-gun dai 504 Tōgō Sentō Kōkū-dan
+|nickname(s)=Ardor Witches
+|affiliation(s)=[[File:Flag of Romagna.svg|border|23px|link=Romagna]] [[Romagna]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]<br>[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]<br>[[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br>[[File:Flag of Hispania.svg|border|23px|link=Hispania]] [[Hispania]]
+|branch=
+|HQ=Mediterranean Sea General Headquarters
+|commanding_officer=Squadron Leader [[Federica N. Doglio]]
+|area_of_operations=Romagna and Venezia
+|base=
+}}
+The '''504<sup>th</sup> Joint Fighter Wing "Ardor Witches"''' (第504統合戦闘航空団「アルダーウィッチーズ」) is a squadron based in [[Romagna]]. It was established in 1944 under the jurisdiction of the Mediterranean Sea General Headquarters. Although defeated by the Neuroi, it was reformed when the [[501st Joint Fighter Wing|501<sup>st</sup> Joint Fighter Wing]] was disbanded, and is responsible for the defence of [[Romagna]] and [[Venezia]].
+
+==Function==
+The core of the 504<sup>th</sup> JFW is composed of Romagnian Witches of the Elite Corps, Pantaloni Rossi, and Witches of other countries that fought in Romagna or in other areas of the [[Wikipedia:Mediterranean Sea|Mediterranean Sea]], like [[Wikipedia:Malta (island)|Malta]]. It was established in 1944 in the wake of the foundation of the [[501st Joint Fighter Wing|501<sup>st</sup> Joint Fighter Wing]]. The primary purpose of the 504<sup>th</sup> was the defense of [[Romagna]] and [[Venezia]], but they are more famous for the execution of the ill-fated [[Season 02 Episode 01, "Into the Sky Once More"|Operation Trajanus]]. They currently defend the Romagna and Venezia regions, after the [[501st Joint Fighter Wing|501<sup>st</sup> Joint Fighter Wing]] liberated those areas.
+
+==Service history==
+It was established in 1944 for the purpose of defending Romagna and Venezia. In the spring of 1945, the 504th Joint Fighter Wing participated in the Operation Trajanus, executed with the intention of establishing contact with the [[Neuroi]], and learn of why the Neuroi are here. Some of the [[Suwa Amaki|members]] were absent. It had ended in failure. The problem lay in what would be to come after, a huge Neuroi hive, on a scale that had not been witnessed even during the various battles in Europe. The Ardor Witches had to lead an evacuation war due to the failure of said operation. Venezia fell. The 504<sup>th</sup> was defeated by the Neuroi, suffering massive casualties and was no longer considered mission-capable. Fortunately, all the members survived the battle. Only the witches and some soldiers survived. Some of the members were rescued with great difficulty, and undergoing long-term medical treatment. It resulted in a great blow to the forces of humanity. Because of this, the 501<sup>st</sup> Joint Fighter Wing was reactivated to defending Romagna and liberated Venezia.
+
+While the 504<sup>th</sup> JFW was out of service, the members that are not in the hospital stayed in Romagna and assisted with the unit's reconstruction. The 504<sup>th</sup> was finally reactivated when the 501<sup>st</sup> defeat the Neuroi Hive over Venezia.
+
+==Members==
+Commanding Officer
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Squadron Leader [[Federica N. Doglio]]
+Commanding Officer in battle
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flight Lieutenant [[Takei Junko]]
+Members
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flight Lieutenant [[Dominica S. Gentile]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flight Lieutenant [[Jane T. Godfrey]]
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Flying Officer [[Patricia Schade]]
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Flying Officer [[Fernandia Malvezzi]]
+* [[File:Flag of Hispania.svg|border|23px|link=Hispania]] Flying Officer [[Angela Salas Larrazabal]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Suwa Amaki]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Nakajima Nishiki]]
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Pilot Officer [[Luciana Mazzei]]
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Flight Sergeant [[Martina Crespi]]
+Non-canonical members (Only in the non-canonical [[Strike Witches: Maidens in the Sky]] manga)
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Sergeant [[Suwa Goshiki]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Sergeant [[Nakajima Hayate]]
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+504th_JFW.jpg|The 504th
+Strike Witches Kurenai no Majo Tachi Promo splash-art 2.png|Promo splash-art for Strike Witches Kurenai no Majo Tachi
+Strike Witches Kurenai no Majo Tachi Promo splash-art.png|Promo splash-art for Strike Witches Kurenai no Majo Tachi
+504th Junko, Fernandia, Martina, Luciana.jpg
+</gallery>
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:504th Joint Fighter Wing|504th Joint Fighter Wing]]
+[[Category:Article stubs]]
+[[Category:Joint Fighter Wings]]

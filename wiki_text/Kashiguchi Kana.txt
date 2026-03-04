@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Kashiguchi Kana
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=樫口嘉奈
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy 3rd Air Corps
+|team =
+|rank=Flight Sergeant
+|striker unit(s)=[[Wikipedia:Mitsubishi_A6M_Zero#A6M3_Type_0_Model_22|Miyabishi Heavy Industries Type 0 Model 22 A6M3]] (No. X-183)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kashiguchi Kana''' (樫口嘉奈) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Navy]].
+
+==Background==
+She was sent to the Mediterranean as a detachment for Tunis in Africa.
+
+==Striker units==
+{{Striker unit template
+|name=[[Miyabishi Type 0 A6M Carrier-based Fighter Legs|Miyabishi Type 0 Carrier-based Fighter Legs Model 22 (No. X-183)]]
+|image=Type 0 Model 22 Kashigushi SW2.jpg
+|description=This unit was repainted when it was sent to Tunis' squadron in Africa. The original dark green paint was overlaid with sand color to create a Romagna-style desert camouflage, however the beautiful and sacred cherry blossoms marks are left untouched.
+}}
+
+==Trivia==
+*Her ace archetype is Yoshiro Hashiguchi (橋口嘉郎).
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 1.
+[[Category:Strike Witch]]
+[[Category:Fuso]]
+[[Category:Flight Sergeants]]
+[[Category:Characters with no art]]

@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Leila A. Galichenko
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=レイラ・A・ガリチェンコ
+|romaji_name=
+|age=?
+|birth_date=2 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Air Force 145th Fighter Regiment
+|team =
+|rank=Squadron Leader
+|striker unit(s)=Mir-Gosudarstvo MiG-60 (White No. 76)
+|weapon(s)=?
+|familiar=White cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Leila A. Galichenko''' (レイラ・A・ガリチェンコ) is a witch originating from [[Orussia]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau MiG60|Mir Gosudartsvo Design Bureau MiG60 (white No. 76)]]
+|image=MiG60 Galichenko SW2.jpg
+|description=Her personal emblem is a white cat who attacks a mouse-like Neuroi. A black cat was drawn on her wingman's unit, and they were called together "Dora Cat Combi" (ドラ猫コンビ).
+}}
+
+==Trivia==
+*Her ace archetype is [https://ru.wikipedia.org/wiki/Гальченко,_Леонид_Акимович Leonid Galchenko].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

@@ -1,0 +1,87 @@
+{{stub}}
+{{Character_Infobox
+|title1=Inagaki Mami
+|image1=Inagaki3234.jpg
+|caption1=
+|kanji_name=稲垣真美
+|romaji_name=
+|age=12 (1942, in ''Tiger in Desert'')<br/>16 (1944 ?, in ''Kimi to Tsunagaru Sora'')
+|birth_date=14 February
+|height=137.5 cm
+|blood_type=
+|nationality=Fuso
+|affiliation(s)=Fuso Imperial Army African Expeditionary Force Independent Flight Squadron
+|team =[[31st Joint Fighter Squadron Africa]] 
+|rank=Sergeant (in ''Tiger in Desert'')<br/>Warrant Officer (in ''Kimi to Tsunagaru Sora'')
+|striker unit(s)=[[Wikipedia:Ki-61|Kawataki Type 3 Ki-61 Model I kou]]
+|weapon(s)=[[Wikipedia:Bofors_40_mm|Bojold 40 mm]]<br/>[[Wikipedia:8.8_cm_Flak_18/36/37/41|88mm Flak]]
+|familiar=Fuso Cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Inagaki Mami''' (稲垣真美) is a Witch of the [[31st Joint Fighter Squadron Africa]], originating from [[Fuso]] and attached with the [[Fuso Imperial Army]]. She idolizes her commanding officer, [[Katou Keiko]].
+
+==Background==
+The daughter of a viscount house, Mami received a high-level education since a tender age and generally achieved excellent grades in language, culture, history and housework. So long the topic is ordinary, daily life matters, she can speak in [[Britannia]]n, [[Karlsland]] and [[Romagna|Roman]]. Incidentally, her mother's side is a family related to a Witch of the [[Wikipedia:Sengoku_period|Warring Age]], [[Mori Ranmaru]].
+
+Upon seeing the performance of the Witches in the [[Wikipedia:War_film|propaganda film]] "Flash of the Fuso Sea", Mami longed for them and volunteered to be a Witch herself. At the time of matriculation in the training school, her body's stature just barely fulfilled the requirements. However, she had more than enough magical power and also achieved excellent results during training. Still, her stature didn't increase ever since matriculation, and even after her graduation from training school and appointment to Sergeant, she simply continued stuck in a situation where her assignment destination wasn't decided.
+
+When Flight Lieutenant Katou applied to be reinstated into active duty and the decision to send her to Africa with a new unit came out, Mami volunteered to go together with her and was assigned to the African Expeditionary Force Independent Flight Squadron. In Africa, she employed her inherent magic to display a brilliant performance, such as scoring joint shot downs of large-type [[Neuroi]].
+
+==Abilities==
+Inherent magic is [[w:c:powerlisting:Peak Human Strength/Supernatural|Superhuman Strength]] (怪力, ''kairiki''), but it belongs to a different system than [[Gertrud Barkhorn|normal]] [[w:c:powerlisting:Peak Human Strength/Enhanced|Superhuman Strength]], as it makes possible carrying a weight load that surpasses the limits of the [[Striker Unit]]. Rather than ''physical reinforcement'', it is thought to belong to the ''weight reduction''-series instead. But since she is the only known user of this system of magic, details are unknown.
+
+==Equipment==
+Mami's Ki-61 is an improved model that received modifications by the mechanics on the front lines.
+
+She fills the role of a heavy gunner by employing customized Bofors 40mm cannon and 88mm Flak cannon in combat. Originally towed AA guns, they were field-converted by 31st JFS mechanics, in response to the need of heavy firepower against large-type land Neuroi, which are a common sight on the North Africa Front. Throughout the 31st JFS operations, Mami made effective use of those guns, especially having the Bofors 40mm cannon as her standard sortie loadout, though she'd wield duo Bofors 40mm cannon if need be.
+
+==Appearances==
+'''Doujinshi'''
+* [[Africa Doujinshi#Tiger in_Desert 2|Tiger in Desert 2]]
+* [[Africa Doujinshi#Witches of the Sphinx_1|The Witches of the Sphinx 1]]
+* [[Africa Doujinshi#Witches of the Sphinx_2|The Witches of the Sphinx 2]]
+* [[Africa Doujinshi#Witches of the Sphinx 3|The Witches of the Sphinx 3]]
+* The Witch of Stuka (Extra story included in "The Witches of Africa Total Comic Collection" and "Strike Witches: Andorra no Majo")
+*[[Africa_Doujinshi#Katou_Keiko_North Africa_Military_Photos_1943|Katou Keiko North Africa Military Photos 1943]]
+*[[Africa_Doujinshi#Witches_of_the_Sphinx 4|The Witches of the Sphinx 4]]
+*[[Africa Doujinshi#Witches of the Sphinx 5|The Witches of the Sphinx 5]]
+'''Manga'''
+* [[Strike Witches: The Sky That Connects Us]], chapters 2 and 3
+* [[Strike Witches: Andorra no Majo]]
+'''Novels'''
+* [[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#The_Eagle_and_the_Moon_and_the_Sun|The Eagle and the Moon and the Sun]]
+* [[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Owl_Morn|Owl Morn]]
+* [[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Before_the_Storm|Before the Storm]]
+* [[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#A_Midnight_Dream_in_the_Desert|A Midnight Dream in the Desert]]
+* [[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Phoenix_in_the_Dunes|Phoenix in the Dunes]]
+* 500overs in Africa
+* [[Strike Witches: The Witches of Africa - Kei's Report]]
+
+==Trivia==
+*Her ace archetype is believed to be Haruo Takagaki.
+*She is bad with boats.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Witches of the Sphinx 5 cover.jpg
+Mami 3.jpg
+Andorra no Majo Inagaki Mami.png
+Witches of the Sphynx.jpg
+Mami 1943 photo 1.jpg|1943 photo taken by keiko 
+Mami 1943 photo 3.JPG|1943 photo taken by keiko 
+Mami 1943 photo 2.JPG|1943 photo taken by keiko 
+Mami 4.jpg
+Mami 5.png
+Mami with 8.8cm.jpg|Mami with a 8.8cm flak cannon
+Inagaki2.jpg
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Sergeants]]
+[[Category:Flight Sergeants]]
+[[Category:Warrant Officers]]
+[[Category:31st Joint Fighter Squadron Africa]]
+[[Category:Fuso]]
+[[Category:Article stubs]]

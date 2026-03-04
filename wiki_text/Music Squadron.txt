@@ -1,0 +1,72 @@
+{{Unit Infobox
+|title1=Music Squadron
+|image1=Idol_Witches_unit_patch.png
+|caption1=
+|name= 連盟空軍航空魔法音楽隊「ルミナスウィッチーズ」
+|romaji_name=Renmei Kūgun Kōkū Mahō Ongaku-tai «Ruminasu Witchīzu»
+|nickname=Luminous Witches
+|affiliation(s)=[[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br>
+[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]] <br>
+[[File:Flag of Orussia.svg|border|23px|link=Orussia]] [[Orussia]]<br>
+[[File:Flag of Gallia.svg|border|23px|link=Gallia]] [[Gallia]]<br>
+[[File:Flag of Suomus.svg|border|23px|link=Suomus]] [[Suomus]]<br>
+[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] [[Karlsland]]<br>
+[[File:Flag of New Zeeland.jpg|border|23px|link=New Zeeland]] [[New Zeeland]]<br>
+[[File:Flag of Romagna.svg|border|23px|link=Romagna]] [[Romagna]]<br>
+[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]
+|branch=
+|HQ=League of Nations Air Forces Command
+|commanding_officer=Squadron Leader [[Grace Maitland Steward]]
+|area_of_operations=Around the world
+|base=[[wikipedia:Heston Aerodrome|Heston Aerodrome]], [[wikipedia:West London|West London]], [[wikipedia:London|London]], Britannia
+}}
+The '''Music Squadron''' (音楽隊, ''Ongaku-tai''), officially known as the '''League of Nations Air Forces (LNAF) Aviation Magic Band "Luminous Witches"''' (連盟空軍航空魔法音楽隊「ルミナスウィッチーズ」, ''Renmei Kūgun Kōkū Mahō Ongaku-tai "Ruminasu Witchīzu"''), is a unique squadron of witches who use the healing power of songs and music.
+
+==Service history and function==
+In 1944, the Music Squadron was formed in [[Britannia]] in order to recruit the witches who are considered "unsuitable for battle" in term of psychical and mental injuries, personalities, and skills. Its members use songs and music to provide a moment of peace and heal to those who fight against the [[Neuroi]] and those who have been taken back to their homelands.
+
+==Function==
+The Luminous Witches, under the direct control of the League of Nations Air Forces, established as a unit for protecting people's smiles with "songs and music". Unlike other witch units, witches who are not fit for the combat roles, and/or have been forced to leave the front, are active here. Although it is called the Music Squadron, it is actually a squadron of singers that mainly sing and chorus without playing any instrumental music due to the composition of the members.
+
+Utilizing the fact that aerial witches are members of the Music Squadron, they feature not only singing and dancing, but also air shows with aerobatic flight. It also has the aspect of an air display team by many witches.
+
+The unit's base is [[wikipedia:Heston Aerodrome|Heston Aerodrome]] in [[wikipedia:West London|West London]], Britannia. However, instead of staying at the base or the front, its members travel around the world and carry out activities in various places, using an [[wikipedia:Avro_Lancaster|Avro Lancaster]] heavy bomber.
+
+==Members==
+Manager
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Squadron Leader [[Grace Maitland Steward]]
+Band Leader
+* [[File:Flag of Suomus.svg|border|23px|link=Suomus]] Pilot Officer [[Aira Paivikki Linnamaa]]
+Members
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Sergeant [[Virginia Robertson]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Sergeant [[Shibuya Inori]]
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Sergeant [[Lyudmila Andreyevna Ruslanova]]
+* [[File:Flag of Gallia.svg|border|23px|link=Gallia]] Sergeant [[Eleonore Giovanna Gassion]]
+* [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] Flight Sergeant [[Maria Magdalene Dietrich]]
+* [[File:Flag of New Zeeland.jpg|border|23px|link=New Zeeland]] Sergeant [[Manaia Matawhaura Hato]]
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Sergeant [[Silvie Cariello]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flight Sergeant [[Joanna Elizabeth Stafford]]
+ 
+
+== Trivia ==
+*The Music Squadron is the first witch unit that use the same model of [[Striker Unit|Striker Units]] for all members, which are the [[Wikipedia:North_American_T-6_Texan|North Liberion AT-6 Texan]]. 
+**For long distance travel, the squadron makes use of an [[Wikipedia:Avro_Lancaster|Avro Lancaster]].
+*It is also the first witch unit that have its own uniforms.
+*Conceptually, the Luminous Witches are analogous to a combination of the [[wikipedia:United_Service_Organizations|United Service Organizations]] (USO) and an [[wikipedia:List of air display teams|air demonstration squadron]].
+*Briefly known as '''League of Nations 72<sup>nd</sup> Joint Combat Squadron Logistics Support Squadron Aviation Magic Band''' (連盟空軍第72統合戦闘飛行隊兵站支援中隊航空魔法音楽隊) before becoming "'''Luminous Witches'''"
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+Luminous Witches characters profile art.jpg
+Luminous Witches 1b.jpg
+Luminous witches OVA.jpg
+Luminous Witches Flying Skyhigh cover.jpg|Flying Skyhigh cover
+Luminous Witches 1st live art.jpg
+Luminous witches promo BD 2.jpg
+Luminous Witches second live.jpg
+Luminous Witches Original Soundtrack cover.jpg
+Luminous Witches base.jpg
+Luminous Witches flying.jpg
+</gallery>
+[[Category:Organizations]]
+[[Category:Luminous Witches]]

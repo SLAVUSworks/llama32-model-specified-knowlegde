@@ -1,0 +1,14 @@
+{{Character_Infobox
+|title1 = Giovanni Collalto
+|image1 = Giovanni Collalto.jpg
+|kanji_name = ジョバンニ・コッラルト
+|birth_date = 
+|seiyuu_(japanese) =
+}}
+The chief navigator of the [[Wikipedia:Italian battleship Vittorio Veneto|Vittorio Veneto]]. His rank is Commander. He is from a branch of an aristocratic family that has produced some of the most outstanding Commanding Officers of the Venezian Army. He is an eccentric who dared to join the Navy despite the fact that most of his family members are attached to the Army. He excels at gunnery probably due to his lineage, and his maneuvering skills are high.
+
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches 2]]
+[[Category:Other Characters]]

@@ -1,0 +1,25 @@
+{{Striker Unit Infobox
+|title1=Type 1 Ki-43 Hayabusa
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Nakajima Aircraft Company|Nagashima Flight Legs]]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+The [[Nagashima Type 97 Ki-27|Ki-27]] was an excellent striker unit, but against the new, faster, more heavily-armored flier-type [[Neuroi]] it had limited impact. At that time, the European forces were perfecting speed-based hit-and-run battle tactics and two-unit echelon formations in the [[Hispania]] theater. Upon learning this, [[Fuso]] issued a two-tiered specification for new striker unit designs. One unit had to be a light, fast, and maneuverable unit for use against smaller targets. The other had to be a heavy-fighter unit that was still fast, but more heavily armored. Nagashima developed the Ki-43 as a response to the former specification. This light fighter unit would eventually be designated the "Army Type 1 Hayabusa." Though similar in structure to the Ki-27 it was based on, the Ki-43 made thorough use of the [[Miyafuji Ichiro|Miyafuji]] Theory to load a larger fuel tank, giving it a greatly extended cruising range. It was more aerodynamic, but its top speed was not much greater than the Ki-27's. It was also less combat-effective, making it difficult for the Army to put it into wide use. However, given the continual demands for newer models during the Fuso Sea Incident, it was sent to the front as an experimental replacement model.
+
+==Known variants==
+*'''Model I'''
+*'''Model II'''
+*'''Model II late type'''
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Nakajima Ki-43 Hayabusa|Nakajima Type 1 Ki-43 Hayabusa]] fighter.
+[[Category:Striker Unit]]

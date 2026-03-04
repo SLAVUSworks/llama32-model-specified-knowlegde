@@ -1,0 +1,27 @@
+{{Character_Infobox
+|title1=Ikuta
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=生田
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Empire Army 244th Air Wing 2nd Squadron
+|team = 
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Kawasaki_Ki-61|Kawataki Type 3 Model I hei]] (Y106)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}'''Ikuta''' (生田) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==References==
+Strike Witches I A complete record of 501st Joint Fighter Wing 6.
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Fuso]]

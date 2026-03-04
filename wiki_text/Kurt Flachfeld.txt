@@ -1,0 +1,25 @@
+{{Character_Infobox
+|title1 = Kurt Flachfeld
+|image1 = Kurt Flachfeld Striker Mechanic.png
+|age = ?
+|birth_date = ?
+|height = ?
+|nationality = Karlsland
+|affiliation(s) = Karlsland Military<br>Karlsland Striker Mechanic
+|rank = ?
+|kanji_name = クルト・フラッハフェルト
+}}
+[[Minna-Dietlinde Wilcke|Minna]]'s dead friend.
+
+Before meeting his demise he was supposed to study music with Minna. After Minna volunteered to go to the front lines, he too went with her, helping out in the evacuation of [[Gallia]]. Before Minna left for [[Britannia]], Kurt promised to meet up with her there after he and the other maintenance crew members are evacuated. Unfortunately, this promise was not kept. Before Kurt was able to evacuate, a [[Neuroi]] beam engulfs the base in a fireball, killing Kurt.
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Kurt Flachfeld.jpg|Kurt before Invasion of Karlsland
+</gallery>
+[[Category:Other Characters]]
+[[Category:Karlsland]]

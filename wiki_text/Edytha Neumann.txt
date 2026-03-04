@@ -1,0 +1,88 @@
+{{Character_Infobox
+|title1=Edytha Neumann
+|image1=OVA2 Neumann.JPG
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=20 (1945)
+|birth_date= 5 June
+|height=167 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 27th Fighter Wing 1st Flying Corps (Commander)([[Wikipedia:Jagdgeschwader_27|I./JG27]])<br>North Africa Commander General of the witches
+|team=
+|rank=Flight Lieutenant<br>Group Captain
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#E-7|Messerscharf Bf109E-7/Trop]] (Black 3)<br>[[Wikipedia:Messerschmitt_Bf_109_variants#F-0,_F-1,_F-2|Messerscharf Bf109F-2/Trop]]<br>
+[[Wikipedia:Messerschmitt_Bf_109_variants#G-1,_G-2|Messerscharf Bf109G-2/Trop]]
+|weapon(s)=[[Wikipedia:MG_34|MG 34]]<br>[[Wikipedia:MG 42|MG 42]]<br>Others
+|familiar=[[Wikipedia:Lipizzan|Lipizzaner]]
+|seiyuu_(japanese)=[[Wikipedia:Chiaki Takahashi (actress)|Takahashi Chiaki]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Edytha Neumann''' (エディタ・ノイマン) is a senior Witch of [[Wikipedia:Jagdgeschwader_27|Jagdgeschwader 27 Gruppe I]] originating from [[Karlsland]].
+
+==Background==
+She was the Commanding Officer of [[Wikipedia:Jagdgeschwader_27|Jagdgeschwader 27 Gruppe I]] at the time [[Hanna-Justina Marseille|Marseille]] and Pöttgen were assigned to that unit.
+
+Although not apparently a member of the 31st Joint Fighter Squadron Africa herself, (JG27 providing logistical support and a base of operations for the unit) it is highly likely that that the Storm Witches report to higher command through her.
+
+She is one of the highest-ranking Witches, and the overall Commander of all Witches in North Africa.
+
+She is apparently very involved with the logistical and communications side of Witch operations in the area, probably planning many of them herself.
+
+She seems to report directly to Rommel.
+
+==Personality==
+She has a stern and strict personality, intent on following rules & regulations. A good word to describe her would be strategic.
+
+She does not seem to be very flexible in that she prefers to carry out operations as they were planned, without any deviations. Rommel's suggestion of changing a planned operation while it is in motion leaves her shocked and she clearly opposes such action, though she ultimately follows his advice.
+
+She desires that her Witches behave in a proper, military manner. She does not seem to have a favorable impression of [[Hanna-Justina Marseille|Marseille]] and reprimands her for being so uncouth.
+
+She expects only the best from the Witches under her command, questioning Marseille's abilities as a 'first-rate Witch', suggesting that she perhaps overestimated the Star of Africa's abilities and stating that she didn't want her to look like an embarrassment.
+
+Though on the face of it her comments to Marseille could be seen as mean-spirited, it's clear that she is using the Star of Africa's ego to her advantage. By questioning her abilities and suggesting that her highly-public image is at stake, Neumann is both trying to reign in her subordinate and push her to achieve more at the same time. Clearly she is a commander who knows what makes the Witches under her command 'tick', and also knows best how to use those factors to a military advantage.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109E-7/Trop (black No. 3)]]
+|image=Bf109E-7 trop Neumann SW OVA2.jpg
+|description=The unit used by Group Captain Neumann when she was promoted to commanding officer of the JG27 1st Squadron. A desert camouflage has been painted over the European-specification camouflage, and it also has a tiger-like pattern, making it an unusual paint scheme with very few sand colored parts.
+}}
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-2/Trop (double black chevron)]]
+|image=Bf109G-2 trop Neumann SW OVA2.jpg
+|description=It's a normal G-2 type. A considerable surface is painted in a slightly goldish yellow. It still has the JG27 squadron mark on it, so Neumann probably kept using the same unit even after her promotion.
+}}
+
+==Appearances==
+'''Anime'''
+* [[Operation Victory Arrow#Episode 2|Operation Victory Arrow, Episode 2]]
+'''Light Novels'''
+* [[Strike Witches: Der Stern von Afrika (Light Novel)]]
+* [[Strike Witches: The Witches of Africa - Kei's Report]]
+
+==Trivia==
+She is based on [[Wikipedia:Eduard Neumann (fighter pilot)|Eduard Neumann]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Edytha Neumann Scan.jpg
+NeumannNewScan 2.jpg
+OVA2 Neumann tail.JPG|Neumann's familiar ears & tail
+Edhyta Neumann 6.jpg
+Edhyta Neumann 8.jpg
+Edhyta Neumann 9.jpg
+Edythe Neumann.jpeg
+OVA2 NeumannInfo.JPG|Neumann's Basic Info
+Rommel and Edytha Neumann.jpg
+Edytha Neumann with radio crew.jpg
+The Witches of Africa Vol.2 Art.png
+</gallery>
+
+==References==
+Operation Victory Arrow Secret recording memorial Volume 2
+[[Category:Strike Witch]]
+[[Category:Group Captains]]
+[[Category:Karlsland]]

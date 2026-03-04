@@ -1,0 +1,45 @@
+{{Character_Infobox
+|title1=Leigh Andrea Archer
+|image1=Lee_Andrea_Archer.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=17
+|birth_date=6 September
+|height=175cm
+|blood_type=
+|nationality=Liberion
+|affiliation(s)=Liberion Air Force 332nd Fighter Wing 302nd Squadron<br>Liberion Air Force Tuskegee Airwitches
+|team=[[507th Joint Fighter Wing]]
+|rank=Flying Officer (1944)
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51B_and_P-51C|North Liberion P-51C]]
+|weapon(s)=[[Wikipedia:M2_Browning|M2 Browning]]
+|familiar=Puma
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Leigh Andrea Archer''' is a Witch originating from [[Liberion]].
+
+==Background==
+A member of the "Tuskegee Airwitches", a gathering of African-Liberion witches. She was originally a member of the Liberion Air Force 332nd Fighter Wing 302nd Squadron. The witches here painted the tip of their striker unit red, and were called the "Red Tails".
+
+She was transferred to the [[507th Joint Fighter Wing|Suomus Independent Volunteer Air Squadron]] in August 1943. In January 1944, she defeated the large scale Neuroi "Mantu". The same month, she defeated the large scale Neuroi "Riukumaki". It is said that thanks to these battle results, she was invited to the [[503rd Joint Fighter Wing]]. She was promoted to Flying Officer in May 1944.
+
+==Appearance==
+'''Light Novel'''
+*[[Brave Witches Prequel]], Volume 3
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Lee Archer (pilot)|Lee Andrew Archer Jr.]]
+*On her profile picture, it is written "The tallest witch saluted", "Excuse me", and "She had a face as if there were no serious people around here except her".
+*Leigh Andrea Archer is the first confirmed African-Liberion Witch of the series, and is also the second confirmed, named canon witch of African ethnicity after [[Matilda]].
+*She actually has familiars features unlike Matilda, making Leigh Andrea Archer the first confirmed Witch of African ethnicity to actually have a familiar.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Brave Witches LN 507th Profiles of Lee Andrea Archer and Haruka Sakamizu.png|Leigh and [[Sakomizu Haruka|Haruka]]
+</gallery>
+[[Category:Strike Witch]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Liberion]]

@@ -1,0 +1,79 @@
+{{Character_Infobox
+|title1=Geena Preddy
+|image1=Geena_profile.jpg
+|caption1=
+|kanji_name=ジーナ・プレディ
+|romaji_name=
+|age=19
+|birth_date= 5 February 1926 
+|height=167 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 352nd Fighter Group, 328th Fighter Squadron ("Blue Legs") (Commander)
+|team=[[506th Joint Fighter Wing]] (B-unit Commanding Officer)
+|rank=Flight Lieutenant<br>Wing Commander (late 1944)
+|striker unit(s)=[[Wikipedia:Curtiss P-40 Warhawk|Curtin P-40]]<br>[[Wikipedia:Republic P-47 Thunderbolt|Republican P-47]]<br>[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (4414906 "Cripes A'Mighty") 
+|weapon(s)=[[Wikipedia:M2 Browning|AN/M2 Browning HMG]]<br>[[Wikipedia:Winchester_rifle|Winchester Rifle]]
+|familiar=[[Wikipedia:Northern Goshawk|Northern Goshawk]]
+|seiyuu_(japanese)=[[Wikipedia:Nao Tōyama|Tōyama Nao]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Geena Preddy''' (ジーナ・プレディ) is a Witch of the [[506th Joint Fighter Wing]], originating from [[Liberion]].
+
+==Background==
+She has a reputation of good shooter and commander. Geena is diligent and reliable, if she has free time she practices or coaches her subordinates. She flew a P-40 [[Striker Unit]] and was attached to a unit that worked together with [[Fuso]] in the Red Sea, but she collided with a wingman and was sent to Liberion to be hospitalized for a while. Afterwards she changed to the P-47 and was dispatched into Europe in the 352nd Fighter Group.
+
+She was sent to Norfolk in the southeast of [[Britannia]]. She was near the Northern Sea in the Bodney base where she protected Britannia's air space and slowly grew her kill count. Her life in that base was very much affected by the Britannian way of living, with Geena's accent even changing slightly. Her experiences in that base were probably the reason she later was sent to the [[506th Joint Fighter Wing|506th JFW]].
+
+When she changed her [[Striker Unit]] to the P-51, her kill count started to rapidly increase. Especially when she was in Gallian base after [[Gallia]] was liberated, she made a Liberian record of destroying six small [[Neuroi]] in succession, remarking humbly, "That was just some left-overs from all the ones that the [[501st Joint Fighter Wing|501st]] destroyed".
+
+Due to many accidents in training, as well as incidents of accidental gun explosions, people began calling her "Unlucky Preddy". When she was in Britannia, Sergeant [[Kuhaneck]], who was in charge of weapons, took care of her Striker and weapons, and no malfunction happened again. This caused Geena to lose the nickname, for which she was very grateful.
+
+Sadly, that luck didn't last long. She was badly injured again the 25 December 1944, when Liberion AA-fire hit her Striker when she was in a battle with Neuroi in the [[Belgica]]n sky, and she fell to the snow below. She rested and healed the best she could, but returning to battle any time soon would've been difficult. Because she was a Commanding Officer candidate for a new unit, she took a special position as a Commanding Officer in 506th JFW B-unit, where she could recuperate.
+
+==Personality==
+Geena is neither an aggressive nor passive type of leader. She likes maintaining schedules and following them properly, and her favorite pastime is doing crossword puzzles. Geena is very modest, with a calm, almost fatherly personality towards those in her unit, resulting in her often apologizing to [[Rosalie de Hemricourt de Grunne|Major Grunne]] for the antics of the B-unit, though the latter doesn't seem to mind.
+
+==Abilities==
+Her magical ability is a combination of far-seeing and enhanced kinetic vision called '''Hawkeye'''. This allows her to keep watch on battles from afar, and her aim is nearly flawless, even at incredibly far distances. This fits her calm personality and ability to command well, allowing her to direct her forces with clean precision.
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D]]
+|image=P51-D Preddy SW1.jpg
+|description=The unit of Squadron Leader Preddy, a famous marksman and commander of the 352nd Fighter Group, known as the "Blue Legs". It is nicknamed "Cripes A'Mighty".
+}}
+
+==Appearances==
+'''Manga'''
+* [[Noble Witches: The 506th Joint Fighter Wing]]
+'''Light Novel'''
+* [[Noble Witches: The 506th Joint Fighter Wing (light novel)]]
+'''Other'''
+* [[Kuroda short story]]
+
+==Trivia==
+*Her familiar is the Northern Goshawk.
+*She is based on [[wikipedia:George_Preddy|George Preddy]], who was a United States Army Air Forces officer during World War II and an American ace credited with 26.83 victories, ranking him as the top P-51 Mustang ace of World War II and eighth on the list of all-time highest-scoring American aces. Like Geena, George was hit by "friendly fire" from American AA batteries on December 25th, 1944 (believed to be part of the 430th AA Battalion, XIX Corps) fired at an Fw 190 but missed and instead hit three P-51s. Preddy managed to release his canopy but was unable to bail out before his aircraft hit the ground at high speed and a low angle. He had a chance of surviving the crash, but unlike Geena, his wounds from .50-caliber fire were mortal.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+File:Geena Scan 1.jpg
+File:Geena Scan 2.jpg
+File:Wild west carla geena marian neuroi noble by shimada fumikane eff043511d54f72fea7d68a337d2cf00.jpg
+File:Geena Preddy.png
+File:Carla j luksic and geena preddy strike witches and world witches series drawn by shimada fumikane.jpg
+File:506th Noble Witches light novel cover 4.jpg
+File:Geena LN 1.jpeg
+File:Geena & Carla 2.jpeg
+File:Carla, jennifer, Marian, Geena LN.jpeg
+File:Geena LN 2.jpeg
+File:Geena LN 3.jpeg
+File:Geena LN 4.jpeg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Wing Commanders]]
+[[Category:506th Joint Fighter Wing]]
+[[Category:Liberion]]

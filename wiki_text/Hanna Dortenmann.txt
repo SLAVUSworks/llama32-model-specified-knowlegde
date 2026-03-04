@@ -1,0 +1,43 @@
+{{Character_Infobox
+|title1=Hanna Dortenmann
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=11 December
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 26th Fighter Wing 14th Flying Corps ([[Wikipedia:Jagdgeschwader_26|14./JG26]])
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Focke-Wulf_Fw_190#Fw_190D|Flak-Wulf Fw190D-9/R11]] (Red No.1)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Hanna Dortenmann''' (ハンナ・ドーテンマン<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch from [[Karlsland]] and attached with the Karlsland Air Force.
+
+==Background==
+Hanna enlisted as a land-based Witch, but was reassigned to the Air Force once her talent as a flying Witch was discovered.
+
+==Striker units==
+{{Striker unit template
+|name=[[Flakwolf Fw190|FlakWolf Fw190D-9/R11 (red No.1)]]
+|image=Fw190D-9R11 Dortenmann SW2.jpg
+|description=This unit is approximatively from the time she was transferred from the JG54 to the JG26.
+}}
+
+==Trivia==
+Her ace archetype is [[Wikipedia:Hans_Dortenmann|Hans Dortenmann]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Tank Witch]]
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Characters with no art]]
+[[Category:Karlsland]]

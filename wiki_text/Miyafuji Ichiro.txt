@@ -1,0 +1,59 @@
+{{stub}}
+{{Character_Infobox
+|title1=Miyafuji Ichiro
+|image1=image:Dr-miyafuji2.jpg
+|caption1=
+|kanji_name=宮藤一郎
+|romaji_name=
+|age=?
+|birth_date=June 22
+|height=182 cm
+|blood_type=
+|nationality=[[Fuso]]
+|affiliation(s)=Miyabishi Heavy Industries<br>Fuso Imperial Navy
+|team=
+|rank=
+|striker unit(s)=
+|weapon(s)=
+|familiar=
+|seiyuu_(japanese)=[[Wikipedia:Hozumi Gōda|Hozumi Gōda]]
+|seiyuu_(english)=[[Wikipedia:John Burgmeier|John Burgmeier]]
+|appearances=
+}}
+'''Ichiro Miyafuji''' (宮藤一郎<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is based on [https://en.wikipedia.org/wiki/Jiro_Horikoshi Jiro Hirokoshi], the chief engineer behind many Japanese fighters of WWII as well as the post-war civilian air crafts. He also wrote a book called "The Mechanical Adaptation of Magical Force".
+
+==Background==
+Dr. Miyafuji is married to [[Miyafuji Sayaka|Sayaka]] and has a daughter, [[Miyafuji Yoshika|Yoshika]]. He left Yoshika when she was five to work on the [[Striker Unit]]s in Britannia. On Yoshika's tenth birthday, he was declared dead by being caught in the accidental explosion of his lab, and Yoshika received a bag of his personal effects in the mail. The military refused to tell Yoshika where and why he died, as it was classified information, and Yoshika came to blame the war for the loss of her father.
+
+Despite his apparent death, Yoshika received a letter from her father many years after his death which included two pictures, one of him alone, and one of him with [[Sakamoto Mio]]. Hoping that Mio knows something about her father's death, Yoshika traveled to Britannia with Mio, only to find the ruins of his laboratory and his grave.
+
+Many months later, Yoshika received another letter from him which included the blueprints for a part of the new Striker Unit (J7W1 Shinden) for her. The letter was caught in censorship and was delivered many years after Dr. Miyafuji's death. When the new Striker Unit was complete, Yoshika heard his voice in the hangar of the Yamato while the doors opened up to unveil it.
+
+==Influence==
+Ichiro's grave has an epitaph engraved which reads "Use your power to protect everyone," a phrase Dr. Miyafuji used to say many times. This gave Yoshika motivation to volunteer as a Witch, setting the story forward. 
+
+==Notable Works==
+Dr. Miyafuji is known inventing the Striker Units.    
+He mostly worked with Miyabishi Heavy Industries in developing Fuso Navy Striker Units.
+*A3M1 Carrier Fighter Prototype 7
+*A5M Carrier Fighter Prototype 9
+*A5M Type 96 Carrier Fighter
+*A6M1 Carrier Fighter Prototype 12
+*A6M Type 0 Carrier Fighter
+*Magic Circuit for J7W1 Shinden
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches]] (Yoshika's vision)
+*[[Strike Witches 2]] (Yoshika's vision)
+'''Manga'''
+*[[Strike Witches Zero:1939 Koukaku no majo]]
+*[[Strike Witches: The 501st Joint Fighter Wing]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Miyafuji Ichiro 1938.jpg|Miyafuji Ichiro in Britannia in 1938
+</gallery>
+[[Category:Other Characters]]
+[[Category:Fuso]]
+[[Category:Historical Characters/Events]]

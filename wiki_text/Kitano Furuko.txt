@@ -1,0 +1,73 @@
+{{Character_Infobox
+|title1=Kitano Furuko
+|image1=Furu.jpg
+|caption1=
+|kanji_name=北野 古子
+|romaji_name=
+|age=
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=Fuso
+|affiliation(s)=Fuso Imperial Army
+|team =[[31st Joint Fighter Squadron Africa]] 
+|rank=Sergeant
+|striker unit(s)=[http://en.wikipedia.org/wiki/Type_97_Chi-Ha Type 97]
+|weapon(s)=[http://en.wikipedia.org/wiki/Type_38_rifle Type 38 Infantry Rifle]
+|familiar=Rabbit
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kitano Furuko''' (北野 古子) is a Witch of the [[31st Joint Fighter Squadron Africa]], originating from [[Fuso]]. Furuko is a [[Fuso Imperial Army]] land-based Witch, also nicknamed Ruko.
+
+==Background==
+She was assigned to [[31st Joint Fighter Squadron Africa]] right after she graduated Fuso Imperial Army Witch School in Narashino.
+
+Upon her arrival to Africa, Ruko was marked as "lost" by the army command, and indeed she was lost for 3 days, trekking through the North African desert on her own to her assigned unit. By the third day, she ran into [[Erwin Rommel|General Rommel]], whom himself and his command staff were happened to be chased by a stray large land-type Neuroi. Though Ruko lacked the firepower to deal with it, fortunately [[Hanna-Justina Marseille|Marseille]] and [[Raisa Pöttgen|Raisa]] arrived in time to chase it off. Then she passed out and was carried into the 31st JFS base by Rommel himself.
+
+Before she enlisted as a Witch, Ruko wanted to pursue a career in fashion. Even after she came to Africa, she does hair dressing for various Witches, which [[Charlotte Lueder|Charlotte]] especially loves, and mending clothes for the [[Patton Girls]].
+
+Ruko also admits to being an orphan to Charlotte to help raise the young Tiger operator's spirit.
+
+Ruko was also known somewhat as being the witch that managed to, quite literally, knock some sense into the three Generals Patton, Montgomery and Rommel after their initial bickering over who had command of and how to deploy the witch units in Africa after the attempts to destroy the aforementioned stray large land-type [[Neuroi]] were nearly botched by the three Generals. This was due to them arguing with each other due to differences in strategy and tactics and discontent in their peers commanding of the witches and giving orders to the Britannia Army C Squadron, the Patton Girls and the Tiger I piloted by Charlotte becoming confusing, chaotic and allowing the Neuroi to slip away from the engagement zone and get too close to the three Generals, Matilda and Ruko herself. Though Matilda and Ruko managed to work together to save the lives of the three Generals and destroy the Neuroi, the witches were less than impressed, but Kitano was noted as being the witch that struck the three generals once upon the head (to the shock and bemusement of her witch peers) and made a very earnest, firm, yet polite appeal for the three Generals to get along. It was thanks to this "request" and the impressive blue sky which Ruko made that appeal that the three Generals managed to reach a better consensus to form a Joint Combat Group.
+
+==Equipment==
+Unlike most other land-based Witches, Ruko does not carry witch combat guns. Instead, she uses a [http://en.wikipedia.org/wiki/Type_38_rifle Type 38 Infantry Rifle] with a bayonet. This is probably a reference to how the real Type 97 Chi-Ha tanks had very poor armament.
+She is also seen using a bayonet by itself and even throwing SPEM cans at Neuroi.
+
+Though her equipment means she lacks the firepower to deal with the kind of mid-to-large land-type Neuroi units so commonly found on the North African battlefield, nevertheless Ruko fills in the riding shotgun role effectively to other witches she happens to team up with.
+
+==Appearances==
+'''Doujinshi'''
+* [[Africa Doujinshi#Witches of the Sphinx 1|The Witches of the Sphinx 1]]
+* [[Africa Doujinshi#Witches of the Sphinx 2|The Witches of the Sphinx 2]]
+* [[Africa Doujinshi#Witches of the Sphinx 3|The Witches of the Sphinx 3]]
+* [http://strikewitches.wikia.com/index.php?title=Special:NewFiles&image=x999-143_Major_Miles-jpg The Witch of Stuka.] (Extra Story included in The Witches of Africa Total Comic Collection)
+* [[Africa_Doujinshi#Katou_Keiko_North Africa_Military_Photos_1943|Katou Keiko North Africa Military Photos 1943 ]]
+* [[Africa_Doujinshi#Witches_of_the_Sphinx 4|The Witches of the Sphinx 4]]
+* [[Africa Doujinshi#Witches of the Sphinx 5|The Witches of the Sphinx 5]]
+'''Manga'''
+* [[Strike Witches: Andorra no Majo]]
+'''Other'''
+* [https://gup.fandom.com/wiki/Girls_und_Panzer:_Ribbon_Warrior Girls und Panzer: Ribbon Warrior] (Cameo Appearance in Chapter 43, Page 22)
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+MatildaMilesRuko.png|Furuko alongside Matilda, Major Miles and Eleanor Dickens
+Fernandia, Luciana, and Martina give Kitano Furuko directions.png|Ruko getting directions from Fernandia, Luciana, and Martina of the 504th Red Pants Squadron
+Matilda getting her hair done.png|Furuko doing Matilda's hair
+Ruko off to Gallia.png
+Mathilda & Furuko 1943 photo.jpg
+Furoko 1943 photo.JPG
+Charlotte Lueder & Ruko 3.jpg
+Kitano Furuko 7.jpg
+Matilda greats Kei and Ruko.png
+Hanna and Raisa spot and report Ruko.png
+File:Ribbon Warrior Cameos.png|Girls und Panzer: Ribbon Warrior Cameo with Marseille (Center) and Katou (Left)
+</gallery>
+[[Category:Article stubs]]
+[[Category:Tank Witch]]
+[[Category:Sergeants]]
+[[Category:31st Joint Fighter Squadron Africa]]
+[[Category:Fuso]]

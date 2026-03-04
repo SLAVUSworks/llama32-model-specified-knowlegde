@@ -1,0 +1,58 @@
+{{Character_Infobox
+|title1=Inufusa Yuno
+|image1=Inufusa_Yuno.png
+|caption1=
+|kanji_name=犬房由乃
+|romaji_name=
+|age=19 (end of 1944) 
+|birth_date=31 March 1925
+|height=158 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 50th Fighter Squadron
+|team = [[505th Joint Fighter Wing]]
+|rank=Warrant Officer
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Model I Hayabusa]]
+|weapon(s)=[http://en.wikipedia.org/wiki/MG_34 MG-34]
+|familiar=Akita-inu
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Inufusa Yuno''' (犬房由乃) is a Witch of the [[505th Joint Fighter Wing]], originating from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==Background==
+Originally part of the armored infantry, she participated in the [[Fuso Sea Incident]] as a land-based Witch. While performing air support for the aerial Witches, she admired their flying silhouettes and applied for a transference to the flight corps. When there was a shortage of aerial Witches due to the deteriorating progress of the war, her desire for transference was accepted and she was matriculated into the Kumagaya Flight Academy as a non-commissioned officer student.
+
+After receiving intensive training, she set her eyes on the European Dispatch and transferred to the Field Replenishment Flying Corps. Achieving excellent results, she was one of the Witches dispatched from Fuso for a [[Neuroi|Kaii]] surveillance mission in the [[Wikipedia:Carpathian_Mountains|Carpathian Mountains]].
+
+Following her deployment to Europe, she continued to act as a member of the Volunteer Flight Corps in Karlsland, but was shot by a medium-type Neuroi during a battle and crashed. Because the crash site was within the domains of Duke Cantacuzino of [[Dacia]], she stayed to receive medical treatment at the Duke's house just like that. As she was already being regarded as killed in action in the Fuso Army, there is this anecdote of how she gave everyone a big surprise by contacting her home unit once her consciousness returned.
+
+Though the [[Striker Unit|unit]] that she used at that time (a [[Wikipedia:Nakajima_Ki-43|Ki-43]]) was damaged, it was sent to the [[Wikipedia:Industria_Aeronautică_Română|Dacia's IRD]] and repaired to be as good as new. The IRD applied the results of this Ki-43's study and considered the development of a new model of Striker Unit by adopting its structure in the [[Wikipedia:IAR_80|IRD80]]. The single prototype to ever be built was sent to [[Constantia Cantacuzino|Reserve Flight Lieutenant Cantacuzino]] (''See [[Talk:Inufusa Yuno|Talk page]] '').
+
+Even after her injury healed, Yuno did not return to her home unit, but instead took action together with Reserve Flight Lieutenant Cantacuzino in the "Longest Evacuation War" campaign. Due to her career as a former-armored infantry, she excels at survival abilities and frequently made great contributions during the Evacuation War, such as supplying materials and food, securing water and breaking through the enemy. When they were on standby in [[Wikipedia:Baku|Baku]], she successfully made contact with the Fuso Army located in the [[Wikipedia:Persian_Gulf|Persian Gulf district]], receiving the supplies of materials such as Striker Units, weapons and ammunition to reorganize the corps.
+
+==Appearances==
+'''Manga'''
+*[[World Witches: Contrail of Witches]]
+
+==Trivia==
+*She is based on [https://ja.wikipedia.org/wiki/大房養次郎 Oofusa Youjirou].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+1356970065145.jpg
+Inufusa Scan.jpg
+Inufusa Looking Back.JPG
+inufusa.jpg
+World_Witches_2018_cover.jpg
+Contrail of Witches cover 2.jpeg|Contrail of Witches volume 2 cover
+Inufusa Yuno land striker.png|Yuno using a land striker unit
+</gallery>
+[[Category:Tank Witch]]
+[[Category:Strike Witch]]
+[[Category:Warrant Officers]]
+[[Category:Flight Sergeants]]
+[[Category:505th Joint Fighter Wing]]
+[[Category:Fuso]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]

@@ -1,0 +1,48 @@
+{{stub}}
+{{Unit Infobox
+|title1=508<sup>th</sup> Joint Fighter Wing
+|image1=file:508.png
+|caption1=508<sup>th</sup> JFW insignia
+|name=連合軍第508統合戦闘航空団
+|romaji_name=Rengō-gun dai 508 Tōgō Sentō Kōkū-dan
+|nickname(s)=Mighty Witches
+|affiliation(s)=[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]<br>[[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]
+|branch=
+|HQ=
+|commanding_officer=Wing Commander [[Jane Thach|Jane S. Thach]]
+|area_of_operations=
+|base= [[Wikipedia:USS Enterprise (CV-6)|USS Enterprise]] ([[File:Flag of Liberion.svg|border|23px]])<br>
+[[Wikipedia:HMS Victorious (R38)|HMS Victorious]] ([[File:Flag of Britannia.svg|border|23px]])<br>
+[[Wikipedia:Japanese aircraft carrier Shōkaku|Shōkaku]] ([[File:Flag of Fuso.svg|border|23px]])
+}}
+The '''508<sup>th</sup> Joint Fighter Wing "Mighty Witches"''' (第508統合戦闘航空団「マイティウィッチーズ」) is stationed in the [[Wikipedia:Atlantic Ocean|Atlantic Ocean]] and their "base" is comprised of the [[Wikipedia:USS Enterprise (CV-6)|USS Enterprise]] ([[Liberion]]), [[Wikipedia:HMS Victorious (R38)|HMS Victorious]] ([[Britannia]]), and the [[Wikipedia:Japanese aircraft carrier Shōkaku|Shōkaku]] ([[Fuso]]). It's made up of 4 Liberians, 4 Fusoans, and 1 Britannian.
+
+Originally formed for the Task Force 16 and the Fifth Carrier Division, with the collaboration of Liberion, Britannia and Fuso, the 508th JFW form the lynchpin to the Allied forces Atlantic fleet, working to prevent the Neuroi from trying to send units to invade and raid Liberion from the Atlantic.
+
+Thanks to the highly successful efforts of the 508th and the Atlantic fleets, no [[Neuroi]] has been able to reach Liberion.
+
+==Members==
+Commanding Officer
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Wing Commander [[Jane Thach|Jane S. Thach]]
+Commanding Officer in battle
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Squadron Leader [[Shindou Mie|Shindō Mie]]
+Members
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flight Lieutenant [[Karibuchi Takami]]
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Flight Lieutenant [[Delia Jeram|Delia M. Jeram]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flying Officer [[Cecilia Harris|Cecilia E. Harris]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flying Officer [[Jamie Swett|Jamie E. Swett]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flying Officer [[Dorothy Baker]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Matsuda Shouko|Matsuda Shōko]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Kobayashi Sadae]]
+
+== Trivia ==
+
+* The two naval task force the 508th was initially formed from were two actual naval formations.
+** [https://en.wikipedia.org/wiki/Task_Force_16 Task Force 16] was formed in February of 1942 around the USS Enterprise and the naval task force would go on to participate on many famous actions such as [https://en.wikipedia.org/wiki/Battle_of_Midway the Battle of Midway], [https://en.wikipedia.org/wiki/Battle_of_the_Eastern_Solomons Battle of Eastern Solomons], and [https://en.wikipedia.org/wiki/Battle_of_the_Santa_Cruz_Islands Battle of Santa Cruz]. These battles would make the task force one of the most famous naval task forces of [https://en.wikipedia.org/wiki/World_War_II World War II].
+** The [https://en.wikipedia.org/wiki/Fifth_Carrier_Division Fifth Carrier Division] centered around the Japanese carriers Shōkaku and [https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Zuikaku Zuikaku] and formed in August of 1941. The two fleet carriers participated in [https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor the attack on Pearl Harbor], [https://en.wikipedia.org/wiki/Indian_Ocean_raid the Indian Ocean Raids], and [https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea the Battle of Coral Sea]. In July of 1942, a month after the Battle of Midway, the two fleet carriers were reassigned to the First Carrier Division, thus permanently dissolving the Fifth Carrier Division.
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:Article stubs]]
+[[Category:508th Joint Fighter Wing]]
+[[Category:Joint Fighter Wings]]

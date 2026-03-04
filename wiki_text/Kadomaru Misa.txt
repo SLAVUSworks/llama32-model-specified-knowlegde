@@ -1,0 +1,55 @@
+{{Character_Infobox
+|title1=Kadomaru Misa
+|image1=Misa_Kadomaru.jpg
+|caption1=
+|kanji_name=角丸美佐
+|romaji_name=
+|age=19 (end of 1944)
+|birth_date=1 October
+|height=167 cm
+|blood_type=
+|nationality=Fuso
+|affiliation(s)=Fuso Imperial Army 50th Fighter Squadron
+|team = [[Isle of Wight Detachment Group]]
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 late Model II Hayabusa]]
+|weapon(s)=[[Wikipedia:M1919_Browning_machine_gun|M1919A6]]<br>[[Wikipedia:Tant%C5%8D|Short Sword]]
+|familiar=Hinata-dog
+|seiyuu_(japanese)=
+|seiyuu_(english)=
+|appearances=
+}}
+'''Kadomaru Misa''' (角丸美佐) is a Witch of the [[Isle of Wight Detachment Group]], originating from [[Fuso]] and attached with the [[Fuso Imperial Army]]. In the early days of the war, the 50th Fighter Squadron that she is part of produced many aces and left conspicuous services everywhere as part of the Fuso Army's European Dispatch Corps, becoming extremely well-known just like the [[Katou Takeko|64th Fighter Squadron]].
+
+==Background==
+At the same time that her powers as a Witch manifested themselves, Misa volunteered to become a female aviator, broke through all barriers, and matriculated into the Tokorozawa Army Flight Academy. After graduation, Misa got appointed a Corporal and - because the Fuso Sea Incident was in its height - was immediately sent to a combat unit. Though she shot down two units during the campaign, the Fuso Sea Incident soon came to an end. Then, after returning to Fuso, she matriculated into a military.
+
+Upon being appointed a Pilot Officer, she was assigned to the 50th Fighter Squadron 3rd Company and deployed to Europe before long, assuming defense duties of [[Ostmark]] in [[Wikipedia:Valmiera|Valmiera]]. On the third day after her arrival, Misa achieved the meritorious deed of shooting down 2 medium-type [[Neuroi]]. However, because the [[Striker Unit|unit]] she used was a powerless [[Wikipedia:Nakajima_Ki-43|Hayabusa]], her method of attack was extremely dangerous (approaching until super point-blank range and driving in the Vajra Power), causing those around her to be extremely worried.
+
+On the night of December 24, 1943, when she attempted to take off to intercept a Neuroi that raided [[Britannia]], Misa got caught up in the explosion of the base's ammunition warehouse that was induced by a Neuroi attack, receiving a serious injury. Ordered to transfer to the self-defense squad in the Isle of Wight, which also served as a health resort for the treatment of injuries, she then assumed the office of [[Isle of Wight Detachment Group]]'s commander. Although she lost her confidence because she was unable to organize the team, she regained her composure as a commander with the advice of [[Wilma Bishop]]. She is the second most experienced Witch in the group, next to Wilma.
+
+After the Isle of Wight was disbanded (during the end of Strike Witches season 1), her wounds healed, and she returned to Fuso.
+
+==Abilities==
+Her inherent magic is called Vajra Power (金剛力, ''kongouriki''). An application of the method of [[w:c:powerlisting:Projectile Enhancement|imbuing magical energy into substances]] that is also used in magic bullets, Misa injects magical energy into an object she holds in her hand and destroys the target by releasing it all at once. Because the magical power will leak out before it is fully injected if the object is bigger than a certain degree, and because the intermediary ends up destroyed altogether when the magical power is released if it is made of soft materials such as wood or paper, a short sword of moderate size is employed as weapon. It cannot be used unless Misa is up-close to the opponent. Consequentially she herself also ends up being shot down time and again, often becoming unable to return home instantly due to not being able to withstand the injury.
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: One-Winged Witches]]
+
+==Trivia==
+*Her familiar is a Hinata-dog (日向犬, ''hinata inu''), a breed of dog from [[Wikipedia:Miyazaki_Prefecture|Miyazaki]] that is currently already extinct.
+*She is based on Kanamaru Teizou (金丸貞三).
+*One of her hobbies is throwing darts. When she was experimenting with long-range attacks by practicing knife-throwing in a corner of the base, a Britannian Witch that saw her misunderstood and forcibly invited her to play darts. Afterwards, Misa herself took a liking of darts and started to play often in the base's break room. When she injected magical power in a toothpick and threw it out of fun, she pulverized the dart board along with the wall of the break room. Ever since then, she became feared as the "Shooter of Magic Bullets" (魔弾の射手, ''madan no ite'').
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Kadomaru Scan.jpg
+Kadomaru Scan 2.jpg
+Kadomaru Misa.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Isle of Wight Detachment Group]]
+[[Category:Fuso]]
+[[Category:Article stubs]]

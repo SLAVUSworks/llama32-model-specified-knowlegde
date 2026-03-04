@@ -1,0 +1,47 @@
+<p style="text-align: center;">Illustrations for Suomus Misfits Squadron in Love</p>
+
+<p style="text-align: center;"><gallery spacing="small" columns="3" widths="200">
+sw02_000a.jpg
+Sw02 000d.jpg
+Sw02 000e.jpg
+Sw02 000f.jpg
+sw02_000g.jpg
+</gallery></p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;">
+</p>
+
+<p style="text-align: center;"><gallery widths="200" columns="3" spacing="small">
+Sw02 004-005.png|Pages 004 - 005
+Sw02 006.png|Page 006
+Sw02 029.png|Page 029
+Misfits vol2 P069.png|Page 069
+Sw02 161.png|Page 161
+Sw02 201.png|Page 201
+</gallery></p>
+
+<noinclude>
+{| border="1" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaaaaa solid; padding: 0.2em; border-collapse: collapse;"
+|-
+| Return to [[Suomus Misfits Squadron in Love|Main Page]]
+| Forward to [[Chapter 1 - Dark Clouds over Suomus |Chapter 1]]
+|-
+|}
+</noinclude>
+[[Category:Suomus Misfit Squad]]
+[[Category:Light novels]]

@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Luisa Torchio
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force 337th Independent Squadron
+|team =
+|rank=Flying officer
+|striker unit(s)=[[Wikipedia:Fiat_G.55|Farotto G.55 "Centauro"]] (377-4)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Luisa Torchio''' is a Witch originating from [[Romagna]].
+
+==Background==
+Luisa is one of the few night witches of the Duchy of Romagna. Her squadron mark is an owl suspend from the moon.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55 (No. 337-4)]]
+|image=G55 Torchio SW1.jpg
+|description=The squadron emblem is an owl suspended from the moon.
+}}
+
+==Trivia==
+*Her ace archetype is [http://surfcity.kund.dalnet.se/italy_torchio.htm Luigi Trukio].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Romagna]]
+[[Category:Characters with no art]]

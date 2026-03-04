@@ -1,0 +1,31 @@
+{{Infobox
+|Box title = Good Luck
+|image = File:Brave_Witches_06_eyecatch.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Kōun wo
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 06
+|Row 4 title = Airdate:
+|Row 4 info = November 16, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 5, "Deadly Battle in the Freezing Cold"|Deadly Battle in the Freezing Cold]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 7, "On a Holy Night"|On a Holy Night]]
+}}
+
+[[Karibuchi Hikari|Hikari]] is seen training with [[Edytha Rossmann|Rossmann]] in order to improve her balancing, while [[Nikka Edvardine Katajainen|Nipa]] is being punished by [[Aleksandra I. Pokryshkin|Sasha]] for breaking her [[Striker Unit]] again. Meanwhile, a [[Neuroi]] warhead hit the Northern observatory post, prompting the [[502nd Joint Fighter Wing|502nd]] to search for it. Inside the hangar, Nipa finds something inside of her striker but it is not revealed yet. Sasha eventually finds the artillery-type Neuroi, but she is unable to kill it nor stop it from destroying the warehouse, causing a supply shortage for the 502nd. The next morning, it is revealed that there is a Neuroi spotter assisting the artillery-type Neuroi. The 502nd decide to split into two teams; one tasked with destroying the artillery-type Neuroi, while the other, headed by Sasha, is tasked with destroying the spotter. They find the spotter, but it turns out to be a shapeshifter as well. Sasha suddenly has a recollection about Petersburg, although she thought that she did not have any particular memory about it previously. That night, Nipa tried to draw something on Sasha's striker unit, only to get scolded by her. The next morning, Sasha tried to engage the spotter Neuroi again, but failed, although she finally recalled her memories from Petersburg and why she didn't remember anything beforehand; as a child, she was self-conscious about her ability as a Witch. After remembering everything, she uses this to aid her in finally destroying the spotter Neuroi. Meanwhile, the other team managed to destroy the artillery-type Neuroi, but they failed to prevent it from launching a final warhead. Sasha ordered the team to retreat, but Nipa refused and intercepted the warhead, rendering her momentarily unconscious in the process. Finally, Nipa explains why she drew on Sasha's striker unit; because she saw Sasha writing “good luck” inside Nipa's striker, so she wanted to respond with kindness. The episode ends with Sasha making a promising to herself that she'll continue to protect Petersburg until she can see her family again.
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 5, "Deadly Battle in the Freezing Cold"|05: "Deadly Battle in the Freezing Cold"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 7, "On a Holy Night"|07: "On a Holy Night"]] >>
+|}
+
+
+[[Category:Brave Witches]]

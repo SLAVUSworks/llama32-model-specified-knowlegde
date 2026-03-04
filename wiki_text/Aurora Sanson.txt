@@ -1,0 +1,43 @@
+{{Character_Infobox
+|title1=Aurora Sanson
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force Fighter Group II 5th Fighter Squadron
+|team =
+|rank=Warrant officer 
+|striker unit(s)=[[Wikipedia:Fiat_G.55|Farotto G.55 "Centauro"]] (Yellow No. 5)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Aurora Sanson''' is a Witch originating from [[Romagna]]. She is known as the "Diavolo Rosso" (Red Devil).
+
+==Background==
+Aurora operated jointly with the [[Karlsland]] Army.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55 (Yellow No. 5)]]
+|image=G55 Sanson SW2.jpg
+|description=Aurora Sanson's unit. She was nicknamed the "Red Devil" when the karlsland army and the 5th Squadron were doing joint operations. It has a Karlsland-style camouflage and was sometimes mistaken for a BF109G.
+}}
+
+==Trivia==
+*Her ace archetype is Attilio Sanson.
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 3.
+
+[[Category:Strike Witch]]
+[[Category:Warrant Officers]]
+[[Category:Romagna]]
+[[Category:Characters with no art]]

@@ -1,0 +1,31 @@
+{{Character_Infobox
+|title1=Nishizawa
+|image1=Nishizawa_1.jpg
+|caption1=
+|kanji_name=西澤
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army Yokosuka training base
+|team = 
+|rank=Trainee
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-27|Nagashima Flight Legs Type 97 Ki-27]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Nishizawa''' (西澤) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. She was a side character in [[Tenkū no Otome-tachi|Strike Witches: Maidens in the Sky]]. '''This manga has since been retconned, and no longer considered canon.'''
+
+==Background==
+She is first seen training at the Yokosuka base under the guidance of [[Takei Junko]]. She is one of the three combat-ready witches at the base, aside from Junko.
+
+==Trivia==
+*Her ace archetype was believed to be [[Wikipedia:Hiroyoshi_Nishizawa|Hiroyoshi Nishizawa]], but this pilot was eventually used for [[Nishizawa Yoshiko]] instead after [[Tenkū no Otome-tachi|Maidens in the Sky]] was retconned by Humikane.
+[[Category:Strike Witch]]
+[[Category:Fuso]]
+[[Category:Retconned Content]]

@@ -1,0 +1,47 @@
+{{Character_Infobox
+|title1=Giovanna Bonet
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=24 July
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force [[Wikipedia:it:Squadriglia complementare d'allarme "Montefusco-Bonet"|Montefusco Auxiliary Squadron]]
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Fiat_G.55|Farotto G.55 "Centauro"]] (MM91065)<br>Farotto G.55S "Strega" (tuned G.55) (MM91147) 
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Giovanna Bonet''' is a Witch originating from [[Romagna]].
+
+==Background==
+She is part of the [[Wikipedia:it:Squadriglia complementare d'allarme "Montefusco-Bonet"|Bonet Auxiliary Squadron]] that supports the [[Liberion]] 325th Fighter Group in the defense of Romagna. Although the squadron should normally only do support, in reality during their missions they dispatch like the 325th Fighter Squadron and defend together.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55 (No. MM91065)]]
+|image=G55 Bonet SW1.jpg
+|description=One of the few G55 units with a known serial number. Many of the other units' records are scattered or lost, and their serial numbers are not known.
+}}
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55S (No. MM91147)]]
+|image=G55S Bonet SW2.jpg
+|description=The unit used by Flight Lieutenant Bonet during the support missions with Liberion's 325th Fighter Squadron, during the defense of Romagna.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:it:Giovanni_Bonet|Giovanni Bonet]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Romagna]]
+[[Category:Characters with no art]]

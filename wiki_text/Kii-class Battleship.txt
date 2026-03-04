@@ -1,0 +1,37 @@
+The Kii-class battleship was a class of Battleships used by the [[Fuso Imperial Navy]].
+==Overview==
+At the close of the First Neuroi War, the [[Fuso Imperial Navy]] was constructing several warships of the new ''Amagi''-class design. While they were originally intended to be high-speed battle cruisers, Fuso's experiences in the First Neuroi War, along with the advent of airplanes and airborne witches, convinced them to convert two of the cruisers, the Amagi and the Akagi, into aircraft carriers. Later, a third and a fourth Amagi-class ship made the conversion to carriers, but these were sold to [[Karlsland]] in exchange for advanced technology and machinery.
+
+Reflecting on what they'd learned from the First Neuroi War, the Fuso Navy demanded new battleship designs that would be both fast and maneuverable, while retaining firepower heavy enough to bombard Neuroi land-installations from outside of Neuroi firing range. The Amagi-class cruisers were fast enough, but had lighter armor; and their base armament, the same 45-caliber 41cm guns as the Nagato-class, was thought to be insufficient. Thus, the Amagi-class was redesigned into the more powerful Kii-class.
+
+At first glance, the exterior of the Kii-class was nearly identical to the Amagi-class. However, the Kii-class sported stronger, more strategically placed armor made from better materials. The ship's artillery magazine was strengthened, while additional armor plates protected the steam vents and funnel. The design also adopted advanced damage control technology from Karlsland and [[Liberion]], such as watertight bulkheads, ballast tanks, stronger pumps, fire-resistant materials, and fire extinguishers. The original plans called for four triple-turret 50-caliber 46cm guns, but development of that weapon was behind schedule, as the triple-turret itself was still in the design stages. The next-best choice, five 50-caliber 41cm gun turrets, fell through as well, for the same reason. But the conversion of the Amagi-class cruisers into carriers had left a surplus of 45-caliber 41cm guns originally meant as their armament. So the original Kii-class design retained the same armaments as the Amagi-class; however, the navy stipulated that these guns were to be replaced with the 50-caliber 41cm guns upon that weapon's completion. This led to major differences in weight distribution from the Amagi-class, as well as several other time-consuming adjustments to the design. In hindsight, this was generally agreed to have been a massive waste of time. Additionally, one proposal suggested that, instead of mounting the secondary guns by casemate directly into the superstructure, turret-guns should be installed along the broadsides. Since that would require yet more adjustments to the design, along with the need to prioritize manufacture of the new 14cm guns as main weapons for other battle cruisers, the proposal was shelved for use in later designs. Despite all this, the Kii-class design did manage to include several modifications that improved overall operation and use.
+
+After that long and complicated development process, the final design for the Kii-class was set. Construction began on the first ship of the class, the Kii in the Kure naval yard. At the same time, the Yokosuka naval yard began work on the second ship, the Owari. Two years later, both Ships launched. Outfitting them took another year, then construction was finally complete. At that point, the original schedule called for construction on the third and fourth ships to begin right away. However, the navy put priority on developing the 50-caliber 41cm guns, and delayed the new ships by more than a year. Construction finally began on the third ship, the ''Suruga'', at the Kobe Kawataki Shipyard; and the fourth ship, the ''Konoe'', at Miyahishi's Nagasaki shipyard. The Konoe launched before the Suruga, but both ships were outfitted and completed in numerical order. This outfitting required an extra year over that of the Kii and the Owari, as the manufacture of the new main guns took longer than expected. (The ''Kii'' and ''Owari'' had simply used the ready-made guns from the ''Amagi'' and ''Akagi''.) Some proposed that the Kii and Owari also upgrade their main guns to the newer models, but the time and cost required to manufacture the new guns, not to mention the difficulty of removing and replacing the old ones, tabled that idea. Furthermore, sudden advancements in Striker Units for the Witches led to an emphasis on the rapid construction of new and better aircraft carriers. The naval yards at Kure and Yokosuka were engaged in building new carriers, leaving no room to dock the completed battleships for re-outfitting.
+
+Though the Kii-class battleships were Fuso's most advanced warship at the time, they were not included in the 1st Fleet, but relegated to the 2nd Fleet. Development on the 50-caliber 46cm guns and triple-gun turrets called for in the original designs continued apace. A working 45-caliber 46cm gun was completed first, which would later become the primary weapon on the Yamato-class battleship.
+
+==Specifications==
+Displacement: 46,860t<br/>
+Overall length: 259.2m<br/>
+Beam:32.5m<br/>
+Draft:8.71m<br/>
+Power:161,000shp<br/>
+Speed:30.01kt<br/>
+Armaments:
+* 5x twin 41cm guns (Kii, Owari/Suruga, Konoe had 50cal. not 45cal. 41cm guns)
+* 16x single 14cm guns
+* 8x twin 12cm anti-aircraft guns
+
+Armor:
+* Waterline Belt - 305mm
+* Barbettes - 305mm
+* Conning tower - 356mm
+
+Range: 9,000nmi<br>
+Crew: Approx. 2,000
+
+==Sources==
+* [[Strike Witches Zero:1937 Fuso Sea Incident]]
+
+[[Category:Fuso]]
+[[Category:Vehicles & Vessels]]

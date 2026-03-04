@@ -1,0 +1,46 @@
+{{stub}}
+{{Character_Infobox
+|title1=Adelheid
+|image1=Adelheid_profile_picture.jpg
+|caption1=
+|kanji_name=アーデルハイト
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force Dive Bomber Wing 10th Squadron
+|team = 
+|rank=Pilot Officer
+|striker unit(s)=[[wikipedia:Junkers_Ju_87#Ju_87B|Jungfrau Ju87-b]]
+|weapon(s)=[[Wikipedia:MG 15|MG15]]
+|familiar=?
+|seiyuu_(japanese)=
+|seiyuu_(english)=
+|appearances=
+}}
+'''Adelheid''' is a Witch from [[Karlsland]] and attached with the Karlsland Air Force.
+
+==Appearances==
+'''Light Novels'''
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!]]
+'''Manga'''
+*[[World Witches: Contrail of Witches]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Hanna Rudel_4.jpg
+Hanna Rudel 3.jpg
+Adelheid - Contrail Ch3.png
+Adelheid - Contrail Ch4.png
+Adelheid & Rudel - Contrail Ch4a.png
+Adelheid & Rudel - Contrail Ch4b.png
+Misfits ReBOOT Aurora Hanna Rudel Adelheid.jpg|Misfits ReBOOT art
+Misfits Light Novel Reboot Rudel and Adelheid.png|Misfits ReBOOT art
+Hanna Scan 2.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Karlsland]]
+[[Category:Article stubs]]

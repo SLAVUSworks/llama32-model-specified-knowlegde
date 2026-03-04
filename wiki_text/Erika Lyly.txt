@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Erika Lyly
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=5 August
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 34th Squadron 1st Company
+|team =
+|rank=Staff Sergeant
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#G-5,_G-6|Messerscharf Bf109G-6]] (MT-423)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Erika Lyly''' is a witch originating from [[Suomus]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-6 (No. MT-423)]]
+|image=Bf109G-6 Lyly SW1.jpg
+|description=A unit depicting "an eagle fledgling on a broom", the emblem of the newly established 34th Squadron. This emblem is said to be a caricature of the squadron commander, which was adopted by the troops.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Erik Lyly|Erik Lyly]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 4.
+[[Category:Suomus]]
+[[Category:Strike Witch]]
+[[Category:Warrant Officers]]
+[[Category:Characters with no art]]

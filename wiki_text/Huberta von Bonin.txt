@@ -1,0 +1,78 @@
+{{Character_Infobox
+|title1=Huberta von Bonin
+|image1=Hsrga.JPG
+|caption1=Huberta von Bonin '40
+|kanji_name=フーベルタ・フォン・ボニン
+|romaji_name=
+|age=19 (1940)
+|birth_date= 3 August
+|height=168 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 52nd Fighter Wing 4th Flying Corps ([[Wikipedia:Jagdgeschwader_52|IV./JG52]])<br>Karlsland Air Force 54th Fighter Wing 1st Flying Corps (Commander) ([[Wikipedia:Jagdgeschwader_54|I./JG54]])
+|team =[[503rd Joint Fighter Wing]]
+|rank=Squadron Leader<br>Wing Commander (1945)
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#E-3|Messerscharf Bf109E-3]]<br>[[Wikipedia:Messerschmitt_Bf_109_variants#F-0.2C_F-1.2C_F-2|Messerscharf Bf109F-2]]<br>[[Wikipedia:Focke-Wulf_Fw_190#Fw_190D|Flak-Wulf Fw190D-9]] (Black #5)
+|weapon(s)=[[Wikipedia:MG_34|MG34]]
+|familiar= [[Wikipedia:Feral cat|Feral Cat]]<ref>[https://twitter.com/humikane/status/1256943147243827212 Humikane tweet on the familiars of the 503rd members]</ref>
+|seiyuu_(japanese)=[[Wikipedia:Yuhko Kaida|Kaida Yuuko]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Huberta von Bonin''' (フーベルタ・フォン・ボニン) is a Witch of the [[503rd Joint Fighter Wing]], attached with the [[Karlsland|Karlsland Air Force]].
+
+==Background==
+Born in [[Wikipedia:Potsdam|Potsdam]], at the outskirts of the capital Berlin, she is from a family lineage of nobles that has produced many Witches since the olden days. From an early age, Huberta was raised as if it was only natural that she would become a Witch - training every day without fail and receiving instructions about the knowledge of a military officer from those among her relatives that were Witches on active duty.
+
+She volunteered for the military simultaneously with the suitable manifestation of her powers, matriculating on a military academy on Berlin. After graduating with excellent grades, she was appointed as a Pilot Officer.
+
+Huberta participated in the Hispanian campaign of 1936 as a member of the Hispanian defensive, heroic corps - the [[Wikipedia:Jagdgruppe_88|Jagdgruppe 88 (J/88)]] "Condor", which was established by selecting the bests in technical skills. She then belonged to the 3rd Staffel led by (at the time) [[Adolfine Galland|Flying Officer Galland]]. When the Staffel commander changed from Flying Officer Galland to (at the time) [[Vera Moelders|Flying Officer Moelders]], Huberta quickly understood the new tactics worked out by the two Flying Officers and achieved a 4 units shot-down. Regarded then as a Pilot Officer with an especially promising future, since she fought under these two excellent commanders, Huberta herself began to show glimpses as an equally capable commander.
+
+Due to her performance in the campaign, Huberta was promoted to Flying Officer and awarded with the second highest rank of the [[Wikipedia:Spanish_Cross|"Hispanian Cross"]] (a medal made specifically for those who participated in that campaign): the Cross in Gold with Swords. Afterwards, she was promoted as a Flight Lieutenant and changed assignments to the [[Wikipedia:Jagdgeschwader_26|Jagdgeschwader 26 5th Staffel (5./JG26)]]. Upon accumulating experience, she once again changed assignments to the [[Wikipedia:Jagdgeschwader_52|Jagdgeschwader 52 4th Staffel (4./JG52)]]. Around that period, the (at the time) Pilot Officers [[Erica Hartmann|Hartmann]] and [[Hanna-Justina Marseille|Marseille]] - who had just gotten out of the training academy - were assigned to the JG52.
+
+Later, she transferred to the [[Wikipedia:Jagdgeschwader_54|Jagdgeschwader 54 (JG54)]], where she became the commanding officer of Gruppe I and subsequently commander of the whole fighter wing and, upon welcoming Operation Typhoon, she assisted in the establishment of the 503rd Joint Fighter Wing - Typhoon Witches. Voices were raised for Huberta to take the command of the 503rd JFW, but due also to age-related circumstances, she declined and turned over the position of commander to [[Bronislava Safonov|Wing Commander Safonov]]. In the end, because of the Wing Commander's strong demands, Huberta assumed the office of Deputy Commander instead.
+
+==Personality==
+Pretty settled down for her age, there are some young Witches who adore her like a mother because of her matured atmosphere. She has a practical and persistent personality that never fusses over anything unrelated to battle. For a Karlsland soldier that should be fastidious about her own equipment, Huberta is unusually indifferent about her personal appearance.
+
+Within the 503rd JFW, she assertively acts as an advisor and has as main duties the administration of the unit, training of personnel, and negotiations with other units and the headquarters. On the battlefield, she is a thorough advocate of the real ability principle and has declared that, so long the other Witch is more skilled, usually via a higher shot-down count, she will follow her orders even if she holds a lower rank.
+
+The only thing she is fond of that could be called a hobby is chess, but her skills in it are not high. Still, she enjoys looking into her opponent's character and personality through a match.
+
+==Striker units==
+{{Striker unit template
+|name=[[Flakwolf Fw190|FlakWolf Fw190D-9]]
+|image=Fw190D-9 Bonin SW2.jpg
+|description=The unit sent to Wing Commander Bonin, the vice-commander of the 503rd JFW. A camouflage for southern Orussia has been applied. By this time, she had barely any flight mission, and it was used by another witch.
+}}
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]]
+'''Light Novel'''
+*[[Brave Witches Prequel]]
+'''Manga'''
+*[[World Witches: Contrail of Witches]]
+'''Audio Media'''
+*Himeroku Drama Albums
+*[[Brave Witches Prequel|Brave Witches Prequel Vol.2 limited edition audio drama CD]]
+
+==Trivia==
+*The coat she wears on the profile picture is a [[Wikipedia:Ready-to-wear|Ready-to-wear item]] that does not employ magic fibers and has became worn out due to lack of maintenance.<ref>https://twitter.com/humikane/status/256381482480844801</ref>
+*She is based on [[Wikipedia:Hubertus_von_Bonin|Hubertus von Bonin]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+503 Humikane 2.jpg|503rd Joint Fighter Wing
+Huberta 1.jpg
+Luminous Witch.Typhoon Witches EP12 1.jpg
+Luminous Witch.Typhoon Witches EP12 2.jpg
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Wing Commanders]]
+[[Category:503rd Joint Fighter Wing]]
+[[Category:Karlsland]]

@@ -1,0 +1,44 @@
+{{Character Infobox
+|title1=Kullamas Blengkam
+|image1=Kullamas_blengkam.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=15
+|birth_date=22 May
+|height=150 cm
+|blood_type=
+|nationality=Siamro
+|affiliation(s)=Siamro 16th Squadron
+|team =[[507th Joint Fighter Wing]]
+|rank=Sergeant (October 1943)<br>Flight Sergeant (July 1944)
+|striker unit(s)=[[Wikipedia:Nakajima Ki-43|Nagashima Ki-43 Model II Hayabusa]]
+|weapon(s)=Ho-103 12.7mm machine gun
+|familiar=Siamese Cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kullamas Blengkam''' (クラマース・ブレンガーム, ''Kuramasu Burenkamu'', กุลมาศ เปล่งขำ) is a Witch from [[Siamro]]. Her nickname is "Ploy" (ㇷ゚ロイ, พลอย which means gem).
+
+==Background==
+She is a former member of Siamro Kingdom 16th Squadron. At this time, her only war result was a shared shot down of a small type Neuroi, and she was sent out to study. 
+
+In October 1943, she was simultaneously promoted to Sergeant and reassigned to the [[507th Joint Fighter Wing|Suomus Independent Volunteer Air Squadron]]. Even though she played an active role in defeating the "Cylinder" in April 1944, the battle report was classified and her home country was not informed. Although she went missing during the battle of May 1944 and was thought to have been killed in action, she returned to her unit's base "on the back of a reindeer". She participated in the attack against the "Tower" in June. She was promoted to Flight Sergeant in July 1944. 
+
+==Appearances==
+'''Light Novel'''
+*[[Brave Witches Prequel]], Volume 3
+
+==Trivia==
+*Her ace archetype is [https://www.quora.com/Did-the-Royal-Thai-Air-Force-score-any-kills-on-American-or-British-aircraft-during-WWII Kamrop Blengkam].
+*On her profile picture, it is written "I'm the newest recruit", and ""Is she one of our fellow Asian brethren?" Naoe said surprised".
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+File:Brave_Witches_LN_507th_Profiles_of_Micovic_and_Kullimas.png|Kullamas and [[Vesna Mikovič|Vesna]]
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flight Sergeants]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Siamro]]

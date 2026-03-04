@@ -1,0 +1,28 @@
+<p sab="464" style="text-align: center;">Illustrations for Clash in the Suomus Misfits Squadron</p>
+
+<p sab="464">[Note: The black and white images available on the internet are terrible (drastically over-levelled blacks), so I'll scan them as soon as I have the time. Until then, the low quality ones will be used within the chapters themselves.]</p>
+
+<p sab="464" style="text-align: center;"></p>
+
+<p sab="464" style="text-align: center;"><gallery columns="3">
+Misfits 3 Cover.jpg
+Misfits 3 A.jpg
+Misfits 3 B.jpg
+Misfits 3 C.jpg
+</gallery><gallery columns="3">
+Sw02 004-005.png
+Sw02 006.png
+</gallery></p>
+
+
+
+<p sab="480"><noinclude>
+{| border="1" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaaaaa solid; padding: 0.2em; border-collapse: collapse;"
+|-
+| Back to [[Clash in the Suomus Misfits Squadron|Main Page]]
+| Forward to [[Chapter 1 - Tomoko's Distress|Chapter 1]]
+|-
+|}
+</noinclude></p>
+[[Category:Suomus Misfit Squad]]
+[[Category:Light novels]]

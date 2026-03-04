@@ -1,0 +1,43 @@
+{{Character_Infobox
+|title1=Albertine Littolff
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=31 October
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Gallia Airforce GC 3 Fighter Regiment
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Arsenal_VG-33|Gallia National Aviation Arsenal VG.39]] (unknown number)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Albertine Littolff''' is a witch originating from [[Gallia]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39 (unknown machine number)]]
+|image=VG39 Littolff SW2.jpg
+|description=When Flight Lieutenant Littolff joined the Normandie Squadron, the mechanics put together this unit from scraps. Normandie is a squadron established with Orussia's support. As such, this unit was used to explore and fight on the eastern front.
+}}
+
+==Equipment==
+Her [[Striker Unit]] had been reassembled from scrap by a mechanic when participating with the Gallia unit "Normandy".
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:fr:Albert_Littolff|Albert Littolff]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 2.
+
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

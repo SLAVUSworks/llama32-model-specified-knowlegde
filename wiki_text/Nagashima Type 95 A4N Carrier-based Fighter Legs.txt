@@ -1,0 +1,20 @@
+{{Striker Unit Infobox
+|title1=Type 95 A4N Carrier-based Fighter Legs
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Nakajima Aircraft Company|Nagashima Flight Legs]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+The Nagashima A4N, a biplane striker unit developed by Nagashima Aircraft Company, was a direct upgrade of the earlier Nagashima A2N. Developed before the widespread acceptance of the [[Miyafuji Ichiro|Miyafuji]] Theory, its engine could not be incorporated inside the unit, and was carried in an external backpack. Compared to the large backpack unit of the Nagashima A2N, however, the engine was considerably smaller and still boasted a 30% increase in power. That reduction in size boosted the striker unit's overall maneuverability and combat effectiveness. It was that maneuverability and general stability that made the A4N one of the favorite striker units of the Navy Witches. Both the A2N and the A4N were valuable in developing and solidifying a Witch's battle skill and, once the later [[Miyabishi Type 96 A5M Carrier-based Figther Legs|Miyabishi A5M]] was officially adopted, they were maintained as training units for recruits.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Nakajima A4N|Nakajima Type 95 A4N]] fighter.
+[[Category:Striker Unit]]

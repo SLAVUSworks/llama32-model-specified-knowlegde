@@ -1,0 +1,36 @@
+{{stub}}
+{{Character_Infobox
+|title1=Hanna Philine
+|image1=Hanna_Philine.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=19 (1944)
+|birth_date=17 March
+|height=162cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 54th Fighter Wing "Grünherz" ([[Wikipedia:Jagdgeschwader_54|JG54]])
+|team =
+|rank=Flight Lieutenant (1944)
+|striker unit(s)=[[Wikipedia:Messerschmitt Bf 109 variants#F-3, F-4, F-5, F-6|Messerscharf Bf109F-4]]
+|weapon(s)=[[Wikipedia:MG 34|MG 34]]
+|familiar=[[Wikipedia:Münsterländer|Münsterländer]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Hanna Philine''' (ハンナ・フィリーネ<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>).
+
+Hanna is a witch from [[Karlsland]], she is based on [[Wikipedia:Hans Philipp|Hans Philipp]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Hanna Philine 01.jpg
+Hanna Philine 02.jpg
+IMG 3904.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Article stubs]]
+[[Category:Karlsland]]

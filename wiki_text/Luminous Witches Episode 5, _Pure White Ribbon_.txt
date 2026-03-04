@@ -1,0 +1,55 @@
+__NOTOC__
+{{Episode Infobox
+|title1=Pure White Ribbon
+|image1=Luminous Witches episode 5 eyecatch Silvie.JPG
+|caption1=
+|japanese=まっしろリボン
+|rōmaji=Masshiro Ribon
+|series=
+|season=[[Luminous Witches]]
+|episode_number=5
+|airdate=31 July 2022
+|previous_episode=[[Luminous Witches Episode 4, "Let's Sing a Song"|Let's Sing a Song]]
+|next_episode=[[Luminous Witches Episode 6, "Dream-colored Contrail"|Dream-colored Contrail]]
+}}
+"We are the Luminous Witches, the League of Nations Air Forces Aviation Magic Band!". After a successful musical performance in the village, the girls are informed that a world tour has been approved. Traveling around the world, they will deliver the "light" of hope and peace to people who are tired of the battles. The first country to be visited is [[Romagna]]. But for some reason, [[Silvie Cariello|Silvie]], who will be returning to her home country on this occasion, seems unhappy.
+
+<div style="clear:both"></div>
+== References ==
+
+=== Avro Lancaster ===
+A four-engined strategic bomber operated by the Royal Air Force. The name 'Lancaster' comes from the city of Lancaster in Lancashire. The Royal Air Force started operation in 1942, and was deployed in the Bomber Command of the Royal Air Force along with Stirling and Halifax, and was also used by other Allied countries such as Canada. It was especially active in nighttime strategic bombing raids against Germany.
+
+=== Statue of Giordano Bruno ===
+A philosopher from Italy, a Dominican monk. Statue in Piazza Campo de' Fiori in Rome.
+
+=== San Lorenzo Fuori Le Mura Cathedral ===
+A Catholic church cathedral in Rome, Italy. One of the five great basilicas of Rome. Adjacent to the Verano Cemetery, which will be described later.
+
+=== Chimitero Verano ===
+Rome's largest public cemetery with a history of 200 years.
+
+=== The trompe l'oeil of the Church of St. Ignatius of Loyola ===
+The 17th-century 3D ceiling painting that uses perspective by the Italian painter and architect Andrea Pozzo . It is said that Pozzo made this trompe l'oeil dome as a stopgap measure when the originally planned completion of the dome for this church was canceled due to lack of funds.
+
+=== Bath of Caracalla ===
+A Roman bath built near the southern end of the city of Rome by the 22nd emperor of the Roman Empire, Caracalla. It is now used as a backdrop for the Rome Opera House during the summer opera season. In addition, it has become one of the venues for modern events such as the 1960 Rome Olympics and the 1990 Italy FIFA World Cup final eve concert, and is also popular as one of Rome's tourist attractions.
+
+=== Savoia-Carignano Family ===
+An Italian senior aristocratic family. A branch of the House of Savoy, which began with Tommaso Francesco, Prince of Savoy, who was given the title of Duke of Carignano in 1620, and later became the royal family of Piedmont-Sardinia and the Kingdom of Italy.
+
+== Gallery ==
+<gallery widths="185" captionalign="center" spacing="small" hideaddbutton=true>
+Luminous witches episode 5 ending Silvie Joanna.JPG
+</gallery>
+
+
+
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Luminous Witches Episode 4, "Let's Sing a Song"|04: Let's Sing a Song]]
+!^^ [[Luminous Witches]] ^^
+![[Luminous Witches Episode 6, "Dream-colored Contrail"|06: Dream-colored Contrail]] >>
+|}
+[[Category:Luminous Witches]]

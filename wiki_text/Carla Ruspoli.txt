@@ -1,0 +1,53 @@
+{{Character_Infobox
+|title1=Carla Ruspoli
+|image1=Carla Ruspoli-0.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=25 August
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force 4th Air Group 9th Air Wing 73rd Squadron<br>Romagna Air Force Film Club (president)
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Fiat_G.55|Farotto G.55 "Centauro"]] (91-3)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Carla Ruspoli''' (カーラ·ルスポリ <sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a famous Witch from [[Romagna]] and the president of the Romagnan Air Force Film Club.
+
+==Background==
+Carla is a very famous Witch from Romagna. She is the president of the Romagnan Air Force Film Club and her special skill is photography, and she does aerial photography herself. She carried a camera during flights, and recorded the combats of many witches. She is specialized in shooting angles showing butts. The newspapers claim that it is a composition for powerful images.
+
+In 1944, the Ministry of Public Affairs of Karlsland asks her to be seconded to the 501st JFW for filming a promotional film for the country. The photographic film is enormous in volume, some of which are precious color film. It is a detailed document from the coloring of the striker units to the pants of the witches.
+
+Most of the photographs published in a series of records of the 501st Joint Fighter Wing are based on Flight Lieutenant Ruspoli's photographs ''(this refers to the booklets that come with the Blue-Ray limited edition of the anime)''.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55 (No. 91-3)]]
+|image=G55 Ruspoli SW1.jpg
+|description=
+}}
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Kurenai no Majo-tachi]], Volume 3 Chapter 2
+'''Audio Media'''
+*[[Hime Uta Song Albums]], Volume 3, only mentioned
+
+==Trivia==
+*Her pilot archetype is unclear, but is likely Marescotti dei Principi Ruspoli, Lieut-Col. in Command of a Battle Group of the Folgore Parachute Division, KIA at the Second Battle of El Alamein at El Alamein, Egypt, October 24, 1942.
+*Because she approached from nowhere and shot decisive shots, it was often thought that she had stealth abilities.
+*Her full name is presumed to be "Carla Maurizia Giuseppina Edgarda dei Principessa Ruspoli".
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Flight Lieutenants]]
+[[Category:Strike Witch]]
+[[Category:Romagna]]

@@ -1,0 +1,107 @@
+*Return to [[Brave Witches]]
+
+{{Template:Infobox
+|Box title='''LITTLE WING'''<br/> ～Spirit of LINDBERG～
+|image=File:Brave Witches Ending Theme Collection.jpg
+|imagewidth=220
+|Row 1 title=Release date:
+|Row 1 info=21 Dec 2016
+|Row 2 title=Total running length:
+|Row 2 info=70:00
+|Row 3 title=Number of tracks:
+|Row 3 info=
+|Row 4 title=Illustration:
+|Row 4 info=
+|Row 5 title=CD NO.:
+|Row 5 info =COCX-39788
+}}
+
+{{PAGENAME}} is covered version of what was included in the regular album '[[Wikipedia:ja:LINDBERG III|LINDBERG III]]' released by [[Wikipedia:Lindberg (band)|LINDBERG]] on April 21, 1990. Due to the lyrics that matched [[Brave Witches]]' worldview ([[Karibuchi Hikari]]), it was decided on the theme of ED.<ref>[https://www.lisani.jp/0000015912/ アニメ『ブレイブウィッチーズ』EDテーマは「Little Wing ～Spirit of LINDBERG～」に決定！12月21日にEDコレクション、サントラCD2枚が同時発売 (Japanese)]</ref>
+
+{| border="1" cellpadding="5"
+|- align="center" |
+! colspan="2" |
+LITTLE WING～Spirit of LINDBERG～
+|-
+! colspan="2" |
+Artists:<br />
+Episodes 1 & 2: ''Kakuma Ai & Suegara Rie''<br />
+Episode 3: ''Takamori Natsumi & Murakawa Rie''<br />
+Episode 4: ''Igarashi Hiromi & Kakuma Ai''<br />
+Episode 5: ''Mizutani Marin & Terui Haruka''<br />
+Episode 6: ''Hara Yumi & Takamori Natsumi''<br />
+Episode 7: ''Takamori Natsumi & Kakuma Ai''<br />
+Episode 8: ''Ishida Kayo & Murakawa Rie & Takamori Natsumi''<br />
+Episode 9: ''Murakawa Rie & Kakuma Ai''<br />
+Episode 10: ''Satou Rina & Kakuma Ai & Suegara Rie''<br />
+Episode 11: ''Suegara Rie, Murakawa Rie, Takamori Natsumi, Ishida Kayo, Hara Yumi''<br />
+''Terui Haruka, Mizutani Marin, Igarashi Hiromi, Satou Rina''
+|-
+|
+Chiisana tsubasa wa bikutomo shinai<br />
+yoru no mukou ni aru mirai sagasu yo<br />
+|
+These tiny wings won't budge an inch<br />
+I'm gonna search for the future that lies beyond this night<br />
+|-
+|
+kikkake wa yume no naka oozora tonde iru<br />
+ookiku natta toki tsubasa hiroge umi wo koeru yo<br />
+dare mo ga minna kuchi wo soroete<br />
+muda na koto da to shiroi me de boku wo miru kedo<br />
+|
+Opportunity lies amid dreams - it soars across the sky<br />
+When I grow up, I'll spread my wings, and cross over the sea<br />
+Everyone says the same thing... telling me, "It's pointless to try",<br />
+As they look at me with scorn<br />
+|-
+|
+Chiisana tsubasa wa bikutomo shinai<br />
+yoru no mukou ni aru mirai sagasu yo<br />
+tsuyoi kaze no hi mo bikutomo shinai<br />
+kumo wo tsukinukete mita koto no nai sekai mezasu<br />
+|
+But these tiny wings won't budge an inch<br />
+I'm gonna search for the future that lies beyond this night<br />
+Even on days the wind is strong, they won't budge an inch<br />
+Breaking through the clouds, I'll aim for a world I've never seen before!
+|-
+|
+yume wo oeba itsumo kizutsuku koto bakari<br />
+okizari ni shita mama dokoka tooku nigete shimaeba<br />
+|
+|-
+|
+dakedo kimi ga shinjite kureta<br />
+kitto dekiru to dakara mou boku wa mayowanai<br />
+|
+|-
+|
+chiisana tsubasa ga boku wo yonderu<br />
+namida no mukou ni mirai sagasu yo<br />
+tsuyoi ame no hi mo bikutomo shinai<br />
+ashita wo shinjite tobitsuzukeru yo<br />
+|
+|-
+|
+yumemiru omosa ni makecha ikenai<br />
+kizutsuku yuuki wo wasurecha dame sa<br />
+chiisana tsubasa wa bikutomo shinai<br />
+yoru no mukou ni aru mirai sagasu yo<br />
+|
+|-
+|
+tsuyoi kaze no hi mo bikutomo shinai<br />
+ashita wo shinjite tobitsuzukeru yo<br />
+chiisana tsubasa ga boku wo yonderu<br />
+namida no mukou ni mirai sagasu yo<br />
+tsuyoi ame no hi mo bikutomo shinai<br />
+ashita wo shinjite tobitsuzukeru yo<br />
+|
+|-
+|}
+==References==
+<references/>
+[[Category:Brave Witches]]
+[[Category:Song]]
+[[Category:Transcript/Translation]]

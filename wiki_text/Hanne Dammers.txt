@@ -1,0 +1,67 @@
+{{Character Infobox
+|title1=Hanne Dammers
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ハンネ・ダンマース
+|romaji_name=
+|age=15 (1939)
+|birth_date=8 August
+|height=155 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 52nd Fighter Wing 5th Flying Corps ([[Wikipedia:Jagdgeschwader 52|5./JG52]])
+|team = 
+|rank=Flight Sergeant<br>Warrant Officer
+|striker unit(s)=[[Wikipedia:Messerschmitt Bf 109 variants#G-3, G-4|Messerscharf Bf109G-4]] (yellow 9)<br>[[Wikipedia:Messerschmitt Bf 109 variants#G-5, G-6|Messerscharf Bf109G-6]]
+|weapon(s)=[[Wikipedia:MG 42|MG42]]
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Hanne Dammers''' is a Witch from [[Karlsland]] and attached with the Karlsland Air Force.
+
+==Background==
+Born in the city of Moers, near the border of the Netherlands, in the west of Karlsland. During the Hispanian campaign, she volunteered in the military and was appointed sergeant, initially participating as a ground attack witch. She achieved some results on defeating the ground targets, but not very noticeable. However her fighting style full of fighting spirit and attacking the enemy forever had already attracted attention.
+
+After the campaign, she was assigned to JG52 7th Company as a sergeant, then promoted to Master Sergeant and transferred to 9th Company. After the massive invasion of [[Neuroi]], she was transferred to the 5th Company following the reorganization of the troops.
+
+During the Bifest operation, she temporarily became a subordinate of [[Erica Hartmann]]. However, due to the operation, she was transferred to another unit on the way, and repeated the battle on the eastern front.
+
+Eventually, it was confirmed that she had shot down 113 flying Neuroi, with 23 unconfirmed shots down. Due to the ground assault unit, the number of ground-type Neuroi destroyed was large, destroying at least 8 large-scale Neuroi and around 80 normal types.
+
+She was injured in a collision with a Neuroi on the eastern front the 17 March 1944, and was sent to a field hospital. She was injured more heavily than initially expected and lived in a hospital in [[Britannia]], where she turned 20 at the hospital and was promoted to Warrant Officer and retired.
+
+==Personality==
+With a petite but solid physique, Hanne is energetic and powerful. She is the wild type whose body moves before thinking.
+
+On the other hand, she also has a side that calmly analyzes her own behavior, and she can take care of educating the juniors and teaching her techniques. Alongside [[Edytha Rossmann]], she is a top-ranked JG52 chief of education.
+
+==Abilities==
+A natural dogfighter who is the exact opposite of [[Edytha Rossmann|Rossmann]], who is good at breaking away.
+
+With excellent dynamic visual acuity and vigorous physical strength, she has a fighting style that drives out enemies like a hound with intense maneuvering like an acrobatic flight.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-4 (yellow No. 9)]]
+|image=Bf109G-4 Dammers SW2.jpg
+|description=The unit used by Flight Sergeant Dammers before she switched to the type G-6. 100 kills are recorded on it. Her personal emblem, her favorite teddy bear, is painted on the side.
+}}
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-6]]
+|image=
+|description=On her Bf109G-6 unit, the number of flying-type Neuroi shot down is marked on her left striker and the number of ground-type Neuroi on the right striker.
+}}
+
+==Trivia==
+*Her ace archetype is [https://military.wikia.org/wiki/Hans_Dammers Hans Dammers].
+*Her personal mark is her beloved stuffed bear.
+
+==References==
+Secret recording memorial volume 2
+[[Category:Strike Witch]]
+[[Category:Flight Sergeants]]
+[[Category:Warrant Officers]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

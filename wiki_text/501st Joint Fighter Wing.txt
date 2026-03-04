@@ -1,0 +1,119 @@
+{{Unit Infobox
+|title1=501<sup>st</sup> Joint Fighter Wing
+|image1=501st icon.png
+|caption1=501<sup>st</sup> JFW Insignia
+
+<!-- Tabs -->
+|tab1=1945
+|tab2=1942-1944
+
+<!-- Tab1 -->
+|name=連合軍第501統合戦闘航空団
+|romaji_name=Rengō-gun dai 501 Tōgō Sentō Kōkū-dan
+|nickname(s)=Strike Witches
+|affiliation(s)=[[File:Flag of Karlsland.svg|border|23px|link=karlsland]] [[Karlsland]] <br> [[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]] <br> [[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]] <br> [[File:Flag of Gallia.svg|border|23px|link=Gallia]] [[Gallia]] <br> [[File:Flag of Orussia.svg|border|23px|link=Orussia]] [[Orussia]] <br> [[File:Flag of Suomus.svg|border|23px|link=Suomus]] [[Suomus]] <br> [[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br> [[File:Flag of Romagna.svg|border|23px|link=Romagna]] [[Romagna]]
+|branch=Multi-service
+|HQ=Central Command (1945)
+|commanding_officer=Wing Commander [[Minna-Dietlinde Wilcke]]
+|area_of_operations=Romagna and Venezia (early 1945) <br> Karlsland (1945)
+|base=[[Wikipedia:Pescara|Pescara]], [[Romagna]] (early 1945)<br>[[wikipedia:Den Helder|Den Helder]], Nederland (1945)
+
+<!-- Tab2 -->
+|name2=連合軍第501統合戦闘航空団
+|romaji_name2=Rengō-gun dai 501 Tōgō Sentō Kōkū-dan
+|nickname(s)2=Strike Witches
+|affiliation(s)2=[[File:Flag of Karlsland.svg|border|23px|link=karlsland]] [[Karlsland]] <br> [[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]] <br> [[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]] <br> [[File:Flag of Gallia.svg|border|23px|link=Gallia]] [[Gallia]] <br> [[File:Flag of Orussia.svg|border|23px|link=Orussia]] [[Orussia]] <br> [[File:Flag of Suomus.svg|border|23px|link=Suomus]] [[Suomus]] <br> [[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br> [[File:Flag of Romagna.svg|border|23px|link=Romagna]] [[Romagna]]
+|branch2=Multi-service
+|HQ2=Western General Headquarters (1944)
+|commanding_officer2=Wing Commander [[Minna-Dietlinde Wilcke]]
+|area_of_operations2=Britannia and Gallia (1944)
+|base2=[[Wikipedia:Folkestone|Folkestone]], [[wikipedia:Strait of Dover|Strait of Dover]], Britannia (1944)
+}}
+The '''501<sup>st</sup> Joint Fighter Wing "Strike Witches"''' (第501統合戦闘航空団 「ストライクウィッチーズ」) is a specialist unit comprised of several of the greatest aces of its time, as well as the first established Joint Fighter Wing.
+
+The unit was first stationed in [[Britannia]] under the jurisdiction of the Western World Headquarters (under the command of Air Chief Marshal [[Trevor Maloney]]) until the Liberation of [[Gallia]], after which it was disbanded.
+
+The unit was reformed at the order of Air Marshal [[Adolfine Galland]] and based in [[Romagna]], on an island in the [[Wikipedia:Adriatic Sea|Adriatic Sea]].
+
+Following a large-scale assault by the [[Neuroi]] on the [[wikipedia:Rhine|Rhine]], the unit has been reformed once again to push towards [[wikipedia:Berlin|Berlin]].
+
+==Service History==
+The founding members of the 501<sup>st</sup> were [[Sakamoto Mio]], [[Minna-Dietlinde Wilcke]], [[Perrine H. Clostermann]], [[Gertrud Barkhorn]], [[Erica Hartmann]], [[Laura Toth]], [[Suwa Masuzu]], [[Petra Danford]], and Heinrike Langer. Laura was later transferred to the [[Isle of Wight Detachment Group]], but what happened to Masuzu and the three others after that is unknown. In the early days of its establishment, Gertrud was in a state of mental instability, so there was a lot of personnel turnover, and half of the founding members had left the corps at the start of the first period (of the Royal Air Force). Despite the sabotage of Air Chief Marshal Trevor Maloney, the fact that Gertrud had practically kicked Laura out had an impact, and the personnel recruitment did not go well. It was stolen by [[Gundula Rall]] behind the scenes and suffered a series of hardships, and Mio was in a critical situation in a human sense to the extent that she was forced to look for a newcomer in her home country).
+
+From 1942 to 1944, the 501<sup>st</sup> was part of the Western General Headquarters and was focused on the defence of Britannia and the recovery of Gallia. Its base was in the [[wikipedia:Strait of Dover|Strait of Dover]], Britannia. Around October 1944, the unit was temporarily disbanded by Air Chief Marshal Maloney, who did not like witches and wanted the [[Warlock]] to replace it. Maloney's group was detained by Minna and other, and the Strike Witches gathered again at the base. After the Warlock incident and the Gallian hive was destroyed, the 501<sup>st</sup> was officially disbanded with the liberation of Gallia.
+
+Six months later, around the spring of 1945, a Super Hive of Neuroi suddenly appeared in [[Venezia]], and Venezia was occupied. Former 501<sup>st</sup> members gathered in the Adriatic Sea to form the Strike Witches again. A new base was built on the site of ruins near Romagna in order to fill the void left by the [[504th Joint Fighter Wing]], which was destroyed during the retreat from Venezia. During the final operation "[[wikipedia:Opearion Mars|Operation Mars]]" against the Venezian Super Hive, it was tasked with escorting the battleship ''[[Yamato]]'' and buying time until the Neuroifization was completed. Ultimately, thanks to [[Miyafuji Yoshika]] and Mio's efforts, the Venezian Super Hive was destroyed and Venice was liberated. However, Yoshika and Mio lost their magic powers in this battle. With this, the Strike Witches was disbanded again.
+
+Some months later, after the liberation of Venezia, there was no Neuroi movement in Karlsland for half a month, but [[Heidemarie W. Schnaufer]] in the skies above [[Belgica]], and [[Charlotte E. Yeager]] and others in Venezia slipped through the surveillance net and engaged in combat with the Neuroi that suddenly appeared. However, both of the Neuroi that appeared were out of their sphere of influence, so Minna became more wary that there might be a new Neuroi nest. On the other hand, Yoshika, who has become an ordinary human civilian, visited Europe with [[Hattori Shizuka]] to study at a medical school in [[Helvetia]].
+
+However, many Neuroi emerged from the ground in Belgica, and a large-scale offensive of the Neuroi began. At the same time, radio waves were jammed all at once, so they were forced to struggle alone in various places and were outnumbered. Former 501<sup>st</sup> members, including Yoshika, gathered again in Belgica, and the 501<sup>st</sup> was unofficially temporarily reactivated again to destroy a Neuroi mothership that had attacked from [[Karlsland]].
+
+Some time later, around the winter of 1945, a large-scale counterattack operation "Operation Southwind" was planned for the liberation of Berlin, but the 501<sup>st</sup> JFW was still in the preparation stage. Also, Mio, who had lost her magic powers, was no longer part of the Strike Witches. While Yoshika struggled alone with the Neuroi, who manipulated the iceberg approaching [[wikipedia:Antwerp|Antwerp]], everyone gathered one after another and defeated said Neuroi, but the iceberg separated from the Neuroi collides with the port of Antwerp, causing damage to the port facilities. After the battle ends, the 501<sup>st</sup> JFW was officially reunited again, with Shizuka joining Mio's place. However, due to damage to the port facilities, the planned counteroffensive operation was forced to be postponed, and was stationed at a base in [[wikipedia:Den Helder|Den Helder]], Nederlands.
+
+Operation Southwind was finally issued, and initially the [[wikipedia:Boeing B-17 Superfortress|B-17 Superfortress]] formation cleared the clouds covering the Neuroi nest "Wolf" by bombing, and the 501<sup>st</sup> members launched an assault on Wolf that had appeared, but a large number withdrew because the B-17 formation suffered a great deal of damage due to the interception of the wall-shaped Neuroi that appeared in. After that, a large Neuroi attacked the [[wikipedia:Kiel|Kiel]] base, but Yoshika's shield prevented it, but she was removed from the operation due to magic power consumption. In the second wave, "Operation Victoria", the [[wikipedia:Landkreuzer P. 100 Ratte|Landkreuzer P.1000 Ratte]], a decisive weapon, was introduced, and was responsible for the escort of General [[Gerald S. Patton]]. He even though that the wall-type Neuroi could be destroyed by the Ratte, Patton and the others were isolated with a shield put up by Wolf. Gertrud suggested going through the underpass to rescue him, leaving Shizuka, whose aircraft had been damaged, through the underpass, engaging with small Neuroi. At that time, Shizuka, who was wearing the [[Tsukushi Shinden|Shinden]] on the ground and rushed in from the shield that had been emptied by the bombing, was severely injured by the Neuroi's attack. At that time, Miyafuji's magic power was revived, and the small Neuroi who reacted to the magic powers went out to the ground toward Miyafuji, but the 501<sup>st</sup> members followed behind and joined Yoshika.
+
+The final battle unfolds with Wolf, who had transformed into an urban Neuroi, and the main body tried to escape, but Minna, Gertrud, and Erica fired a salvo at the moment when Miyafuji stopped Wolf with a shield, and destroyed this Neuroi nest to retake Berlin. However, since there were still Neuroi nests in Southern Karlsland and in the neighboring country of [[Ostmark]], they did not disband this time and prepared for a new battle while helping Berlin's reconstruction.
+
+The 501<sup>st</sup> has shot down a large number of Neuroi, and the unit's accomplishments in the Gallian and Venizian recovery operations has given its witches a status akin to living legends, one which is only aided by their individual records and achievements. In addition, it members are regarded as legendary witches and heroines for their feats such as the disappearance of Neuroi's nest and the recovery of stolen land for the first time in humanity.
+
+==Members==
+===Original Members of the Strike Witches (1942-1944)===
+Commanding Officer
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Wing Commander [[Minna-Dietlinde Wilcke]]
+Commanding Officer in battle
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Squadron Leader [[Sakamoto Mio]]
+Members
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Flight Lieutenant [[Gertrud Barkhorn]]
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flying Officer [[Charlotte E. Yeager]]
+* [[File:Flag of Suomus.svg|border|23px|link=Suomus]] Pilot Officer [[Eila Ilmatar Juutilainen]]
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Flying Officer [[Erica Hartmann]]
+* [[File:Flag of Gallia.svg|border|23px|link=Gallia]] Flying Officer [[Perrine H. Clostermann]]
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Flying Officer [[Sanya V. Litvyak]]
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Pilot Officer [[Francesca Lucchini]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Sergeant [[Miyafuji Yoshika]]
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Sergeant [[Lynette Bishop]]
+Former members
+* [[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] Pilot Officer [[Laura Toth|Laura Tóth]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flying Officer [[Suwa Masuzu]]
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Sergeant [[Petra Danford]]
+* [[File:Flag of None.svg|border|23px]] Heinrike Langer
+===Members After 2<sup>nd</sup> Reformation (1945)===
+Commanding Officer
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Wing Commander Minna-Dietlinde Wilcke
+Commanding Officer in battle
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Squadron Leader Gertrud Barkhorn
+Members
+* [[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flight Lieutenant Charlotte E. Yeager
+* [[File:Flag of Suomus.svg|border|23px|link=Suomus]] Flying Officer Eila Ilmatar Juutilainen
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Flying Officer Erica Hartmann
+* [[File:Flag of Gallia.svg|border|23px|link=Gallia]] Flying Officer Perrine H. Clostermann
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Flying Officer Sanya V. Litvyak
+* [[File:Flag of Romagna.svg|border|23px|link=Romagna]] Pilot Officer Francesca Lucchini
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Hattori Shizuka]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flight Sergeant (Surgeon Pilot Officer) Miyafuji Yoshika *
+* [[File:Flag of Britannia.svg|border|23px|link=Britannia]] Flight Sergeant Lynette Bishop
+Temporary members
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Squadron Leader [[Heidemarie W. Schnaufer]] (unofficially)
+Former Members
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Squadron Leader Sakamoto Mio
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+Ea680da52017ea8c32527dd09d5abad950e4420b.jpg|501<sup>st</sup> Joint Fighter Wing
+501st 2.jpg|Artworks of Strike Witches
+501st The Movie.jpg|Strike Witches Movie flyer
+Strike Witches Season 2.jpg
+Strike Witches 501 Butai Hasshin Shimasu! anime.jpg
+Strike Witches Road to Berlin 2b.jpg|The 501<sup>st</sup> in 1945, during the events of Road to Berlin
+</gallery>
+
+==Units map==
+<gallery widths="150" captionalign="center" spacing="small">
+Witches units map.png|Units' locations.
+</gallery>
+
+== Trivia ==
+* While Miyafuji Yoshika is a Surgeon Pilot Officer in the Fuso Navy, she holds the rank of Flight Sergeant within the 501<sup>st</sup>.
+
+[[Category:501st Joint Fighter Wing]]
+[[Category:Joint Fighter Wings]]

@@ -1,0 +1,137 @@
+{{Character_Infobox
+|title1=Nikka Edvardine Katajainen
+|image1=nipani.jpg
+|caption1=
+|kanji_name=ニッカ・エドワーディン・カタヤイネン
+|romaji_name=Nikka Edowādin Katayainen
+|age=15 (end of 1944)
+|birth_date=May 31 1929
+|height=160cm
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 24th Squadron 3rd Company
+|team =[[502nd Joint Fighter Wing]]
+|rank=Flight Sergeant
+|striker unit(s)=[[Wikipedia:Brewster F2A Buffalo|Beerster F2A Buffalo]] (BW-368)<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109G-2]]<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109G-6]] (MT-476)<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109K-4]] (unknown number)
+|weapon(s)=[[Wikipedia:MG 42|MG42]]
+|familiar=[[Wikipedia:Least weasel|Snow weasel]] / [[Wikipedia:Stoat|Ermine]] (?)
+|seiyuu_(japanese)=[[Wikipedia:Natsumi Takamori|Takamori Natsumi]] 
+|seiyuu_(english)=[https://myanimelist.net/people/34555/Krystal_LaPorte Krystal LaPorte]
+|appearances=
+}}
+'''Nikka Edvardine Katajainen''' (ニッカ・エドワーディン・カタヤイネン) is a witch of the [[502nd Joint Fighter Wing]], originating from [[Suomus]]. 
+
+==Background==
+Born in Helsinki, the capital city of Suomus, she entered a training school at the same time as her witch abilities emerged and was trained as a Non-commissioned Officer. At this time, her careless attitude has already appeared, and the training unit has been completely destroyed many times.
+
+After graduation, she was appointed Flight Sergeant and assigned to the 3rd Company of the 24th Squadron, an elite unit of the [[Wikipedia:Finnish Air Force|Suomus Air Force]]. As [[Eila Ilmatar Juutilainen]] is also a member of this squadron, the two are fellow squadron members. Although she shot down a Neuroi on her first sortie, she was hit and the engine got damaged, and crashed while returning to the base. One of the causes is her strong fighting spirit and her fighting style being continuous attacks with no regard for shields.
+
+Going by the numbers, she is an excellent ace, but due to the number of times she has lost [[Striker Unit]]s, no matter whether it was due to being shot at, crashing in flight, encountering engine trouble, or other unforeseeable accidents, she is also called "Unlucky Katajainen" by those around her. However, she has never gotten any teammates involved in her accidents, and has never suffered any lethal wounds despite all of this. She is also called "Unit Crasher", and "The Second Coming of Crasher [[Katharine O'Hare|O'Hare]]", as both of them are infamous for Striker Units accidents.
+
+With the number of irreplaceable strikers she destroyed, and her not showing any signs of remorse, she was pulled from front-line duty for a time, and put to work cleaning the hangar, serving coffee and other minor tasks. Since Suomus relies on imports for procurement of Striker Units and has limited supplies, it was difficult to handle witches that would destroy the equipment.
+
+In 1943, she was invited to the [[502nd Joint Fighter Wing]] and became known as the "Break Witches" along with [[Waltrud Krupinski]] and [[Kanno Naoe]] due to often damaging their striker units. When she was stationed at the Joroinen Observatory in winter 1944, she reunited with [[Eila Ilmatar Juutilainen|Eila Juutilainen]] for a short time and made the acquaintance of [[Sanya V. Litvyak]].
+
+==Personality==
+Nikka is something of a tomboy, bearing a boyish appearance and often unladylike manner, she looks like [[Hanna Wind]]'s twin sister. She was once something of a delinquent, which has since eased somewhat with the influence of her close friends such as Hanna Wind and Eila. She possesses a very exacting personality which usually splits any situation into right or wrong. While not stupid, she is relatively guileless and often distracted, making her a popular subject for Eila's pranks.
+
+She has a strong desire to do her best to protect her home town, and works hard, but her character is too straightforward and this often makes her attitude worse. She is bright and social, but in some situations she cannot read the atmosphere of the place.
+
+Under the 502nd, she has found a similar foil/best friend in [[Aleksandra I. Pokryshkin]], whose fussiness and nagging (a talented mechanic, it is often Aleksandra working on Nikka's broken units) tends to keep Nikka's carelessness in check.
+
+She is also the close friend of [[Eila Ilmatar Juutilainen]].
+
+==Abilities==
+She possesses a special magical aptitude for [[w:c:powerlisting:Regenerative Healing Factor|hyper-regeneration, and by synergizing with her familiar's healing magic]], she can heal most of her injuries nearly immediately. She cannot heal other persons.
+
+Since the magic power is circulating in her body constantly when using her magic to fly, she survives from crashes that would normally have killed her and surprises the surroundings. This ability may be responsible for her carelessness in flight and combat.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-6 (No. MT-476)]]
+|image=Bf109G-6 Katajainen SW1.jpg
+|description=The unit of the miraculous witch Flight Sergeant "Unlucky" Katajainen, who possesses outstanding abilities but is frequently shot down due to repeated bad luck, yet always come back alive. This unit was also recovered every time she was shot down, and was repaired many times, but it was eventually totaled and became unusable due to extreme wear of the magic engine.
+}}
+
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109K-4 (unknown machine number)]]
+|image=Bf109K-4 Katajainen SW2.jpg
+|description=A unit that Flying Officer Krupinski robbed from Karlsland supplies when Flight Sergeant Katajainen's previous type G was completely destroyed. It was declared as a loss, and therefore doesn't have a machine number. The paint job remains unchanged, only the Suomus markings were added.
+}}
+
+==Appearances==
+'''Anime'''
+* [[Strike Witches: The Movie]]
+* [[Operation Victory Arrow]], Episode 3
+* [[Brave Witches]]
+* [[World Witches: Hasshin Shimasu!!]]
+'''Manga'''
+* [[Strike Witches: The Sky That Connects Us]], Chapter 4
+* [[Strike witches: Chii Sanya]]
+* [[Strike witches: Chii Size]]
+* [[Strike Witches: Aurora no Majo]]
+* [[Brave Witches: Dai 502 Butai Hasshin shimasu!]]
+* [[World Witches: Contrail of Witches]]
+* [[Brave Witches: 502nd Joint Fighter Wing]]
+* [[Brave Witches Prequel: The Vast Land of Orussia]]
+'''Light Novels'''
+* [[Strike Witches: Suomus Misfits Squadron]]
+* [[Strike Witches the Movie: The sky I want to return to]], chapter 5
+* [[Brave Witches Prequel]]
+'''Video Games'''
+* [[Strike Witches: Kiseki no Rondo]], card artwork only
+* [[Brave Witches VR: Operation Baba-Yaga - Counter attack in the snow]]
+* [[World Witches United Front]]
+'''Other'''
+* [[24th Squadron Story]]
+* [[Hasse Twitter Story Translation|Hasse Twitter Story]]
+* [[502nd Twitter Story Translation|502nd Twitter Story]]
+* [[Seiza Story Translation|Seiza Story]]
+
+==Trivia==
+*She is referred to as "Nipa" by her friends.
+* Nikka is based on the Finnish flying ace [[Wikipedia:Nils Katajainen|Nils Katajainen]]. Like Nikka, Nils had a reputation for frequently crashing his craft, often surviving with only minor injuries. Her nickname, "Nipa", was also Nils' nickname during the war.
+* Her close friendship with Hasse is most likely a reference to her real life counterpart's close friendship with [https://en.wikipedia.org/wiki/Hans_Wind Hans Wind].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Nikka scan 3.jpg
+Nikka scan 4.jpg
+Nikka Scan.jpg
+Eila and Nikka.jpg
+Nikka Scan 2.jpg
+NipaNewScan 2.jpg
+Nipa Christmas Crash.jpg
+PolarbearWitches.png
+Nikka Familiar.jpg
+Nikka Close Up.jpg
+Nikka Frilly Dress.jpg
+Nikka 12.jpg
+Nippa, Naoe & Waltrud.jpg
+Brave Witches.jpg
+Brave Witches Ending Theme Collection.jpg|Cover of Brave Witches ED Theme Collection - LITTLE WING ～Spirit of LINDBERG～
+Brave Witches art 4 Nippa.jpeg|[[Brave Witches: 502nd Joint Fighter Wing|Brave Witches]] volume 2 art
+Nipa Crash Translated.jpg
+Nipa Eila Sanya Coffee.jpg
+502 new years bunnies.jpg
+2bw.jpg
+Nikka edvardine katajainen.jpg|Nikka original profile picture
+Nipa beind nice and considerate.jpg
+502al.jpg
+502nd Anime TV Poster.jpg
+File:She is watching you promo.jpg
+File:Nipa and Eila Winter Holiday.jpg
+File:Eila, Aleksandra, Nipa art sample.jpg
+File:Nipa Familiar on head.jpg
+BW Himeuta 2.jpg|Cover of Brave Witches Himeuta Collection Volume 2
+BW Himeuta 5.jpg|Cover of Brave Witches Himeuta Collection Volume 5
+Secret song Nikka Naoe Hikari.jpg|World Witches Secret Song Collection: Northwest Orussia
+502nd JFW.jpg
+502nd - 01.jpg|502nd JFW - 01
+File:Nipa Lamp Crash.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:502nd Joint Fighter Wing]]
+[[Category:Flight Sergeants]]
+[[Category:Suomus Misfit Squad]]
+[[Category:Suomus]]

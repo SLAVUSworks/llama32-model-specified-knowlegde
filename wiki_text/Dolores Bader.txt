@@ -1,0 +1,44 @@
+{{Character_Infobox
+|title1=Dolores Bader
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=21 February
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Britannia Air Force Tangmere Squadron (Commander)
+|team =11th Joint Fighter Squadron (Commander)
+|rank=Wing Commander 	
+|striker unit(s)=[[Wikipedia:Supermarine_Spitfire_(early_Merlin-powered_variants)#Mk_V_(Types_331,_349_and_352)|Ultramarine Spitfire Mk.V]] (W3185)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Dolores Bader''' (ドロレス・バーダー) is a witch originating from [[Britannia]].
+
+==Background==
+Dolores is the Squadron Leader of the [[Her Majesty's Witch|11th Joint Fighter Squadron: Her Majesty's Witch]], in charge of air defense within and around Britannia.
+
+The HMW squadron is composed mostly of Britannia Army witches, but also exiled witches from Britannia's Federation nations such as [[Faraway Land]], and eastern countries such as [[Gallia]], [[Ostmark]], [[Dacia]], and [[Moesia]], enlarging the Fighter Wing. Some peoples within the Air Force argued that it should be a Joint Fighter Wing, but they were treated as a standard combat squadron because they disliked being used for missions other than defense.
+
+==Striker units==
+{{Striker unit template
+|name=[[Ultramarine Spitfire|Ultramarine Spitfire MkV (No. W3185)]]
+|image=Spitfire MkV Bader SW1.jpg
+|description=The dedicated unit of Wing commander Bader, an unregisterd ace who played an active role in the early stages of the war.
+}}
+
+==Trivia==
+*Her ace archetype is [http://en.wikipedia.org/wiki/Douglas_Bader Douglas Bader].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Characters with no art]]
+[[Category:Wing Commanders]]
+[[Category:Britannia]]

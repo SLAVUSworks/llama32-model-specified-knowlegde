@@ -1,0 +1,50 @@
+{{Character_Infobox
+|title1=Galina Dmitriyevna Kostylev
+|image1=Galina_D._Kostylev.jpg
+|caption1=
+|kanji_name=ガリーナ・ドミトリエヴナ・コストイリョーフ
+|romaji_name=
+|age=?
+|birth_date=20 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Air Force
+|team = [[503rd Joint Fighter Wing]]
+|rank=Flight Lieutenant
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=[[Wikipedia:Siberian cat|Siberian]]<ref>[https://twitter.com/humikane/status/1256943147243827212 Humikane tweet on the familiars of the 503rd members]</ref>
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Galina Dmitriyevna Kostylev''' (ガリーナ・ドミトリエヴナ・コストイリョーフ, Галина Дмитриевна Костылёва) is a Witch of the [[503rd Joint Fighter Wing]], originating from [[Orussia]].
+
+==Background==
+Galina grew up in a mild southern climate and despite being an Orussian, she is not good with the cold.<ref>[https://twitter.com/humikane/status/1257289756884393985 Humikane tweet on Galina]</ref>
+
+She is cheery, lively and diplomatic. Because she gets along with witches from all countries immediately, she was selected in the [[503rd Joint Fighter Wing|503rd JFW]] right when it was established.
+
+She was part of the Black Sea defense, but when they had to evacuate they merged with the JG 54. They withdrew to Tsaritsin and then all the way to Ufa. As her home unit was destroyed, and she wasn't assigned into any new units during the chaos of the evacuation, she volunteered for operation Typhoon and became a full member of the JG 54.
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]]
+
+==Trivia==
+*She is based on [http://ru.wikipedia.org/wiki/Костылёв,_Георгий_Дмитриевич Georgi D. Kostylev].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+503 Humikane 2.jpg|503rd Joint Fighter Wing
+Luminous Witch.Typhoon Witches EP12 1.jpg
+Luminous Witch.Typhoon Witches EP12 2.jpg
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:503rd Joint Fighter Wing]]
+[[Category:Orussia]]

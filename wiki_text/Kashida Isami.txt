@@ -1,0 +1,38 @@
+{{stub}}
+{{Character_Infobox
+|title1=Kashida Isami
+|image1=Kashida Isami.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=18 (1944)
+|birth_date=2 November 1926
+|height=170cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 4th Fighter Squadron
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Kawasaki_Ki-45|Kawataki Ki-45 "Dragonslayer"]]
+|weapon(s)=[[Wikipedia:Ho-203_cannon|37mm Ho 203 Cannon]]
+|familiar=[[Wikipedia:Japanese_dormouse|Japanese dormouse]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kashida Isami''' (樫田・勇美<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==Trivia==
+*She is based on [[Wikipedia:Isamu_Kashiide|Kashiide Isamu]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Kashida Scan.jpg
+Kashida Isami Scan.jpg
+</gallery>
+
+[[Category:Article stubs]]
+[[Category:Strike Witch]]
+[[Category:Night Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Fuso]]

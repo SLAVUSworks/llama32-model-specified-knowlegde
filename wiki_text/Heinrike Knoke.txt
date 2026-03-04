@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Heinrike Knoke
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ヘンリーケ・キューネッケ
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 1st Fighter Wing 1st Squadron
+([[Wikipedia:Jagdgeschwader_1_(World_War_II)|I./JG1]])
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Heinkel_He_162|Heinzel He162A-2]] (No. 120097)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Heinrike Knoke''' is a Witch attached with the [[Karlsland|Karlsland Air Force]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Heinzel He162|Heinzel He162A-2 (No. 120097)]]
+|image=He162A-2 JG1 1st Squadron SW OVA1.jpg
+|description=This unit was deployed in the 1st Fighter Wing 1st Squadron, it was used by multiple witches for testing and was not a dedicated machine. It was mainly used by Flight Lieutenant Heinrike Knoke for testing in the Mediterranean area, and was painted with a desert camouflage for this purpose.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Heinz_Knoke|Heinz Knoke]].
+
+==References==
+Strike Witches A complete record of 1st Independent Special Operations Wing
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Karlsland]]

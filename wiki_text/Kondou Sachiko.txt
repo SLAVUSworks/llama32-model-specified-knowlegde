@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Kondou Sachiko
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=近藤祥子
+|romaji_name=
+|age=?
+|birth_date=9 September
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy 302nd Air Corps 2nd Squadron
+|team = 
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Kyushu_J7W|Tsukushi Aircrafts Shinden Model 11]] (ヨD195)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kondou Sachiko''' (近藤祥子) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Navy]]. She is known as the "Large Neuroi Shooting King" (大型ネウロイ撃墜王).
+
+==Striker units==
+{{Striker unit template
+|name=[[Tsukushi Shinden|Tsukushi Shinden Model 11 (No. ヨD195)]]
+|image=Shinden Model 11 Kondo SW2.jpg
+|description=Of the six units deployed in the 302nd Air Group, two were of type Otsu with extended patrol distance and were used for night warfare. This unit was used by Flight Lieutenant "Large Neuroi Shooting King" Kondou, and has kill markings recording 15 downed Neuroi.
+}}
+
+==Trivia==
+Her ace archetype is Yukio Endo (遠藤幸男).
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Fuso]]
+[[Category:Characters with no art]]

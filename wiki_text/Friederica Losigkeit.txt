@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Friederica Losigkeit
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=13 November
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 1st Fighter Wing 1st Flying Corps (Commander) ([[Wikipedia:Jagdgeschwader_1_(World_War_II)|I./JG1]])
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Focke-Wulf_Fw_190#Fw_190_A|Flak-Wulf Fw190A-4]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Friederica Losigkeit''' (フレデリカ・ロージヒカイト<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch attached with the [[Karlsland|Karlsland Air Force]]. She is the commander of the [[Wikipedia:Jagdgeschwader_1_(World_War_II)#Group_I..2FJG_1|Jagdgeschwader 1 Gruppe I (I./JG 1)]].
+
+==Background==
+There is a possibility that she is the same individual as the Friederike Losigkeit (フリーデリケ・ロージヒカイト) that appeared in [[Strike Witches: Sōkū no Otome-tachi|Soukuu no Otome-tachi]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Flakwolf Fw190|FlakWolf Fw190A-4 (white No. 8)]]
+|image=Fw190A-4 Losigkeit SW1.jpg
+|description=For a time, she performed mock-battles with a prototype [[Wikipedia:Nakajima_Ki-44|Ki-44]] as a Karlsland [[Wikipedia:Military_attaché|military attaché]] in [[Fuso]]. After finishing her mission in Fuso and returning to her homeland, she started employing this unit.
+}}
+
+==Trivia==
+Her ace archetype is [[Wikipedia:Fritz_Losigkeit|Fritz Losigkeit]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Characters with no art]]
+[[Category:Karlsland]]

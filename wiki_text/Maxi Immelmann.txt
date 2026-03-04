@@ -1,0 +1,36 @@
+{{Character Infobox
+|title1=Maxi Immelmann
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=21 September
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=?
+|team =
+|rank=?
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Maxi Immelmann''' is a witch originating from [[Karlsland]].
+
+==Background==
+Maxi is a witch from the first [[Neuroi]] war. She was a subordinate of [[Oswalda Boelcke]].
+
+She invented the air combat technique called "[[Wikipedia:Immelmann turn|Immelmann turn]]".
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Max Immelmann|Max Immelmann]]. He was the first WW1 German ace, and commonly known as "Eagle of Reel".
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

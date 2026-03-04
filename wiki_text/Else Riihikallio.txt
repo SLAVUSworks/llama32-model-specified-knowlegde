@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Else Riihikallio
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=20 March
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 24th Squadron 2nd Company
+|team =
+|rank=Flying officer
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#K-4|Messerscharf Bf109K-4]] (MT-213)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Else Riihikallio''' is a witch originating from [[Suomus]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109K-4 (No. MT-213)]]
+|image=Bf109K-4 Riihikallio SW2.jpg
+|description=Based on a damaged G2 model, the wing, engine, and cowling were replaced, and the unit was refurbished into the equivalent of a type K. There were many such "hybrid" units in Suomus.
+}}
+
+==Trivia==
+*Her ace archetype is [http://www.cieldegloire.com/000_riihikallio.php Eero Juhani Riihikallio].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Suomus]]
+[[Category:Characters with no art]]

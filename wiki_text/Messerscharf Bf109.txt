@@ -1,0 +1,179 @@
+__NOTOC__
+{{Striker Unit Infobox
+|title1=Bf109
+|image1=Bf109K-4 0.jpg 
+|caption1=
+
+<!-- Tabs -->
+|tab1=G-2
+|tab2=G-2
+|tab3=G-6
+|tab4=K-4
+|tab5=K-4
+
+<!-- Tab1 -->
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications=[[wikipedia:Messerschmitt Bf 109 variants#G-1, G-2|Type G-2]]
+|magic_engine=[[wikipedia:Daimler-Benz DB 605|DB605A-1]] [[File:Deismus.png|23px]]
+|power=1475 Mp (take off)
+|length=89.5 cm
+|weight=Classified
+|maximum_speed=640 km/h (6300 m, average air witch)
+|weapons=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 151 cannon|MG151/20]]<br>others
+
+<!-- Tab2 -->
+|country2=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer2=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications2=[[wikipedia:Messerschmitt Bf 109 variants#G-5, G-6|Type G-2/Trop]]
+|magic_engine2=[[wikipedia:Daimler-Benz DB 605|DB605A-1]] [[File:Deismus.png|23px]]
+|power2=1475 Mp (ermergency power: 1800 Mp)
+|length2=89.5 cm
+|weight2=Classified
+|maximum_speed2=625 km/h (7000 m, average air witch)
+|weapons2=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 131 machine gun|MG131s]]<br>others
+
+<!-- Tab3 -->
+|country3=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer3=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications3=[[wikipedia:Messerschmitt Bf 109 variants#G-5, G-6|Type G-6]]
+|magic_engine3=[[wikipedia:Daimler-Benz DB 605|DB605]] [[File:Deismus.png|23px]]
+|power3=1475 Mp (ermergency power: 1800 Mp)
+|length3=89.5 cm
+|weight3=Classified
+|maximum_speed3=625 km/h (7000 m, average air witch)
+|weapons3=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 131 machine gun|MG131s]]<br>others
+
+<!-- Tab4 -->
+|country4=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer4=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications4=[[wikipedia:Messerschmitt Bf 109 variants#K-4|Early type K-4]]
+|magic_engine4=[[wikipedia:Daimler-Benz DB 605|DB605DM]] [[File:Deismus.png|23px]]
+|power4=1800 Mp (ermergency power)
+|length4=90.2 cm
+|weight4=Classified
+|maximum_speed4=445 mph (24610 ft, average air witch)
+|weapons4=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 131 machine gun|MG131s]]<br>[[Wikipedia:MG 151 cannon|MG151/20]]<br>others
+
+<!-- Tab5 -->
+|country5=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer5=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications5=[[wikipedia:Messerschmitt Bf 109 variants#K-4|Late type K-4]]
+|magic_engine5=[[wikipedia:Daimler-Benz DB 605|DB605DB/DC]] [[File:Deismus.png|23px]]
+|power5=1850 Mp (ermergency power)
+|length5=90.2 cm
+|weight5=Classified
+|maximum_speed5=452 mph (24610 ft, average air witch)
+|weapons5=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 131 machine gun|MG131s]]<br>[[Wikipedia:MG 151 cannon|MG151/20]]<br>others
+}}
+==History==
+The Bf109 was the most famous [[Striker Unit]] throughout the war, and was in the world's top class in terms of performance and production volumes. Equipped with the powerful DB series magic engine, this striker unit achieved a maximum speed that was greatly superior to the maximum speed of the previous units thanks to its aerodynamically superior linear shape. This unit is composed of a conservatory small fuselage equipped with a powerful magic engine. This was a major characteristic of the Bf109 that didn't change throughout the various types.
+
+However, due to the small size of the unit, the cruising range and the witch's operability were low by nature. It is said that this is because the chief designer of Messerscharf who was in charge of the development was not a witch, and was the type that emphasized performance over ease of use. After its development the number of problems identified on the field increased. Following loud complaints by [[Adolfine Galland]], who later became Inspector General of the Air Force, improvements were made one after another and many types were created.
+
+The original V-1 prototype, along with the mass-produced A-1, had the old backpack-style engines. However, with the announcement of the [[Miyafuji Ichiro|Miyafuji]] Theory, they quickly created the improved B-1. Not stopping there, the V-1, A-1 and B-1 underwent continual improvements. Porting the B-1's engine into the C-1's design resulted in the D-1. However, all of these designs had already been in production when the Miyafuji Theory became widely known, so all were lacking in aerodynamics. Additionally, the much-anticipated DB601 engine had just been completed, so the E-1, with the new engine and a more aerodynamic design, was developed. The prototype for the E-1 design was taken to [[Fuso]] by [[Karlsland]] observers during the [[Fuso Sea Incident]], and was later used as reference in the development of the [[Nagashima Type 2 Ki-44 Shoki|Ki-44]].
+
+The Bf109G series is based on the F series, whose structure was drastically revised compared to the early versions. The G series was equipped with a more powerful magic engine than any previous type, the DB605. There are several variants of the G type. The initial type G-1 was developed for high-altitude, the G-2 for normal altitude, the G-3 was a G-1 with one modified onboard mechanism, and the G-4 was for normal altitude as well. The magic engine has been enhanced on the G-5, and the armament was increased on the G-6 to deal with large Neuroi. There are many other variants, like the G-8, a dedicated reconnaissance type, the G-10 with an enhanced magic engine, the G-12, a trainer, the G-14 equipped with rocket launchers, and the G-16 for ground attack.
+
+These remodeling could be done not only at the factory but also at the front-line bases to some extent, which made it possible to easily adjust the equipment to suit the witch. Furthermore, it was possible to customize it according to the mission type. Some of the best witches had multiple striker units and used each for specific missions. This was possible because of the abundant supply of Bf109. For this reason, there were cases where small countries such as [[Suomus]], whose own unit development could not be completed in time, and Fuso's European dispatch units, who were far from their home country, employed them. It was also reported that some Fuso corps have installed the Bf109's magic engine and parts into their own units to improve their performance.
+
+The tropical verion of the G-series is mainly used in North Africa and the Mediterranean area. Its main characteristic trait from a visual standpoint is the sand filter (tropical filter) installed on the magic engine's supercharger intake, to prevent sand and other foreign bodies from being sucked in. For the same reason, a modification was made to block the small air scoops, but it was found that it caused the unit to overheat. The G-0 prototype that was sent early to North Africa had this modifiation, and accidents occurred there due to insufficient cooling capacity, nearly resulting in the death of a Witch. In fact, the new engine could easily overheat, and could break on fire in certain circumstances. Immediately after the super ace called "The star of Africa", [[Hanna-Justina Marseille|Marseille]], switched to the early G-0 prototype, an engine caught on fire in an instant which resulted in a terrible crash situation. Fortunately, a team-mate saved her life, but similar troubles kept happening. As a result, a firm request for improvements was made, and thorough modifications were carried out locally to improve the cooling performance, which were implemented in the later mass production models.
+
+From types to types major modernizations were made, and it became somewhat practical to use. The bf109G-2 used by [[Eila Ilmatar Juutilainen|Eila]] was the main type employed in the second half of the war. This type was used in various neighboring countries, particularly in Suomus where it was favored by many aces. The aiframe performance was approximatively the same as the previous F type, but the DB601 magic engine was replaced by the BD605. The power output was increased by about 10%, but the weight was also increased by the same amount, and some of the witches who preferred to dogfight said that the F type was easier to handle. In particular, Flight Lieutenant Marseille of the [[31st Joint Fighter Squadron Africa|31st Joint Fighter Squadron "Africa"]], who previously used a unit specifically customized for herself, had the emergency power parts and unnecessary armor plates removed from her G-2 which significantly reduced its weight. On the other hand, it was well received by witches who preferred hit and runs tactics for its increased diving speed. In addition, the production plants of the Bf109 were relocated to [[Neue Karlsland]], in the south of the [[Liberion]] continent, and a stable production was possible because there was no [[Neuroi]] attack. This was also one of the main factors that made it highly esteemed.
+
+The G-6 is an advanced version of the Bf109. The fuselage of this type received drastic structural modifications over the previous types, and it was equipped with an even more powerful DB605 magic engine. In order to increase the attack power of the G-6 type, gun packs were installed under the wings to fight large Neuroi types and for ground attack purposes. However, this was rarely used in practice as it increased the weight and deteriorated the balance. Some squadrons used disposable rocket launchers instead of gun packs, which were said to be more effective against large Neuroi. What many Witches preferred over armament enhancements was the strengthened wings and mounting points for guns, which they used to hang their luggage when moving out. Some say that witches hung small compositions of specialty wines from their base in [[Romagna]] and transported them to other bases to serve them to the maintenance staff, but some of these stories say that they were attacked by a Neuroi just before they arrived and the bottles were dropped midair and wasted.
+
+In any case, it became a suitable airframe for hit-and-run attacks thanks to the increase of the magic engine output and the strengthening of the structure which was necessary to accommodate the weight increase. Its ability to quickly accelerate was especially remarkable, and it was possible to increase the engine output by 1.2 times by using the [[Wikipedia:War emergency power|emergency power machinery]]. In return, its turning ability deteriorated which made it less suitable for dogfights, and many witches preferred the manoeuvrability of the previous F and G-2 types when fighting against smaller, more agile opponents.
+
+The Bf109 is Karlsland's main unit, but its development began before the outbreak of the war, therefore it was pointed out that it will eventually become obsolete. This is why its successor was being developed from the ground up. The Me309 incorporated many new technologies and was designed to eliminate the drawbacks of the 109. 
+
+However, these new technologies caused some problems when actually installed in the 309, even though they had good results in their dedicated tests. Because the maneuverability was sluggish and the turning performance poor, with poor take-off and landing abilities as well, the test witches evaluated that it was not worth it. Compared to the 109G model which was in mass production at that time, it didn't exceed any of its specifications other than speed, so the development of the 309 was stopped. Another attempt was made with the 209 prototype, but it also had mediocre performances that were not good enough to replace the type G.
+
+The Bf109G was originally planned to be the final type, but the development of its successor faced difficulties and there was still a shortage of striker units in Europe. In response to this, Messerscharf developed the successor of the 109, the [[Messerscharf Me262|Me262]], which was the first striker equipped with a jet magic engine. Messerscharf simultaneously continued to improve the 109 as much as possible as it is difficult to completely stop the production line of the Bf109, which is quite effective, and switch to the production of the new type. In addition, many witches preferred the Bf109's maneuvrability and excellent acceleration. As the production of the promising [[Flakwolf Fw190]] was not significant, there was no choice but to continue to improve the Bf109.
+
+This resulted in the creation of the type K, which is the type used by Eila now. This airframe is based on a late type G, the G-10, an improved version for high altitude use. The fuselage is roughly the same, but the big difference comes from the engine being a different sub-type. On the types that followed the G-10, the engine cowling was shaped so as to wrap around the boiler resulting in a "hump". Thanks to its refined aerodynamics, it was able to exceed a maximum speed of 700 km/h at war emergency power. Fortunately, many aces, especially Flying officer [[Erica Hartmann|Hartmann]], were able to appreciate the Bf109's agility and superior acceleration performance. Squadrons who operated the type K prior to its deployment also wished for the continuation of the production and made requests for improvements, which further contributed to the completion of this airframe.
+
+The type K was sent not only to Karlsland squadrons, but also to countries such as Suomus which used 10% of 109 before that. In Suomus, it was preferentially deployed to units that were operating jointly with the [[502nd Joint Fighter Wing]], but in many other Karlslander front lines squadrons, the obsolete early G models remained the main strikers. Although the pace of the production of the new type somewhat declined, a remodeling kit was later built to locally upgrade the type G to an equivalent of the type K, and the front line Bf109 were gradually updated to this specification.
+
+As for the sub-types, it was still possible to install gunpods under the wings to use against large Neuroi, as well as many type of anti-aircraft rockets, which were actively used. In addition, other sub-types were also made such as the K-6 and K-10 with internally mounted guns instead of gunpods, the K-8 with the engine replaced by a DB605L, the training type K-12, etc... The K-14 equipped with the DB605L has recorded a maximum speed of 452 mph (727 km/h), although it was momentary. The larger part of the production was K-4 units however.
+
+A type L prototype equipped with a Juma 213 engine from the Fw190D-9 was also developed, but an order to suspend its development was issued as it was impeding the production of the Fw190D-9. In addition, the Me155, which was developed as an on-board unit for the [[Wikipedia:German aircraft carrier Graf Zeppelin|Graf Zeppelin]], was to share parts with the Bf109. However, because its development was delayed and Graf Zeppelin sunk, the Fw190T was adopted as the onboard unit.
+
+====Bf109Z====
+{{Striker Unit Infobox
+|title1=Bf109Z
+|image1=Bf109Z 0.jpg 
+|caption1=
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications=[[wikipedia:Messerschmitt Bf 109 variants#Bf 109Z "Zwilling"|Type K base]]
+|magic_engine=[[wikipedia:Daimler-Benz DB 605|DB605DB/DC]] [[File:Deismus.png|23px]]
+|power=1850 Mp (take off)
+|length=90.2 cm
+|weight=Classified
+|maximum_speed=422.5mph (24000ft, average air witch)
+|weapons=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 151 cannon|MG151/20]]<br>[[Wikipedia:MK 108 cannon|MK108]]
+}}
+The idea of ​​operating a striker unit with two persons has existed since the beginning, and is common practice especially on training units. Based on this idea, a prototype on which the controls, the shield, and the attack power was shared between three persons was developed, but it was heavy and its performance was poor. Furthermore, there was the problem of securing a dedicated production line to manufacture the unit, as the prototype was built with the general idea that developping units of an existing type was prohibited. After that, the nighttime battles increased and requests for units capable of long time sorties were made. The development of a unit operated by two witches who could potentially relay themselves was promoted, which resulted in the development of the Bf109Z by Karlsland.
+
+The prototype was based on two Bf109F that were tightly fixed with newly developed wings. However, it was difficult to synchronise two persons' movements, and when one maneuvered, the other was tossed around. Therefore, in a later prototype, a rod-shaped handle was extended forward, and the witch who was not operating the unit used it to hold her body. Although this solved the control problem to some extent, it was impossible to perform sudden maneuvers, and maneuvrability was low. Nevertheless, it was possible to mount large weapons and bombs, and a 75mm anti-armor cannon was also mounted and fired with success. However, despite repeated tests with the fixed handle, no proper solution to this problem could be found. 
+
+Seeing the repeated failures of Messerscharf, Gunter, an engineer from Heinzel, combined two in-house He100 and it was successfully operated by his own twin daughters (The He100 has been previously rejected because it was too similar to the Bf109E-1, despite featuring improvements over the later). It is probably because Gunter himself was a twin (his younger brother died in an accident) that he knew that witches who breathed in unison were essential to operate this unit. Understanding this, Messerscharf stopped the development. The He100 was not adopted either. After that, the prototype was transferred to the Ministry of Technology where research is ongoing. Later on, the long-range P-82 unit based on two P-51 was developed by Liberion after they received these researchs.
+
+==Known variants==
+*'''V-1''': First prototype, with a backpack engine.
+*'''A-1''': Backpack engine.
+*'''B-1''': Improved variant.
+*'''C-1'''
+*'''D-1''': B-1 engine installed in the C-1 design.
+*'''E-1'''
+*'''E-3'''
+*'''E-4'''
+*'''E-7'''
+*'''F-2'''
+*'''F-4'''
+*'''G-0''': First G series prototype with strengthened frame and new DB605 engine. Had overheating issues because the cooling wasn't upgraded.
+*'''G-1''': High altitude variant.
+*'''G-2''': Normal altitude (general purpose).
+*'''G-3''': Nearly identical to the G-1
+*'''G-4''': Normal altitude (general purpose).
+*'''G-5''': Enhanced magic engine.
+*'''G-6''': Better weapons, used against large Neuroi.
+*'''G-8''': Reconnaissance variant.
+*'''G-10''': Enhanced magic engine (K series base).
+*'''G-12''': Trainer variant.
+*'''G-14''': Equipped with rocket launchers.
+*'''G-16''': Ground attack variant.
+*'''K-4''': Main K series unit.
+*'''K-6''': Internally mounted guns.
+*'''K-8''': DB605L engine.
+*'''K-10''': Internally mounted guns.
+*'''K-12''': Trainer variant.
+*'''K-14''': DB605L engine.
+*'''L''': Prototype with Fw190D engine.
+*'''Z''': Twin Bf109 prototype.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Messerschmitt Bf 109|Messerschmitt Bf 109]] fighter.
+*The magic engines are respectively based on the [[wikipedia:Daimler-Benz DB 601|Daimler-Benz DB 601]] and [[wikipedia:Daimler-Benz DB 605|DB 605]] inverted V12 supercharged engines.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+Bf109G-2 1.jpg|Strike Witches Eila's Bf109G-2
+Bf109G-2 2.jpg|Strike Witches Bf109G-2 data
+Bf109G-2 3.jpg|Strike Witches Minna's Bf109G-2
+Bf109G-2 4.jpg|Strike Witches Bf109G-2 data
+Bf109G-6 1.jpg|Strike Witches Erica's Bf109G-6
+Bf109G-6 2.jpg|Strike Witches Bf109G-6 data
+Bf109G-6 3.jpg|Brave Witches Edytha's Bf109G-6
+Bf109G-6 4.jpg|Brave Witches Bf109G-6 data
+Bf109K-4 5.jpg|Brave Witches Waltrud's Bf109K-4
+Bf109K-4 6.jpg|Brave Witches Bf109K-4 data
+Bf109K-4 1.jpg|Strike Witches 2 Eila's Bf109K-4
+Bf109K-4 2.jpg|Strike Witches 2 Bf109K-4 data
+Bf109K-4 3.jpg|Strike Witches 2 Erica's Bf109K-4
+Bf109K-4 4.jpg|Strike Witches 2 Bf109K-4 data
+Bf109Z 1.jpg|Strike Witches OVA Bf109Z
+Bf109Z 2.jpg|Strike Witches OVA Bf109Z data
+</gallery>
+[[Category:Striker Unit]]

@@ -1,0 +1,33 @@
+{{Character_Infobox
+|title1=Honda
+|image1= image:Honda_1.png
+|caption1=
+|kanji_name=本田
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army Yokosuka training base
+|team =
+|rank=Trainee
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-27|Nagashima Flight Legs Type 97 Ki-27]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Honda''' (本田) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+She was a side character in [[Tenkū no Otome-tachi|Strike Witches: Maidens in the Sky]]. '''This manga has since been retconned, and no longer considered canon.'''
+
+==Background==
+She is first seen training at the Yokosuka base under the guidance of [[Takei Junko]]. She is one of the three combat-ready witches at the base, aside from Junko.
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Honda_Toshiaki|Honda Toshiaki]] (本多 利明).
+[[Category:Strike Witch]]
+[[Category:Fuso]]
+[[Category:Retconned Content]]

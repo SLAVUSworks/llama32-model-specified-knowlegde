@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Georgine Richter
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ゲオルギーネ・リヒター
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 51st Bomber Wing "Edelweiss" 3rd Flying Corps ([[Wikipedia:Kampfgeschwader_51|III./KG51]])
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262A-2a]] (No. 170096)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Georgine Richter''' is a Witch attached with the [[Karlsland|Karlsland Air Force]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262A-2a (No. 170096)]]
+|image=Me262A-2a Richter SW OVA1.jpg
+|description=When the new Me262 jet striker unit was produced, it was envisaged to take advantage of its high speed for bombardments. The 3rd Squadron of the 51st Bomber Wing was designated as the experimental squadron, and reiterated real combat tests over Gallia after they underwent training.
+}}
+
+==References==
+Strike Witches A complete record of 1st Independent Special Operations Wing
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

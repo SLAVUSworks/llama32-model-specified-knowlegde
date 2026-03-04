@@ -1,0 +1,75 @@
+{{Character_Infobox
+|title1=Charlotte Lueder
+|image1=Charlotte1.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=14 (in 1942)
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Army
+|team =
+|rank=Sergeant
+|striker unit(s)=[https://en.wikipedia.org/wiki/Panzer_IV#Ausf._F2_to_Ausf._J Panzer Mark IV 'Extra Special']<br>[http://en.wikipedia.org/wiki/Tiger_1 Mark VI 'Tiger']
+|weapon(s)=[https://en.wikipedia.org/wiki/7.5_cm_KwK_40 75mm KhK 40 L/48 Witch Combat Gun]<br>[http://en.wikipedia.org/wiki/8.8_cm_KwK_36 88mm KwK 36 Tank Gun]
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Charlotte Lueder''' (シャーロット・リューダー<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Tank Witch from the Schwarzwald, in [[Karlsland]].
+
+==Background==
+From a family with long bloodline of witches, Charlotte's parents died soon after her birth, leaving her in the care of her grandmother. After the grandmother died as well, she was recruited by [[Friederike Porsche]].
+
+While Charlotte is descended from a long line of Karlsland witches and the magical bloodline is an ancient one: such information is not common knowledge. As a result, many people, even among her peers, know little about her ancestry, and as a result many theories have amounted. It's not at all helped by the fact that some people speculated that she is a Karlslander of [[Liberion]] heritage, which is attributed to the fact that such information was found recorded in her military profile. But it's stipulated that due to development costs of the Tiger striker by the Liberion government, it was an incentive to portray the Tiger operator as someone of Liberion, even if it were a result of rewriting the books and maintaining a cover.
+
+==Personality==
+She is easily grieved when seeing others with families, when she herself has lost all of hers. She is then helped during her stay at the surplus depot, when the entire facility celebrates her birthday by watching [https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film) The Wizard of Oz], and she realizes that everyone is family.
+
+Also, when she was first assigned to operate the Tiger in Africa she was initially a very dour, frightened girl who feared bearing the weight and expectations of those around her in the war on her shoulders and was afraid of dying, lamenting that she was just a little girl. However, thanks to [[Michael Schmitt]]'s attempts to encourage her, seeing Friederike valiantly holding off [[Neuroi]] ground units to protect them and becoming inspired by Michael and Friederike's bond to each other slowly began to find the inspiration, courage and boost to her morale to try and protect those she had come to cherish. Over time with every battle, her confidence and resolve grew, and had come to develop a very strong connection to her comrades, especially for the people she has come to love as being close to her like Friederike, Michael, [[Kitano Furuko]] and of interesting note, [[Inagaki Mami]].
+
+==Equipment==
+The Mark VI Extra Heavy Tracked Fighting Legs, also known as the 'Tiger', are based upon the PzKpfw VI Tiger I heavy tank. It is extremely large and slow, and is armed with a powerful 88mm KwK36 L/56 as its main armament; currently the only documented instance of armored infantry witches using an actual tank cannon as a primary weapon, a fact that differs when compared to standard witch armaments such as the Witch Combat Gun or certain witch designed rifles (''See [[Striker_Unit#Land_Strikers|Land Strikers]]''). The Mark VI unit stands roughly at about 12-14 feet (3.6 - 4.2 meters) tall.
+
+Charlotte has operated two Tiger striker units: Production Number 250011 and 250012. Production number 250012 was the unit deployed initially for field testing and was destroyed during the event known as "Patton's Rampage": a rescue mission conducted to rescue the Tiger, its operator and its maintenance crew from a Neuroi attack that involved multiple Neuroi turtles, flying goblets and an ultra heavy land Neuroi consisting of a ship's hull. While it was believed that 250011 was the unit that was destroyed by overloading the magic engine to destroy the ultra heavy Neuroi, it was found instead to be unit 250012. Tiger Unit 250011 was in fact held in reserve at Icosium until Operation Sphinx.
+
+During the Neuroi assault on the surplus depot after the loss of Tiger Unit 250012, she uses the Panzer Mark IV "Extra Special", which by use of external armored sheets (referred to as ''[https://en.wikipedia.org/wiki/Spaced_armour Schürzen]'') offers better shielding and defensive protection than an average Mark IV, along with a longer barreled KhK40 witch combat gun for better range as the unit's standard load-out until Tiger Unit 250011 was reactivated for use in Operation Sphinx.
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Andorra no Majo|Strike Witches: The Witches of Andorra]]
+'''Doujinshi'''
+* [[Africa Doujinshi#Tiger in Desert 1|Tiger in Desert 1]]
+* [[Africa Doujinshi#Tiger in Desert 2|Tiger in Desert 2]]
+* [[Africa Doujinshi#Witches of the Sphinx 1|Witches of the Sphinx 1]]
+* [[Africa Doujinshi#Witches of the Sphinx 2|Witches of the Sphinx 2]]
+* [[Africa Doujinshi#Witches of the Sphinx 3|Witches of the Sphinx 3]]
+* [http://strikewitches.wikia.com/index.php?title=Special:NewFiles&image=x999-143_Major_Miles-jpg The Witch of Stuka.] (Extra story included in The Witches of Africa Total Comic Collection.)
+*[[Africa_Doujinshi#Katou_Keiko_North Africa_Military_Photos_1943|Katou Keiko North Africa Military Photos 1943 ]]
+*[[Africa_Doujinshi#Witches_of_the_Sphinx 4|Witches of the Sphinx 4]]
+*[[Africa Doujinshi#Witches of the Sphinx 5|Witches of the Sphinx 5]]
+
+==Trivia==
+*She is based on [http://www.lexikon-der-wehrmacht.de/Personenregister/L/LuederHansGeorg.htm Hans-Georg Lueder], the first commander of [https://en.wikipedia.org/wiki/501st_Heavy_Panzer_Battalion Schwere Panzer-Abeiltung 501] (501st Heavy Tank Battalion) in North Africa, where he was wounded, 28th of February, 1943.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Charlotte with Tiger 1 1943 photo 1.jpg|Charlotte and Tiger 1 photographer by Katou Keiko in 1943
+Charlotte with Tiger 1 1943 photo 2.jpg|Charlotte and Tiger 1 photographer by Katou Keiko in 1943
+Charlotte Lueger 3.jpg
+Tiger 1, Charlotte, Frederica, Patton.jpg
+Charlotte Tiger 1.jpg
+Charlotte Lueger 2.jpg
+Charlotte Lueder &amp; Ruko 2.png
+Charlotte Lueder 11.jpg
+Charlotte Lueder 12.jpg
+Charlotte Lueder &amp; Ruko.jpg
+Michael, Charlotte &amp; Frederica.jpg
+Charlotte anguished in Mami's arms.png
+Charlotte and Mami (Pattons Rampage).png
+</gallery>
+[[Category:Tank Witch]]
+[[Category:Karlsland]]

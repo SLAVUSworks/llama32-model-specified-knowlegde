@@ -1,0 +1,37 @@
+{{Character_Infobox
+|title1=Frida Wendel
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Messerscharf test witch
+|team =
+|rank=
+|striker unit(s)=[[Wikipedia:Messerschmitt Me 262|Messerscharf Me262V1]] (No. PC+UA)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Frida Wendel''' is a Witch from [[Karlsland]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262V1 (No. PC+UA)]]
+|image=Me262V1 Wendel SW2.jpg
+|description=The first Me262 prototype. Since it took time to develop a jet engine, a conventional magic engine was also installed. After the experimental jet engine was completed, it was installed and tested, but the engine stopped due to a failure. She landed using the normal engine.
+}}
+
+==Trivia==
+*She is based on [[Wikipedia:Fritz_Wendel|Fritz Wendel]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Karlsland]]

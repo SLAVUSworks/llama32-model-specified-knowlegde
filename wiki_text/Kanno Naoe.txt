@@ -1,0 +1,120 @@
+{{Character Infobox
+|title1=Kanno Naoe
+|image1=naoe_kanno.jpg
+|caption1=
+|kanji_name=管野直枝
+|romaji_name=Kanno Naoe
+|age=15 (end of 1944)
+|birth_date=23 September  1929
+|height=149 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy 343rd Naval Flying Corps
+|team =[[502nd Joint Fighter Wing]]
+|rank=Pilot Officer<br>Flying Officer
+|striker unit(s)=[[Wikipedia:Mitsubishi A6M Zero#A6M3 Type 0 Model 22|Miyabishi Heavy Industries Type 0 Model 22]] (No. 181)<br>[[Wikipedia:Mitsubishi A6M Zero#A6M3 Type 0 Model 22|Miyabishi Heavy Industries Type 0 Model 22 Kou]] (unknown number)<br>[[Wikipedia:Kawanishi N1K|Yamanishi Shiden Model 21 N1K2-J]] (No. 502-15)
+|weapon(s)=[[Wikipedia:Type 99 cannon|Type 99-2 Model 2 Kai]]
+|familiar=[[Wikipedia:Bulldog|Bulldog]]
+|seiyuu_(japanese)=[[Wikipedia:Rie Murakawa|Murakawa Rie]]
+|seiyuu_(english)=[[w:c:animevoiceover:Mikaela Krantz|Mikaela Krantz]]
+|appearances=
+}}
+'''Kanno Naoe''' (管野直枝), nicknamed '''Nao''' (ナオ), is one of the main characters of [[Brave Witches]]. She is a witch of the [[502nd Joint Fighter Wing]], originating from [[Fuso]], affiliated with the [[Fuso Imperial Navy]], and the "partner" of [[Karibuchi Hikari]].
+
+==Background==
+Born to strict parents, as a child Kanno was an obedient girl that had a taste for reading. She idolized literature and wrote down a diary of [[wikipedia:Tanka (poetry)|Tanka]] and poetry. She had an admiration for [[Gallia|Gallian]] literature and specialized in the Gallian language at the naval academy. She does not drink alcohol.
+
+She was often picked on by others during the time of her training, including her instructors. Kanno also had the habit of, out of a vigorous fighting spirit, approaching the target until she reached the very limit. At times, this would result into a collision and the damaging of the [[Striker Unit]], something that would earn her the nickname of "Destroyer" (デストロイヤー). On the other hand, because of this she would also come to specialize in tactics of closing in upon the opponent and then avoiding him by a paper-thin difference.
+
+Simultaneously with her appointment as a Pilot Officer, Kanno was assigned to the European Dispatch Fleet and put in the [[wikipedia:Operation Barbarossa|Operation Barbarossa]]. Assigned to the ground units, she provided inland support for the [[wikipedia:Siege of Leningrad|Petersburg Invasion Operation]]. Afterwards, she took up the duty of defending Petersburg. Also, although it happened only on paper, she would later be moved from European Dispatch Fleet to the 201st Flying Corps and then to the 343rd Flying Corps.
+
+In the middle of the fight in Europe, and with the intensification of the interchange of witches between nations, she would later become a member of the 502nd Joint Fighter Wing when it was established.
+
+== Personality==
+Kanno is described, in one word, as Napoleonic; despite her small size, she is bold and daring in the air, brash and sometimes belligerent socially. It is an attitude she forces on herself because of the war with the [[Neuroi]]: when her Witch abilities woke up, she roused herself by repeating the prayer: "''to fight a Neuroi, one should have a ferocious personality''". This attitude doesn't lend itself well to teamwork or cooperation, but under [[Aleksandra I. Pokryshkin|Flight Lieutenant Pokryshkin]] this is dampened somewhat, perhaps because she resembles an elder sister of Kanno's childhood, whom she remembers fondly.
+
+Kanno embodies a daring combat-style, in which "''if you run out of bullets use a blade, and if the blade breaks use a body blow''". She also operates to good effect against big targets and her pet theory is that "''the larger the enemy, the more worthwhile it is to defeat it''". Her forte is to do a nose dive from just above the target and fire as the two pass by each other.
+
+Kanno had refused to accept Hikari as a member of the 502nd, because Kanno thought that Hikari was not like her original partner, [[Karibuchi Takami|Takami]], anymore. But when Hikari showed her intelligence and will to fight to Kanno, she began to accept her, and they eventually become close friends later.
+
+==Abilities==
+Her inherent magic is the '''Compression-formula Super Hardness Defensive Magic Circle''' (圧縮式超硬度防御魔方陣, ''Asshuku-shiki chōkōdo bōgyo mahōjin'') or simply  the'''Super Hard Shield''' (超硬シールド, ''Chōkō shīrudo''). It is an ability that [[w:c:powerlisting:Power Compression|compresses]] the diameter of a [[w:c:powerlisting:Magical Shield Construction|magic shield]] until some dozens centimeters and [[w:c:powerlisting:Enhanced Defense|raises its strength]]. Kanno can also cover her glove with this shield to [[w:c:powerlisting:Power Fists|punch]] the target, so this technique is called '''Tsurugi Issen''' (剣一閃, "Sword Flash").
+
+==Striker Units==
+{{Striker unit template
+|name=[[Miyabishi Type 0 A6M Carrier-based Fighter Legs|Miyabishi Type 0 Carrier-based Fighter Legs Model 22 Kou (unknown machine number)]]
+|image=Type 0 Model 22 Kanno SW2.jpg
+|description=The unit of (at the time) Pilot Officer Kanno assigned to the Brave Witches. Nothing is drawn on it except the national marking because she destroys her units in quick successions. White water-based paint was applied lightly to create a winter camouflage.
+}}
+{{Striker unit template
+|name=[[Yamanishi Shiden|Yamanishi Shiden Model 21 (No. 502-15)]]
+|image=Shiden Model 21 Kanno SW2.jpg
+|description=When the European standard unit was changed to the Shiden-Kai, this unit was sent to Kanno, who was promoted to Flying Officer. It looks like it has been used a lot, probably because she didn't destroy it as fast as she used to. Victory markings for 2 large Neuroi and 5 small Neuroi can be seen on it.
+}}
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches: The Movie]], unnamed cameo
+*[[Brave Witches]]
+*[[World Witches: Hasshin Shimasu!!]]
+'''Manga'''
+*[[Strike witches: Chii Sanya]], cameo in chapter α-8
+*[[Brave Witches: Dai 502 Butai Hasshin shimasu!]]
+*[[World Witches: Contrail of Witches]]
+*[[Brave Witches: 502nd Joint Fighter Wing]]
+*[[Brave Witches Prequel: The Vast Land of Orussia]]
+'''Light Novel'''
+*[[Brave Witches Prequel]]
+'''Video Games'''
+*[[Strike Witches: Kiseki no Rondo]], in a group card
+* [[Brave Witches VR: Operation Baba-Yaga - Counter attack in the snow]]
+*[[World Witches United Front]]
+'''Other'''
+*[[502nd Twitter Story Translation|502nd Twitter Story]]
+* [[Seiza Story Translation|Seiza Story]]
+
+== Trivia==
+*Kanno's familiar is the bulldog.
+*Kanno is based on Japanese flying ace [[wikipedia:Naoshi Kanno|Kanno Naoshi]] (菅野直). One of his nicknames was Bulldog, Kanno's familiar is a reference to this. Besides that, he was also nicknamed "Destroyer" and "Yellow Fighter".
+*Kanno has a scar on her left cheek, and cover it with patch.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+KannoNaoeNewScan.jpg
+KannoNaoeNewScan2.jpg
+Kanno Naoe Scan.jpg
+Naoe & Shimohara.jpg
+Naoe & Hikari.jpg
+NaoPunch.jpg
+Naoe 15.jpg
+Brave Witches.jpg
+Kanno Naoe Underwear.jpg
+Kanno Naoe Fundoshi.jpg
+Kanno Naoe Dakimakura.jpg
+Utyuyt2.jpg
+Kan.jpg
+2bw.jpg
+502 new years bunnies.jpg
+File:Naoe Gertrud Waltrude Yoshika Break Witches Sample.jpg
+502nd Anime TV Poster.jpg
+502al.jpg
+502cameo.png
+502nd JFW.jpg
+502nd - 01.jpg|502nd JFW - 01
+Brave Witches - ep10.png|Kanno magically fisting a Neuroi
+Kanno Naoe Tsurugi Issen.jpg
+Brave Witches Prequel manga cover 1 Naoe.jpeg
+Brave Witches Prequel manga cover 2 Naoe.jpg
+Brave Witches Ending Theme Collection.jpg|Cover of Brave Witches ED Theme Collection - LITTLE WING ～Spirit of LINDBERG～
+BW Himeuta 2.jpg|Cover of Brave Witches Himeuta Collection Volume 2
+BW Himeuta 6.jpg|Cover of Brave Witches Himeuta Collection Volume 6
+Secret song Nikka Naoe Hikari.jpg|World Witches Secret Song Collection: Northwest Orussia
+BW Prequel Kanno Kimono.jpg|Brave Witches Prequel - New Years promo art
+Naoe scar.PNG|That patch is worn on purpose to cover her scar
+File:BraveWitches KannNaoe's Gloves.png|Fanbook info on Kanno Naoe's Gloves
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Flying Officers]]
+[[Category:502nd Joint Fighter Wing]]
+[[Category:Fuso]]

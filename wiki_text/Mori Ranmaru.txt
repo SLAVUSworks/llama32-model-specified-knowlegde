@@ -1,0 +1,51 @@
+{{Character_Infobox
+|title1=Mori Ranmaru
+|image1=007_Sengoku_Witches_Honnoji_no_Majo_-_Mori_Ranmaru.jpg
+|caption1=Mori Ranmaru in battle dress
+|kanji_name=
+|romaji_name=
+|age=Approximately 15
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Page and Witch of Oda Nobunaga
+|team =
+|rank=
+|striker unit(s)=Takageta (Wooden clogs with long supports)
+|weapon(s)=Spear<br>[[Wikipedia:Japanese_sword|Fuso Swords]]<br>Small cannons
+|familiar=?
+|seiyuu_(japanese)=
+|seiyuu_(english)=
+|appearances=
+}}
+'''Mori Ranmaru''' is a witch based on [[Wikipedia:Mori_Ranmaru|Mori Ranmaru]], a page and vassal of [[Wikipedia:Oda_Nobunaga|Oda Nobunaga]].
+
+==Background==
+Mori Ranmaru served Oda Nobunaga when he, [[Wikipedia:Toyotomi_Hideyoshi|Toyotomi Hideyoshi]], and [[Wikipedia:Tokugawa_Ieyasu|Tokugawa Ieyasu]] were battling to unify Fuso.
+
+During the [[Wikipedia:Honnō-ji_Incident|Honno-ji Incident]], when [[Wikipedia:Akechi_Mitsuhide|Akechi Mitsuhide]] attempted to betray and kill Nobunaga; Mori Ranmaru was instrumental in preventing her Lord's death. Though flying was difficult enough alone; she managed to fly Nobunaga out of Honno-ji, and eventually across a great distance until the two arrived at [[Wikipedia:Takamatsu_Castle_(Bitchu)|Takamatsu Castle]], where Nobunaga's ally Toyotomi Hideyoshi was involved in a siege.
+
+In the literature from the time, it is commonly recounted that Mori Ranmaru eventually became Oda Nobunaga's lover.
+
+Mori would follow Nobunaga as he went on to become known as a reformer whose actions and policies lead to the opening of Fuso to the outside world.
+
+According to [[Inagaki Mami]] in [[Africa Doujinshi#Witches of the Sphinx 3|Witches of the Sphinx 3]], Mori Ranmaru is a relation from the Sengoku Period on her mother's side.
+
+==Appearances==
+'''Doujinshi:'''
+* [[Sengoku Witches]]
+* [[Africa_Doujinshi#Witches_of_the_Sphinx_3|Witches of the Sphinx 3]] (mentioned by Inagaki Mami)
+'''Manga'''
+* [[Strike Witches: Andorra no Majo]]
+
+== Trivia ==
+
+* The pair of Cannons that Mori Ranmaru used during the Siege of Honoji appear to be purpose-built handcannons called the [https://en.wikipedia.org/wiki/%C5%8Cdzutsu Ōdzutsu]. Ōdzutsu was meant to be used in naval and siege battles, and was highly efficient in destroying large enemy structures. In the Sengoku witches media: she uses them as portable heavy artillery against foot soldiers.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+mori ranmaru 2.jpg
+</gallery>
+[[Category:Fuso]]
+[[Category:Historical Characters/Events]]

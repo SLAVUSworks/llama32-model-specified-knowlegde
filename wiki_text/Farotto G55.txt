@@ -1,0 +1,63 @@
+{{Striker Unit Infobox
+|title1=G55
+|image1=G55S 0.jpg
+|caption1=
+
+<!-- Tabs -->
+|tab1=G55 Centauro
+|tab2=G55S Strega
+
+<!-- Tab1 -->
+|country=[[Romagna]] [[File:Flag of Romagna.svg|border|23px|link=Romagna]]
+|manufacturer=[[Wikipedia:Fiat Aviazione|Farotto]] [[File:Farotto.png|border|23px]]
+|specifications=[[Wikipedia:Fiat G.55|Type 0]]
+|magic_engine=[[Wikipedia:Daimler-Benz DB 605|DB605]]
+|power=1475 Mp
+|length=93.7 cm
+|weight=Classified
+|maximum_speed=385mph (25000ft, average air witch)
+|weapons=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:Breda-SAFAT machine gun|SAFAT machine gun]]<br>others
+
+<!-- Tab2 -->
+|country2=[[Romagna]] [[File:Flag of Romagna.svg|border|23px|link=Romagna]]
+|manufacturer2=[[Wikipedia:Fiat Aviazione|Farotto]] [[File:Farotto.png|border|23px]]
+|specifications2=[[Wikipedia:Fiat G.55#Torpedo fighter|Type S]]
+|magic_engine2=[[Wikipedia:Daimler-Benz DB 605|DB605DCM]]
+|power2=1970 Mp (emergency situation)
+|length2=93.9 cm
+|weight2=Classified
+|maximum_speed2=440mph (25000 ft, average air witch)
+|weapons2=[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:Breda-SAFAT machine gun|SAFAT 12.7mm machine gun]]<br>others
+}}
+The G55 is a high-performance striker unit developed by Farotto and equipped with a [[Karlsland]] DB605 engine.
+
+In the Principality of [[Romagna]], the development of a high-performance magic engine had always been difficult. As a result of the large number of Karlsland troops serving in the defense of the Alps, it was often necessary to repair their striker units. At the time, the engine of the Romagnan striker unit MC.200 was replaced with the DB601 mounted on Karlsland's [[Messerscharf Bf109|Bf109]]. It showed unexpected high performance, and the airframe was officially adopted as the MC.202.
+
+Under these circumstances, the more powerful DB605 engine being employed in Karlsland led to Romagna hastening the development of a new unit equipped with this engine. The MC.202 evolved into the MC.205, and Farotto developed a more robust and aerodynamically superior unit which was completed as the G55.
+
+The G55 was officially adopted and named Centauro (from Centaur, a mythical half-human half-horse creature). The unit's high-altitude performance was good and the operational ceiling was high, so it was expected to be an excellent interceptor unit. However, the production was slow and did not proceed smoothly. In addition, the number of DB605 engines purchased from Karlsland was small, and the completion of the Farotto RA1050RC58 "Tifone" (typhoon) engine, a license-built version of the DB605, was delayed. As a result, this airframe wasn't employed in sufficient numbers, and it became an ace-exclusive unit.
+
+After the RA1050RC58 "Tifone" became available, the G55 equipped with this engine became the main striker unit of the Principality of Romagna. But as the war situation changed, there were requests from the battlefield for higher performance units.
+
+By that time, [[Liberion]] started supplying high-quality fuel, and Karlsland equipped a model with the DB605DCM engine which took advantage of this fuel. This engine was installed in Karlsland's latest striker unit, the Bf109K-2, and was capable of a maximum emergency power output of 1970 Mp while demonstrating a normal output of 1550 Mp.
+
+Farotto, the manufacturer of the G55, borrowed one of these engines from supplies of the Karlsland army stationed in Romagna under the guise that they were performing regular test. In reality, they spent time carefully applying extreme settings to the engine. On this occasion, the normal power output measured was beyond 2000 Mp. As expected, the durability would decrease with this kind of tune, but since it was expected to exceed speeds of 700 km/h in the calculations even under normal conditions, Romagna Air Force consulted Karlsland for the exportation of this engine. However, the production of the DB605DCM was behind schedule even for Karlsland, so only a few were imported to Romagna.
+
+The unit equipped with this engine was initially classified as a fighter-bomber that would take advantage of the power output surplus of its engine, but the small number of available engines changed these plans and it became an ace-only unit. Therefore, its name was also changed from "Torpedo Attack" to "Witch" (Strega). Its performance was as good as expected, with some ace and elite squadrons achieving great results.
+
+==Known variants==
+*'''G55 Centauro'''
+*'''G55S Strega'''
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Fiat G.55|Fiat G55 Centauro]] fighter.
+*The magic engines are respectively based on the [[Wikipedia:|Daimler-Benz DB 605]] and DB 605DM/DC V12 supercharged engines.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+G55 1.jpg|Strike Witches Lucchini's G55
+G55 2.jpg|Strike Witches G55 data
+G55S 3.jpg|Strike Witches 2 Lucchini's G55S
+G55S 4.jpg|Strike Witches 2 G55S data
+</gallery>
+[[Category:Striker Unit]]

@@ -1,0 +1,56 @@
+{{stub}}
+{{Character_Infobox
+|title1=Helmina Johanna Siglinde Lent
+|image1=Helmina_Lent.png
+|caption1=
+|kanji_name=ヘルミーナ・ヨハンナ・ジークリンデ・レント
+|romaji_name=
+|age=19 (End of 1944)
+|birth_date=13 June 1925
+|height=164 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 3rd Night Fighter Wing ([[Wikipedia:Nachtjagdgeschwader_3|NJG3]])
+|team = 
+|rank=Wing Commander
+|striker unit(s)=[[Wikipedia:Junkers Ju 88|Jungfrau Ju88C-6]] <br> [[Wikipedia:Messerschmitt Bf 110|Messerscharf Bf 110C-1]]
+|weapon(s)=[[Wikipedia:MG 151 cannon|MG 151/20]] <br> [[Wikipedia:MG FF cannon|20mm MG FF]]
+|familiar=[[Wikipedia:German Shepherd|German Shepherd]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Helmina Johanna Siglinde Lent''' (ヘルミーナ・ヨハンナ・ジーグリンデ・レント) is a [[Night Witch]] from [[Karlsland]].
+
+==Background==
+A great ace who was the first in history to achieve a shoot down count of 100 [[Neuroi|units]] during nighttime combat. In comparison to her subordinates, Helmina's inborn magic-radar abilities are by no means high; something that only reinforces the appraisal of her developed skills as a [[Night Witch]].
+
+When the [[Wikipedia:Night_fighter|Night Fighter]]-Wings were just founded, she was called in as a suitable candidate, even if just slightly. However, after half-a-year, she repeatedly requested a transference to the Day Fighter-Wing due to being unable to adapt to the still-developing [[Wikipedia:Nachtjagdgeschwader_1|Night Fighter-Wing]], both as an individual and military structure. A superior officer who believed in Helmina's talents managed to dissuade her and, thanks to that, her eye for night warfare bloomed along with the perfection of related machinery and tactics. Until she was surpassed by Wing Commander [[Heidemarie W. Schnaufer|Schnaufer]] in 1945, Helmina was regarded as mankind's #1 ace in night warfare.
+
+==Personality==
+Earnest and diligent. She gives off a somewhat cold impression when silent, but she actually has a bright and extroverted personality that honestly expresses human emotions.
+
+Because of her own troubled experiences, she knows how to take good care of others. She also likes to invite her subordinates to go cooking and shopping.
+
+Due to shyness, she is bad at things like covering an event or collecting data for articles.
+
+==Appearances==
+'''Manga'''
+*[[World Witches: Contrail of Witches]]
+
+==Trivia==
+Based on [[Wikipedia:Helmut_Lent|Helmut Lent]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Helmina Scan 2.jpg|World Witches illustration
+Helmina Scan 1.jpg|World Witches article
+ProfileLent.png
+Contrail of Witches cover 3.jpeg|Contrail of Witches volume 3 cover
+Helmina 2.jpg
+Helmina 3.jpg
+</gallery>
+[[Category:Night Witch]]
+[[Category:Strike Witch]]
+[[Category:Wing Commanders]]
+[[Category:Karlsland]]

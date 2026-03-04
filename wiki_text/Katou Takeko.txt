@@ -1,0 +1,75 @@
+{{Character Infobox
+|title1=Katou Takeko
+|image1=image:katou-11.jpg
+|caption1=Katou Takeko '37
+|kanji_name=
+|romaji_name=
+|age=22 (1944)
+|birth_date=28 September 1922
+|height=164cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 1st Fighter Squadron (1937)<br>Fuso Imperial Army Akeno Flight Academy Experimental Company (1939)<br>Fuso Imperial Army Volunteer Flight Corps 3rd Company (commander) (Karlsland deployment time) ''also declared as Karlsland Volunteer Flight Corps 3rd Company''<br>Fuso Imperial Army 64th Fighter Squadron 1st Company (after reorganization)
+|team =
+|rank=Pilot Officer (1937)<br>Flying Officer (1939)
+|striker unit(s)=[[Wikipedia:Nakajima Ki-27|Nagashima Flight Legs Type 97 Ki-27]]<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109E]]<br>[[Wikipedia:Nakajima Ki-43|Nagashima Flight Legs Type 1 Ki-43 Model I Hayabusa]]
+|weapon(s)=[[Wikipedia:Type 11 Light Machine Gun|Type 11 Light Machine Gun]]<br>[[Wikipedia:MG 15|MG 15]]<br>[[Wikipedia:Japanese sword|Fuso Sword]]
+|familiar=[[Wikipedia:Hokkaido (dog)|Hokkaido dog]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Katou Takeko''' (加藤武子 <sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==Background==
+Takeko has a great reputation as a commander. During her period in the 1st Fighter Squadron, she received the nickname "Fuji" (フジ), based on an alternative reading of the second character of her family name. Back then, [[Katou Keiko]] was part of the same team, so Takeko was called like this to distinguish the two Katou.
+
+At the time of the Fuso Sea Incident, she fought bravely as part of the 1st Fighter Squadron, under the command of [[Etou Toshiko|Wing Commander Etou Toshiko]]. A comrade in arms of (at the time) Pilot Officer Anabuki Tomoko, and (at the time) Pilot Oficcer Katou Keiko, the three were praised as the "''Fuso Sea Triumvirate''". The three are very close friends. She was also an acquaintance of [[Kuroe Ayaka]].
+
+While gaining experience as a commander under the guidance of Wing Commander Etou, she also accumulated achievements in battle, earning herself the epithet "Peregrine Falcon of the Fuso Sea" (扶桑海の隼, ''fuso-kai no hayabusa''). But even back then, she already had no interest in individual military achievements and seemed to have explored tactics as squad-credit. In the aftermath of the Fuso Sea Incident, she became a member of the Fuso Imperial Army Akeno Flight Academy Experimental Company. There, she performed research on new weapons and tactics.
+
+When the Neuroi European invasion began in 1939, she was promoted to Flying Officer as a member of the Volunteer Corps and deployed to the [[Karlsland]] front with the advance troops. In regards to that personnel selection, some say that Takeko also had the recommendation from [[Adolfine Galland|Flight Lieutenant Galland]], who she previously had contact with at the time of the Fuso Sea Incident.
+
+Once in the front, she performed operations together with Karlsland troops and tested their Air Force equipment, producing a detailed report. In said report, she made a comparison between the early prototype of [[Wikipedia:Nakajima Ki-43|Ki-43]] brought to Europe and the Karlsland Air Force's state-of-the-art Bf 109, concluding that the Ki-43 should be put into immediate production due its long cruising range and satisfactory mobility. This report, along with the warfare doctrines of the Fuso Sea Incident, had a great influence on the Fuso Army's development and selection of equipment from then on, determining the Ki-43's improvement and early production.
+
+Takeko opposes large-type [[Neuroi]] with careful survey, accurate squad command and battle formations that thoroughly abolish individual play. As the squad achieved many military gains, at the same time they obtained Karlsland Air Force's commendation, their bravery as the elites of the Fuso Army became well known in Europe. It was to the point that, when the Volunteer Corps was reorganized into a new force, a documentary movie and music giving praise to the Corps was produced.
+
+==Personality==
+Takeko fundamentally prizes painstaking, sound strategies. But, on the other hand, she also happens to have an enterprising disposition for doing things like assertively absorbing European equipment and warfare doctrines. She has a gentle personality, but can also take drastic actions; such as when - out of concern for her close friend - she requested to the top brass that [[Anabuki Tomoko|Pilot Officer Anabuki]] to be deployed to [[Suomus]].
+
+Her hobbies include photography, she was the one that taught Keiko, who would later make a name for herself comparable to [[Carla Ruspoli|Flight Lieutenant Ruspoli]]. She recommends the [[Wikipedia:Contax|Contax]].
+
+==Abilities==
+Her inherent magic is the same [[w:c:powerlisting:Detection|Three Dimensional Space Understanding Ability]] (三次元空間把握能力 lit. ''sanjigen kuukan haaku nouryoku'') as [[Minna-Dietlinde Wilcke|Wing Commander Wilcke]], which assisted her in performing air-to-air bombing missions during the [[Fuso Sea Incident]].
+
+==Equipment==
+In the "Attack #1 Operation", during the time of the Fuso Sea Incident, she acted as the wingman of (at the time) Flight Lieutenant Galland (who was proceeding to a new appointment as an observing officer) and employed a Messerschmitt Bf 109E to shoot down a new type of Neuroi with a dive-bombing tactic. Said [[Striker Unit|Striker]] was an early prototype equipped with the new [[Wikipedia:Daimler-Benz DB 601|DB-601 engine]].
+
+Takeko uses a Fuso sword in combat. Also during the Fuso Sea Incident, she shot down two [[Neuroi|units]] by using a [[Wikipedia:Iaidō|drawing technique]] with that sword - the "Musou Shiden-ryuu - Sora no Tachi" (無双神殿流・空の太刀 <sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup> lit. ''peerless shrine-style - long sword of the sky'').
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident]]
+'''Light Novels'''
+*[[Strike Witches: Suomus Misfits Squadron]]
+*[[Strike Witches: Der Stern von Afrika (Light Novel)#A Midnight Dream in the Desert|A Midnight Dream in the Desert]]
+*[[Strike Witches: The Witches of Africa - Kei's Report]], Volume 1 chapter 7
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!]]
+
+==Trivia==
+*She is based on a famous Japanese flying ace, [[Wikipedia:Tateo Katō|Tateo Katō]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Katou Takeko Scan 2.jpg|World Witches illustration
+Katou Takeko Scan 1.jpg|World Witches article
+7739452.jpg
+Takeko 1937.jpg
+Misfits ReBOOT Tomoko Takeko.jpg|Misfits ReBOOT art
+Takeko design.jpg|Takeko early design
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Flying Officers]]
+[[Category:Fuso]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]

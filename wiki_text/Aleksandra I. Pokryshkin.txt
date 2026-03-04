@@ -1,0 +1,123 @@
+{{Character Infobox
+|title1=Aleksandra I. Pokryshkin
+|image1=Aleksandra_i_pokryshkin.jpg
+|caption1=
+|kanji_name=アレクサンドラ・I・ポクルイーシキン
+|romaji_name=
+|age=16 (end of 1944)
+|birth_date= 6 March 1928
+|height=158 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Orussian Army Empire Guard 16th Fighter Regiment<br>Orussian Army 216th Fighter Division
+|team =[[502nd Joint Fighter Wing]]
+|rank=Flight Lieutenant
+|striker unit(s)=Mir Gosudarstvo MiG60 (white No. 67)<br>[[Wikipedia:Mikoyan-Gurevich MiG-3|Mir Gosudarstvo MiG-3]]<br>[[Wikipedia:Bell P-39 Airacobra|Bella P-39]]<br>[[Wikipedia:La-5|Lavrov La-5]]<br>Mir-Gosudarstvo I-225 (3rd prototype)
+|weapon(s)=[[Wikipedia:Degtyaryov machine gun|DP-28 Light Machine gun]]<br>[[Wikipedia:PTRS-41|PTRS1941 Anti-tank Rifle]]
+|familiar=[[Wikipedia:Polar bear|Polar bear]]
+|seiyuu_(japanese)=[[Wikipedia:Yumi Hara|Hara Yumi]]
+|seiyuu_(english)=[[Wikipedia:Monica Rial|Monica Rial]] 
+|appearances=
+}}
+'''Aleksandra Ivanovna Pokryshkin''' (アレクサンドラ・I・ポクルイーシキン)(Александра Ивановна Покрышкина) is a witch of the [[502nd Joint Fighter Wing]], Captain from the Orussian Army's 216th Fighter Aviation Regiment, and [[Orussia]]'s top flying ace. She is referred to as "Sasha" by her friends.
+
+==Background==
+Orussia's top Ace. She serves as the [[502nd Joint Fighter Wing|502nd JFW]] combat commander. She is known for being a great commander and tactician. She is mostly active on the front lines in the south, and flies repainted brown MiG-60 striker units.
+
+Thanks to her engineer father, she became familiar with mechanics early in her childhood and her mechanical skill is top-notch. Initially, she was thinking of becoming a mechanic or technician.
+
+Unlike witches in other nations, she studied air combat tactics and technology on her own because air combat technology was not very developed in Orussia at the beginning of the war. In particular, she learned form the textbook made by [[Reine Fonck]]. For this reason, she has a high affinity with the [[Gallia]]n witch, and Orussia has been close to Gallia and has actively scouted the Gallian exiled witches. Pilot Officer [[Georgette Lemare|Lemare]] was also invited directly.
+
+Thanks to her personal military achievements, and her tactical textbook based on her experiences during the evacuations of [[Karlsland]] and [[Orussia]], she is highly valued as a combat instructor. Her book is easy to understand even for newcomers, and quickly spread throughout the country. She is also very enthusiastic about sharing information and tactics between different combat units.
+
+She was invited to the [[502nd Joint Fighter Wing]], which was established after Operation Barbarossa, serving the role of combat commander. The 502nd's primary duties are the recovery of Karlsland territories and serving as the front-line defense for the rest of Europe from enemy aggression. This, in addition to the "vigorous fighting spirit" of her unit's witches leads to an extremely high attrition rate for strikers.
+
+Because of the Orussian evacuation efforts she constantly struggles to get equipment, even from [[Liberion]] who are providing supplies; the fact that every time her unit sorties someone manages to destroy a striker unit proves to be a massive headache.
+
+==Personality==
+Aleksandra is structured and sometimes perfectionist, often acting as foil to the hijinks of [[Waltrud Krupinski|Krupinski]] and the carelessness of [[Nikka Edvardine Katajainen|Katajainen]]. With Nikka, Aleksandra is portrayed as especially close; despite the constant headache of having to repair Nikka's broken units, it has brought them together in a certain "care-taker" sort of way.
+
+==Abilities==
+Aleksandra's inherent magical ability is known as "[[w:c:powerlisting:Memory Manipulation|Image Memorization]]"; when her magical ability is used it allows her to remember and never forget anything and potentially everything from complicated Technical Plans to her breakfast 10 years ago; though this is only the case when she uses her magic on when she views and experiences things; upon activating her ability in such instances she will remember and never forget. Her ability provides her with many technical details to a degree better, deeper and more technical than from normal recollection of memory for most people, possibly even better than photographic memory as she can remember such details and experiences easily and at will if she uses her magic to recall such details and events.
+
+This ability is indispensable in a strategic and tactical level as well as for study and [[w:c:powerlisting:Mechanical Intuition|practical repair of equipment and machinery]], including having prior experience repairing strikers thanks to the use of her magical ability. However, due to the many accidents and crashes Nipa is involved in she mostly uses her magical ability for the repair of Nipa's striker the most, with very little application of her magical ability in combat use as a consequence.
+
+==Striker units==
+During the Orussia evacuation battle, the Orussian equipment was not ready, and the witches fought with old-fashioned striker units supplied by [[Liberion]], like the Bella P-39.<br>
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau MiG60|Mir Gosudartsvo Design Bureau MiG60 late model (white No. 67)]]
+|image=
+|description=The unit of Flight Lieutenant Pokryshkin, who is known as an excellent commander and a high-grade tactician. It has a south area brown camouflage.
+}}
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau i-225|Mir Gosudartsvo Design Bureau MiG i-225 (prototype No. 3)]]
+|image=MiG i-225 Pokryshkin SW2.jpg
+|description=Unlike [[Sanya V. Litvyak|Sanya]]'s, this prototype unit is set up for daytime combat. The paint job is simple with a single olive color, and only the minimum necessary markings are painted. This shows the personality of Pokryshkin, who sticks to what is practical.
+}}
+
+==Appearances==
+'''Anime'''
+* [[Strike Witches: The Movie]]
+* [[Operation Victory Arrow]], Episode 3
+* [[Brave Witches]]
+* [[World Witches: Hasshin Shimasu!!]]
+'''Manga'''
+* [[Strike witches: Chii Sanya]], cameo in chapter α-8
+* [[Brave Witches: Dai 502 Butai Hasshin shimasu!]]
+* [[World Witches: Contrail of Witches]]
+* [[Brave Witches: 502nd Joint Fighter Wing]]
+* [[Brave Witches Prequel: The Vast Land of Orussia]]
+'''Light Novel'''
+* [[Strike Witches the Movie: The sky I want to return to]], chapter 5
+* [[Brave Witches Prequel]]
+'''Video Games'''
+* [[Strike Witches: Kiseki no Rondo]], card artwork only
+* [[World Witches United Front]]
+'''Other'''
+* [[502nd Twitter Story Translation|502nd Twitter Story]]
+* [[Seiza Story Translation|Seiza Story]]
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Alexander Pokryshkin|Alexander Ivanovich Pokryshkin]], who was nicknamed "Engineer" when he was a teenager. Pokryshkin scored 47 of his 65 victories in American-made Bell P-39 Airacobras, making him the highest scoring P-39 pilot of any nation, and the highest scoring pilot flying any American fighter design. His 65 victories made him the third highest scoring Allied ace.
+*She was initially supposed to join the [[503rd Joint Fighter Wing]] under [[Bronislava Safonov|Bronislava F. Safonov]], however due to Gundula Rall bribing the HR department with alcohol, (as revealed in the "Karlsland Witches' Meeting and Everyday Life" audio drama) Rall's application for her came in before Safonov's.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Aleksandra scan 3.jpg
+Aleksandra scan 4.jpg
+Aleksandra 4.jpg
+Aleksandra scan 1.jpg
+Aleksandra scan 2.jpg
+PolarbearWitches.png
+Aleksandra(1).jpg
+Aleksandra 2.jpg
+Aleksandra Underwear.jpg
+Aleksandra 7.jpg
+Aleksandra.jpg
+Aleksandra 5.jpg
+Aleksandra 6.jpg
+Aleksandra 12.jpg
+File:Eila, Aleksandra, Nipa art sample.jpg
+File:Lyudmila, Aleksandra and Sanya Winter clothing eyecatch sample .jpg
+502al.jpg
+Aleksandra 9.jpg
+Brave Witches.jpg
+Brave witches ost 2.jpg|Cover of Brave Witches OST
+Hikari, Aleksandra & Nikka.jpg
+502nd Anime TV Poster.jpg
+BW Himeuta 4 Gundula, Sasha & Edytha.jpg|Cover of Brave Witches Himeuta Collection Volume 4
+BW Himeuta 5.jpg|Cover of Brave Witches Himeuta Collection Volume 5
+File:Aleksandra magic awakening.png|Aleksandra Brave Witches Fanbook info Magic Awakening
+502nd JFW.jpg
+Sasha in BW PV1.jpg|From Brave Witches PV 1
+502nd - 01.jpg|502nd JFW - 01
+File:Aleksandra and Nipa Brave Witches.jpg
+File:Aleksandra Tears Brave Witches.jpg
+File:Aleksandra hanger smile Brave Witches.jpg
+File:Aleksandra holding photo Brave Witches.jpg
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:502nd Joint Fighter Wing]]
+[[Category:Orussia]]

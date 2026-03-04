@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Nakaoka Yuzu
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=中岡柚子
+|romaji_name=
+|age=?
+|birth_date=24 February
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy Yokosuka Air Corps Examination Department
+|team = 
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Kyushu_J7W|Tsukushi Aircrafts Shinden]] (prototype No.2 )
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Nakaoka Yuzu''' (中岡柚子) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Navy]]. She is a test pilot on new [[Striker Unit|striker units]] prototypes.
+
+==Striker units==
+{{Striker unit template
+|name=[[Tsukushi Shinden|Tsukushi Shinden (prototype No. 2)]]
+|image=Shinden Nakaoka SW2.jpg
+|description=The second Shinden prototype that was sent to the Yokozuka Examination Department. It has the minimum necessary amount of paint because it was planned to perform speed record attempts. The Ma43-11 installed in the No. 2 runs extremely smoothly, and Nakaoka achieved a speed record of 761km/h, although unofficial.
+}}
+
+==Trivia==
+*She is based on test pilot Takaoka Susumu (高岡迪).
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Fuso]]
+[[Category:Characters with no art]]

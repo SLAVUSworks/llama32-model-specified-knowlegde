@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Marisha Raskova
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=28 March
+|height=?
+|blood_type=
+|nationality=Orussian
+|affiliation(s)=Orussia Army 586th Fighter Regiment (Commander)
+|team =
+|rank=Squadron Leader
+|striker unit(s)=Mir Gosudarstvo MiG60 night type (yellow No.1)
+|weapon(s)=?
+|familiar=Cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Marisha Raskova''' (Мариша Раскова) is a Witch originating from [[Orussia]].
+
+==Background==
+She is considered a legendary witch in Orussia. She liked to listen to [[Sanya V. Litvyak]]'s music at the time she was playing piano in Vienna with her father.
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau MiG60|Mir Gosudarstvo MiG60 night type (yellow No.1)]]
+|image=MiG60 Raskova SW1.jpg
+|description=The unit of Squadron Leader Raskova, the legendary witch of Orussia. It is an early model unit with a flame suppressor exhaust installed on it. Her personal emblem is a cat aiming for prey.
+}}
+
+==Trivia==
+Her ace archetype is [[Wikipedia:Marina_Raskova|Marina Raskova]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

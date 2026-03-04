@@ -1,0 +1,43 @@
+{{Character_Infobox
+|title1=Jeanne Accart
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=7 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Gallia Airforce GC I/5 Fighter Regiment
+|team =
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Arsenal_VG-33|Gallia National Aviation Arsenal VG.33]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Jeanne Accart''' is a witch originating from [[Gallia]].
+
+==Background==
+A Gallian ace who fought in the evacuation of Gallia and participated in the defense of Karlsland with Ostmark's support.
+She retired as a witch after being injured in the withdrawal battle of Gallia. She then chose to become an instructor.
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.33]]
+|image=VG33 Acart SW1.jpg
+|description=
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Jean_Accart|Jean Accart]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

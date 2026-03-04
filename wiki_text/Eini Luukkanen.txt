@@ -1,0 +1,47 @@
+{{Stub}}
+{{Character_Infobox
+|title1=Eini A. Luukkanen
+|image1=Rccx.jpg
+|caption1=
+|kanji_name=エイニ・アンティア・ルーッカネン
+|romaji_name=
+|age=17 (before 1944) <br> 21 (1944)
+|birth_date=4 June
+|height=167 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 24th Squadron 1st Company (Commander) (autumn 1940)<br>Suomus Air Force 24th Squadron (Commander) (1942)
+|team = 
+|rank=Flight Lieutenant (autumn 1940) <br> Squadron Leader (1942)
+|striker unit(s)=[[Wikipedia:Fokker D.XXI|D-21]]<br>[[Wikipedia:Brewster F2A Buffalo|Beerster F2A Buffalo]] (BW-393)<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109G-2]]<br>[[Wikipedia:Yakovlev Yak-9|Yak-9]]
+|weapon(s)=[[Wikipedia:Degtyaryov machine gun|DP-28]]<br>[[Wikipedia:MG_42#M53|M53]]
+|familiar=[[Wikipedia:Karelian Bear Dog|Karelian Bear Dog]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Eini Antia Luukkanen''' (エイニ・アンティア・ルーッカネン) is a witch originating from [[Suomus]]. Her nickname is "Invincible Luukkanen".
+
+==Background==
+Eini is the commanding officer of Suomus Air Force 24th Squadron.
+
+When she received a Bf109 [[Striker Unit]], her old F2A Buffalo No. BW-393 was transferred 
+to [[Hanna Wind]].
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Aurora no Majo]]
+
+==Trivia==
+*Eini is based on Finland's third highest ranking ace, [[Wikipedia:Eino_Luukkanen|Eino Antero Luukkanen]].
+*Her familiar is a Karelian bear dog.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Eini Scan 1.jpg|World Witches article
+Eini Scan 2.jpg|World Witches illustration
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Squadron Leaders]]
+[[Category:Suomus]]

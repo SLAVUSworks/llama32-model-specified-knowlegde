@@ -1,0 +1,20 @@
+{{Striker Unit Infobox
+|title1=Type 95 Ki-10
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Kawasaki Aerospace Company|Kawasaki Aircraft Industries]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+The Kawataki Ki-10 was a biplane striker unit designed by the Kawataki Aerospace Company. The primary striker unit of the [[Fuso]] Army at the time of the Fuso Sea Incident, it was considered far more maneuverable and agile than the standard. As it had a larger engine than the [[Nagashima Type 95 A4N Carrier-based Fighter Legs|Nagashima A4N]], the Navy's most common striker unit at the time, it was faster, and had better climbing speed and a longer cruising distance. However, striker unit technology was evolving at a rapid pace. At the same time Fuso was putting out the Ki-10, [[Karlsland]] was already running test flights for the [[Messerscharf Bf109|Bf109]] and [[Britannia]] the Hurricane. These units had maximum speeds of over 500 km/h, which easily surpassed the Ki-10's top flight speed of 400 km/h. Additionally, Fuso's own navy was testing the [[Miyabishi Type 96 A5M Carrier-based Figther Legs|Miyabishi A5M]] monoplane which, despite having a far less powerful engine, still topped out at 451km/h. The army quickly pushed for the design of the Ki-10's successor, but in the early days of the war, it was their top-performing striker unit.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Kawasaki Ki-10|Kawasaki Type 95 Ki-10]] fighter.
+[[Category:Striker Unit]]

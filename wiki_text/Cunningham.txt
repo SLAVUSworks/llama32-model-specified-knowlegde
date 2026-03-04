@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Cunningham
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=27 July
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Britannia Air Force
+|team =
+|rank=Group Captain
+|striker unit(s)=[[Wikipedia:De_Havilland_Mosquito|De Havillander Mosquito]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Cunningham''' is a night witch originating from [[Britannia]]. She is commonly known as "Cat's Eyes".
+
+==Background==
+Originally fighting as a night witch, Cunningham later became a test pilot for [[Wikipedia:De_Havilland|De Havillander]].
+
+==Trivia==
+Her ace archetype is [[Wikipedia:John_Cunningham_(RAF_officer)|John "Cat's Eyes" Cunningham]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Night Witch]]
+[[Category:Group Captains]]
+[[Category:Britannia]]
+[[Category:Characters with no art]]

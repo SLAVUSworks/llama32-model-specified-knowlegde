@@ -1,0 +1,36 @@
+{{Infobox
+|Box title = We Won't Know Until We Try
+|image = File:Brave_Witches_E11-bump.png
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Yatte Minakucha Wakaranai
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 11
+|Row 4 title = Airdate:
+|Row 4 info = December 20, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 10, "Big Sister and Little Sister"|Big Sister and Little Sister]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 12, "Shining with Light..."|Shining with Light...]]
+}}
+
+[[Karibuchi Hikari|Hikari]] says goodbye to her [[Striker Unit]], Chidori, then [[Kanno Naoe|Kanno]] appears and talks for a moment before giving Hikari her gloves as a gift. Everyone goes outside to see Hikari off, [[Shimohara Sadako|Shimohara]] and [[Georgette Lemare|Georgette]] give her snacks, and [[Waltrud Krupinski|Krupinski]] gives her back the Liberator pistol and loads it this time. [[Nikka Edvardine Katajainen|Nipa]] chases after her truck and cries. While waiting in Petersburg, [[Sanya V. Litvyak|Sanya]] and [[Eila Ilmatar Juutilainen|Eila]] arrive to bring her to [[Kauhava]]. Meanwhile, in the [[502nd Joint Fighter Wing|502nd]]'s hangar, [[Karibuchi Takami|Takami]] is looking at Chidori and [[Gundula Rall|Rall]] comes in. Rall remarks how strong Hikari was, and how she's glad that Takami will be joining them on the mission. The squadron goes to the briefing room where three command staff members explain the mission; Grigori is now moving towards Petersburg and the 502nd base. Reconnaissance photos of the nest are shown. Rall comments that it looks like a "Neuroi factory". The attack will utilize two 800mm railway cannons, named Gustav and Dora. Gustav will fire a magic infused HE shell to dissipate the cloud around the nest, and Dora will fire an AP round to destroy the core. The 502nd must defend the cannons, and protect Takami while she locates the core. Operation Freyja begins with allied forces from [[Britannia]], [[Karlsland]], and [[Fuso]] moving forward to battle with Neuroi ground units. The scene shifts back to the train carrying Sanya, Eila, and Hikari. Hikari wishes that she could know what's happening, and Eila gets out a radio, and they begin listening in on the battle chatter. Gustav fires and dissipates the cloud around the nest, and Takami finds the core but before Dora can fire, the nest destroys the barrel of the gun leaving it inoperable, and Gustav can't fire for another 20 minutes. Takami flies to Dora and unloads the 1 ton shell and intends to deliver it herself. The squadron initially doesn't help with this task, but all join in when they realize it's the only way. After finally lifting the shell and flying it over the nest, they let it go and Takami guides it in with Kanno protecting her. The shell hits the core, but the nest is not fully destroyed as it is revealed to have an inner true core. Takami attempts to locate the core again, but the core is somehow blocking her from seeing the true core. She is left having to realize she has to use her Absolute Eye, which previously left her in a coma. Hikari, hearing this over the radio, jumps off the train and runs off to save Takami.
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 10, "Big Sister and Little Sister"|10: "Big Sister and Little Sister"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 12, "Shining with Light..."|12: "Shining with Light..."]] >>
+|}
+
+
+==Gallery==
+<gallery>
+Brave_Witches_Carrier_Pidgeon_with_Scout_Camera.jpg
+</gallery>
+
+[[Category:Brave Witches]]

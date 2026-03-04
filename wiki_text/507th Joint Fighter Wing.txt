@@ -1,0 +1,77 @@
+{{Unit Infobox
+|title1=507th Joint Fighter Wing
+|image1=file:507.png
+|caption1=507th JFW icon
+
+<!-- Tabs -->
+|tab1=507th
+|tab2=Misfits
+
+<!-- Tab1 -->
+|name=連合軍第507統合戦闘航空団
+|romaji_name=Rengō-gun dai 507 Tōgō Sentō Kōkū-dan
+|nickname(s)=Silent Witches
+|affiliation(s)=[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]<br>[[File:Flag of Suomus.svg|border|23px|link=Suomus]] [[Suomus]]<br>[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] [[Ostmark]]<br>[[File:Flag of None.svg|border|23px|link=Siamro]] [[Siamro]]
+|branch=
+|HQ=Northern General Headquarters
+|commanding_officer=Sakomizu Haruka
+|area_of_operations=Scandinavia
+|base=Kauhava
+
+<!-- Tab2 -->
+|name2=スオムス義勇独立飛行中隊
+|romaji_name2=Suomusu Giyū Dokuritsu Hikō Chūtai
+|nickname(s)2=
+|affiliation(s)2=[[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br>[[File:Flag of Romagna.svg|border|23px|link=Romagna]] [[Romagna]]<br>[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]<br>[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] [[Karlsland]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]<br>[[File:Flag of Suomus.svg|border|23px|link=Suomus]] [[Suomus]]
+|branch2=
+|HQ2=Northern General Headquarters
+|commanding_officer2=Elma Leivonen
+|area_of_operations2=Scandinavia
+|base2=Kauhava
+}}
+'''The 507th Joint Fighter Wing''' (第507統合戦闘航空団「サイレントウィッチーズ」) is a volunteer group previously called the ''Suomus Independent Volunteer Aerial Squadron''. To many, they bear the nickname "Silent Witches" or, less flatteringly, the "Suomus Misfit Squadron" in reference to the reputation of some squad members. As per the name, it is stationed in [[Suomus]].
+
+==Function==
+Established originally for the protection of Suomus, the 507th was previously known as the Suomus Independent Volunteer Air Squadron prior to being established as a Joint Fighter Wing. In commemoration of those great efforts, as they couldn't reach out on the scale that was necessary, they were given the digits 507 to raise their status as a Joint Fighter Wing. Shortly after, [[Elma Leivonen]] retired and left the new Joint Fighter Wing in the hands of [[Sakomizu Haruka]]. Since the witches from the Suomus Misfits Squadron had either retired or were dispatched elsewhere, new witches were dispatched to Suomus by signatory nations.
+
+==Service history==
+They are confirmed to be deployed early in the war against the [[Neuroi]] in 1939, stationed in [[Kauhava]] Airbase.
+
+==Members==
+===Original Members of the Misfits Squadron===
+====Witches====
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flight Lieutenant [[Anabuki Tomoko]]
+*[[File:Flag of Britannia.svg|border|23px|link=Britannia]] Flying Officer [[Elizabeth F. Beurling]]
+*[[File:Flag of Suomus.svg|border|23px|link=Suomus]] Flying Officer [[Elma Leivonen]]
+*[[File:Flag of Romagna.svg|border|23px|link=Romagna]] Warrant Officer [[Giuseppina Cenni]]
+*[[File:Flag of Liberion.svg|border|23px|link=Liberion]] Pilot Officer [[Katharine O'Hare]]
+*[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] Flying Officer [[Ursula Hartmann]]
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flying Officer [[Sakomizu Haruka]]
+====Support====
+*[[File:Flag of Suomus.svg|border|23px|link=Suomus]] Major [[Häkkinen]]
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Mamoru Itokawa]]
+
+===Members of the 507th after reformation===
+====Witches====
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Wing Commander Sakomizu Haruka (Commander)
+*[[File:Flag of Suomus.svg|border|23px|link=Suomus]] Flight Lieutenant [[Hanna Wind]]
+*[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] [[Vesna Mikovič]]
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Misumi Miya]]
+*[[File:Flag of Liberion.svg|border|23px|link=Liberion]] Flying Officer [[Leigh Andrea Archer]]
+*[[File:Flag of None.svg|border|23px|link=Siamro]] Flight Sergeant [[Kullamas Blengkam]]
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+Suomus Misfits Squadron ReBOOT promo 1.png
+Mifists 2018 promo 2.jpg
+Mifists 2018 promo 1.jpg
+Misfits Squadron LN reboot art 3.jpg|Members of the Misfits Squadron at the time of its establishment
+Misfits ReBOOT character profile 1.jpg
+Misfits ReBOOT character profile 3.jpg
+</gallery>
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:Suomus Misfit Squad]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Joint Fighter Wings]]

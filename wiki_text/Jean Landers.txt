@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Jean Landers
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=23 June
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 78th Combat Air Group (Commander)
+|team =
+|rank=Group Captain
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (4472218 "Big Beautiful Doll")
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Jean Landers''' is a witch originating from [[Liberion]].
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D (No. 44-72218)]]
+|image=P51-D Landers SW2.jpg
+|description=The unit of Group Captain Landers, named "Big Beautiful Doll". It features victory markings with 6 Neuroi cores and 28 and a half common Neuroi shot down.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:John_D._Landers|John D. Landers]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Group Captains]]
+[[Category:Liberion]]
+[[Category:Characters with no art]]

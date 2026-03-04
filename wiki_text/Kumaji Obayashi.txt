@@ -1,0 +1,20 @@
+{{Character_Infobox
+|title1 = Kumaji Obayashi
+|image1 = Kumaji Obayashi.jpg
+|kanji_name = 大林熊二
+|birth_date = 
+|seiyuu_(japanese) =
+}}
+The co-pilot of the [[Wikipedia:Kawanishi H8K|Type 2 Flying Boat]] that carried Miyafuji and Sakamoto. His rank is Flying Officer. A flying boat pilot who received intense training in the Yokosuka Air Group along with Flight Lieutenant Hashizume, and is highly trusted by the latter.
+
+
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches 2]], episodes 1 and 2.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Kumaji Obayashi 2.jpg
+</gallery>
+[[Category:Other Characters]]

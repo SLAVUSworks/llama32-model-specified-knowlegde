@@ -1,0 +1,40 @@
+{{Infobox
+|Box title = Grape Juice for Your Eyes
+|image = File:Waltrud & Edytha.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Kimi no Hitomi ni Budō Jūsu
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 08
+|Row 4 title = Airdate:
+|Row 4 info = November 30, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 7, "On a Holy Night"|On a Holy Night]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 9, "Break Witches"|Break Witches]]
+}}
+
+The episode begins with [[Shimohara Sadako|Sadako]] and [[Georgette Lemare|Georgette]] destroying a few ground [[Neuroi]], and clearing up the supply lines towards Murmansk. Commander [[Gundula Rall|Rall]] states that a new shipment of [[Striker Unit]]s were on the way, [[Waltrud Krupinski|Krupinski]] asks if there will be any "[[Wikipedia:Wine|grape juice]]" arriving as well, but is met with a blunt "no" from Rall. In the hangar, [[Nikka Edvardine Katajainen|Nipa]], [[Kanno Naoe|Kanno]], and [[Karibuchi Hikari|Hikari]] are seen opening the last supply box previously given by [[Sanya V. Litvyak|Sanya]] and [[Eila Ilmatar Juutilainen|Eila]]. Inside are three new STG 44s, a Liberator pistol, and a box of [[Wikipedia:Macaron|macarons]]. Krupinski, disappointed that it isn't grape juice, decides to try one and finds a hidden micro film inside. It is revealed that the micro film contains photos of the [[Warlock]] prototype, as it appeared during the climax of Strike Witches [[Strike Witches|season 1]]. Afterward, during dinner, Rall informs the squadron of a mission to escort a naval convoy en route to Murmansk. On that convoy is a [[Britannia]]n Royal Navy witch, unmentioned as being named [[Nora Taylor]], that will assist in destroying the Grigori nest. After seeing a photo of the witch and finding her to be "cute", Krupinski volunteer's herself to lead the mission. Nipa, Kanno, and Hikari are chosen to accompany her as well. They fly 1,000 kilometers towards Murmansk to obtain their new units. Kanno receives her Shiden Kai unit, while Nipa is given Krupinski's Type-K after her unit gives out, again. Krupinski also gets her "grape juice" at last and proceeds to get drunk and pass out in the sauna. The next morning, Krupinski is hungover and in bad shape. The group launches to meet the convoy, when they receive word that the convoy is under attack. After finding out that the witch had been shot down, a determined Krupinski beats the others to the convoy in order to save her. The attacking Neuroi splits in half and both halves begin launching smaller Neuroi. Once arriving, Hikari helps Nipa and Kanno with one half, after giving the Liberator pistol to Krupinski as a "charm" for good luck. After a hectic battle, Hikari's half is destroyed but there is no core. Meanwhile, Krupinski uses her inherent magic ability, known as Magic Boost, in order to give herself more strength and speed, and eventually destroys the other half of the Neuroi along with its core. Before the rest of the smaller Neuroi are destroyed, one rams Krupinski and injures her. Luckily, Krupinski was hit in the pocket holding the Liberator, saving her life. She is eventually taken to the Murmansk hospital and is later seen being treated by Nora, to the irritation of Kanno. However, unknown to the girls, the previously defeated Neuroi reforms, despite a seemingly destroyed core. While reforming, the Neuroi took in Krupinski's Striker Unit, and the episode ends with a suspenseful Neuroi sound.
+
+It should be noted that the events of [[Brave Witches: Petersburg Grand Strategy|episode 13]] takes place, chronologically, before the events of this episode, and after the events of [[Brave Witches Episode 7, "On a Holy Night"|episode 7]].
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 7, "On a Holy Night"|07: "On a Holy Night"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 9, "Break Witches"|09: "Break Witches"]] >>
+|}
+
+
+==Gallery==
+<gallery>
+Nora Tailor shot down.jpg|Nora shot down by Neuroi
+Nora Tailor 2.jpg
+Nora Tailor 3.jpg
+</gallery>
+
+[[Category:Brave Witches]]

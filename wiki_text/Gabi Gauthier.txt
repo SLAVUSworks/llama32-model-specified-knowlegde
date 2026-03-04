@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Gabi Gauthier
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=12 September
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Gallia Airforce GC II/7 Fighter Regiment
+|team =
+|rank=Flying officer
+|striker unit(s)=[[Wikipedia:Arsenal_VG-33|Gallia National Aviation Arsenal VG.33]]
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Gabi Gauthier''' is a witch originating from [[Gallia]].
+
+==Background==
+After the fall of Gallia, she was dispatched to defend north Africa. She fought together with the famous witch of Africa, Flying Officer [[Hanna-Justina Marseille|Marseille]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39]]
+|image=VG39 Gautier SW1.jpg
+|description=This is the unit she used in North Africa.
+}}
+
+==Trivia==
+Her ace archetype is [[Wikipedia:fr:Gabriel_Gauthier|Gabriel Gauthier]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

@@ -1,0 +1,36 @@
+{{Striker Unit Infobox
+|title1=MiG60
+|image1=MiG60 0.jpg
+|caption1=''Unofficial vector trace''
+|country=[[Orussia]] [[File:Flag of Orussia.svg|border|23px|link=Orussia]] 
+|manufacturer=[[Wikipedia:Russian Aircraft Corporation MiG|Mir Gosudartsvo Design Bureau]] [[File:Mir Gosudartsvo.png|23px]]
+|23px]]
+|specifications=
+|magic_engine=[[Wikipedia:Mikulin AM-35|AM-35A]]
+|power=1350 Mp
+|length=82.5 cm
+|weight=Classified
+|maximum_speed=650 km/h (7800 m, average air witch)
+|weapons=[[Wikipedia:ShKAS machine gun|7.62mm ShKAS machine gun]]<br>[[Wikipedia:Berezin UB|12.7mm UB machine gun]]<br>others
+}}
+The first striker unit developed by Mir Gosudartsvo Design Bureau (MiG Design Bureau) from [[Orussia]] Empire. Traditionally, the design bureau used odd numbers for fighters and even numbers for bombers, but they used a new series of numbers in the 50s and above for the striker units.
+
+However, the development of the striker unit was difficult, and it was decided to work jointly with other design bureaus to speed up the development. As a result, each design bureau made arrangements to the common unit format. The MiG Design Bureau did not use the number 50, but skipped 10 numbers and used the number 60 to designate their newly completed prototype. According to a theory, this is because the number 51 was planned to be given to a completely different unit developed by the design bureau.
+
+Due to the rush to construct the design bureau's factory plant, many defects were discovered in the MiG60, and they had to be put to practical use one way or another while making improvements. The completed MiG60 was able to demonstrate a higher speed than the units of the other design bureaus in competition who adopted the common format, but there were problems with the short cruising range and the strength of the fuselage, so further improvements were made. Various problems were fixed on the fuselage of this improved version, and it was equipped with the high-altitude AM-35A magic engine. Therefore, It became a high-altitude high-speed unit.
+
+[[Sanya V. Litvyak|Sanya]] employed this improved version. Her unit received many more improvements in [[Karlsland]] and [[Britannia]] and is unique. This is because Orussian witches who fight in Europe have difficulties to get supplies from their home country and use locally available parts. Particularly, servicing of Orussian unit is common in the [[Suomus]] area, and in some cases parts were ordered from Suomus.
+
+When the production of the engine used in the MiG60 was stopped, the Design Bureau developed a model that had a powerful air-cooled engine in place of the liquid-cooled engine, but it was an aerodynamically sloppy design, and it never made it past the prototype stage. Therefore, MiG Design Bureau started to develop the more aerodynamically sophisticated i-220 series.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Mikoyan-Gurevich MiG-1|Mikoyan Gurevich MiG-1]] and [[wikipedia:Mikoyan-Gurevich MiG-3|MiG-3]] fighters.
+*The magic engine is based on the [[Wikipedia:Mikulin AM-35|Mikulin AM-35]] V12 supercharged engine.
+*The prototype with the air cooled engine is based on the [[Wikipedia:Mikoyan-Gurevich I-211|Mikoyan-Gurevich I-210]].
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+Mig60 1.jpg|Strike Witches Sanya's MiG60
+Mig60 2.jpg|Strike Witches MiG60 data
+</gallery>
+[[Category:Striker Unit]]

@@ -1,0 +1,77 @@
+{{Character_Infobox
+|title1=Laura Vilhelmina Nissinen
+|image1=Nissinen-Ewacs.jpg
+|caption1=
+|kanji_name=ラウラ・ヴィルヘルミーナ・ニッシネン
+|romaji_name=
+|age=17 (end of 1944)
+|birth_date=31 July
+|height=164 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 24th Squadron 2nd Company<br>Suomus Air Force 24th Squadron 1st Company (Commander)
+|team = 
+|rank=Pilot Officer<br>Flying Officer (end of 1944)
+|striker unit(s)=[[Wikipedia:Mitsubishi_A6M_Zero#A6M3_Type_0_Model_22|Miyabishi Heavy Industries Type 0 Model 22 A6M3a]] (MI-685)<br>[[Wikipedia:Brewster F2A Buffalo|Beerster F2A Buffalo]]<br>[[Wikipedia:Messerschmitt Bf 109|Messerscharf Bf109K-4]] (MT-225)
+|weapon(s)=[[Wikipedia:Degtyaryov machine gun|DP-28]]<br>[[Wikipedia:MG 42|MG42]]
+|familiar=Collie
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Laura Vilhelmina Nissinen''' (ラウラ・ヴィルヘルミーナ・ニッシネン) is a veteran witch of the [[Suomus]] Air Force's 24th fighter squadron.
+
+==Background==
+Nissinen is a leader who keeps new recruits in order, in some respect she is similar to Flight Lieutenant [[Hanna Wind]]. Her status as a member of the [[Suomus]] elite, the members of which can be counted on two hands, is testament to her skills as a witch. She is one of the recipients of the Mannerheim Cross, the highest possible honor Suomus army can give to its most distinguished witches, like [[Eila Ilmatar Juutilainen|Eila]] and Hanna.
+
+In the field of combat she is a calm, daring and resolute hunter, often speaking very little, she tends to act first and talk after.    
+To newly recruited witches she is very strict, and can be seen as a demon-like instructor.
+
+In the early summer months of 1944, Nissinen lost control of her Striker Unit in battle. She clipped her close flying friend and crashed. Due to this misfortunate accident, she suffered serious injuries leaving her temporarily unable to fight, though she eventually returned to the front lines.
+
+==Personality==
+Deadpan and plainspoken, Laura gives off the impression of someone who is hard to approach. On the contrary, she has a rather reclined attitude and she amuses herself with silly pranks. She enjoys being a part of recreational activities and games, being a social person at heart rather than reclusive.
+
+She has an extraordinarily good poker face for card games and the like. When her unreadable expressions are combined with Eila's proficiency in intuition, the pair will easily swindle sweets and luxury commodities from other high ranking commissioned officers.
+
+"[[Nikka Edvardine Katajainen|Nipa]] is completely useless at bluffing. She loses all the time, so I sometimes team up with her", she says.
+
+==Striker units==
+{{Striker unit template
+|name=[[Miyabishi Type 0 A6M Carrier-based Fighter Legs|Miyabishi Type 0 Carrier-based Fighter Legs Model 22 (No. MI-685)]]
+|image=Type 0 Model 22 Nissinen SW2.jpg
+|description=In addition to sending personnel, Fuso aided Suomus by sending Striker Units. This MI-685 striker was sent to the 24th squadron, an ace unit, and higher ups had it painted in Suomus colors.
+}}
+{{Striker unit template
+|name=Beerster B-239 Buffalo
+|image=
+|description=When part of the Suomus' 24th squadron Flying Officer Nissinen, along with most of the Suomus forces, flew with B-239 Buffalo strikers. Flying Officer Nissinen upgraded later at an unspecified time.
+}}
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109K-4 (No. MT-225)]]
+|image=Bf109K-4 Nissinen SW2.jpg
+|description=While using the unit MT-229 in combat, Flying officer Nissinen was injured when she crashed into her wingman. Nissinen used the unit 225 after she recovered from the injury. It was fully refurbished before she started to use it. 
+}}
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Aurora no Majo]]
+'''Other'''
+*[[24th Squadron Story]]
+
+==Trivia==
+*Laura is based off the Finnish flying ace [http://en.wikipedia.org/wiki/Lauri_Nissinen Lauri Nissinen].
+*Her familiar is the [http://en.wikipedia.org/wiki/Collie Collie].
+*Her nickname is "Lapra", evident from the "Strike Witches - Aurora no Majo" manga.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Nissinen scan 1.jpg|World Witches article
+Nissinen scan 2.jpg|World Witches illustration
+Nikka Scan.jpg
+Aurora no Majo cover 2.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Flying Officers]]
+[[Category:Suomus]]

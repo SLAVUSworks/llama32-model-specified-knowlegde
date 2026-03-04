@@ -1,0 +1,49 @@
+{{Striker Unit Infobox
+|title1=i-225
+|image1=MiG i-225 0.jpg
+|caption1=
+
+<!-- Tabs -->
+|tab1=Prototype No. 2
+|tab2=Prototype No. 3
+
+<!-- Tab1 -->
+|country=[[Orussia]] [[File:Flag of Orussia.svg|border|23px|link=Orussia]] 
+|manufacturer=[[Wikipedia:Russian Aircraft Corporation MiG|Mir Gosudartsvo Design Bureau]] [[File:Mir Gosudartsvo.png|23px]]
+|specifications=Prototype No. 2
+|magic_engine=[[Wikipedia:Mikulin AM-42|AM-42B]]
+|power=2000 Mp (take off)
+|length=95.0 cm
+|weight=Classified
+|maximum_speed=451 mph (25600 ft, average air witch)
+|weapons=Fliegerhammer<br>[[Wikipedia:ShVAK cannon|ShVAK]]<br>[[Wikipedia:Berezin B-20|B-20]]
+
+<!-- Tab2 -->
+|country2=[[Orussia]] [[File:Flag of Orussia.svg|border|23px|link=Orussia]] 
+|manufacturer2=[[Wikipedia:Russian Aircraft Corporation MiG|Mir Gosudartsvo Design Bureau]] [[File:Mir Gosudartsvo.png|23px]]
+|specifications2=Prototype No. 3
+|magic_engine2=[[Wikipedia:Mikulin AM-42|AM-42]]
+|power2=2000 Mp (take off)
+|length2=95.0 cm
+|weight2=Classified
+|maximum_speed2=422 mph (18000 ft, average air witch)
+|weapons2=Fliegerfaust<br>[[Wikipedia:ShVAK cannon|ShVAK]]<br>[[Wikipedia:Berezin B-20|B-20]]
+}}
+MiG Design Bureau is an [[Orussia|Orussian]] manufacturing company that is keen on the research and development of high-altitude fighter units. The MiG60, their first completed unit, was a high-altitude high-speed unit. This airframe performed reasonably well, and several variants were built, but the military requested a unit capable of flying at higher speeds and higher altitudes in order to counter the increasingly powerful [[Neuroi]]. When the production of the engine used in the MiG60 was stopped, the liquid-cooled engine was replaced by a more powerful air-cooled engine, but it was an aerodynamically sloppy design, and it never made it past the prototype stage. Therefore, MiG Design Bureau drastically revised the design of the fuselage itself and started to develop the more aerodynamically sophisticated i-220 series.
+
+When the first i-220 prototype was built the AM-39 high-altitude engine was not completed yet, so the AM-38F, a medium-altitude engine which was also installed in the IL-2A, was used for the tests. The test flights proved that it had good maneuverability and handling, and a favorable judgment was given to the airframe. The completion of the new engine was highly awaited. With the completion of the AM-39, the engine was replaced and the unit was tested at the expected high-altitude. The results of this test revealed that the wing area needed to be increased for high-altitudes, and improved versions, such as the 221 and 222, were created. However, although these airframes had excellent performance, the AM-39 engine was not performing well and its mass production was cancelled, and neither of these units were officially adopted.
+
+Therefore, the i-225, a new prototype using the AM-42B, was made. The AM-42B is an enhanced version of the AM-38F with increased output, resulting in better high-altitude performance. The prototype No. 2, fitted with this engine, and the prototype No. 3, fitted with an AM-42 designed for medium-altitude, were sent to Petersburg for actual combat testing. The third prototype was tested by Flight Lieutenant [[Aleksandra I. Pokryshkin|Pokryshkin]]. Both of these units achieved good results, and it was decided to proceed with mass production after correcting the flaws that were reported during the tests. In addition, the "i" of i-225 means that it is a fighter unit. After its official adoption, it was named MiG-225.
+
+==Trivia==
+*This striker unit is based on the [http://www.aviastar.org/air/russia/mig_i-225.php Mikoyan Gurevich I-225] high-altitude fighter prototype.
+*The magic engine is based on the [[Wikipedia:Mikulin AM-42|Mikulin AM-42B]] V12 supercharged engine.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+MiG i-225 3.jpg|Brave Witches Aleksandra's i-225
+MiG i-225 4.jpg|Brave Witches i-225 data
+MiG i-225 1.jpg|Strike Witches 2 Sanya's Mig i-225
+MiG i-225 2.jpg|Strike Witches 2 Mig i-225 data
+</gallery>
+[[Category:Striker Unit]]

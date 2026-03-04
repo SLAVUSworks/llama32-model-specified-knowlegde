@@ -1,0 +1,36 @@
+{{Stub}}
+{{Character_Infobox
+|title1=Louis Hoche
+|image1=Louishoche.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Shimada Corps
+|team =
+|rank=?
+|striker unit(s)=Renault R35
+|weapon(s)=Witch Combat Gun<br>R35 Witch Combat Buckler
+|familiar=? (Unknown Horse)
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Louis Hoche''' is a [[Gallia]]n land witch. She is an original character from [[Unknown Witches: Secret File]] and is not considered canon.
+
+==Appearances==
+'''Manga'''
+* [[Unknown Witches: Secret File]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+louishochesuit.jpg
+Shimada Corps Full Unit.jpg
+</gallery>
+[[Category:Tank Witch]]
+[[Category:Gallia]]
+[[Category:Non-canon Content]]

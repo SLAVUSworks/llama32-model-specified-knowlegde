@@ -1,0 +1,25 @@
+{{stub}}
+{{Character Infobox
+|title1=Mamoru Itokawa
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=?
+|affiliation(s)=?
+|team=?
+|rank=?
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+
+[[Category:Strike Witch]]
+[[Category:Characters with no art]]

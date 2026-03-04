@@ -1,0 +1,57 @@
+{{Character_Infobox
+|title1=Friederike Porsche
+|image1=Friederike.png
+|caption1=
+|kanji_name=フレデリカ・ポルシェ
+|romaji_name=
+|age=?
+|birth_date=3 September
+|height=
+|blood_type=
+|nationality=[[Karlsland]]
+|affiliation(s)=Karlsland Army
+|team=
+|rank=Squadron Leader<br>Karlsland Army Technical Major (1942)
+|striker unit(s)=[[Wikipedia:Junkers_Ju_87|Jungfrau Ju87 Stuka]]
+|weapon(s)=[[Wikipedia:MG_34|MG34]]<br>[[Wikipedia:BK_37|BK 37]]
+|familiar=
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Friederike Porsche''' (フレデリカ・ポルシェ<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a witch from [[Karlsland]].
+
+==Background==
+A Former ground attack strike witch that was fighting in Karlsland at the beginning of the war. She nearly lost all of her magical power after being wounded during the withdrawal battle of Karlsland. Despite this, she was dispatched to North Africa where she commands a Karlsland Division with an experimental Tiger land striker unit attached. Her lover named Hauptmann [[Michael Schmitt]] is a former Panzer commander and serves under her in the same division. He is also her reason why she keeps fighting against the [[Neuroi]].
+
+Despite her age and degrading in magical ability, by the time of 1942 Friederike could still muster enough magical ability to fight if need be: operate MG-34 in akimbo with limited barrier ability ([[Africa Doujinshi#Tiger in Desert 1|Tiger in Desert 1]]); operate a Stuka Strike unit with 37mm cannon ([[Africa Doujinshi#Witches of the Sphinx 3|Witches of the Sphinx 3]]) and again, MG-34 in akimbo ([[Africa_Doujinshi#Witches_of_the_Sphinx 4|The Witches Of The Sphinx 4]]).
+
+Though by regulation romance between a common soldier (no matter he is rank & file / NCO / officer) and a witch is usually not allowed, the story of Friederike and Schmitt's was one that, according to Marseille at the end of [[Africa Doujinshi#Tiger in Desert 2|Tiger in Desert 2]], was pretty well known - and envied - amongst Karlsland witches.
+
+==Appearances==
+'''Doujinshi'''
+*[[Africa Doujinshi#Tiger in Desert 1|Tiger in Desert 1]]
+*[[Africa Doujinshi#Tiger in Desert 2|Tiger in Desert 2]]
+*[[Africa Doujinshi#Witches of the Sphinx 1|Witches of the Sphinx 1]]
+*[[Africa Doujinshi#Witches of the Sphinx 2|Witches of the Sphinx 2]]
+*[[Africa Doujinshi#Witches of the Sphinx 3|Witches of the Sphinx 3]]
+*[http://strikewitches.wikia.com/index.php?title=Special:NewFiles&image=x999-143_Major_Miles-jpg The Witch of Stuka.] (Extra story included in "The Witches of Africa Total Comic Collection" and "Strike Witches: Andorra no Majo")
+*[[Africa_Doujinshi#Katou_Keiko_North Africa_Military_Photos_1943|Katou Keiko North Africa Military Photos 1943 ]]
+*[[Africa_Doujinshi#Witches_of_the_Sphinx 4|Witches of the Sphinx 4]]
+*[[Africa Doujinshi#Witches of the Sphinx 5|Witches of the Sphinx 5]]
+
+==Trivia==
+*She is probably based on [[Wikipedia:Ferdinand_Porsche|Ferdinand Porsche]], an Austrian engineer/designer famous for his cars as well as contributing to the Tiger, King Tiger and Elefant tank designs.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Friederike Porsche laying down expectant.png
+Friederike Porsche in her Stuka Striker and Michael Schmitt in his Panzer.png|Friederike in her youth, flying past Michael and his tank in her Ju87 Stuka Striker
+Friederike Porsche eyes closed.png
+Friederike Porsche pretrubed.png
+Frederica 4.jpg
+Frederica 1943 Keiko photo.jpg|Frederica interacting with locals, photo taken in 1943 by Katou keiko
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Karlsland]]

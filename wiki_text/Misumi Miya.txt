@@ -1,0 +1,60 @@
+{{Character_Infobox
+|title1=Misumi Miya
+|image1=Misumi.jpg
+|caption1=
+|kanji_name=三隅美也
+|romaji_name=
+|age=14
+|birth_date=1 March
+|height=157 cm
+|blood_type=m
+|nationality=[[Fuso]]
+|affiliation(s)=Fuso Imperial Navy
+|team=[[507th Joint Fighter Wing]]
+|rank=
+|striker unit(s)=[[Wikipedia:Mitsubishi_A6M_Zero#A6M2a_Type_0_Model_11|Miyabishi Heavy Industries Type 0 model 11 training unit]] 
+|weapon(s)=[[Wikipedia:Type_99_cannon|Type 99-2 Model 2 Kai training rifle]]
+|familiar=White cat
+|seiyuu_(japanese)=[[Wikipedia:Maaya Uchida|Uchida Maaya]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Misumi Miya''' (三隅美也) is a witch originating from [[Fuso]] and attached to the [[Fuso Imperial Navy]].
+
+==Background==
+Misumi is the only daughter of the wealthy owner of an emerging business created by her grandfather, who also became somewhat famous in his home town. Because she comes from a rural area, Misumi is often viewed as a "countryside wealthy lady"<ref>[https://twitter.com/humikane/status/788093970370789376  Humikane tweet on Misumi's grandfather and origins]</ref>.
+
+When her magical power manifested, her father hired a retired witch to be her home teacher, so that she could develop her magical power to full potential.
+As one of the best students at the Sasebo Military School, she was directly instructed by a Navy commander.
+
+She was dispatched to Europe in 1945. While being guided by [[Vesna Mikovič]], they encountered a long-range reconnaissance type Neuroi. They were able to shoot it down combining their strength. They later joined the newly reformed [[507th Joint Fighter Wing]] in [[Suomus]].
+
+==Personality==
+Misumi is somewhat haughty and has a lot of pride, but she admires authority and wants to become a good witch, so she also has a careful side.
+
+==Appearances==
+'''Anime'''
+*[[Brave Witches]], [[Brave Witches Episode 1, "The Witch of Sasebo?"|episode 1]]
+'''Manga'''
+*[[Brave Witches: Dai 502 Butai Hasshin shimasu!]]
+*[[Brave Witches: 502nd Joint Fighter Wing]], chapter 1
+'''Audio Media'''
+*Brave Witches audio drama CD
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Misumi-1.jpg|During the filming of a recruitment movie aiming to change new recruits opinion on fighting with swords like their idols, Misumi had to try to hit glider training targets with a sword to show how difficult and dangerous it is.
+Misumi-2.jpg.jpg
+Brave Witches official Comic à la Carte art 2.jpg|Official Comic à la Carte illustration
+Misumi Miya character design.jpg
+File:Misumi Miya bed practical skills.jpg
+Misumi brave witches.jpg
+Misumi-4.jpg
+</gallery>
+
+==References==
+<div style="margin-left: 51px;">[https://twitter.com/humikane/status/785529275403210752 Humikane tweet on Misumi character design]</div>
+<references/>
+[[Category:Strike Witch]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Fuso]]

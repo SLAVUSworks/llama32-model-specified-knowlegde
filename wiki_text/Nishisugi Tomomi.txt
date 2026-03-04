@@ -1,0 +1,35 @@
+{{Character_Infobox
+|title1=Nishisugi Tomomi
+|image1=Tomomi 1.png
+|caption1=
+|kanji_name=西杉智美
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=
+|team=
+|rank=?
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Hayabusa]]
+|weapon(s)=[[Wikipedia:Ho-103 machine gun|Ho-103]]
+|familiar=[[Wikipedia:Weasel|Weasel]]
+|seiyuu_(japanese)=[https://ja.wikipedia.org/wiki/茜屋日海夏 Himika Akaneya]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Nishisugi Tomomi''' (西杉智美) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Tomomi 2.png|Tomomi showing off her night witch antenna
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Night Witch]]
+[[Category:Fuso]]

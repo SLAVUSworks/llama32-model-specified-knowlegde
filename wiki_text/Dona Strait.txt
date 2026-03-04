@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Dona Strait
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=28 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 356 Fighter Group 361 Fighter Squadron
+|team =
+|rank=Squadron Leader 
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (44-15152 "Jersey Jerk")
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Dona Strait''' is a witch originating from [[Liberion]].
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D]]
+|image=P51-D Strait SW1.jpg
+|description=This unit received an extremely elaborated paint job, and is nicknamed "Jersey Jerk".
+}}
+
+==Trivia==
+*Her ace archetype is [http://www.americanairmuseum.com/person/44882 Donald J. Strait].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Liberion]]
+[[Category:Characters with no art]]

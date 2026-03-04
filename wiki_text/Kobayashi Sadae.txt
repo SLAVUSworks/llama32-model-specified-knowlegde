@@ -1,0 +1,43 @@
+{{Character_Infobox
+|title1=Kobayashi Sadae
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=小村定恵
+|romaji_name=
+|age=?
+|birth_date= 18 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy
+|team = [[508th Joint Fighter Wing]]
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:Kawanishi_N1K|Yamanishi Shiden Model 21 N1K2-J]] (No. 312-74)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)= 
+|seyuu_(english)= 
+|appearances=
+}}
+'''Kobayashi Sadae''' (小村定恵) is a Witch of the [[508th Joint Fighter Wing]], originating from [[Fuso]] and attached with the [[Fuso Imperial Navy]]. She has a tall physique that is not outdone by the Liberians and a personality that is perpetually largehearted and deeply humane.
+
+==Background==
+Since the outbreak of the war, Sadae was on board of the third warship of the European Dispatch Fleet - the [[Wikipedia:Japanese_aircraft_carrier_Shōkaku|Shoukaku]]. It was then arranged for her to be sent together with said mothership to the [[508th Joint Fighter Wing]]. However, the [[Wikipedia:Japanese_aircraft_carrier_Shōkaku|Shoukaku]] got damaged and had to return to Fuso to undergo repairs.
+
+Sadae was supposed to remain on the Shoukaku as always, but because [[Jane Thach|Wing Commander Thach]] from Liberion is a staff officer who rarely fly, she was sent on the [[Wikipedia:USS_Enterprise_(CV-6)|Enterprise]] in an attempt to balance the military strength. This was due to regards that she would not be physically overshadowed by the Liberians and that her personality was also easy-going. This selection turned out to be a success and Sadae soon deepened an unreserved friendship with [[Cecilia Harris|Flight Lieutenant Harris]].
+
+==Striker Units==
+{{Striker unit template
+|name=[[Yamanishi Shiden|Yamanishi Shiden Model 21 (No. 312-74)]]
+|image=Shiden Model 21 Kobayashi SW2.jpg
+|description=The unit used by Pilot Officer Kobayashi assigned to the Mighty Witches on a Liberion aircraft carrier. It has been repainted with a Liberion-type camouflage. From the emblem design, it seems to belong to Enterprise.
+}}
+
+==Trivia==
+*She is based on [[Wikipedia:Sadamu_Komachi|Komachi Sadamu]] (小町定).
+[[Category:Article stubs]]
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:508th Joint Fighter Wing]]
+[[Category:Characters with no art]]
+[[Category:Fuso]]

@@ -1,0 +1,41 @@
+__NOTOC__
+{{Striker Unit Infobox
+|title1=He162
+|image1=He162 0.jpg 
+|caption1=
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Heinkel|Heinzel]] [[File:Heinzel.png|23px]]
+|specifications=V1
+|magic_engine=[[wikipedia:BMW 003|BMW 003E-1]] [[File:BMW.png|23px]]
+|power=1760 lbm (take off)
+|length=90.5 cm
+|weight=Classified
+|maximum_speed=562 mph (19700 ft, average air witch)
+|weapons=[[Wikipedia:MG 151 cannon|MG151]] or [[Wikipedia:MK 108 cannon|MK108]]
+}}
+==History==
+The [[Messerscharf Me262|Me262]] supported by Air Vice-Marshal [[Adolfine Galland|Galland]] was expensive and consumed a lot of magical power, so it was difficult to use unless if the witch was skilled. Therefore, a cheap and easy to handle new light jet striker was developed, apart from the implementation supported by Galland. Several [[Karlsland]] companies applied to the prototype contest, but Heinzel had already conducted tests on multiple prototypes, and its plan was adopted and named He162.
+
+Since wood was heavily used in this unit, a collaboration with the [[Britannia]]n company [[Wikipedia:De Havilland|de Havillander]] was requested to help with the gluing manufacturing process, as they achieved good results with the Mosquito. The early production model was deployed in priority to Karlsland's squadrons in Britannia, and some were employed in Britannia's Air Force. During the testing process, a [[Wikipedia:Rolls-Royce Welland|Welland]] jet engine from the Britannian manufacturer [[Wikipedia:Rolls-Royce Limited|Rolling Royce]] was installed as it was close to the failed proprietary engine previously developed by Heinzel. The company acquired a license to build it and improve it, which resulted in the HeS33. This engine was installed in the He162A-8 model and onward.
+
+Regarding why the company was able to form a cooperation system with Britannia, a theory is that it's because Karlsland imperial family and Britannia royal family are relatives. While the emperor, who is found of new and innovative technologies, was boasting about his new model to Britannia royal family, his close aide would have realized that technical cooperation would be beneficial and made the proposal.
+
+The model based on the prototype, on which the problems caused by the heavy use of wooden parts were resolved thanks to the collaboration with de Havillander, was adopted as the A model. Then, after being redesigned with wind tunnel tests and experiments using a glider, the model with the Welland engine and extended range was adopted as the B model, and the mass production started. More specifically, the model equipped with the heS33 engine became the B-2.
+
+==Known variants==
+*'''V1''': Prototype for testing. It once crashed due to a failure, and was sent to the Ministry of Technology to develop and improve new technologies.
+*'''A-2'''
+*'''A-8''': Firt version equipped with Heinzel HeS33 engine.
+*'''B-1''': Version usually sent to Britannia and equipped with Rolling Royce Welland engine. The fuselage was redesigned and the range was extented.
+*'''B-2''': Similar to the B-1 but with Heinzel HeS33 engine.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Heinkel He 162|Heinkel He 162]] jet fighter.
+*The magic engines are respectively based on the [[Wikipedia:BMW 003|BMW 003E]] and [[Wikipedia:Rolls-Royce Welland|Rolls-Royce Welland]] turbojet engines. The HeS33 is fictional, but the name is based on Heinkel's line of turbojet engines (HeS11, HeS3, HeS30...).
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+He162 1.jpg|Strike Witches OVA Ursula's He162V1
+He162 2.jpg|Strike Witches OVA He162 data
+</gallery>
+[[Category:Striker Unit]]

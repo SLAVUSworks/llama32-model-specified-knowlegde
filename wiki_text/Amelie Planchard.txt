@@ -1,0 +1,92 @@
+{{Character_Infobox
+|title1=Amelie Planchard
+|image1=Amelie_planchard.jpg
+|caption1=
+|kanji_name=アメリー・プランシャール
+|romaji_name=
+|age=15 (1944)
+|birth_date=22 November 
+|height=150 cm
+|blood_type=
+|nationality=Gallian
+|affiliation(s)=Forces Aériennes Galliaises Libres 802nd Flying Corps<br>Pas-de-Calais Fighter Squadron "Clostermann"
+|team = [[Isle of Wight Detachment Group]]
+|rank=Sergeant
+|striker unit(s)=[[Wikipedia:Spitfire|Ultramarine Spitfire Mk V]]<br/>[[Wikipedia:Arsenal_VG-33|Gallia National Aviation Arsenal VG.39bis]] (serial code LO-X)
+|weapon(s)=[http://en.wikipedia.org/wiki/Bren Bren Light Machine gun Mk 1.]
+|familiar=European Rabbit
+|seiyuu_(japanese)=[[Wikipedia:Sayuri Yahagi|Yahagi Sayuri]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Amelie Planchard''' (アメリー・プランシャール) is a Witch of the [[Isle of Wight Detachment Group]], originating from [[Gallia]].
+
+==Background==
+Born to a farming family in Normandy, in Northwest [[Gallia]]. She developed her witch powers at an early age, but because she was in a small village, neither her family nor the residents knew how to interact with the witch. She was later discovered by an official of the witch candidate Scout who had been traveling around. As the first witch in her family line, she was sent away to a national training institute where she lived alone, away from her family, a difficult experience for such a young girl.
+
+During the [[Neuroi]] invasion of Gallia, she was still a trainee witch undergoing final tests, and thus did not participate in any of the actual fighting. After the fall of Gallia she moved to [[Britannia]] with operation Dynamo, where she received training with the [[Wikipedia:Free French Air Force|Forces Aériennes Galliaises Libres]], and became a formal Air Infantryman. Her uniform and striker (a Spitfire Mk. V) and the training facilities she uses were all provided by Britannia. Her magical powers are not low, and she had excellent results in class, but she was noted for not being assertive enough.
+
+Planchard flew as the wingman to Flying Officer [[Perrine H. Clostermann]] (a Pilot-Officer (Sous-Lieutenant) at the time) while the two were deployed to a defensive fighter unit at a Britannian airbase. Shortly after [[Perrine H. Clostermann|Perrine]] was transferred to the [[501st Joint Fighter Wing]], she was transferred to North Africa. She was repeatedly shot down here and was transferred to Britannia again, where she was assigned to the [[Isle of Wight Detachment Group]].
+
+After the dissolution of the [[Isle of Wight Detachment Group|Isle of Wight Detachment]] (at the end of the anime first season), she rushed to help [[Perrine H. Clostermann|Perrine]] reconstruct Gallia with [[Wilma Bishop]] and many other witches. She later relocated to the Clostermann family in Pas de Calais and cooperated with [[Perrine H. Clostermann|Perrine]] reconstruction project.
+
+==Personality==
+A very emotional person, her eyes well up with tears at any show of strong feelings. She is a pampered girl who cannot stand to be alone. Planchard appears to be deeply moved by something she sees in Flying Officer Clostermann, and in the way she always forges ahead recklessly, even at the cost of losing everything.
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39bis (letter code LO-X)]]
+|image=VG39bis Planchard SW2.jpg
+|description=When the Alsace Squadron was dispatched to the Mediterranean Sea, Sergeant Planchard was re-assigned to Britannia again. This unit was supplied on this occasion. It is used in the newly established Isle of Wight Detachment.
+}}<br>
+{{Striker unit template
+|name=
+|image=VG39bis Planchard SW OVA3.jpg
+|description=She continued to use this unit during her service in the defense of Pas-de-Calais after being transferred to Gallia. She secretly added Flying Officer Clostermann's personal emblem inside the nationality mark painted on her unit.
+}}
+
+==Appearances==
+'''Anime'''
+* [[Operation_Victory_Arrow#Episode_3|Operation Victory Arrow]], Volume 3: Arnhem Bridge
+* [[Strike Witches: The Movie]]
+* [[World Witches: Hasshin Shimasu!!]], cameo in episode 3
+'''Audio Media'''
+* Himebana 2: [[Himebana 2#Track_01: Memories of a camomile, Part A|Memories of a Camomile]]
+'''Manga'''
+* [[Strike Witches: The Sky That Connects Us]], Chapter 1
+* [[Strike Witches: One-Winged Witches]]
+* [[Strike Witches: 501 Butai Hasshin Shimasu! Movie (manga)|Strike Witches Gekijouban: 501 Butai Hasshin shimasu!]]
+'''Video Games'''
+*[[Strike Witches: Kiseki no Rondo]], not playable
+*[[World Witches United Front]]
+
+==Trivia==
+*Unlike other witches, who often have photos in battle, many of her photos capture everyday life.
+*She taught Perrine how to make chamomile tea. After the news was streamed by the local press, chamomille tea popularity began to increase in the region.
+*Her ace archetype is Henri Planchard.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Amelie scan 2.jpg
+Amelie scan 1.jpg
+OVA3 Art.JPG
+Amelie Scan.jpg
+Amelie Bunny Girl.jpg
+OVA3 Cover.JPG
+Amelie 6.jpg
+Amelie 7.jpg
+OVA3 Amelie2.JPG
+OVA3 Amelie 2.JPG
+OVA3 Amelie.JPG
+Amelie smartphone wallpaper from World Witches United Front official twitter.jpg|Amelie Planchard smartphone wallpaper from World Witches United Front official twitter
+W witch app-1364477314445176837-20210224 162837-img4.jpg|Amelie Planchard smartphone wallpaper from World Witches United Front official twitter
+File:Smiling Amelie pick flower.jpg
+File:Amelie Planchard happy feeding.jpg
+File:Amelie Planchard crates.jpg
+File:Amelie and Perrine.jpg
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Sergeants]]
+[[Category:Isle of Wight Detachment Group]]
+[[Category:Gallia]]

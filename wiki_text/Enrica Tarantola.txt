@@ -1,0 +1,52 @@
+{{Character_Infobox
+|title1=Enrica Tarantola 
+|image1=Enrica_Tarantola.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=19 January
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Air Force 51st Air Group 20th Air Wing 151st Squadron<br>The Red Pants
+|team =
+|rank=Warrant Officer
+|striker unit(s)=[[Wikipedia:Fiat_G.55|Farotto G55 "Centauro"]] (151-2)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Enrica Tarantola''' is a Witch originating from [[Romagna]]. She is nicknamed "Banana".
+
+==Background==
+Her parents' house is a greengrocer store.
+
+She is a member of the Red Pants and served as the wingman of Squadron Leader [[Federica N. Doglio|Doglio]] for a time. During the defense battle of Malta, she met with Flying Officer [[Patricia Schade|Schade]] of Britannia, who was later invited to join the 504th JFW.
+
+==Striker units==
+{{Striker unit template
+|name=[[Farotto G55|Farotto G55 (No. 151-2)]]
+|image=G55 Tarantola SW1.jpg
+|description=Her personal emblem is "Dai Banana!" ("''Sore ike, Banana!''", "Go, Banana!") because her parent's house is a greengrocer. Her squadron emblem is a black cat who catches a mouse in the grass.
+}}
+
+==Appearances==
+'''Light Novels'''
+* [[Strike Witches: The Witches of Africa - Kei's Report]]
+
+==Trivia==
+*Her ace archetype is [http://surfcity.kund.dalnet.se/italy_tarantola.htm Ennio Tarantola].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+The Witches of Africa Vol.2 Art.png
+</gallery>
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Romagna]]
+[[Category:Warrant Officers]]

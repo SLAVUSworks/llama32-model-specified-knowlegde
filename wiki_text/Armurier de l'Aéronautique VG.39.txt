@@ -1,0 +1,63 @@
+{{Striker Unit Infobox
+|title1=VG.39
+|image1=VG39bis 0.jpg
+|caption1=
+
+<!-- Tabs -->
+|tab1=VG.39
+|tab2=VG.39bis
+
+<!-- Tab1 -->
+|country=[[Gallia]] [[File:Flag of Gallia.svg|border|23px|link=Gallia]]
+|manufacturer=[[Wikipedia:fr:Arsenal_de_l'aéronautique|Armurier de l'Aéronautique]] [[File:Armurier de l'aeronautique.png|23px]]
+|specifications=[[Wikipedia:fr:Arsenal_VG_33#Arsenal_VG_39|VG.39]]
+|magic_engine=[[Wikipedia:Hispano-Suiza_12Y|Quadra 12Y-89]]
+|power=1200 Mp
+|length=87.5 cm
+|weight=Classified
+|maximum_speed=388 mph (6000 m, average air witch)
+|weapons=[[Wikipedia:MAC_1934|MAC1934]]<br>others
+
+<!-- Tab2 -->
+|country2=[[Gallia]] [[File:Flag of Gallia.svg|border|23px|link=Gallia]]
+|manufacturer2=[[Wikipedia:fr:Arsenal_de_l'aéronautique|Armurier de l'Aéronautique]] [[File:Armurier de l'aeronautique.png|23px]]
+|specifications2=[[Wikipedia:fr:Arsenal_VG_33#Arsenal_VG_39|VG.39bis]]
+|magic_engine2=[[Wikipedia:Hispano-Suiza_12Z|Quadra 12Z-89]]
+|power2=1679 Mp
+|length2=91.5 cm
+|weight2=Classified
+|maximum_speed2=420mph (20000ft, average air witch)
+|weapons2=[[Wikipedia:Bren_light_machine_gun#Mark_1|Bren Mk1]]<br>[[Wikipedia:MAC_1934|MAC1934]]<br>others
+}}
+A striker unit developed by [[Gallia]] national aeronautical company. Based on Dr. [[Miyafuji Ichiro|Miyafuji]]'s theory, the VG.33 was an improved version of the development unit. The prototype was completed at the time of the full-scale [[Neuroi]] invasion, so it was nearly too late for it to be fielded in the battle. The annihilation of the country forced the Gallia state aeronautical workers to evacuate to [[Hispania]]. Despite this, the development of the unit continued without interruption. Based on the VG.33 which was equipped with the powerless Quadra 12Y-31 magic engine, the VG.39 fuselage was equipped with the more powerful Quadra 12Y-89. The output increased by a factor of 1.4, and the speed and flight efficiency improved significantly. The VG.39 (an improved version of the VG.33) achieved good results during the practical tests primarily conducted by [[Perrine H. Clostermann]], and was produced as one of the main striker units of Gallia.
+
+The Quadra 12Y-89 magic engine installed in the VG.39 had a magic power of 1200 Mp and was inferior to the 2000 Mp engines installed in other countries' units however. Working together with witches from other countries, the Gallian state-owned aeronautical engineers simultaneously carried out several plans to improve performance by installing a more powerful magic engine.
+
+Following one of these plans, several prototypes equipped with [[Britannia]]'s Merlin engine were produced, but the Merlin engine was in short supply in Britannia, so it was necessary to use an easily available engine for mass production. At that time, the more powerful Quadra engines, the 12Z-17 and the 12Z-89, were installed. The speed of the model equipped with the 12Z-17 was increased while its maneuverability was nearly unaffected, but it was inferior to the model equipped with the Merlin. The 12Z-89 is an improved version of the 12Z-17 and was designed to delived the same level of performance as the 12Z-17 using low-quality fuel from Hispania, where there was a shortage of high-quality fuel. However, during this prototype's performance tests, the engine was tuned for high quality fuel, and it produced more power than the prototype equipped with the Merlin 60 series engine. Fortunately, high-quality fuel became abundant thanks to replenishment from [[Liberion]], so the improved 12Z-89 was installed in all pre-production VG.39bis machines.
+
+One of these units was sent to Flying Officer Perrine for operational testing, who was undergoing reconstruction work in Gallia. The results were good, and under favorable conditions, this unit was as good or even better than the [[Ultramarine Spitfire|Spitfire]]. The reborn [[501st Joint Fighter Wing|501st JFW]] also demonstrated that it was effective in actual combat, and the Gallian state aeronautical engineers considered starting its mass production. However, the total number of produced units was low due to the delay in instructions from the Gallian government and the low production capacity of the factory.
+
+As a result, the experimental unit named VG.39bis was dedicated to Gallia's top aces, and was preferentially deployed to witches belonging to Joint Fighter Wings. The majority of Gallian witches employed Britannian and Liberion striker units. Among them, some employed [[Karlsland]]-made units, who ended up being even more than those who used the VG series according to reports. Although the unit had such disadvantages and it had a short operating time, its basic performance was not bad, and witches were able to achieve significant military results.
+
+==Known variants==
+*'''VG.33'''
+*'''VG.39'''
+*'''VG.39bis'''
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Arsenal_VG-33|Arsenal de l'aéronautique VG-33]] fighter.
+*The magic engines are respectively based on the [[Wikipedia:Hispano-Suiza_12Y|Hispano-Suiza 12Y]] and [[Wikipedia:Hispano-Suiza_12Z|Hispano-Suiza 12Z]] V12 supercharged engines.
+*The manufacturer is also named "Galliaises de L'aéronautique" in some instances in the booklets.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+VG39 1.jpg|Strike Witches Perrine's VG.39
+VG39 2.jpg|Strike Witches VG.39 data
+VG39bis 7.jpg|Brave Witches Georgette's VG.39bis
+VG39bis 8.jpg|Brave Witches VG.39bis data
+VG39bis 3.jpg|Strike Witches 2 Perrine's VG.39bis
+VG39bis 4.jpg|Strike Witches 2 VG.39bis data
+VG39bis 5.jpg|Strike Witches OVA3 Perrine's VG.39bis
+VG39bis 6.jpg|Strike Witches OVA3 VG.39bis data
+</gallery>
+[[Category:Striker Unit]]

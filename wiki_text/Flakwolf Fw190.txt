@@ -1,0 +1,65 @@
+{{Striker Unit Infobox
+|title1=Fw190
+|image1=Fw190 D-9 0.jpg
+|caption1=
+
+<!-- Tabs -->
+|tab1=D-6 prototype
+|tab2=D-9
+
+<!-- Tab1 -->
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Focke-Wulf|Flakwolf]] [[File:Flakwolf.png|23px]]
+|specifications=Type D prototype
+|magic_engine=[[wikipedia:Junkers_Jumo_213|Juma213A-1]] [[File:Jungfrau.png|23px]]
+|power=1776 Mp (take off)
+|length=100.50 cm
+|weight=Classified
+|maximum_speed=686 km/h (6600 m, during Barkhorn large elbows test)
+|weapons=[[Wikipedia:MG_42|MG42]]<br>[[Wikipedia:MG_131_machine_gun|MG131s]]<br>[[Wikipedia:MG_151_cannon|MG151/20]]<br>others
+
+<!-- Tab2 -->
+|country2=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer2=[[Wikipedia:Focke-Wulf|Flakwolf]] [[File:Flakwolf.png|23px]]
+|specifications2=[[wikipedia:List_of_Focke-Wulf_Fw_190_variants#Fw_190D-9|D-9]]
+|magic_engine2=[[wikipedia:Junkers_Jumo_213|Juma213A-1]] [[File:Jungfrau.png|23px]]
+|power2=1750 Mp (take off)
+|length2=105.0 cm
+|weight2=Classified
+|maximum_speed2=686 km/h (6600 m, average air witch)
+|weapons2=[[Wikipedia:MG_42|MG42]]<br>[[Wikipedia:MG_131_machine_gun|MG131s]]<br>[[Wikipedia:MG_151_cannon|MG151/20]]<br>others
+}}
+Flakwolf developed the Fw190 striker unit as a backup for the [[Messerscharf Bf109|Bf109]]. Because the chief designer was a former witch who has an in-depth point of view of someone who used striker units, it was durable and easy to operate. Once completed, it was a striker unit that could be easily adjusted to suit each individual witch. Moreover, the production and maintenance of the Fw190 were easy. It was an ideal unit for both the military and the witches. Derivate types were built for ground attack purposes. However, Flakwolf was a small company, and the mass production was delayed because it took time to set up a factory in [[Neue Karlsland]]. As a result, the Bf109 produced by Messerscharf remained the main striker unit of the [[Karlsland]] army.
+
+The D6 prototype is equipped with a liquid-cooled magic engine in order to improve the high-altitude performance over the conventional air-cooled engine. Many types of Fw190 were prototyped and examined, and when the type A-6 was equipped with the liquid-cooled Jungfrau Magischbau (Juma) 213A-1 magic engine it was temporarily designated D6. It was handed over to Flight Lieutenant [[Gertrud Barkhorn]], a member of the [[501st Joint Fighter Wing]], who conducted the actual combat tests. Barkhorn was the centerpiece of the combat tests of the D model. The test results were satisfactory for the most parts, partly because of Flight Lieutenant Barkhorn's skill, but she identified that the airframe needed to be more stable.
+
+Still, the unit demonstrated higher performances than expected regardless if it was speed, climbing performance, or high altitude performance. It was effective against the progress of large scale [[Neuroi]], and could potentially be used as a ground attack unit because it could be heavily armed. Therefore, mass production of the  D-9 started Based on Barkhorn's report, the D-9 received an extended fuselage and minor modifications. 
+
+The D-9 saw activity as an all-purpose fighter, and a remodeled version with even higher high-altitude performance was also developed. In 1944, Flakwolf's production capacity was also improved, and in December 1944, it was possible to manufacture up to 8 units per day. A sufficient number of D-9 were sent to the front lines and used by many Karlsland witches. Numerous witches preferred the slim and nimble Bf109, so they were mainly used by witches who wanted heavy armament and by ground attack witches.
+
+As a result of being employed in various situations, several variants were created such as the D-11 with an enhanced engine, the D-12 for bombing raids, the D-13 with an enhanced engine and heavier armaments, and so on. At the same time, the D-9 received minor changes, with late-production models receiving aerodynamic refinements and increased fuel capacity. In addition to these different types, sub-types also exist. One of them is the R11 specification, which is equipped with a FuG125 radio navigation system and a PKS12 automatic control system, making it an all-weather unit that can fly at night and in bad weather. Additionally, the R1/R2 specifications with a gun pod under the wings, the R3 specification that can be equipped with rockets, and the R14 specification that can be equipped with anti-aircraft rockets used against large-scale Neuroi, were also considered. The R11 specification was particularly favored by night witches and reconnaissance witches, and was modified to allow the installation of additional equipment such as disposable rocket pods, camera pods, and rocket boosters. However, at that time, the design chief engineer was immersed in the development of the high-performance Ta152, and many of these modifications were made by squadrons themselves, so no specific sub-numbers were given.
+
+==Known variants==
+*'''A-4'''
+*'''A-6'''
+*'''A-7'''
+*'''D-6''': Prototype, A-6 model with liquid-cooled Juma 213 engine to improve high-altitude performance.
+*'''D-9''': Production D type, based on the D-6 with extended fuselage and minor modifications.
+*'''D-11''': Enhanced magic engine.
+*'''D-12''': Ground attack type.
+*'''D-13''': Enhanced engine and heavier armaments.
+*'''T''': Carrier-based type.
+*'''Ta152''': In development.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Focke-Wulf_Fw_190_Würger|Focke-Wulf Fw 190]] fighter.
+*The magic engine is based on the [[Wikipedia:Junkers_Jumo_213|Junkers Jumo 213A]] V12 supercharged engine.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+Fw190 D-6 1.jpg|Strike Witches Gertrude's Fw190D-6
+Fw190 D-6 2.jpg|Strike Witches Fw190D-6 data
+Fw190 D-9 1.jpg|Strike Witches 2 Gertrude's Fw190D-9
+Fw190 D-9 2.jpg|Strike Witches 2 Fw190D-9 data
+</gallery>
+[[Category:Striker Unit]]

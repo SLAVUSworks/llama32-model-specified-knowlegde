@@ -1,0 +1,78 @@
+{{Character_Infobox
+|title1 = Elma Leivonen
+|image1 = Elma_ReBOOT.jpg
+|kanji_name = エルマ・レイヴォネン
+|age = 15 (in 1939)
+|birth_date = 4 June 1923
+|height = 162 cm
+|affiliation(s) = Suomus Air Force Independent Volunteer Squadron
+|team = [[507th Joint Fighter Wing]]
+|rank = Flying Officer
+|striker unit(s) = [[Wikipedia:Fiat_G.50|Farotto G.50]]<ref name="WW">[[:File:Elma Scan 1.jpg|''World Witches'' Elma Leivonen article]] (in Japanese)</ref><br>[[Wikipedia:Messerschmitt_Bf_109_variants#Bf_109E|Messerscharf Bf109E]]<ref>[http://www37.atwiki.jp/strike_witches/pages/215.html ストライクウィッチーズ(アニメ) まとめwiki - スオムスいらん子中隊キャラクター]</ref>
+|weapon(s) = [[Wikipedia:Lahti-Saloranta_M/26|Lahti-Saloranta M/26 LMG]]<ref name="WW"></ref><br>
+[[Wikipedia:Breda-SAFAT_machine_gun|12.7mm SAFAT Machine gun]]<ref name="WW"></ref>
+|familiar = [[Wikipedia:Mink|Mink]]<ref>[https://twitter.com/humikane/status/7823161980 Tweet by Shimada Humikane (Elma's familiar)] (in Japanese)</ref><ref name="WW"></ref>
+|seiyuu_(japanese)=[[Wikipedia:Aimi Tanaka|Tanaka Aimi]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Elma Leivonen''' (エルマ・レイヴォネン) is a witch of the [[507th Joint Fighter Wing]], originating from [[Suomus]].
+
+==Background==
+A Flying Officer from the Suomus Air Force, Elma was the previous squadron commander of the [[507th Joint Fighter Wing|Suomus Independent Volunteer Air Squadron]], but handed her position over to Tomoko after the fall of Slussen.
+
+Even though she lacks self-confidence and is therefore constantly apologising, there is no doubt about her natural aerial ability.
+
+She is on junior/senior terms with [[Eila Ilmatar Juutilainen]].
+
+==Personality==
+Elma is a timid and clumsy girl who is constantly falling over, but she tries her best to be supporting and positive.
+
+==Appearances==
+'''Light Novels'''
+*[[Strike Witches: Suomus Misfits Squadron]]
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!]]
+'''Manga'''
+*[[Strike Witches: The Sky That Connects Us]], cameo in Chapter 4
+*[[Strike Witches: Aurora no Majo]], cameo in chapter 6
+'''Audio Media'''
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!|Silent Witches: Suomus Misfits Squadron ReBOOT! Audio Drama CD]]
+
+==Trivia==
+
+* Her familiar is a [[Wikipedia:Mink|mink]].
+* Elma has no known archetype. [[Wikipedia:Noboru_Yamaguchi_(author)|Yamaguchi Noboru]], the author of the Suomus Misfits novels, said himself that Elma was not based on an existing archetype.<ref>[https://twitter.com/hexagonzero/status/163644189425401856 Tweet by Yamaguchi Noboru (Elma's archetype)] (in Japanese)</ref> She was speculated to be based on the third highest-scoring Finnish ace [[Wikipedia:Eino_Luukkanen|Eino Luukkanen]] before a witch named [[Eini Luukkanen]] was introduced in the Witches of Aurora manga.
+* According to [[Mika Ahonen]], Elma's callsign was "Skylark"(''Hibari'' /ひばり) prior to becoming a member of the Suomus Air Force Independent Volunteer Squadron.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+File:Elma Scan 2.jpg
+File:Elma Scan 1.jpg
+File:Elma.jpg
+File:Elma leivonen 1945.jpg
+File:Elma Leivonen Dakimakura.jpg
+File:Elma Underwear.jpg
+File:Ljl.jpg
+File:Araw.jpg
+File:Faaff.jpg
+File:Cover 2 limited edition.jpg|Misfits ReBOOT vol.2 limited edition cover
+File:Suomus Misfits Squadron ReBOOT! Cover 4.jpg|Misfits ReBOOT vol.4 cover
+File:Misfits ReBOOT Elma.jpg|Misfits ReBOOT vol.4 art
+File:Mifists 2018 promo Elma.jpg|Mifists ReBOOT promotional art
+File:Misfits Squadron LN reboot art 3.jpg|Misfits ReBOOT art
+File:Katharine Elma Haruka Ursula Misfits ReBOOT.png|Misfits ReBOOT art
+File:Misfits ReBOOT Tomoko Elma.jpg
+File:Misfits ReBOOT Elma Hakkinen.jpg
+File:Elma and Häkkinen.png|Elma, barely holding herself together, introduces herself to the rest of the Squadron in Misfits Reboot Volume 1.
+File:Leivonen.jpg
+File:Elma Leivonen.jpg|Elma's pre-reboot design
+File:Elma design.jpg|Elma early design
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Suomus Misfit Squad]]
+[[Category:Flying Officers]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Suomus]]

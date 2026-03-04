@@ -1,0 +1,121 @@
+{{Character_Infobox
+|title1=Katou Keiko
+|image1=Kato Keiko.jpg
+|caption1=Katou Keiko '37
+|kanji_name=加東圭子
+|romaji_name=
+|age=25 (in ''Kimi to Tsunagaru Sora'')
+|birth_date=31 October 1919
+|height=164 cm
+|blood_type=
+|nationality=Fuso
+|affiliation(s)=Fuso Imperial Army 1st Fighter Squadron<br>Fuso Imperial Army African Expeditionary Independent Air Squadron
+|team =[[31st Joint Fighter Squadron Africa]] 
+|rank=Pilot Officer (1937)<br>Flight Lieutenant (1942)<br>Squadron Leader (1944)
+|striker unit(s)=[[Wikipedia:Kawasaki_Ki-10|Kawataki Type 95 Ki-10]]<br>[[Wikipedia:Nakajima_Ki-27|Nagashima Flight Legs Type 97 Ki-27]]<br>[[Wikipedia:Ki-61|Kawataki Type 3 Ki-61 Model I kou]]
+|weapon(s)=[[Wikipedia:Type_38_rifle|Type 38 Rifle]]<br>[[Wikipedia:Type_97_20_mm_anti-tank_rifle|Type 97]]<br>Type 98<br>[[Wikipedia:Type_1_machine_gun|Type 1]]<br>[[Wikipedia:ZB_vz._26|ZB-26]]<br>[[Wikipedia:Beretta_M_1934|M1934]]
+|familiar=Ezo red fox
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Katou Keiko''' (加東圭子) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. During her period in the 1st Fighter Squadron, she received the nickname "Higashi" (ヒガシ), based on an alternative reading of the second character of her family name. Back then, [[Katou Takeko]] was part of the same team, so Keiko was called this to distinguish the two "Katou". When together with Takeko, the two are collectively called "Fujitou" (藤東). She is also commonly known as "Lightning of the Fuso Sea" (扶桑海の電光). While in Europe and Africa, she was called by the pet name of "Kei" (ケイ).
+
+==Background==
+Because her powers as a Witch manifested themselves since before the invasion of the [[Neuroi|Kaii]], Keiko volunteered for the army and matriculated into a military academy. Upon graduation, she was appointed as a Pilot Officer and assigned to the Army's 1st Fighter Squadron, under the command of [[Etou Toshiko|Wing Commander Etou Toshiko]].
+
+In this squad, in which exceedingly excellent Witches were sent to, she participated in the [[Fuso Sea Incident]] and displayed a performance that turned her into the top ace of the Fuso Army. Because of these services, she and her teammates Katou Takeko and [[Anabuki Tomoko]] were called the "Fuso Sea Triumvirate". It seems that, around that time, she interacted with the Navy's flying corps and became friends with the famous [[Sakamoto Mio]], who would later turn into one of the "Libau Triumvirate" and [[501st Joint Fighter Wing]]'s combat commander. She was also an acquaintance of [[Kuroe Ayaka]].
+
+An ace of the Fuso Sea Incident who shot down 23 [[Neuroi|units]], of which the first six were consecutive. This score makes her the top ace of that incident. The reason why she was not made the protagonist of the movie "Flash of the Fuso Sea", despite being the top ace, was because someone decided that her combat-style - which specializes in mid-range preemptive fire - would not look good on screen.
+
+At the victory ceremony after the Fuso Sea Incident, Keiko attempted dangerous [[Wikipedia:Aerobatics|aerobatics]], crashed and received a serious injury. It was to the point that her life was in danger for a moment, but she was saved thanks to the earnest treatment of the medical team and Witches. In this period, she wrote the book about the Fuso Sea Incident - titled "I came, I flew, I crashed" - which became a valuable book that described in detail the battle conditions of that time.
+
+Upon reaching her 20s while hospitalized, she realized that participating in battles from then on would be difficult and retired. Keiko became a war correspondent afterward and assertively collected data on many Witches around Europe, leaving behind many photos and articles. She would also collect data on [[Gundula Rall|Squadron Leader Rall]], who would become the commanding officer of the [[502nd Joint Fighter Wing]].
+
+However, an interview with (at the time) [[Hanna-Justina Marseille|Flying Officer Marseille]] would rekindle Keiko's desire to fly, leading her to apply to the Fuso Army for reinstatement. Although her intention was only to serve as flight instructor back in Fuso, the Army Command instead ordered her to await for assignment in North Africa - as it turns out, she was not only re-commissioned with the rank of captain, but also being assigned as the CO for the Fuso's African Expeditionary Force Independent Flight Squadron. Commonly known as the "Sand Corps", it is composed of a flight company (with just one witch ([[Inagaki Mami]]), two if including Keiko) and a maintenance company. A FUBAR on the orders and instructions given to Keiko forced her to improvise, thus she opted to camp out with the JG27 (only the JG27 operates an active airfield with established logistical train) at least for the time being to get organized. But as fate would have it, that indirectly resulted in Marseille "suggesting" the formation of a joint unit, thus the [[31st Joint Fighter Squadron Africa]] was born, with Keiko as the squadron's CO.
+
+In chapter 7 of [[Strike Witches: The Sky That Connects Us]], Kuroe Ayaka mentions that Keiko, like Anabuki Tomoko, is bad at keeping regular contact with her compatriots back in Fuso.
+
+As much as serving in the capacity of squadron CO and principal instructor for Mami, Keiko also continues her war correspondent job on the sides, reporting the activities of the 31st JFS Africa for the press; and her advantage of proximity to Marseille led Keiko became the ''de facto'' exclusive photographer for Marseille, whose celebrity status made her photographs well sought-after items.
+
+==Abilities==
+Keiko's inherent magic is called Super Eyesight (超視力, ''chou shiryoku''), which not only improves her dynamic vision but also allows her to look into the distance, much like [[Sakamoto Mio]]'s Magic Eye. With this ability, she is capable of shooting down even a flying bullet.
+
+Her magic power has degraded with her age, to the point that she can no longer raise a magic shield. However, she can still operate and fly with a [[Striker Unit]]. Thus, her roles during combat are airborne command and photo-reconnaissance.
+
+==Striker units==
+{{Striker unit template
+|name=Kawataki Type 3 Fighter Legs Model I Kou (unknown machine number)
+|image=Type 3 Model I Kou Katou SW1.jpg
+|description=This Type 3 was deployed to Africa. It was painted with a tropical camouflage, and modified locally with a Karlsland-made sand filter. It was equipped with a [[Wikipedia:Kawasaki_Ha-40|Ma-40]] engine, which was a license-produced version of Karlsland's [[Wikipedia:Daimler-Benz_DB_601|DB-601]]. It was later replaced by an actual DB-601 engine from a Bf109F-4/trop striker unit by the maintenance crew of the 31st JFS, giving Keiko's Ki-61 extra speed to keep up with Marseille <ref>Phoenix in the dunes light novel</ref>. In Fuso this engine swap is only a rumor and details are unknown.
+}}
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109G-2/Trop (unknown machine number)]]
+|image=Bf109G-2 trop 31st JFS test unit SW OVA2.jpg
+|description=There are many photographic records of the Africa team, and among them is a photograph of this mysterious unit. The front half of the fuselage is from a Ki-61 (Type 3) and the rear half from a Bf109G-2. Whether it was really used or not is unknown. From the markings, this unit is thought to be for Squadron Leader Katou Keiko, the commanding officer of the unit.
+}}
+
+==Equipment==
+Throughout her career, Keiko has employed a wide array of weaponry, which included a Type 38 rifle, a Type 97 anti-tank rifle, a Type 98 flexible-mounted machine-gun (which was license-produced from Karlsland's [[Wikipedia:MG_15|MG-15]]), a Type 1 machine-gun and an Ostmark-made ZB-26 light machine-gun. She also keeps a Beretta M1934 as a personal sidearm.
+
+==Trivia==
+*Actually, both her hair and eyes are black, but they kind of look like a light brown with a pale pigmentation. Her hair is quite soft and lost some of its colorings due to long exposure to the desert.
+*Her favorite camera is a [[Wikipedia:Leica_II|Leica II]]. Incidentally, this was originally Takeko's hobby and Keiko learned how to use a camera from her.
+*It is highly probable that she was the war correspondent who covered the daily operations of a [[Charlotte Lueder|Tiger unit]] and wrote the children book titled "Tigerfibel". The book explained the operations of the Tiger Striker Unit in terms that were easy to understand, eventually becoming a bestseller that helped perpetuate the Tiger's legend of invincibility.
+*Her archetype is likely Katou Shouji (1912-1941) from the Imperial Japanese Army Air Service.
+
+==Appearances==
+'''Doujinshi'''
+*[[Africa Doujinshi#Tiger in Desert 2|Tiger in Desert 2]]
+*[[Africa Doujinshi#Witches of the Sphinx 1|Witches of the Sphinx 1]]
+*[[Africa Doujinshi#Witches of the Sphinx 2|Witches of the Sphinx 2]]
+*[[Africa Doujinshi#Witches of the Sphinx 3|Witches of the Sphinx 3]]
+*[http://strikewitches.wikia.com/index.php?title=Special:NewFiles&image=x999-143_Major_Miles-jpg The Witch of Stuka.] (Extra Story included in The Witches of Africa Total Comic Collection)
+*[[Africa_Doujinshi#Katou_Keiko_North Africa_Military_Photos_1943|Katou Keiko North Africa Military Photos 1943 ]]
+*[[Africa_Doujinshi#Witches_of_the_Sphinx 4|Witches of the Sphinx 4]]
+*[[Africa Doujinshi#Witches of the Sphinx 5|Witches of the Sphinx 5]]
+'''Light Novels'''
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Der_Stern_von_Afrika|Der Stern von Afrika]]
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#The_Eagle_and_the_Moon_and_the_Sun|The Eagle and the Moon and the Sun]]
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Owl_Morn|Owl Morn]]
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Before_the_Storm|Before the Storm]]
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#A_Midnight_Dream_in_the_Desert|A Midnight Dream in the Desert]]
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Phoenix_in_the_Dunes|Phoenix in the Dunes]]
+*500overs in Africa
+*[[Strike Witches: The Witches of Africa - Kei's Report]]
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident]]
+*[[Strike Witches: The Sky That Connects Us]], (Chapters 2 and 3)
+*[[Strike Witches: Andorra no Majo]]
+'''Other'''
+*[https://gup.fandom.com/wiki/Girls_und_Panzer:_Ribbon_Warrior Girls und Panzer: Ribbon Warrior] (Cameo Appearance in Chapter 43, Page 22)
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Witches of the sphynx vol.3 Katou Keiko.jpg|Cover of Strike Witches: Witches of the Sphinx vol.3 with Katou Keiko
+Keiko 7.jpg
+Keiko 6.jpg
+Keiko Marseille Witches of Andorra art.jpg|The Witches of Andorra art
+The Witches of Africa Vol.2 Art.png
+1.jpg|Katou Keiko - North Africa Military Photos 1943 cover
+Keiko 1943 photo 2.jpg|keiko photographed by Marseille in 1943
+A Midnight Dream in the Desert 1 Keiko Marseille.jpg
+Katou Keiko - Nogami 2.jpg|Katou Keiko taking photos in Africa
+A Midnight Dream in the Desert 2 Keiko.jpg
+Before the Storm 3 Keiko Marseille.jpg
+Keiko and Marseille LN.png|keiko throwing her Leica and all dead weight to catch and save Marseille
+Marseille dead familliar & Keiko.png|Keiko and Marseille with Marseille's dead familiar
+Katou Keiko - Nogami 1.jpg|Katou Keiko during the 1937 Fuso sea incident
+Keiko 10.jpg
+File:Ribbon Warrior Cameos.png|Girls und Panzer: Ribbon Warrior Cameo with Marseille (Center) and Kitano (Right)
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Flight Lieutenants]]
+[[Category:Squadron Leaders]]
+[[Category:31st Joint Fighter Squadron Africa]]
+[[Category:Fuso]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]

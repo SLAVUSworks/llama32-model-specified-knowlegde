@@ -1,0 +1,49 @@
+{{stub}}
+{{Unit Infobox
+|title1=503<sup>rd</sup> Joint Fighter Wing
+|image1=image:503.png
+|caption1=503<sup>rd</sup> Insignia
+|name=連合軍第503統合戦闘航空団
+|romaji_name=Rengō-gun dai 503 Tōgō Sentō Kōkū-dan
+|nickname(s)=Typhoon Witches
+|affiliation(s)=[[File:Flag of Orussia.svg|border|23px|link=Orussia]] [[Orussia]]<br>[[File:Flag of Karlsland.svg|border|23px|link=karlsland]] [[Karlsland]]<br>[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] [[Ostmark]]<br>[[File:Flag of Gallia.svg|border|23px|link=Gallia]] [[Gallia]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]
+|branch=
+|HQ=Eastern General Headquarters
+|commanding_officer=Wing Commander [[Bronislava Safonov|Bronislava F. Safonov]]
+|area_of_operations=Urals
+|base=[[Wikipedia:Chelyabinsk|Chelyabinsk]], [[Orussia]]
+}}
+The '''503<sup>rd</sup> Joint Fighter Wing "Typhoon Witches"''' (第503統合戦闘航空団 「タイフーンウィッチーズ」) are based in [[Wikipedia:Chelyabinsk|Chelyabinsk]], [[Orussia]]. Their main objective is the defense and recovery of [[Orussia]] and [[Karlsland]].
+
+Their HQ, Chelyabinsk, has oil, coal pits, and other resources, and the city itself has a lot of heavy industry. After the increase of Neuroi attacks in recent years, most of Eurasia's factories (including weapon & ammo factories) were relocated here, and as a result the city has become an important industrial city in [https://en.wikipedia.org/wiki/Eurasia Eurasia].
+
+To the south of Chelyabinsk, [[Wikipedia:Magnitogorsk|Magnitogorsk]] has vast deposits of iron ore and a large steel industry, while in the west, [[Wikipedia:Ufa|Ufa]] has oil refineries. A defense line is currently in place to cover both cities. [[Wikipedia:Samara, Russia|Samara]], located along the east of the [https://en.wikipedia.org/wiki/Volga_River Volga], has become the frontline HQ for the 503<sup>rd</sup> Joint Fighter Wing.
+
+==Members==
+Commanding Officer
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Wing Commander [[Bronislava Safonov|Bronislava F. Safonov]]
+Deputy Commander
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Squadron Leader [[Huberta von Bonin]]
+Commanding Officer in battle
+* [[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] Flight Lieutenant [[Waltraud Nowotny]]
+Members
+* [[File:Flag of Orussia.svg|border|23px|link=Orussia]] Flight Lieutenant [[Galina Kostylev|Galina D. Kostylev]]
+* [[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] Flying Officer [[Alexandra Şerbănescu]]
+* [[File:Flag of Gallia.svg|border|23px|link=Gallia]] Flying Officer [[Rosalie de La Poype]]
+* [[File:Flag of Karlsland.svg|border|23px|link=karlsland]] Pilot Officer [[Ottilie Kittel]]
+* [[File:Flag of Fuso.svg|border|23px|link=Fuso]] Pilot Officer [[Kawaguchi Fumiyo]]
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small">
+503 Humikane 2.jpg|The 503rd
+503rd_JFW_Operation_Typhoon.jpg|503rd teaser image, 8 years before the 2020 reveal
+503rdhjwfheadquarters.png|The current location of the 503<sup>rd</sup> JFW's HQ which is in Chelyabinsk (red dot) and Samara (orange dot)
+Luminous Witch.Typhoon Witches EP12 1.jpg|Cameo in [[Luminous Witches]]
+Luminous Witch.Typhoon Witches EP12 2.jpg|Ditto
+</gallery>
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:503rd Joint Fighter Wing]]
+[[Category:Article stubs]]
+[[Category:Joint Fighter Wings]]

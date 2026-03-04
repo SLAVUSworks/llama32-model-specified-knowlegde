@@ -1,0 +1,107 @@
+{{Character Infobox
+|title1=Takami Karibuchi
+|image1=Takami_profile.jpg
+|caption1=
+|kanji_name=雁淵孝美
+|romaji_name=Karibuchi Takami
+|age=18 (end of 1944)
+|birth_date=22 October 
+|height=164 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy
+|team =[[508th Joint Fighter Wing]]
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Mitsubishi A6M Zero#A6M2b Type 0 Model 21|Miyabishi Heavy Industries Type 0 Model 21 A6M2b]]<br>[[Wikipedia:Kawanishi N1K|Yamanishi Shiden Model 11 N1K-J]]
+|weapon(s)=[[Wikipedia:Solothurn S-18/100|Solothurn S-18/100]]<br>[[Wikipedia:Type 99 cannon|Type 99-2 Model 2 Kai]]
+|familiar=[[Wikipedia:Red-crowned crane|Red-crowned crane]]
+|seiyuu_(japanese)=[[Wikipedia:Rie Suegara|Suegara Rie]]
+|seiyuu_(english)=[[Wikipedia:Amber Lee Connors|Amber Lee Connors]]
+|appearances=
+}}
+'''Karibuchi Takami''' is a Witch of the [[508th Joint Fighter Wing]], originating from [[Fuso]] and attached with the [[Fuso Imperial Navy]]. She has completely mastered the Shiden Model 11 and her personality has been judged as suitable for a JFW's senior.
+
+She is the older sister of [[Karibuchi Hikari]], the main protagonist of the [[Brave Witches|Brave Witches anime]].
+
+==Background==
+Takami was scouted by the [[502nd Joint Fighter Wing]] which was desperately in need of a witch with a magic eye. She was seriously injured on her way there while protecting the fleet from a Neuroi attack. Her magical power was completely exhausted. Her physical wounds were somewhat taken care of by [[Georgette Lemare|Jose]]'s emergency first-aids. In this situation, her life was hanging by a thread, but she held on.<ref>[https://twitter.com/humikane/status/808372311782879232 Humikane's tweet on Takami injury]</ref> She woke up from a coma 3 months later in Fuso thanks to [[Miyafuji Yoshika]]'s treatment. She then returned to the 502nd JFW for a time which managed to destroy the Grigori hive. She was promoted to Flight Lieutenant after her return to Fuso.
+
+As her focus was on the ground forces, Takami wasn't aboard a carrier often. Still, when the [[508th Joint Fighter Wing]] was established, she was elected by Squadron Leader Shindou as one of the original members. Navigation on the sea is something that is thoroughly driven into a Fuso Witch, even those on the ground forces, and because the skill to easily handle takeoffs and landings aboard carriers is something demanded from everyone, the fact Takami was from the ground forces didn't became much of a problem.
+
+Thanks to her time in Libau and her interactions and experience working alongside conventional and railway artillery by the normal forces she supported, she has some familiarity in the function and operation of artillery guns.
+
+Takami has been acquaintances with [[Shindou Mie|Squadron Leader Shindou]] since their time in Libau, who fully understands her skills and personality.
+
+==Personality==
+Despite her immature features, Takami has a cheerful personality to always keep smiling no matter what kind of predicament she meets. She can speak to anyone intimately, without paying mind to rankings. Someone who immediately strives for a solution upon discovering a problem, she possesses a great ability to always have the harmony of the squad in mind.
+
+In the air, her spirit to fight bravely is full of vim and vigor. Rushing at the enemy ahead of anyone else, Takami is the owner of an exceptional capacity to shoot down the enemy with precise piloting skills.
+
+==Abilities==
+Takami can use a type of magic in her eyes, allowing her to detect Neuroi cores. It should be noted that the implementation and functional parameters of Takami's magical eyes are vastly different from that of magical eyes of witches like Mio. While Takami can use her eyes to locate a [[Neuroi]]'s core, the way in which it does so is done differently than how witches like Mio locate cores, and is similar in style to thermal radiation infrared detection. The way her magical eyes are visually portrayed correspond to that of infrared thermography, while her sister's correspond to X-ray radiography.<ref>[https://twitter.com/humikane/status/812474941371138048 Humikane's tweet on Takami's magic eye]</ref>
+
+In addition to her standard use of her particular type of magic eyes, she possesses an additional ability she called the "'''Absolute Eye'''"(魔眼, ''Zettai Magan''). She uses a massive quantity of magic energy, if not all of her magic power to speed up her perception of her surroundings, observation ability, analytical capability and increases the speed of her perceptive analysis to destroy a large number of Neuroi simultaneously. Her hair and eyes' colors change to red when the full extent of her ability is unleashed. This ability, for what it is, is quite a potent magical ability that if used right can have the potential for Takami to turn the tide of battle and regain the upper hand when facing difficult odds and multiple enemy units. Also, unlike her sister's magical eye ability, "Contact Eye", Takami's magic doesn't require physical contact with her target to reveal and locate a Neuroi's core, or at least its general location.
+
+However, the drawback of this ability would be making herself vulnerable to enemy attacks, as it seems her power may allow her to speed up her observational perception and target acquisition, however it doesn't affect her reaction time. In addition, while her magical ability fully unleashed can allow her to target, attack and destroy multiple Neuroi units; if the enemies ranks are too high she could face problems in terms of attrition and endurance against enemies in excessive numbers. So while not as risky in use to the extent as Hikari's magical eye ability; Takami's ability is still not without substantial risk in its full, unleashed use. Aside from leaving her potentially open to attacks from the enemy when using her power, since it seems that to use "Absolute Eyes" she has to remain stationary to get a proper analysis and target acquisition of the enemy, use of the ability also seems to use a lot of magical energy and drain Takami's stamina due to the magical requirements needed to use this ability. Another drawback is that unless Takami takes considerable time to study an enemy Neuroi's core to pinpoint the core's exact location; the accuracy of her detection can deteriorate, and even if taken time to pinpoint a core's general location, the core's exact location coordinates are not necessarily pinpoint and this seems to be further compounded if she is rushed in her attempts to find a Neuroi's core. What's more, she can experience difficulty detecting, tracking and pinpointing exact locations of certain "trick cores" like Neuroi who have "a core inside a core" unless she uses "Absolute Eye", which would allow her to circumvent the difficulties normally associated in trick cores and a core in a core.
+
+The final major risk of using "Absolute Eye" is that unleashing the magic technique of Takami's magic eyes also dangerously weaken her shield and thus undermine her defensive protection, a fact that would be risky in the heat of battle. It is said that utilizing this technique alone without support would be nothing short of suicide.
+
+==Equipment==
+Her Shiden Model 11 "Chidori" is a prototype modified to be operated from carriers, which was later perfected in the mass production type used by [[Kanno Naoe|Kanno]] and [[Shimohara Sadako|Shimohara]].<ref>[https://twitter.com/humikane/status/812473249896353792 Humikane's tweet on Chidori 1]</ref> After Takami was injured, Chidori was used by Hikari in the 502nd JFW.
+
+After her recovery, Takami received a mass-production Shiden Kai. The double white line is painted the same way as on Chidori, but there is a number painted inside the nationality mark. The exterior of the fuselage of the mass production type and Chidori are almost identical.<ref>[https://twitter.com/humikane/status/812473986965590016 Humikane's tweet on Chidori 2]</ref> 
+
+Takami uses a Solothurn S-18/100 20&nbsp;mm Anti-Tank rifle. It had a semi-automatic action in a bullpup configuration. As a result of using large and powerful ammunition, the gun had a drawback of tremendous recoil, and the size made it difficult to carry. The gun used 20×105mm ammunition which it shared with the S-18-350 aircraft cannon that was developed from the rifle.
+However while the size and recoil would be of considerable concern for a conventional soldier, witches like Air infantry witches in the air infantry sniper role like Takami are better able to handle the Solothurn. As for Takami herself, she is an exceptional sniper with her Solothurn, being able to fire her Solothurn and destroy typical Neuroi air units while on the move decently, and her skill and combat experience with the weapon even allowed her to destroy a multitude of small Neuroi air units alongside Kanno Naoe while performing impressive, tandem aerobatic combat maneuvers and taking advantage of the Solothurn's semi-automatic action.
+
+==Appearances==
+'''Anime'''
+* [[Brave Witches]]
+* [[World Witches: Hasshin Shimasu!!]]
+'''Manga'''
+* [[Brave Witches: Dai 502 Butai Hasshin shimasu!]]
+* [[Brave Witches: 502nd Joint Fighter Wing]]
+* [[Brave Witches Prequel: The Vast Land of Orussia]], cameo in chapter 6
+'''Video Games'''
+* [[Strike Witches: Kiseki no Rondo]], in a group card
+* [[World Witches United Front]]
+
+==Trivia==
+*She is based on Oshibuchi Takashi (鴛淵孝).
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+File:TakamiScan1.jpg
+File:TakamiScan2.jpg
+File:1141592803 o.jpg
+File:Brave-Witches-Character-Visual-Takami-Karibuchi-001-20160805.jpg
+File:Takami Karibuchi info.png
+File:Takami Hikari eye catch.jpg
+File:A41d3653.jpg
+File:502 2.jpg
+File:Brave Witches.jpg
+File:502nd Anime TV Poster.jpg
+File:Brave Witches Ending Theme Collection.jpg|Cover of Brave Witches ED Theme Collection - LITTLE WING ～Spirit of LINDBERG～
+File:Hikari Takami Brave Witches BD Box cover.jpg|Brave Witches BD Box cover
+File:Takami2.jpg
+File:BW Himeuta 1.jpg|Cover of Brave Witches Himeuta Collection Volume 1
+File:Taka.jpg
+File:Takami Hikari Kanno by Humikane.png
+File:Tamaki and Hikari sample sea.jpg
+File:Takami Yoshika Michiko at Yokosuka port by Humikane.png|This is an image of the farewell scene when Miyafuji returns from Maizuru to Yokosuka and Takami returns temporarily to Sasebo (from the drama CD "Takami Karibuchi, Fuso Diary, Maizuru & Sasebo"). Yoshika brought Michan with her because Takami is now a famous witch who played in a movie (after she recovered). It's winter during the drama, so Michan is wearing a coat because she is not a witch.<ref>[https://twitter.com/humikane/status/842310450700152833 Humikane's tweet on the Takami's drama CD related art]</ref>
+File:Takami Chibi.jpg
+File:Brave Witches cover 1 Hikari Takami.jpeg|[[Brave Witches: 502nd Joint Fighter Wing|Brave Witches]] volume 1 cover
+File:Brave Witches art 1 Hikari Takami.jpg|Brave Witches volume 1 art
+File:78aa9ace17af4f4d8791190aabcf508c47dc9206.png
+File:123aaa.jpg
+File:Takami eyes blue.jpg
+File:Takami Red.jpg
+File:Takami magic eye vision.jpg|Takami's magic eye vision
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Fuso]]
+[[Category:502nd Joint Fighter Wing]]

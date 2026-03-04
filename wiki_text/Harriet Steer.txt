@@ -1,0 +1,54 @@
+{{Character_Infobox
+|title1=Harriet Steer
+|image1=Harriet.jpg
+|caption1=
+|kanji_name=ハリエット・スティーア
+|romaji_name=
+|age=16
+|birth_date=7 February
+|height=161 cm
+|blood_type=
+|nationality=Britannian
+|affiliation(s)=Britannian Air Force 19th Squadron
+|team = 
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Supermarine_Spitfire_(early_Merlin-powered_variants)#Mk_V_(Types_331,_349_and_352)|Ultramarine Spitfire Mk.V]]
+|weapon(s)=[[Wikipedia:Bren light machine gun|Bren Mk. 1 Light Machine Gun]]
+|familiar=[[Wikipedia:Whippet|Whippet]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Harriet Steer''' (ハリエット・スティーア) is a witch originating from [[Britannia]].
+
+==Background==
+Harriet was accidentally bumped into by [[Erica Hartmann]] during her and [[Gertrud Barkhorn]]'s
+first visit to the port town near the [[501st Joint Fighter Wing|501st]] Britannian Base, during their resupply mission.
+
+She and Erica are both on a resupply mission during the time they met.
+They helped a girl named Mary, who was separated from her sister while looking for her cat.
+They managed to bring Mary back to the refugee slums, the area she was living in.
+
+==Personality==
+Her brightness and kindness that she can share with anyone in difficult situations may have had a positive effect on Erica, who was worried about being a witch.
+
+==Appearances==
+'''Manga'''
+* [[Strike Witches: Erica Hartmann 1941]]
+
+==Trivia==
+*Harriet is most likely based on [https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom Harry Steer DFM].
+**He had 11 credited victories and was a [https://en.wikipedia.org/wiki/Distinguished_Flying_Medal Distinguished Flying Medal (DFM)] recipient. Unfortunately, Harry died and was announced as "Killed in Action (KIA)" on the 8th of June 1944.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Harriet-1.jpg
+Harriet-2.jpg
+Harriet Steer character design.jpg
+Gertrude, Harriet & Wiktoria.jpg
+Harriet_Steer_3.png
+Harriet Steer manga profile.png
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Britannia]]

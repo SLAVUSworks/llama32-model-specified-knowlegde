@@ -1,0 +1,32 @@
+{{Infobox
+|Box title = On a Holy Night
+|image = File:Brave_Witches_episode_7_eyecatch.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Seinaru Yoru ni
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 07
+|Row 4 title = Airdate:
+|Row 4 info = November 23, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 6, "Good Luck"|Good Luck]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 8, "Grape Juice for Your Eyes"|Grape Juice for Your Eyes]]
+}}
+
+December has now arrived. With the Neva river being almost completely frozen over, [[Nikka Edvardine Katajainen|Nipa]] and [[Kanno Naoe|Kanno]] decided to have a sleigh ride with [[Karibuchi Hikari|Hikari]]. However, Hikari ultimately becomes ill due to [[Orussia]]’s cold weather, but it is also likely due to her low levels of magical energy, as pointed out by [[Edytha Rossmann|Rossmann]]. Meanwhile, the [[502nd Joint Fighter Wing|502nd]] base gets a supply shortage, to the disappointment of Nipa who wanted to hold the Saturnus festival for Hikari. Undeterred, Nipa decided to go on with the preparations for the festival using the remaining supplies. Everything was going well until everyone mistakenly ate laughing mushrooms just before a [[Neuroi]] attack, due to [[Waltrud Krupinski|Krupinski]] initially claiming they'd be "delicious". Leaving Nipa as the only healthy witch capable to sortie, she set out to confront the Neuroi. After a few bursts, Nipa's MG42 got jammed, but [[Eila Ilmatar Juutilainen|Eila]] and [[Sanya V. Litvyak|Sanya]] of the [[501st Joint Fighter Wing|501st]] come to her aid, bringing with them the supplies for the 502nd as well. Later that night, Saturnus was celebrated happily by the 502nd.
+
+It should be noted that the events of [[Brave Witches: Petersburg Grand Strategy|episode 13]] takes place, chronologically, after the events of this episode, and before the events of [[Brave Witches Episode 8, "Grape Juice for Your Eyes"|episode 8]].
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 6, "Good Luck"|06: "Good Luck"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 8, "Grape Juice for Your Eyes"|08: "Grape Juice for Your Eyes"]] >>
+|}
+
+[[Category:Brave Witches]]

@@ -1,0 +1,53 @@
+{{Character_Infobox
+|title1=Kawaguchi Fumiyo
+|image1=Kawaguchi_Fumiyo.jpg
+|caption1=
+|kanji_name=川口文代
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 11th Fighter Squadron (during Fuso Sea Incident)<br>Fuso Imperial army 204th Fighter Squadron
+|team = [[503rd Joint Fighter Wing]]
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Hayabusa]]
+|weapon(s)=[[Wikipedia:Nambu pistol|Type 14]] pistol sword<br>[[Wikipedia:Ho-103 machine gun|Ho-103]]
+|familiar=[[Wikipedia:Cat|Domestic cat]]<ref>[https://twitter.com/humikane/status/1256943147243827212 Humikane tweet on the familiars of the 503rd members]</ref>
+|seiyuu_(japanese)=[[Wikipedia:Lynn_(voice_actress)|Lynn]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Kawaguchi Fumiyo''' (川口文代) is a Witch of the [[503rd Joint Fighter Wing]], originating from [[Fuso]] and attached with the [[Fuso Imperial Army]]. She makes hunting large-type [[Neuroi]] her forte, to the point of becoming known as "Big-shot Eater" (大物食い, ''oomonokui''). She became a member of the 503rd Joint Fighter Wing at the same time that those military gains were being recognized.
+
+==Background==
+Fumiyo volunteered to the military and was attached to the 11th Fighter Squadron around the time of the Fuso Sea Incident. However, because the conflict was almost over by then, she wasn't able to achieve much military gains. Afterwards, she was transferred to the 204th Fighter Squadron and was promoted to Warrant Officer during drill practice. She was then persuaded by a superior to receive officer training and matriculated into a training academy.
+
+After being appointed a Pilot Officer, she returned to her home unit and participated in many operations on account of a European support mission at the [[Wikipedia:Ural_Mountains|Ural district]]. Upon sortieing to intercept a large-type Neuroi that performed a night raid, she commenced her attacks in a powerless Ki-43. After finally running out of bullets, she cast aside attacks with a machine gun and closed in upon the enemy, crushing 2 Neuroi with a Fuso sword.
+
+==Appearances==
+'''Anime'''
+* [[Luminous Witches]]
+
+==Trivia==
+*Fumiyo is based on [http://www24049u.sakura.ne.jp/db/山口文一 Yamaguchi Fumikazu (山口文一)].
+*Fumiyo uses a pistol sword derived from the Nambu Type 14. In reality, the Japanese did actually make a very small quantity of pistol sword prototypes out of the Type 14 and the earlier "Baby Nambu" in the 1920s. The pistols were all fitted with a ''guntou'' blade built into the pistol's right-side grip, which thus did not mechanically affect their ability to be a pistol.
+*Fumiyo's specific model differs from the real world prototypes. The real Type 14 prototypes featured a shorter barrel and relocated front sight, while Fumiyo's instead retains the Type 14's standard barrel/sight but features a major redesign of the pistol grip, resulting in it (and thus the blade) being nearly vertical. This would make the weapon much more user-friendly as a sword, and may point to the concept having seen continued development within the ''Witches'' universe, resulting in this more practical (for witches) design, similar to the fictional modifications/iterations of the Type 99, MG 42, M1919A6, and other witch-version weapons.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+503 Humikane 2.jpg|503rd Joint Fighter Wing
+Luminous Witch.Alexandra and Fumiyo EP7.jpg
+Luminous Witch.Fumiyo EP7.jpg
+Luminous Witch.Half of Typhoon witches EP7.jpg
+Luminous Witch.Typhoon Witches EP12 1.jpg
+Luminous Witch.Typhoon Witches EP12 2.jpg
+</gallery>
+
+==References==
+<references/>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:503rd Joint Fighter Wing]]
+[[Category:Fuso]]

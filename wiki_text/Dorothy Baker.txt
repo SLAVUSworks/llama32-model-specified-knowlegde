@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Dorothy Baker
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ドロシー・ベイカー
+|romaji_name=
+|age=?
+|birth_date= 27 August
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Marine Corps
+|team = [[508th Joint Fighter Wing]]
+|rank=Flying Officer
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)= 
+|seyuu_(english)= 
+|appearances=
+}}
+'''Dorothy Baker''' (ドロシー・ベイカー) is a Witch of the [[508th Joint Fighter Wing]], originating from [[Liberion]].
+
+==Background==
+She was on aircraft carrier [[Wikipedia:USS_Enterprise_(CV-6)|Enterprise]]. She was selected to be an additional member of the [[508th Joint Fighter Wing|508th JFW]] when Enterprise was dispatched. She was injured at the time.
+
+==Trivia==
+*Her ace archetype is [https://en.wikipedia.org/wiki/Douglas_Baker_(aviator) Douglas Baker].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:508th Joint Fighter Wing]]
+[[Category:Characters with no art]]
+[[Category:Liberion]]

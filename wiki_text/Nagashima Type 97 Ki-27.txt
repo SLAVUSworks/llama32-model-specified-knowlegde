@@ -1,0 +1,20 @@
+{{Striker Unit Infobox
+|title1=Type 97 Ki-27
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Nakajima Aircraft Company|Nagashima Flight Legs]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+The Nagashima Ki-27 was an all-metal, monoplane striker unit designed by the Nagashima Aircraft Company. Having seen the success of the navy's [[Miyabishi Type 96 A5M Carrier-based Figther Legs|Miyabishi A5M]], the army required Miyabishi, Nagashima, and Kawataki to create a new striker design employing the [[Miyafuji Ichiro|Miyafuji]] Theory. Miyabishi created the Ki-33, a redesign of the A5M, and Kawataki offered the Ki-28, but the army chose the Nagashima Ki-27. The Ki-27 incorporated a large number of new innovations. In order to give it both exceptional speed and high combat effectiveness, it was designed to be both as aerodynamic as possible and also to be exceptionally light. The resulting unit had greater acceleration and climbing ability than the A5M, despite having the same engine. And even with all the weight-saving measures, the Ki-27 was still a durable unit with an exceedingly reliable engine. It could be flown out on multiple deployments in a single day with no risk of engine trouble. It is said that during the [[Fuso Sea Incident]], Navy Witches stationed at the joint base would often express their jealousy of the army's Ki-27.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Nakajima Ki-27|Nakajima Type 97 Ki-27]] fighter.
+[[Category:Striker Unit]]

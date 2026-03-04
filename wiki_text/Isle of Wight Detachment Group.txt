@@ -1,0 +1,35 @@
+{{Stub}}
+{{Unit Infobox
+|title1=Isle of Wight Detachment Group
+|image1=Isle of Wight.png
+|caption1=Isle of Wight Detachment Group Insignia
+|name=ブリタニア連邦領ワイト島方面防衛隊 ／ ワイト島分遣隊
+|romaji_name=Buritania renpō-ryō waito shimahōmen bōei-tai / Waito shima bunken-tai
+|nickname(s)=
+|affiliation(s)=[[File:Flag of Britannia.svg|border|23px|link=Britannia]] [[Britannia]]<br>[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] [[Ostmark]]<br>[[File:Flag of Gallia.svg|border|23px|link=Gallia]] [[Gallia]]<br>[[File:Flag of Liberion.svg|border|23px|link=Liberion]] [[Liberion]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]
+|branch=
+|HQ=
+|commanding_officer=Flying Officer [[Kadomaru Misa]]
+|area_of_operations=[[Britannia]]
+|base=
+}}
+A squadron based on the Isle of Wight in the English Channel. They seem to be in relation with the [[501st Joint Fighter Wing]].
+
+Originally there was no air force base in the Isle of Wight, so their unit's patch is just a modified version of the army base emblem that was there before them. 
+
+The castle in the patch is [https://en.wikipedia.org/wiki/Carisbrooke_Castle the Carisbrooke castle].
+
+==Members==
+Commanding Officer
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Flying Officer [[Kadomaru Misa]]
+Members
+*[[File:Flag of Britannia.svg|border|23px|link=Britannia]] Sergeant [[Wilma Bishop]]
+*[[File:Flag of Gallia.svg|border|23px|link=Gallia]] Sergeant [[Amelie Planchard]]
+*[[File:Flag of Liberion.svg|border|23px|link=Liberion]] Pilot Officer [[Francie Gerard]]
+*[[File:Flag of Ostmark.svg|border|23px|link=Ostmark]] Pilot Officer [[Laura Toth]]
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:Isle of Wight Detachment Group]]
+[[Category:Article stubs]]
+[[Category:Joint Fighter Squadrons]]

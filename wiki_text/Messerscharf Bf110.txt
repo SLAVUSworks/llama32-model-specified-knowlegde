@@ -1,0 +1,38 @@
+__NOTOC__
+{{Striker Unit Infobox
+|title1=Bf110
+|image1=Bf110G-2 0.jpg
+|caption1=
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications=[[wikipedia:Messerschmitt Bf 110#Variants|Type G-2]]
+|magic_engine=[[wikipedia:Daimler-Benz DB 605|DB605B]] [[File:Deismus.png|23px]]
+|power=1475 Mp (take off)
+|length=123.0 cm
+|weight=Classified
+|maximum_speed=595 km/h (22970 ft, average air witch)
+|weapons=[[Wikipedia:MG 151 cannon|MG151]]<br>[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:MG 81 machine gun|MG81Z]]
+}}
+==History==
+In 1934, [[Karlsland]] Air Force requested the development of a heavy, high-speed, long-range unit. Messarscharf built the Bf110 in response to this request. The prototype flew for the first time in 1936, demonstrating a maximum speed that surpassed the [[Messerscharf Bf109|Bf109]] by 40 km/h. Mass production was ordered in 1937. However, the delivery of DB600 engines installed in the prototype was delayed, and it was replaced with the Juma210 in the initial production type. As a result, its speed and performance were reduced, and the production was limited to very small numbers.
+
+In the end, the actual deployment of the Bf110 was delayed until the end of 1938, when the improved DB601 engine was completed. With this new engine type, the airframe demonstrated even higher speed performance than expected. This version was immediately put into mass production and was deployed. However, although it was capable of long-distance flight at high speed, it was pointed out by the combat witch corps that its acceleration and dogfighting performance were inferior due to the heavy weight of the fuselage and the large amount of fuel it carried. Therefore, it was quickly removed from usual daytime combat, and used in forced reconnaissance, night-time combat, and as a fighter-bomber.
+
+It was favored by many night witches due to its high reliability and ease of use, and many witches continued to use it even after the introduction of new night combat units. Although it was gradually replaced in ground-attack missions after the birth of the [[Flakwolf Fw190||Fw190]], it was still useful for high-speed reconnaissance and remained active until the end of the war. In addition, since its successor, the Bf210, was a complete failure, the Bf110 continued to be improved and a long-range type, a type with enhanced engines, and the type G were also mass-produced.
+
+==Known variants==
+*'''C-1'''
+*'''E'''
+*'''G-2'''
+*'''G-4'''
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Messerschmitt Bf 110|Messerschmitt Bf 110]] heavy fighter and fighter bomber.
+*The magic engine is based on the [[wikipedia:Daimler-Benz DB 605|DB 605]] inverted V12 supercharged engine.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+Bf110G-2 1.jpg|Strike Witches Movie Heidemarie's Bf110G-2
+Bf110G-2 2.jpg|Strike Witches Movie Bf110G-2 data
+</gallery>
+[[Category:Striker Unit]]

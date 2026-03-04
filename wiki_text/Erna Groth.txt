@@ -1,0 +1,35 @@
+{{Character_Infobox
+|title1=Erna Groth
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=エルナ・グロート
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 76th Heavy Fighter Wing 2nd Squadron (Commending Officer) ([[Wikipedia:Zerstörergeschwader 76|II./ZG76]])
+|team =
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Messerschmitt Bf 110|Messerscharf Bf110C]] (No. M8+AC)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Erna Groth''' (エルナ・グロート) is a witch originating from [[Karlsland]] and affiliated with the Karlsland Air Force.
+
+==Equipment==
+Her Bf110C has a shark's mouth<ref>[https://upload.wikimedia.org/wikipedia/commons/4/46/Bundesarchiv_Bild_101I-382-0211-011%2C_Flugzeug_Messerschmitt_Me_110.jpg ZG 76 Bf110 shark's mouth nose art]</ref>  painted on it, which is the mark of her squadron. This mark is equally renowned as the one of the 1st Heavy Fighter Wing. The paint color is slightly darker, and the red and white markings stand out.The Liberion Volunteer Group imitated this shark's mouth mark in its paint job, but details are unknown.
+
+==Trivia==
+*Her ace archetype is [https://www.tracesofwar.com/persons/47189/Groth-Erich.htm Erich Groth].
+
+==References==
+Strike Witches Movie A Complete Record of 501st Joint Fighter Wing.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

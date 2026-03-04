@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Emilia Demuth
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 1st Fighter Wing 3rd Squadron (commander)
+([[Wikipedia:Jagdgeschwader_1_(World_War_II)|III./JG1]])
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Heinkel_He_162|Heinzel He162A-2]] (No. 120074)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Emilia Demuth''' is a Witch attached with the [[Karlsland|Karlsland Air Force]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Heinzel He162|Heinzel He162A-2 (No. 120097)]]
+|image=He162A-2 Demuth SW OVA1.jpg
+|description=The 1st Fighter Wing, which had been pulled from the front lines to Neue Karlsland, was trained to convert to a new unit and became the first combat squadron using the He162. This unit has victory markings painted on it, recorded by Flying Officer Demuth at the time she was using the Fw190.
+}}
+
+==Trivia==
+*Her ace archetype is Emil Demuth.
+
+==References==
+Strike Witches A complete record of 1st Independent Special Operations Wing
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Karlsland]]

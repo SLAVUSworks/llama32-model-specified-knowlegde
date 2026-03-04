@@ -1,0 +1,142 @@
+__NOTOC__
+Below is list of all known [[Striker Unit|Striker Units]]. For a list of Striker Units articles, see [https://worldwitches.fandom.com/wiki/Category:Striker_Unit Category:Striker Unit].
+
+
+== [[Fuso]] ==
+
+=== Miyabishi Heavy Industries ===
+*7-shi Experimental Carrier-based Fighter Legs (1MF10)
+*Ki-33
+*[[Miyabishi Type 96 A5M Carrier-based Figther Legs|Type 96 Carrier-based Fighter Legs (A5M)]]
+*[[Miyabishi Type 0 A6M Carrier-based Fighter Legs|Type 0 Carrier-based Fighter Legs (A6M)]]
+
+=== Nagashima Flight Legs ===
+*Type 90 Carrier-based Fighter Legs (A2N)
+*[[Nagashima Type 95 A4N Carrier-based Fighter Legs|Type 95 Carrier-based Fighter Legs (A4N)]]
+*[[Nagashima Type 97 Ki-27|Type 97 (Ki-27)]]
+*[[Nagashima Type 1 Ki-43 Hayabusa|Type 1 Hayabusa (Ki-43)]]
+*[[Nagashima Type 2 Ki-44 Shoki|Type 2 Shoki (Ki-44)]]
+*Type 4 Hayate (Ki-84)
+
+=== Yamanishi Aircraft ===
+*[[Yamanishi Shiden|Shiden (N1K)]]
+
+=== Tsukushi Aircraft ===
+*[[Tsukushi Shinden|Shinden (J7W)]]
+
+=== Kawataki Aircraft Industries ===
+*[[Kawataki Type 95 Ki-10|Type 95 (Ki-10)]]
+*Ki-28
+*Ki-45 Toryu
+*Ki-60 Shisei
+*Type 3 Hien (Ki-61)
+*Type 5 (Ki-100)
+
+=== Yokosuka ===
+*Type 93 (K5Y)
+
+== [[Karlsland]] ==
+
+=== Messerscharf ===
+*[[Messerscharf Bf109|Bf109]]
+*[[Messerscharf Bf110|Bf110]]
+*[[Messerscharf Me262|Me262]]
+
+=== Flakwolf ===
+*[[Flakwolf Fw190|Fw190]]
+
+=== Heinzel ===
+*He49
+*He51
+*He112
+*He100
+*He178
+*He280
+*[[Heinzel He162|He162]]
+
+=== Jungfrau ===
+*Ju87
+*Ju88
+
+
+== [[Liberion]] ==
+
+=== North Liberion ===
+*[[North Liberion Aviation P-51|P-51]] 
+*[[North Liberion Aviation AT-6 Texan/Harvard|AT-6 Texan/Harvard]]
+
+=== Grummar ===
+*F4F Wildcat
+*F6F
+*F7F
+
+=== Beerster ===
+*F2A Buffalo
+
+=== Curtin ===
+*P-36
+*P-40
+
+=== Republican ===
+*P-47
+
+=== Bella ===
+*P-39
+
+== [[Britannia]] ==
+
+=== Ultramarine ===
+*[[Ultramarine Spitfire|Spitfire]]
+*Seafire
+
+=== Hawk ===
+*Hurricane
+
+=== de Havillander ===
+*Mosquito
+
+
+== [[Romagna]] ==
+
+=== Farotto ===
+*G50
+*[[Farotto G55|G55]]
+
+=== Reggione ===
+*Re.2001
+
+=== Aeronautica Macchinette ===
+*MC.200
+*MC.202
+*MC.205
+
+
+== [[Orussia]] ==
+
+=== Mir-Gosudarstvo Design Bureau ===
+*[[Mir Gosudartsvo Design Bureau MiG60|MiG60]]
+*[[Mir Gosudartsvo Design Bureau i-225|i-225 (i-220 series)]]
+
+=== Lavrov Design Bureau ===
+*La-5
+
+=== Yakovenko Design Bureau ===
+*Yak-9
+
+
+== [[Gallia]] ==
+
+=== Armurier de l'Aéronautique ===
+*[[Armurier de l'Aéronautique VG.39|VG.33]]
+*[[Armurier de l'Aéronautique VG.39|VG.39]]
+
+=== Doboain ===
+*D.500 series
+*D.520
+
+
+== [[Dacia]] ==
+
+=== IAD ===
+*80
+[[Category:Striker Unit]]

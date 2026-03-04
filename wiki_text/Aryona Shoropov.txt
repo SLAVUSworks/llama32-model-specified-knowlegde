@@ -1,0 +1,43 @@
+{{stub}}
+{{Character_Infobox
+|title1=Aryona V. Shoropov
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Army Moscow Air Defense 6th Fighter Corps
+|team =
+|rank=?
+|striker unit(s)=Mir-Gosudarstvo MiG60 Late Model (black No. 7)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Aryona V. Shoropov''' (А. V. Шлопов) is a witch originating from [[Orussia]].
+
+==Background==
+Aryona is assigned to the defense of Moscow. Details of the witch are unknown because the documents are scattered/lost.
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau MiG60|Mir Gosudartsvo Design Bureau MiG60 late model (black No. 7)]]
+|image=
+|description=This is a late model improved in the Ural area. It is painted white with an arrow and the characteristic words "For the emperor!".
+}}
+
+==Trivia==
+*Her ace archetype is A. V. Shropov.
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 4.
+
+[[Category:Strike Witch]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Hildegard Altner
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ヒルデガルト・アルトナー
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 11st Night Fighter Wing 10th Flying Corps ([[Wikipedia:Nachtjagdgeschwader_11|10./NJG11]])
+|team =
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262B-la/U1 ]] (No. 111980)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Hildegard Altner''' is a night Witch attached with the [[Karlsland|Karlsland Air Force]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262V1 (No. PC+UA)]]
+|image=Me262B-1a U11 Altner SW OVA1.jpg
+|description=One of the units that were hurriedly converted into night fighters due to the repeated requests from some night witches for a nighttime jet striker. Some were deployed to the 11th Night Fighter Wing and used in air defense missions in Britannia.
+}}
+
+==References==
+Strike Witches A complete record of 1st Independent Special Operations Wing
+[[Category:Strike Witch]]
+[[Category:Night Witch]]
+[[Category:Pilot Officers]]
+[[Category:Karlsland]]

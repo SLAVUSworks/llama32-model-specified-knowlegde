@@ -1,0 +1,40 @@
+{{stub}}
+{{Character_Infobox
+|title1=Elfriede Schreiber
+|image1=Elfriede.jpg
+|caption1=
+|kanji_name=エルフリーデ・シュライバー
+|romaji_name=
+|age=16
+|birth_date=11 November
+|height=159cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 26th Heavy Fighter Wing ([[Wikipedia:Zerstörergeschwader_26|ZG26]])<br>Karlsland Air Force 131st Experimental Squadron "Halb" 3rd Flying Corps (III./Ekdo131)
+|team =
+|rank=Pilot Officer (1944)
+|striker unit(s)=[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262A-1a]]
+|weapon(s)=[https://en.wikipedia.org/wiki/MK_108_cannon MK 108]
+|familiar=Black Cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Elfriede Schreiber''' (エルフリーデ・シュライバー) is a witch originating from [[Karlsland]].
+
+==Appearances==
+'''Manga'''
+*[[World Witches: Contrail of Witches]], Chapter 1, 2, and 2.5
+
+==Trivia==
+*Elfriede is based on [https://en.wikipedia.org/wiki/Alfred_Schreiber Alfred Schreiber], noted for claiming the first aerial victory by a jet fighter in aviation history.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Elfriede-art.jpg
+Elfriede scan.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Karlsland]]
+[[Category:Article stubs]]

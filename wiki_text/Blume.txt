@@ -1,0 +1,36 @@
+{{Character Infobox
+|title1=W. Blume
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Arodo Aircraft Manufacturing
+|team =
+|rank=?
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''W. Blume''' is a witch originating from [[Karlsland]].
+
+==Background==
+Blume is an ace from the first [[Neuroi]] war.
+
+She studied aeronautics after her retirement and joined [[Wikipedia:Arado Flugzeugwerke|Arodo Aircraft Manufacturing]] as a technician. After taking over from Dr. Retel, who had transferred to the Bavarian Sky Factory, she continued designing the training aircraft [[Wikipedia:Arado Ar 66|Ar66]] and flew safely for the first time in 32 years. Due to its good results, it was decided to adopt it in large numbers as a basic training aircraft for the Karlsland Air Force.
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Walter Blume (aircraft designer)|Walter Blume]], a WW1 German ace that became a designer after the war.
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

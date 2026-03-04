@@ -1,0 +1,57 @@
+{{Character_Infobox
+|title1=Häkkinen
+|image1=Major Hakkinen.png
+|caption1=
+|kanji_name=ハッキネン
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=Suomus
+|affiliation(s)=Suomus Independent Volunteer Aerial Squadron
+|team = [[507th Joint Fighter Wing]]
+|rank=Flight Lieutenant/Captain (1937-1939?)<br>Major (1939-1945?)
+|striker unit(s)=
+|weapon(s)=Suomi KP/-31
+|familiar=
+|seiyuu_(japanese)=[[Wikipedia:Sayaka Kitahara|Kitahara Sayaka]]
+|seiyuu_(english)=
+|appearances=
+}}
+An officer of the Suomus military who serves as the Base Commander and Aerospace Control Officer of the [[507th Joint Fighter Wing|507th JFW]]. Her radio call sign is "Snow Woman", though it is said she goes by other names as well.
+
+==Background==
+Häkkinen is viewed as an intelligent looking individual by those she meets, projecting the image of someone who is always referred to by others as a competent woman. She wears standard female military attire (proper upper-garments and a skirt) and regularly wears glasses.
+
+She often speaks and carries herself with a cool, unflappable personality, regardless of the situation or circumstances she is faced with. Her typical manner of speech is simple, cold, and at times even firm. She maintains an exceptional level of personal professionalism in her position and in the command of her subordinates. It's due to this image and often spending communicating from the perceived comfort of her command center that [[Elma Leivonen]] at one point held the impression that Häkkinen is haughty, although the truth of the matter is that Häkkinen doesn't leave the stoves on (despite Elma's initial,unfounded suspicions otherwise), and thus doesn't relax while her subordinates are out in their field; indicating that she is a principled commander who holds herself to as much adverse conditions her subordinates face.
+
+She is noted to frequently instruct, prompt and assist Elma in her duties as Squadron Commander and coaxing information from the witches when they first meet, all done with stunning patience, though such patience was tested when [[ Katharine O'Hare]] gave her infamous manner greeting by shooting live bullets into a blackboard on the wall of the base briefing room. And some time after the 507th grew closer comrades after defeating the Diomedia [[Neuroi]]; Hakkinen's normal calm cracked into exasperation when the girls were delaying with their Sortie to intercept Neuroi due to interpersonal hijinks between the girls.
+
+While her role on the Base and to the girls is essential, it's noted that she herself is not a witch; though she generally holds all witches in high regard and respect while she does her best to support them.
+
+==Appearances==
+'''Light Novels'''
+*[[Strike Witches: Suomus Misfits Squadron]]
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!]]
+'''Manga'''
+*[[Strike Witches: Aurora no Majo]], cameo in chapter 8
+'''Audio Media'''
+*[[Silent Witches: Suomus Misfits Squadron ReBOOT!|Silent Witches: Suomus Misfits Squadron ReBOOT! Audio Drama CD]]
+
+==Trivia==
+*Some official art by Fumikane Shimada shows Häkkinen cosplaying as a witch while holding a Suomi KP/-31.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Hakkinen.jpg|Häkkinen Cosplaying as a Witch. The weapon she is holding is a Suomi KP/-31
+Häkkinen Witch Cosplay.jpg
+Ljl.jpg
+Cover 2 limited edition.jpg
+Misfits ReBOOT Elma Hakkinen.jpg
+File:Elma and Häkkinen.png|Häkkinen's appearance in Misfits Reboot Volume 1
+</gallery>
+[[Category:Other Characters]]
+[[Category:507th Joint Fighter Wing]]
+[[Category:Suomus Misfit Squad]]
+[[Category:Suomus]]

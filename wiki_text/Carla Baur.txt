@@ -1,0 +1,37 @@
+{{Character_Infobox
+|title1=Carla Baur
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Messerscharf test witch
+|team =
+|rank=
+|striker unit(s)=[[Wikipedia:Messerschmitt Me 262|Messerscharf Me262HG1]] (No. V9)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Carla Baur''' is a Witch from [[Karlsland]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262HG1 (No. V9)]]
+|image=Me262HG1 Baur SW2.jpg
+|description=This unit is a remodeled version of the Me262 9th prototype. It features increased wing sweep, reduced air resistance and increased high-speed performance. It was also planned to install the new HeS011A engine that was under development. But a malfunction of the same engine was discovered during the tests conducted by Flight Lieutenant [[Gertrud Barkhorn|Barkhorn]], and thus the HG2 and HG3 tests were performed with the Juma004C.
+}}
+
+==Trivia==
+*She is based on [[Wikipedia:Karl_Baur|Karl Baur]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Karlsland]]

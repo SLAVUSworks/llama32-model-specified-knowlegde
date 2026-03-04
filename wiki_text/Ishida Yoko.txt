@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Ishida Yoko
+|image1=Ishida Yoko.png
+|caption1=
+|kanji_name=石田燿子
+|romaji_name=
+|age=19
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=
+|team=
+|rank=Flight Lieutenant
+|striker unit(s)=
+|weapon(s)=?
+|familiar=[[Wikipedia:Tabby cat|Tiger cat]]
+|seiyuu_(japanese)=[[Wikipedia:Yoko Ishida|Ishida Yoko]]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Ishida Yoko''' (石田燿子) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Navy]].
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]], episode 8.
+
+==Trivia==
+She is both based off of and voiced by [[Wikipedia:Yoko Ishida|Ishida Yoko]], who is the singer for many world witches series anime openings. This makes her the first witch to be based on and voiced by the same person and the first witch to be based on someone from current history. Her design comes from the box art of Ishida's 25th anniversary album from 2018.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Ishida Yoko profile.jpg
+Yoko_ConceptArt.png
+Yoko_Screencap_0.png
+Yoko_Screencap_1.png
+Yoko_Screencap_3.png
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Fuso]]

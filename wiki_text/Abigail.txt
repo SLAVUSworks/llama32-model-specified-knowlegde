@@ -1,0 +1,36 @@
+{{stub}}
+{{Character_Infobox
+|title1=Abigail
+|image1=Abigail.jpg
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=Liberian
+|affiliation(s)=Liberion Army
+|team = Patton Girls
+|rank=?
+|striker unit(s)=[[Wikipedia:M4_Sherman|M4 Sherman]]
+|weapon(s)=Witch Combat Gun
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Abigail''' is a Liberian Tank Witch and a member of the [[Patton Girls]].
+
+==Appearances==
+'''Doujinshi'''
+*[[Africa Doujinshi#Tiger in Desert 1|Tiger in Desert 1]]
+*[[Africa Doujinshi#Tiger in Desert 2|Tiger in Desert 2]]
+*[[Africa Doujinshi#Witches of the Sphinx 1|Witches of the Sphinx 1]]
+*[[Africa Doujinshi#Witches of the Sphinx 2|Witches of the Sphinx 2]]
+*[[Africa_Doujinshi#Witches_of_the_Sphinx 4|Witches of the Sphinx 4]]
+'''Manga'''
+*[[Strike Witches: Andorra no Majo]]
+[[Category:Article stubs]]
+[[Category:Tank Witch]]
+[[Category:Liberion]]

@@ -1,0 +1,50 @@
+{{Character_Infobox
+|title1=Nakajima Hayate
+|image1=Hayate_5.jpg
+|caption1=
+|kanji_name=中島疾風
+|romaji_name=
+|age=?
+|birth_date=21 March
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army Flight Evaluation Bureau-affiliated Fussa Academy
+|team = [[504th Joint Fighter Wing]] (retconned)
+|rank=Flight Student<br>Sergeant
+|striker unit(s)= [[Wikipedia:Nakajima_Ki-84|Nagashima Flight Legs Type 4 Hayate]]
+|weapon(s)=?
+|familiar=Cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Nakajima Hayate''' (中島疾風) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. She is the younger sister of [[Nakajima Nishiki]] and [[Nakajima Kodaka]]. Her familiar first made its debut in [[Strike Witches: Sōkū no Otome-tachi]], with its appearance being that of a cat but further details on breed are currently unknown.
+
+==Background==
+Hayate is rumored to be a girl genius with high potential. But, conversely, this becomes pressure and causes her to avoid flying.
+
+During the events of [[Strike Witches: Maidens in the Sky]], starting with Chapter 7, Hayate is transferred to the [[504th Joint Fighter Wing]] along with [[Suwa Goshiki]]. However, Goshiki and Hayate stow away on board a vessel bound for the [[501st Joint Fighter Wing]] in order to visit [[Miyafuji Yoshika]] first. They are briefly detained by members of the 501st while visiting Yoshika before being picked up by [[Takei Junko]] and taken to their new assignment in [[Romagna]]. It should be noted that these series of events are no longer considered canon, due to the retconning of [[Strike Witches: Maidens in the Sky]].
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Sōkū no Otome-tachi]]
+*[[Strike Witches: Maidens in the Sky]] (retconned)
+*[[Strike Witches: The Sky That Connects Us]] (cameo in chapter 7)
+
+==Trivia==
+*Hayate does not have an ace archetype. Rather she is named after the [[Wikipedia:Nakajima_Ki-84|Nakajima Ki-84 Hayate]].
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Najajima_Hayate.jpg|Hayate early design
+Hayate 2.jpg
+Hayate & Goshiki.jpg
+Hayate, Miyafuji & Goshiki.jpg
+Yoshika, Junko, Goshiki, Hayate Maiden in the sky.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Sergeants]]
+[[Category:504th Joint Fighter Wing]]
+[[Category:Fuso]]
+[[Category:Article stubs]]

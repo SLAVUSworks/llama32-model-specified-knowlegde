@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Gina Baevskaya
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=11 July
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Air Force 5th Fighter Regiment
+|team =
+|rank=Flying officer
+|striker unit(s)=Mir-Gosudarstvo I-225 (White No. 36)
+|weapon(s)=?
+|familiar=Tiger-striped cat
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Gina Baevskaya''' is a witch originating from [[Orussia]].
+
+==Personality==
+She is pretty timid.
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau i-225|Mir Gosudartsvo Design Bureau MiG i-225 (white No. 36)]]
+|image=MiG i-225 baevskaya SW2.jpg
+|description=Flying Officer Baevskaya's personal emblem is a tiger attacking a Neuroi, however her familiar is not a tiger, but a striped cat. Moreover, he was quite ill.
+}}
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Georgy_Baevsky|Georgy Baevsky]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

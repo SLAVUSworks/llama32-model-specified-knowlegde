@@ -1,0 +1,93 @@
+__NOTOC__
+{{Striker Unit Infobox
+|title1=Type 0 Carrier-based Fighter Legs
+|image1=Type Zero 0.jpg
+|caption1=
+
+<!-- Tabs -->
+|tab1=A6M2
+|tab2=A6M2-K
+|tab3=A6M3a
+
+<!-- Tab1 -->
+|country=[[Fuso|Fuso Empire]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]]
+|manufacturer=[[Wikipedia:Mitsubishi_Heavy_Industries|Miyabishi Heavy Industries]]
+|specifications=[[wikipedia:Mitsubishi_A6M_Zero#A6M2b_Type_0_Model_21|Model 21 A6M2]]
+|magic_engine=[[Wikipedia:Nakajima_Sakae|Sakae (Ma) Model 12]]
+|power=940 Mp
+|length=90.6 cm
+|weight=Classified
+|maximum_speed=288 knots (3000 m, average air witch)
+|weapons=[[Wikipedia:Type_99_cannon|Type 99-1 Model 2 13 mm machine gun]]<br>others
+
+
+<!-- Tab2 -->
+|country2=[[Fuso|Fuso Empire]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]]
+|manufacturer2=[[Wikipedia:Mitsubishi_Heavy_Industries|Miyabishi Heavy Industries]]
+|specifications2=[[wikipedia:Mitsubishi_A6M_Zero#A6M2b_Type_0_Model_21|Model 11 trainer A6M2-K]]
+|magic_engine2=[[Wikipedia:Nakajima_Sakae|Sakae (Ma) Model 12]]
+|power2=940 Mp
+|length2=90.6 cm
+|weight2=Classified
+|maximum_speed2=257 knots (3000 m, average air witch)
+|weapons2=[[Wikipedia:Type_99_cannon|Type 99-2 Model 2 Kai 13 mm machine gun]]<br>others
+
+<!-- Tab3 -->
+|country3=[[Fuso|Fuso Empire]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]]
+|manufacturer3=[[Wikipedia:Mitsubishi_Heavy_Industries|Miyabishi Heavy Industries]]
+|specifications3=[[wikipedia:Mitsubishi_A6M#A6M3_Type_0_Model_22|Model 22 Kou A6M3a]]
+|magic_engine3=[[Wikipedia:Nakajima_Sakae|Sakae (Ma) Model 21]]
+|power3=1010 Mp
+|length3=90.6 cm
+|weight3=Classified
+|maximum_speed3=292 knots (3000 m, average air witch)
+|weapons3=[[Wikipedia:Type_99_cannon|Type 99-2 Model 2 Kai 13 mm machine gun]]<br>others
+}}
+==History==
+The main striker unit of the [[Fuso]] Imperial Navy. This striker is favored by many witches because it is easy to handle even for witches with weak magic capabilities. Because it puts less strain on the body, it has a long sustained operating time, but due to a large portion of the user's magic power being diverted to flying power, its defensive capabilities are low. This weakness became increasingly apparent in European battles where having a decent operating range was not necessary. It is extremely maneuverable. When used by veterans, the unit would demonstrate extreme agility and achieve great results, but the lack of defensive power was fatal to new recruits. Working on a proper successor to this unit became all the more urgent as a result.
+
+After the Fuso Navy encountered the new, tougher flier-type Neuroi during the [[Fuso Sea Incident]], it was apparent that a faster, more powerful striker unit was necessary. Thus Specification 12-shi for a new striker unit design was issued to both Nagashima and Miyabishi. However, the spec requirements were much higher than anything considered possible by current techniques. Deeming them impossible to meet, Nagashima dropped out of the design competition. Given that Professor [[Miyafuji Ichiro|Miyafuji]] was away in Europe at the time, Miyabishi also considered withdrawing, but they were able to persuade the Professor to work on the design in Europe. Miyahishi immediately sent technicians to Britannia to assist him. The Professor worked with aeronautics researchers from all over Europe to develop a working theory in which magic power created extra usable space inside the unit. Thanks to this theory, leaving space inside the unit for a Witch's legs was no longer a concern, which made it possible to design larger engines and greater-capacity fuel tanks. The end design had far greater power and a much longer cruising distance, giving the Professor hope that the 12-shi specs were, indeed, within reach.
+
+The 12-Shi Experimental Carrier-based Fighter Legs prototype introduced in European fronts such as the Suomus defense achieved satisfactory results, and it was officially adopted as the Model 11. The main armament was the Type 99 Model 1 20 mm machine gun, but it was gradually revised with newer equipment. Based on the Model 11, the Model 21 was remodeled to be able to be operated from aircraft carriers, and was the first truly mass-produced variant. A folding mechanism was added to the frame to store them in aircraft carriers, and the fuselage was strengthened. It was the main equipment against Neuroi at the beginning of hostilities. 
+
+However, the air-cooled magic engine took a long time to start, and as the Neuroi gradually became stronger, its power output become insufficient. Therefore, the installation of new magic engines was desired. On the front lines, where parts were in short supply, units equipped with magic engines obtained from Britannia and Liberion were tested. Although their mobility was slightly reduced due to the increased weight, their speed and climb rate were improved. The results were sent to Fuso with a reminder of how urgent the improvements were on the front lines. Supplies of Sakae (Ma) Model 21, a revision with an improved power output which was in examination at the time, were sent to Europe. Although this magic engine was still prone to many failures, the performance was clearly improved. Moreover, the combination of the new launcher unit and the preparation of a skilled mechanic greatly reduced the time needed to start it. In order to improve the efficiency of supply in Europe, the use of common parts from various European countries and Liberion's air-cooled magic engines was considered. Thanks to this, the schedule of the Sakae (Ma) Model 21 mass-production was advanced, and the mass production of variants with the new magic engine began. Based on track records of the Model 21 utilization in Europe, the Model 32 was developed with reduced range and increased attack power, defense power, and mobility, and was followed by the carrier-based Model 22. Some Model 21 were also remodeled on the field and equipped with the new Sakae (Ma) Model 21, becoming equivalent to the Model 22 specifications.
+
+Nevertheless, the Neuroi gradually became stronger, and as foreign countries introduced new units that demonstrated levels of 2000 Mp to the front lines, this unit became outdated. Even in the Fuso Imperial Navy, it was being replaced by the new [[Yamanishi Shiden|Shiden]]. However, the Zero was easy to operate, so it remained in service in rear reserve units for liaison and for training purposes. Therefore, the Type 0 Practice Fighter Legs Model 11 was created. It was based on the Type 0 Carrier Fighter Legs Model 21, which was one of the earliest Type 0 and was equipped with an old type of magic engine. Its folding mechanism was removed and part of the structure was simplified. Numerous units were newly built, but many units were Model 21s that were remodeled, and some training corps even used Model 21s as is. These airframes were mainly used in Fuso, but they were also attracting attention from other countries as training units, and some of the exported units were even used as actual combat units rather than training units. In addition, surplus of old Sakae (Ma) Type 12 engines were often put to other uses.
+
+Even if it became outdated, other models had trouble following the Zero during dogfights due to its superior maneuverability, and many frontline units requested the Zero to be enhanced. As a result, some updated models were produced, with better armor at the expanse of a shorter range for Europe. Examples include the Model 52 without the folding mechanism, the Model 53 with the more powerful Sakae 31 magic engine, and the Model 54 with the Kinsei 62 engine capable of 1350 Mp. The Model 22 Training Fighter Legs, which was based on the Model 52, was also built for training closer to actual combat.
+
+However, these models with thicker armor lacked the original model's maneuvrability. The Model 54 with Kinsei engine was said to get its maneuvrability back, but even if it was slightly strengthened, it still had the structural weakness associated with the light-weight design of the Type 0. Therefore, a speed limit to not exceed during a steep dive was established due to the insufficient strength of the unit. This limit made the units incompatible with the main "hit and run" tactics used in Europe, and the Type 0 was once again removed from the front lines.
+
+Due to supply shortages in Europe, some local frontline modifications were made to fit Zero with Liberian R-1830 engine. However, even with this heavier engine it did not differ much in terms of power and was not any better than the original model.
+
+==Known variants==
+*'''12 Shi''': Prototype with Zuisei 13 engine and 2-blade magic propeller on the first airframe, later replaced with Sakae 12 engine and 3-blade propeller. 40 built, sent to Europe before the official adoption of the Type 0.
+*'''Model 11'''
+*'''Model 21''': First truly mass-produced variant, it introduced the folding mechanism.
+*'''Model 32''': Built for Europe with reduced range but increased attack power, defense power, and mobility.
+*'''Model 22''': Improved carrier version of the Model 32.
+*'''Model 22 Kou''': Armor added.
+*'''Model 52''': Folding mechanism removed.
+*'''Model 53''': Sakae 31 magic engine.
+*'''Model 54''': Kinsei 62 magic engine.
+*'''Model 11 training type''': Used later in the war for training when the Type 0 became obsolete. Numerous were newly built, but many units where converted from old Model 21s.
+*'''Model 21 training type'''
+*'''Model 22 training type''': Based on the Model 52 and closer to actual combat units specifications.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Mitsubishi_A6M|Mitsubishi A6M Zero]] fighter.
+*The magic engine are respectively based on the [[Wikipedia:Nakajima_Sakae|Nakajima Sakae]] and [[Wikipedia:Mitsubishi Kinsei|Mitsubishi Kinsei]] Mitsubishi Kinsei 14-cylender twin-row supercharged radial engines.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton="true">
+Type Zero 5.jpg|Brave Witches Hikari's Model 11 training
+Type Zero 6.jpg|Brave Witches Model 11 training data
+Type Zero 7.jpg|Brave Witches Sadako's Model 21
+Type Zero 8.jpg|Brave Witches Model 21 data
+Type Zero 1.jpg|Strike Witches Yoshika's V-139 Model 22
+Type Zero 2.jpg|Strike Witches Mio's V-128 Model 22 and data
+Type Zero 3.jpg|Strike Witches 2 Yoshika's V-128 Model 22
+Type Zero 4.jpg|Strike Witches 2 Model 22 data
+A6m3 Schematics STRIKES cover.jpg|STRIKES Model 22 schematics 
+</gallery>
+[[Category:Striker Unit]]

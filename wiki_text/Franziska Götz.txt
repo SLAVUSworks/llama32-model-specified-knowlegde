@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Franziska Götz
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=28 January
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 26th Fighter Wing (Commander) ([[Wikipedia:Jagdgeschwader_26|JG26]])
+|team =
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Focke-Wulf_Fw_190#Fw_190D|Flak-Wulf Fw190D-13/R11]] (No. 836017)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Franziska Götz''' (フランツィスカ・ゴッツ<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is a Witch from [[Karlsland]] and attached to the Karlsland Air Force.
+
+==Background==
+The commander of the [[Wikipedia:Jagdgeschwader_26|Jagdgeschwader 26 (JG26)]], she is adored by her subordinates and affectionately called "Mother" (お母さん, ''okaasan'') by them. Having enlisted as a Witch since before the war, she was originally assigned to the [[Wikipedia:Jagdgeschwader_53|Jagdgeschwader 53 (JG53)]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Flakwolf Fw190|FlakWolf Fw190D-13/R11 (No. 836017)]]
+|image=Fw190D-13R11 Götz SW2.jpg
+|description=The unit of Squadron Leader Gotz. The markings of her previous squadron remains on this unit.
+}}
+
+==Trivia==
+*She is based on [[Wikipedia:Franz_Götz_(pilot)|Franz Götz]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Characters with no art]]
+[[Category:Karlsland]]

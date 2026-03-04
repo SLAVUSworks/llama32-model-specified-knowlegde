@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Morioka Hiroshi 
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=森岡寛
+|romaji_name=
+|age=?
+|birth_date=8 March
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Navy 302nd Air Corps
+|team = 
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:Kyushu_J7W|Tsukushi Aircrafts Shinden Model 11]] (ヨD106)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Morioka Hiroshi''' (森岡寛) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Navy]].
+
+==Background==
+Flight Lieutenant Morioka was enlisted as a dive-bombing witch after completing the officer training, and was so talented that she was employed as an instructor despite her young age. She was transferred to the air combat witches and joined the 302nd Air Group. She became a particularly young Flight Commanding Officer of the  [[Fuso Imperial Navy|Navy]] Air Corps.
+
+==Striker units==
+{{Striker unit template
+|name=[[Tsukushi Shinden|Tsukushi Shinden Model 11 (No. ヨD106)]]
+|image=Shinden Model 11 Morioka SW2.jpg
+|description=Morioka switched models at the same time as the Shinden was deployed.
+}}
+
+==Trivia==
+Her ace archetype is Morioka Hiroshi (森岡寛).
+
+==References==
+Strike Witches II A complete record of 501st joint fighter wing 6.
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:Fuso]]
+[[Category:Characters with no art]]

@@ -1,0 +1,97 @@
+{{Character_Infobox
+|title1=Adolfine Galland
+|image1=image:Adolfine Galland.jpg
+|caption1=
+|kanji_name=アドルフィーネ・ガランド
+|romaji_name=
+|age=23 (late 1944)
+|birth_date=19 March
+|height=170 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 27th Fighter Wing (Commander) ([[Wikipedia:Jagdgeschwader_27|JG27]])<br>Karlsland Air Force Inspector General of the Witch Corps<br>Karlsland Air Force 44th Fighter Group (Commander) ([[Wikipedia:Jagdverband_44|JV44]])
+|team = 
+|rank=Wing Commander<br>Group Captain (1941)<br>Air Commodore<br>Air Vice-Marshal (1945)<br>Air Marshal
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#Bf_109E|Messerscharf Bf109E]]<br>[[Wikipedia:Messerschmitt_Bf_109_variants#F-0,_F-1,_F-2|Messerscharf Bf109F-2 Special]] (No. W.Nr5750)<br>[[Wikipedia:Messerschmitt_Me_262|Messerscharf Me262-1a]] (white #3)<br>
+[[Wikipedia:Supermarine_Spitfire_(early_Merlin-powered_variants)#Mk_V_(Types_331,_349_and_352)|Ultramarine Spitfire Mk.V]]
+|weapon(s)=[[Wikipedia:MG42|MG42]]<br>[[Wikipedia:Bren_light_machine_gun|Bren light machine gun]]
+|familiar= Gray wildcat?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Adolfine Galland''' is a Witch from [[Karlsland]] attached with the [[Karlsland|Karlsland Air Force]]. She is currently the highest ranking Witch in the world, holding the rank of [[:Category:Air Marshals|Air Marshal]].
+
+She receives a deep trust from the Karlsland Emperor Frederick IV and has gained the permission to freely organize units for the sake of the recapture of Karlsland. Due to that position, Adolfine has a great influence not only in the Karlsland Air Force, but also in the Allied Air Force that employs Witch units. Using this authority, she smoothly implemented the reformation of the [[501st Joint Fighter Wing]] in [[Romagna]].
+
+Her familiar appears to be something of the cat-lineage, but its origins are unknown.
+
+==Background==
+Born in [[Wikipedia:Herten|Westerholt]], located at the northwest of Karlsland, interposed between the [[Wikipedia:Rhine|Rhine]] and [[Wikipedia:Weser|Weser]] rivers.
+
+When the conflict in [[Hispania]] that preceded the full-scale invasion of the Neuroi erupted, Adolfine participated in as a member of the [[Wikipedia:Condor_Legion|Condor Legion]] sent from Karlsland. But differently from what she hoped, she was round up exclusively for the ground attack. During that time, she accumulated real combat experience and framed detailed reports not only on battle techniques, but also regarding logistics such as supplying and maintenance.
+
+Afterwards, she was sent to the [[Fuso Sea Incident]] as an observing officer, but ended up participating in the combat herself upon witnessing the fight between the flying-type Neuroi and the new model [[Striker Unit]]. This made her admiration for the flying Witches grow stronger.
+
+After returning to her country, Adolfine put out an application for being transferred to the Air Forces. However having achieved countless military results in the ground attack ended up backfiring on her. Not only was her request denied, but she was instead put in charge of the crew training and organization structuring for the establishment of a ground support unit.
+
+Not giving up, she repeatedly proposed a transference to the combat troops, which eventually bore fruit with her transfer to the [[Wikipedia:Jagdgeschwader_26|Jagdgeschwader 26 (JG26)]]. After her promotion to Squadron Leader, she was appointed as commander of the JG26 fighter-wing.
+
+Later on, Adolfine was promoted to Air Vice-Marshal and established the [[Wikipedia:Jagdverband_44|Jagdverband 44 (JV44)]], a test unit of Jet Strikers under her direct command newly organized by Adolfine's personal request to the Emperor for the European recapture operations. Even after leaving the front lines, she still adheres to a hands-on approach, doing things like performing test flights herself or sortieing regardless of the fact that she was already unable to deploy her magic shield. The Emperor has forbidden her from sortieing, but because there are also incidents like the above-mentioned, it appears that her actual shot-down count is greater than what was announced publicly. At any rate, she will continue to repel the Neuroi and achieve many military results in the Karlsland recapture operations.
+
+==Personality ==
+Adolfine is also famous for the behavior of saying whatever she wants, like at the occasion when, back at the time that she was an active-duty Witch in the Karlsland evacuation war, she turned to an Air Chief Marshall and declared that she wanted a ([[Britannia]]n-made) [[Wikipedia:Supermarine_Spitfire|Spitfire]] Striker Unit, a wish that was apparently granted at a later date.
+
+When the top brass once asked her if there was anything she wanted, the name of [[Lynette Bishop]] from the 501st JFW came out.
+
+==Abilities==
+Adolfine's inherent magic is a Magic Eye (魔眼, ''magan'') much like that of [[Sakamoto Mio]]. However, she must employ the [https://web.archive.org/web/20171116045806/http://www.snipercountry.com/Articles/HistoricSniperScopes_GwZF4fach.asp GwZF4 sniper rifle scope] that she carries on her neck in order to activate it. By "peering into" the scope and restricting her field of vision, it assists in her mental concentration and raises her accuracy. Since magic effects are considerably influenced by one's mental condition, cases such as this are by no means something unusual.
+
+A superior Witch that boasts a shot-down count of 103 [[Neuroi|units]]. But more than that, Adolfine is a capable commander that can easily handle weapons development and production, the organization and management of bases and Witches teams, and the coordination between each nations' headquarters. Also, her understanding of new technologies is deep.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109E]]
+|image=
+|description=In the Fuso Sea Incident, she employed an early-production model of the Bf109E equipped with a new [[Wikipedia:Daimler-Benz_DB_601|DB-601 engine]].
+}}
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109F-2 Special (W.Nr5750)]]
+|image=Bf109F-2 Galland SW1.jpg
+|description=The personal unit of Wing Commander Galland. All sorts of modifications were performed. Her personal emblem is an illustration of "Magic Cat" which was popular at the time. The cat is wearing a flight suit and is shooting a mouse.
+}}
+{{Striker unit template
+|name=[[Messerscharf Me262|Messerscharf Me262A-1a (white No. 3)]]
+|image=Me262A-1a Galland SW2.jpg
+|description=Her magic cat personal mark is painted on the fuselage. It's a version with holes in the ears. 
+}}
+
+==Appearances==
+'''Anime''' 
+*Her name was briefly mentioned at the end of [[Season 02 Episode 02, "The Legendary Witches"|the second episode of the second season.]]
+
+'''Light Novels''' 
+*[[Strike Witches 2 (light novel)|Strike Witches 2]], Volume 1 Chapter 2, Adolfine talked with Minna about the reestablishment of the 501st JFW.
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident]], chapters 3 and 4
+*[[Strike witches: Chii Size]]
+*[[World Witches: Contrail of Witches]], chapter 10
+
+==Trivia==
+*She is based on WWII Luftwaffe ace [[Wikipedia:Adolf_Galland|Adolf Galland]], who flew both ground attack and fighter aircraft in the Spanish Civil War and Second World War, scoring 104 victories. In March 1945, Galland returned to operational flying and was permitted to form a jet fighter unit which he called Jagdverband 44. He flew missions over Germany until the end of the war in May. (The existence of Jagdverband 44 and her promotion to Lieutenant General is hinted at in the World Witches - Contrail of Witches Manga chapter 10, although at what time this happens is not known).
+*Adolfine's wish for a Spitfire Striker Unit is undoubtedly based on an incident in the Battle of Britain, when Adolf Galland was asked by the Chief of the Luftwaffe, Hermann Göring, what he wanted to improve his Gruppe's performance. Galland stated that he wanted a Staffel of Spitfires. Galland later stated that he didn't actually want Spitfires, but simply wanted to anger Göring, who Galland disliked due to his derogatory comments about Luftwaffe aircrew and fervent Nazism, both things that Galland strongly disagreed with.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Adolfine Scan 1.jpg
+Adolfine Scan 2.jpg
+Scannen0010.jpg
+Galland.jpg
+Contrail of Witches art 3 Adolfine.jpeg|Contrail of Witches art
+Adolfine 1937.jpg|Adolfine in Fuso in 1937
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Air Commodores]]
+[[Category:Air Vice-Marshals]]
+[[Category:Air Marshals]]
+[[Category:Karlsland]]

@@ -1,0 +1,47 @@
+{{Character_Infobox
+|title1=Grizel J. Murphy
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Britannia Air Force 887th Squadron (Indefatigable carrier)
+|team =
+|rank=Pilot officer
+|striker unit(s)=[[Wikipedia:Supermarine_Seafire|Ultramarine Seafire MkIII]] (S-112)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Grizel J. Murphy''' is a witch originating from [[Britannia]].
+
+==Background==
+She is affiliated with the 887th Squadron, the witch unit operating from the Royal Navy's [[Wikipedia:HMS_Indefatigable_(R10)|Indefatigable]] aircraft carrier, which was cooperating with the [[Fuso]] Imperial Navy.
+
+She teamed up with Fuso's witches and shot down two [[Neuroi]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Ultramarine Spitfire|Ultramarine Seafire MkIII (No. S-112)]]
+|image=Seafire MkIII Murphy SW2.jpg
+|description=
+}}
+
+
+
+
+==Trivia==
+*She is based on GJ Murphy.
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Britannia]]
+[[Category:Characters with no art]]

@@ -1,0 +1,42 @@
+{{Character Infobox
+|title1=Jane S. Thach
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=ジェーン・S・サッチ
+|romaji_name=
+|age=?
+|birth_date= 19 April
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Navy
+|team = [[508th Joint Fighter Wing]]
+|rank=Wing Commander
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Jane S. Thach''' (ェーン・S・サッチ) is a Witch of the [[508th Joint Fighter Wing]], originating from [[Liberion]].
+
+==Background==
+Jane worked as a test pilot, flight teacher and even staff officer. Her successive jobs as the commander of the aircraft carrier flying corps, the commander of the training company, staff officer, etc., required an ability to make accurate plans and high commanding abilities. The male commanders trusted her completely. As a teacher she raised many navy witches who were sent to all over the world, like [[Katharine O'Hare|O'Hare]] who was sent to [[Suomus]]. She was very popular among her subordinates.
+
+She made the initial proposal of creating [[508th Joint Fighter Wing|508th JFW]], and she declined a promotion to Group Captain to work as the commander in it. At the time of the joint operations with the [[Fuso]] Navy, she naturally tested the warship boarded Miyabishi Zero striker units. She was surprised by the close combat abilities of the Zero, but it had poor control at high speeds and it performed badly in high altitudes. She proposed that Fuso would also use the F6F, because the Zero would not work together in a group with F6F.
+
+When faced with this, Fuso deployed the warship boarded N1K1-J in that fleet, they were remodeled versions of the mass-produced N1K1-J that wasn't for warships. Squadron Leader [[Shindou Mie|Shindou]] was the one to choose the unit that would get transferred. Later when N1K2-J was made, some were made compatible with warships and sent there. Due to these versions of those units, later was created a unit solely for warships, N1K4-A. These are all different models of one unit type, the Shiden.
+
+Because of Fuso's fast response, and the Fuso side's admiration for Jane's frankness, the exchange after that was exceedingly friendly between the two sides. Because of these good terms, the navies of Liberion and Fuso collaborated in many big operations. Thanks to the feedback on the N1K4-A, the production efficiency of the unit and other supplies improved.
+
+==Trivia==
+*She is based on [http://en.wikipedia.org/wiki/John_Thach John Thach].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Wing Commanders]]
+[[Category:508th Joint Fighter Wing]]
+[[Category:Characters with no art]]
+[[Category:Liberion]]

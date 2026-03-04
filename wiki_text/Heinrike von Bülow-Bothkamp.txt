@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Heinrike von Bülow-Bothkamp
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=19 November
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force
+|team = 
+|rank=Group Captain
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}'''Heinrike von Bülow-Bothkamp''' is a Witch originating from [[Karlsland]] and affiliated to the Karlsland Air Force.
+
+==Background==
+Heinrike is a witch who has been active since the previous war.
+
+A famous aristocrat, she was asked to coordinate members when establishing the [[506th Joint Fighter Wing]]. She selected Squadron leader [[Edytha Prinzessin zur Lippe-Weissenfeld]] and Flight Lieutenant [[Heinrike Prinzessin zu Sayn-Wittgenstein]] as fighter captain candidates.
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Harry von Bülow-Bothkamp|Harry von Bülow-Bothkamp]]. One of the few people in history who became an ace in both wars.
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Group Captains]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

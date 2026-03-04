@@ -1,0 +1,34 @@
+{{Character_Infobox
+|title1=Altea Grimani
+|image1=
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=
+|team=
+|rank=
+|striker unit(s)=
+|weapon(s)=
+|familiar=
+|seiyuu_(japanese)=
+|seiyuu_(english)=
+|appearances=
+}}
+'''Altea Grimani''' (アルテア・グリマーニ, ''Arutea gurimāni''<sup>[http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets ?]</sup>) is [[Miyafuji Yoshika]]'s schoolmate at the start of [[Strike Witches: Road to Berlin]].
+
+==Background==
+Born in Venezia, her father is a Captain in the [[Venezian Navy]], and the captain of the battleship Doge. She comes from a prestigious naval family that has bring forth many commanders of the Venezian fleet in the past, along with many educators.
+Partly because of this, she was also eager to study and went on to the Lausanne Medical Preparatory School with the aim of becoming a doctor.
+
+==Appearances==
+'''Anime'''
+*[[Strike Witches: Road to Berlin]]
+
+==References==
+Strike Witches RtB 1: A Complete Record of 501st JOINT FIGHTER WING III
+[[Category:Other Characters]]

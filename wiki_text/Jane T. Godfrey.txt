@@ -1,0 +1,86 @@
+{{Character_Infobox
+|title1=Jane T. Godfrey
+|image1=Jane_T._Godfrey.jpg
+|caption1=
+|kanji_name=ジェーン・T・ゴッドフリー
+|romaji_name=
+|age=17 (end of 1944)
+|birth_date=28 March 1927
+|height=162 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 8th Air Force 336th Fighter Squadron
+|team =[[504th Joint Fighter Wing]]
+|rank=Flight Lieutenant
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51B_and_P-51C|North Liberion P-51B]] (36765)<br>[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (413412 "Reggie's Reply")
+|weapon(s)=[[Wikipedia:M2_Browning_machine_gun|Browning M2]]<br>[[Wikipedia:M1918_Browning_Automatic_Rifle|Browning M1918]]
+|familiar=[[Wikipedia:Dalmatian_(dog)|Dalmatian]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Jane T. Godfrey''' (ジェーン・T・ゴッドフリー) is a Witch of the [[504th Joint Fighter Wing]], originating from [[Liberion]].
+
+==Background==
+Her birthplace is a metropolis somewhere on [[Liberion]]'s East Coast. Jane is an ordinary person whose soft-spoken personality causes her to keep getting overwhelmed from every direction, especially by military personnel. This is perhaps due to her relatively untroubled upbringing in an ordinary, middle-class family, who had never produced a witch before.
+
+She was expected to grow up and go to school normally, however, after receiving excellent results in suitability tests conducted by the military, she decided to enter a training school for the Army Air Corps. She was well trained, and was an excellent but unobtrusive student, and was sent to [[Britannia]] after her assignment.
+
+In Britannia, she was seen to have skills, but lacked assertiveness, and she carried out her duties indifferently. Life changed when Flight Lieutenant [[Dominica S. Gentile|Gentile]] was transferred to the unit. In the beginning, the two were indifferent to one another, however one day she was suddenly assigned as Gentile's wingman. This was because few could keep up with Gentile's personality, and she was impossible to deal with.
+
+She had this to say the first time she teamed up with Gentile:
+
+''"When we came across enemies, she charged right in before even getting an idea of how many there were, and kept going at them. Every time we were surrounded and I thought that'd be the end of us, somehow or other we'd make our way through. It was like magic."''
+
+Possibly because of this, Flight Lieutenant Gentile requested for Godfrey to permanently be her wingman to their superiors, on the grounds that they had excellent compatibility in aerial combat.
+
+Initially bewildered by such coercion, Godfrey gradually settled into her role as Gentile's right-hand woman ''("wife's role" to be very literal, probably deliberate and in line with [http://twitter.com/humikane/status/19423617400 previous comments on Twitter])'' both in public and private.
+
+When Gentile refused to return to Liberion after the end of her front lines duties, they both volunteered to the [[504th Joint Fighter Wing]].
+
+Since then, Gentile and Godfrey have used the same model of [[Striker Unit]], but when Gentile was forced to crash land at the 504th's base, destroying her P-51B, they could only obtain supplies for a single new D model unit. At that time, despite the lower speed of the B model, Godfrey easily performed at the same speed and with the same maneuvers as Gentile, so it is estimated that Jane's skills may be higher than Gentile's.
+
+It's likely that the one most surprised (or exhausted) by Gentile's antics is Godfrey, the ordinary girl who follows her around. She is also close to Pilot Officer [[Luciana Mazzei|Mazzei]] of the 504th JFW, due to their ordinary personalities.
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51B (No. 43-86765)]]
+|image=P51-B Godfrey SW2.jpg
+|description=The unit of Flight Lieutenant Godfrey, Flight Lieutenant Gentile's wingman. Even after Flight Lieutenant Gentile destroyed her unit and switched to a newer model, she continued to use this unit for some time.
+}}
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D]]
+|image=
+|description=Her P-51D striker unit is nicknamed "Reggie's Reply".
+}}
+
+==Quotes==
+''"Has our Don gotten into something again?!"'' - Twitter, July 24
+
+''"Don! Did you mess up somewhere 'again'!"'' - digital bs tuners profile
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches: Kurenai no Majo-tachi]]
+'''Other'''
+*[[504th Twitter Story Translation|504th Twitter Story]]. Part 1 and 2
+
+==Trivia==
+*Based on [http://en.wikipedia.org/wiki/John_Trevor_Godfrey John T. Godfrey]. Godfrey achieved 18 air-to-air kills against the Luftwaffe, before he was shot down by flak and captured by the Germans on August 24, 1944. He was promoted to the rank of major before he was discharged from the Army Air Forces shortly following the war.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Jane profile image.jpg
+Jane profile article.jpg
+Jane Underwear.jpg
+Jane flying.jpg
+Jane drawn by Humikane 2.jpg
+Kurenai no Majo-tachi cover 2 Jane Dominica.jpg
+Strike Witches Kurenai no Majo Tachi Promo splash-art.png
+File:Jane Cheer Outfit Dominica Chibi.jpg
+Red witches vol01 ch02 041 DonAndJane.png
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Flight Lieutenants]]
+[[Category:504th Joint Fighter Wing]]
+[[Category:Liberion]]

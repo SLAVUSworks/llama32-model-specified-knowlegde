@@ -1,0 +1,41 @@
+{{stub}}
+{{Character_Infobox
+|title1=Antonina D. Yakimenko
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=5 December
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Orussia Air Force Imperial Guard 150th Fighter Regiment (Commander)
+|team =
+|rank=Wing Commander
+|striker unit(s)=Mir-Gosudarstvo MiG i-225 (White No. 360)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Antonina D. Yakimenko''' (Антонина Д. Якименко) is a witch originating from [[Orussia]] and the commander of the Orussian emperor's Imperial Guard.
+
+==Striker units==
+{{Striker unit template
+|name=[[Mir Gosudartsvo Design Bureau i-225|Mir Gosudartsvo Design Bureau MiG i-225 (white No. 360)]]
+|image=MiG i-225 Yakimenko SW2.jpg
+|description=The unit of Wing Commander Yakimenko, the commander of the Orussian emperor's Imperial Guard. "Return to the motherland with victory!" is written on it. It is said that this was written because of her desire to fight in a place far away from the emperor, despite being in the Imperial Guard Regiment.
+}}
+
+==Trivia==
+*Her ace archetype is [https://ru.wikipedia.org/wiki/Якименко,_Антон_Дмитриевич Anton Dmitrievic Akimenko].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+
+[[Category:Strike Witch]]
+[[Category:Wing Commanders]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

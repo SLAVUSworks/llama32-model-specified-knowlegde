@@ -1,0 +1,39 @@
+{{Infobox
+|Box title = Shining with Light
+|image = File:Brave_Witches_12_eyecatch.png
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = 
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 12
+|Row 4 title = Airdate:
+|Row 4 info = 
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 11, "We Won't Know Until We Try"|We Won't Know Until We Try]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches: Petersburg Grand Strategy|Petersburg Grand Strategy]]
+}}
+
+[[Karibuchi Hikari|Hikari]] is shown running across a frozen lake (or river), while the [[502nd Joint Fighter Wing|502nd]] watch Grigori move towards Petersburg. [[Karibuchi Takami|Takami]], realizing that there's no other option, decides to rush in and use Absolute Eye. The nest opens fire on Takami and, despite the 502nd's efforts to protect her, a beam eventually bypasses her weakening shields. Takami manages to relay the coordinates to Gustav, before getting knocked out. [[Georgette Lemare|Georgette]] catches her and uses her healing power to help. Gustav fires again on the nest, after getting the coordinates, but clouds re-appear around the nest which destroys the AP round. The squadron is on the ground, around an unconscious Takami, and now realize they can't do anything but watch. Hikari arrives, to the surprise of everyone, and begins talking to a now awake Takami. Meanwhile, Grigori destroys both Gustav and Dora. Suddenly, [[Gundula Rall|Rall]]'s old scar allows her to sense the magic of the AP round. As they find it, Marshall Manstein orders a retreat, but Rall has come up with a new plan; [[Kanno Naoe|Kanno]] must "go punch it." Hikari returns Kanno's gloves, which she then uses to transfer power into from the AP round, making them super strong. An HE core fragment is found as well, and is then attached to the under barrel launcher of Rall's STG. The squadron takes off again, with Georgette and Takami staying behind. Hikari, now equipped with Chidori again, must take Takami's place and use her Contact Eye ability. Rall fires the rocket at the clouds, allowing passage. Met with heavy resistance, Hikari and Kanno fly towards the main body. Hikari eventually finds the core and Kanno manages to punch it, breaking the outer core but not the true core. Kanno gives out, and as Hikari catches her the Liberator pistol falls out of her pocket. She catches the pistol and puts all her power into her hand and shoots the core, destroying it. Hikari lands with Kanno near Takami, as the command center celebrates. Takami hugs Hikari and cries. The squadron celebrates as well and takes off, with Kanno and Takami both being carried. [[Nikka Edvardine Katajainen|Nipa]]'s unit breaks, again, and [[Aleksandra I. Pokryshkin|Sasha]] scolds her, but then her unit breaks too.
+
+During the credits, [[Aurora E. Juutilainen]] makes a brief cameo appearance as she watches them from the ground. After the credits, Takami and Hikari are seen approaching a Fuso carrier. The captain asks what Hikari will be doing. Her response is "they need all the Witches they can get." Hikari is now officially a member of the 502nd, while Takami is transferred back to Fuso.
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 11, "We Won't Know Until We Try"|11: "We Won't Know Until We Try"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches: Petersburg Grand Strategy|13: "Petersburg Grand Strategy"]] >>
+|}
+
+
+==Gallery==
+<gallery>
+Brave_Witches_12_eyecatch_substitute.jpg|Rall's plan
+Aurora-0.jpg|Aurora's cameo
+</gallery>
+
+[[Category:Brave Witches]]

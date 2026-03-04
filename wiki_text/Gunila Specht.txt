@@ -1,0 +1,36 @@
+{{Character_Infobox
+|title1=Gunila Specht
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=グーニラ・シュペヒト
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 26th Heavy Fighter Wing 1st Squadron (Adjutan) ([[Wikipedia:Zerstörergeschwader 26|I./ZG26]])
+|team =
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Messerschmitt Bf 110|Messerscharf Bf110C]] (No. U8+BB)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Gunila Specht''' (グーニラ・シュペヒト) is a witch originating from [[Karlsland]] and affiliated with the Karlsland Air Force.
+
+==Background==
+A witch famous for her eyepatch just like squadron Leader [[Sakamoto Mio|Sakamoto]].
+She has an excellent magic eye and is a perfectionist when it comes to duties. She is also an excellent commander and is famous for making excellent reports, which is why her personal mark is a flying pencil. In addition, her squadron's mark depicting a witch chasing a Neuroi is also famous.
+
+==Trivia==
+*Her ace archetype is [[Wikipedia:Günther Specht|Günther Specht]].
+
+==References==
+Strike Witches Movie A Complete Record of 501st Joint Fighter Wing.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

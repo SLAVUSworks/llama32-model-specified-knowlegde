@@ -1,0 +1,37 @@
+{{stub}}
+{{Unit Infobox
+|title1=31<sup>st</sup> Joint Fighter Squadron
+|image1=JFSafrica.png
+|caption1=31<sup>st</sup> JFS icon
+|name=第31統合戦闘飛行隊
+|romaji_name=Dai 31 Tōgō Sentō Hikō-tai
+|nickname(s)=Storm Witches
+|affiliation(s)=[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] [[Karlsland]]<br>[[File:Flag of Fuso.svg|border|23px|link=Fuso]] [[Fuso]]
+|branch=
+|HQ=
+|commanding_officer=Squadron Leader [[Katou Keiko]]
+|area_of_operations=North of Africa
+|base=
+}}
+Nicknamed "Storm Witches" (ストームウィッチーズ).<br>A squadron with an even longer service history than the [[501st Joint Fighter Wing|501<sup>st</sup>]].
+
+What started with the then-just arrived Fuso's African Expeditionary Force Independent Flight Squadron seeking a base of operation with the [[Karlsland|Karlsländer]] Afrikakorps' Jagdgeschwader 27 out of logistical convenience, at the "suggestion" by [[Hanna-Justina Marseille]] to the general staff, a joint fighter unit was formed on the day itself instead. Given the size of personnel not enough to form into a fighter wing, it was formed as a fighter squadron instead.
+
+Its personnel comprised of witches and ground crews from both [[Karlsland|Karlsländer]] Afrikakorps' Jagdgeschwader 27 and Fuso's African Expeditionary Force Independent Flight Squadron; with Britannia and Romanga forces provide logistical elements for the squadron. [[Katou Keiko]], then recently re-commissioned with the rank of captain, was appointed as the squadron's CO simply because she's the ranking officer (by the account of [[Katou Keiko]] though, she suspected that Marseille did so just to dump all the paperwork business to her instead).
+
+Despite having only 3 active witches in its roster, the 31<sup>st</sup> JFS Africa actively participated in humanity's North African campaign against the Neuroi invasion.
+
+==Members==
+Commander
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Squadron Leader [[Katou Keiko]]
+Members
+*[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] Flight Lieutenant [[Hanna-Justina Marseille]]
+*[[File:Flag of Karlsland.svg|border|23px|link=Karlsland]] Pilot Officer [[Raisa Pöttgen]]
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Warrant Officer [[Inagaki Mami]]
+*[[File:Flag of Fuso.svg|border|23px|link=Fuso]] Sergeant [[Kitano Furuko]]
+*[[File:Flag of None.svg|border|23px|link=]] [[Matilda]]
+
+==Units map==
+[[File:Witches units map.png|thumb|left|200px]]
+[[Category:31st Joint Fighter Squadron Africa]]
+[[Category:Joint Fighter Squadrons]]

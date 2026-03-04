@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Gunter schwester
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Heinzel
+|team =
+|rank=
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+The '''Gunter schwester''' are two witches and designers originating from [[Karlsland]].
+
+==Background==
+As designers, they were invited to Heinzel plane factory. In 1931 after the invitation, they designed a high-speed postal plane, the He70, and succeeded in the first flight the following year, and set eight speed records. Some of these aircrafts were adopted as military aircrafts and used as bombers and reconnaissance planes.
+
+They developed the He111, a high-speed transport aircraft that expanded and strengthened He70. The aircraft later became a bomber, but due to the need to focus on the development of [[Striker Unit]]s, the bomber type was delayed, and its deployment began only after the invasion of the [[Neuroi]].
+
+Heinzel's first [[Striker Unit]], the He49, was designed by them and first flew in 1938. It is the first domestically produced unit in the Karlsland Air Force and has been officially adopted as the He51 after testing and improvement. Although it was fast, it was difficult to handle, and it was not particularly distinctive compared to foreign units of the same period. Before the introduction of [[Miyafuji Ichiro|Miyafuji]]'s theory, the shape itself was a mediocre one with a back-pack engine type, but since other domestic units had not been completed, it gained the status of the main fighter striker.
+When the Hispania campaign broke out, the aircraft was granted to Hispania and later used by Condor Corps, a volunteer army. Competition became more difficult as the Neuroi became stronger, and as soon as the Messerscharf Bf109 was completed, it was taken away as the main unit, converted to a ground attack type unit, and even a training unit.
+
+==Trivia==
+*They are the daughters of an engineer of the Heinzel company, who is based on [[Wikipedia:Siegfried_and_Walter_Günter|Siegfried Günter]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+[[Category:Strike Witch]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

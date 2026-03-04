@@ -1,0 +1,21 @@
+{{Striker Unit Infobox
+|title1=Type 96 A5M Carrier-based Figther Legs
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Mitsubishi_Heavy_Industries|Miyabishi Heavy Industries]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+The Miyabishi A5M, designed by Miyabishi Heavy Industries, was the first monoplane, all metal striker unit. Professor [[Miyafuji Ichiro]] was heavily involved in the design of this unit, and, thanks to what would later become widely known as the "Miyafuji Theory," he was able to incorporate the engine into the striker unit itself. The Professor had first been assigned to striker unit design with the Miyabishi 7-shi Experimental Carrier-based Fighter Legs, in which he employed several new design theories. Unfortunately, it was considered too experimental to see official adoption by the Navy. However, it was the 7-shi's monocoque design, with no interior trusses, that gave the Professor the idea on how to create enough space for an internal engine. At first, he redesigned the 7-shi with the internal engine, but the end result was bulky, inelegant and significantly less powerful. Further adjustments were necessary. Those adjustments resulted in the Miyafuji Theory, and were implemented in the Miyabishi A5M. The highly aerodynamic A5M was 50 km/h faster than the earlier [[Nagashima Type 95 A4N Carrier-based Fighter Legs|A4N]] model, with greater maneuverability and a much faster equip time for Witches. Though many Navy Witches loved the old A4N, as soon as they tried the newer ASM, they all immediately agreed to its adoption.
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Mitsubishi A5M|Mitsubishi Type 96 A5M]] fighter.
+
+[[Category:Striker Unit]]

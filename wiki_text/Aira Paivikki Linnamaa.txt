@@ -1,0 +1,73 @@
+{{Character_Infobox
+|title1=Aira Paivikki Linnamaa
+|image1=Aira_1.png
+|caption1=
+|kanji_name=アイラ・ペイヴィッキ・リンナマー
+|romaji_name=Aira Peivikki Rin'namā
+|age=16
+|birth_date=29 June
+|height=171 cm
+|blood_type=
+|nationality=[[File:Flag of Suomus.svg|border|23px]] [[Suomus]]
+|affiliation(s)=
+|team=[[Music Squadron|League of Nations Air Forces Aviation Magic Band Luminous Witches]]
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:North American T-6 Texan|North Liberion AT-6]]
+|weapon(s)=[[Wikipedia:Suomi KP/-31|KP/-31]]<br>[[Wikipedia:MG 42|MG 42]]
+|familiar=[[Wikipedia:Arctic wolf|Arctic wolf]]
+|seiyuu_(japanese)=[https://anidb.net/creator/58353 Mamiya Ryou]
+|seiyuu_(english)=
+|appearances=
+}}
+'''Aira Paivikki Linnamaa''' (アイラ・ペイヴィッキ・リンナマーァ) is a witch of the [[Music Squadron|League of Nations Air Forces Aviation Magic Band Luminous Witches]], originating from [[Suomus]]. Her familiar's name is Finn.
+
+==Background==
+The sole Ace Witch in the [[Music Squadron|group]]. She was injured in combat which impaired her ability to fight. She took up performing songs at London's [https://en.wikipedia.org/wiki/Royal_Albert_Hall Royal Albert Hall]. 
+
+==Personality==
+Despite her cool appearance, she is a very impassioned older sister that everyone admires. She is close friends with [[Eleonore Giovanna Gassion|Ellie]].
+
+==Abilities==
+Within the unit, she is the main vocalist.
+
+==Equipment==
+The Music Squadron uses the [[wikipedia:North Amercian T-6 Texan variants#AT Series (Texan)|AT-6 Texan]] [[Striker Unit|Striker Units]], a trainer made in [[Liberion]]. This Striker is used in the Britannian Commonwealth as well and nicknamed "Harvard" there<ref>[https://twitter.com/humikane/status/1547058338680020992 Humikane's tweet on the AT-6]</ref>.
+
+==Appearances==
+'''Anime'''
+*[[Luminous Witches]]
+
+==Trivia==
+*Her Ace Archetype is [https://www.sotapolku.fi/henkilot/linnamaa_aarre-paivio_1918-06-29_tampere/ Aarre Päiviö Linnamaa].
+*She sustained her injuries in 1941 and not in 1942, a timeline detail clarified by Shimada as the final word as to the exact time Aria sustained her injuries.<ref>https://x.com/humikane/status/1580399736783183872?s=20</ref>
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Aira Paivikki Linnamaa (アイラ・ペイヴィッキ・リンナマー).jpg
+Aira 2.png
+Anime-aira.png
+Aira ConceptArt.png
+Aira Paivikki Linnamaa official character profile infos.jpg
+Idol Witches Concert costumes.jpg
+1556259927.jpg
+Aira Paivikki Linnamaa with familiar.jpg
+Aira Paivikki Linnamaa.png
+Aira Humikane art.jpg|Aila seemingly injured to the wrist
+Luminous Witches third single cover.png
+Luminous Witches second live.jpg
+Aira injuried Humikane.jpg
+Aira woken up by Lyudmila Humikane.jpg
+File:Aira Heart Handsign Eleonore Chibi.jpg
+File:Aira Bedroom Outfit.jpg
+File:Aria bedtime outfit Lyudmila shocked.jpg
+File:Aria Idol outfit and tail touch back.jpg
+File:Aria Idol outfit and tail touch back Lyudmila Objects.jpg
+File:Aira using magic to lift MG42 2.png|Aria struggling to lift MG42 due to her injury; she's attempting to even use her magic to unsuccessfully help aid her injured arm's physical strength
+Aira using magic to lift MG42 4.png
+</gallery>
+
+==References==
+[[Category:Strike Witch]]
+[[Category:Suomus]]
+[[Category:Pilot Officers]]
+[[Category:Music Squadron]]

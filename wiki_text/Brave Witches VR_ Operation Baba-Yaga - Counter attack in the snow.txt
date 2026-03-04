@@ -1,0 +1,44 @@
+{{Video_game_Infobox
+|title1=Brave Witches VR: Operation Baba-Yaga - Counter attack in the snow
+|image1=Brave Witches VR.jpg
+|caption1=
+|original_title=ブレイブウィッチーズVR-Operation Baba_yaga-雪中迎撃戦
+|developers(s)=Production IG
+|publisher(s)=Production IG
+|director(s)=
+|series=
+|platform(s)=PC<br>PlaySation VR
+|release=9 June 2017
+|genre(s)=VR rail shooter
+|mode(s)=
+}}
+'''Brave Witches VR: Operation Baba-Yaga - Counter attack in the snow''' (''Bureibu Witchīzu VR: Operation Baba_Yaga - Yuki chū geigekisen'') is a VR game developed by Production IG for PC and later ported to PlayStation VR. The game was not very well received, and had one of the lowest ratings on the Japanese PlayStation store after its release. The main complaints were about visuals, which are very blurry and lacking detail even on a PS4 pro, despite looking sharp in the official PlayStation store screenshots. Players also complained that, due to the lack of controls, it felt more like an interactive anime compared to an actual game. Most glaring of all, there was a distinct lack of VR focused game play, despite being promoted and sold as a "VR" title, as combat and flight was still experienced from a third person view.
+
+==Story==
+This game takes place during the [[Brave Witches|Brave Witches anime]] and features [[Karibuchi Hikari]] as the main character, [[Kanno Naoe]], [[Nikka Edvardine Katajainen]], [[Georgette Lemare]], [[Shimohara Sadako]], and [[Edytha Rossmann]]. The story elements are essentially short voiced dialogues between the characters during missions.
+
+==Gameplay==
+The main part of the game is a rail shooter. The camera follows Hikari as the girls sortie to complete missions. The player controls the camera, and where Hikari is aiming to, by moving the VR headset. The goal is to defeat as many [[Neuroi]] as possible. The player also has to choose which branch of the route to go. Because other characters attack the Neuroi as well, and Hikari sometimes attacks even without the player doing anything, it is possible to complete the levels without any player inputs.
+
+An "Extra Sauna mode" was later added as a free update, most likely due to the poor reviews from players and fans alike. In this mode, the player is sitting in the back of the sauna, and observing the girls who get in the sauna for a short amount of time and perform random animations. There is only one girl at a time in the sauna. The girls behave as if the player is not here.
+
+== Discontinuation ==
+On December 17th, 2023, Production IG announced that the game will cease distribution through Steam as of December 31st, meaning that anyone who didn't buy the game would not be able to purchase it. However, users who had previously bought the game are still able to redownload it from their library and play it even after the end of distribution.
+
+==Gallery==
+<gallery widths="185" captionalign="center" spacing="small" hideaddbutton=true>
+Brave Witches VR promotional art.jpg|Promotional art for the game
+Brave Witches VR promotional art 2.jpg
+Brave Witches VR logo.jpg|Game logo
+Brave Witches VR official screenshot  2.jpg|Official screenshot
+Brave Witches VR official screenshot  3.jpg|Official screenshot
+Brave Witches VR official screenshot 4.png|Official screenshot
+Brave Witches VR official screenshot 1.png|Official screenshot
+Brave Witches VR PS4 screenshot.jpg|Actual PS4 visuals at release
+Brave Witches VR PS4 sauna screenshot 1.jpg|Sauna extra mode
+Brave Witches VR PS4 sauna screenshot 2.jpg|Sauna extra mode
+Brave Witches VR PS4 sauna screenshot 3.jpg|Sauna extra mode
+</gallery>
+[[Category:Game]]
+[[Category:Brave Witches]]
+[[Category:502nd Joint Fighter Wing]]

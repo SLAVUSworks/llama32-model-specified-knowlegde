@@ -1,0 +1,72 @@
+__NOTOC__
+
+{{Infobox
+|Box title = The Witch of Sasebo?
+|image = File:-HorribleSubs-_Brave_Witches_-_01_-720p-.mkv_snapshot_11.27_-2016.10.23_03.14.11-.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Sasebo no Mahō Shōjo?
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 01
+|Row 4 title = Airdate:
+|Row 4 info = October 5, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = n/a
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 2, "Take Flight, Chidori"|Take Flight, Chidori]]
+}}
+In September 1944 in the Fuso port of Sasebo, [[Karibuchi Hikari]] goes on a run to the Hario Transceiver Station where her father is working in order to deliver him lunch. There, Hikari learns that the Third Carrier Division, the unit that her older sister, [[Karibuchi Takami]], the hero of Sasebo is about to return. Excited, Hikari goes to practice crossing a river using her magic to show off to her sister. However, Hikari is unsuccessful and is soaked in the process. Afterward, Hikari returns home in order to grab some food from her mother before she heads for class at the Sasebo Aviation Preparatory School. While training, rival student named [[Misumi Miya]] mocks Hikari's lack of magical powers but she is undeterred. On her way home, Hikari meets up with her sister as the Third Carrier Division pulls into port. 
+
+Later that night after the siblings catch up, Takami tells Hikari that she will be deployed to Europe soon. The next day, the Aviation School announces that it will send one volunteer to Europe to help in the war effort. Both Miya and Hikari volunteer and a selection exam would be held in three days to decide who will go. At home, Hikari's parents are skeptical but Hikari is determined to catch up to her older sister.
+
+On the day of the selection test, Miya and Hikari begin as the weather becomes worse. Despite not having as much magic prowess, Hikari is able to keep up with her stamina. Before either witch can reach the final checkpoint, both of them collide due to the low visibility and crash. Hikari regains consciousness as she sees that Miya disappear beneath the waves. Hikari is able to rescue her by being able to use her magic to skip across the ocean which is witness by both Mie and Fumika. Since neither witch completed the exam, both fail it but Hikari is not discouraged as she feels that she is getting to be closer to being a witch. Both Karabuchi sisters go to Hario to see their father. There, they receive a message from the Navy General Staff informing them that Hikari had actually passed the exam and was to prepare to be deployed to Europe. Meanwhile, in Euorpe, a new Neuroi hive begins to form.
+
+<div style="clear:both"></div>
+{| border="1" cellpadding="5" cellspacing="0" align="center" style="border-collapse:collapse;"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Strike Witches]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 2, "Take Flight, Chidori"|02: "Take Flight, Chidori"]] >>
+|}
+
+
+==References==
+===Spitfire===
+[[File:Spitfire engaging a Neuroi.png|thumb|Spit that fire Spitfire!]]
+Developed by Supermarine and introduced in 1936, the [https://en.wikipedia.org/wiki/Supermarine_Spitfire Spitfire] would become one of the most recognizable British fighter of World War II and the only British aircraft to fight continuously during the entire conflict. Capable of 600&nbsp;km/h, a range of 771&nbsp;km, the Spitfire initially had a Rolls-Royce engine though this was upgraded to Rolls-Royce Griffon engine. The armament of the Spitfire varied with the initial variants having eight .303 Browning Mk II. Later variants had an assortment of weapons such as 20&nbsp;mm Hispano Mk II, the previously mentioned .303 Browning Mk II, or .50 in Brownings. The Spitfire became the main symbol of the Battle of Britain as the main fighter for the RAF though it was the Hurricanes that actually often were the ones shooting down German bombers. Spitfires were tasked with going up against the Bf-109 in which both aircraft were on par with each other. The Spitfire continued to see service in the RAF in many theaters of World War II and was even given to allies as well as serving on aircraft carriers in the form of the Seafire. 20,351 Spitfires of all variants were produced in total.
+
+===Bf-109===
+[[File:Bf-109 going down.png|thumb|Rivals in another universe fighting on the same side.]]
+Built by Messerschmitt and introduced in 1937 and one of the most advanced fighters when it initially saw service, the [https://en.wikipedia.org/wiki/Messerschmitt_Bf_109#Operational_history Bf-109] would be the main aircraft for the Luftwaffe throughout World War II in various combat capacities. With a Daimler-Benz DB 605A-1 V-12 inverted liquid-cooled piston engine, the Bf-109 was capable of doing 640&nbsp;km/h at certain altitudes and had a range of 1,144&nbsp;km. The fighter was armed with two 13&nbsp;mm MG 131 machine guns and either a 20&nbsp;mm MG 151 or 30&nbsp;mm MG 108 cannon in the nose. Additionally, two more MG 151 cannons could be mounted as underwing cannon pods. First seeing service in the Spanish Civil War, the Bf-109 would become most famous for it's role in the Battle of Britain as it went up against RAF Spitfires and Hurricanes. The lack of range the Bf-109 had hampered combat operations though the fighter still performed well, being slightly better than the Hurricane and being an even match for the Spitfire. The Bf-109 continued to see service defending Germany against the Allied bombing campaign and all this meant that this German fighter had the most aerial kills in World War II and gave rise to many famous German aces. The Bf-109 would also serve in the air forces of other nations such as Finland, Switzerland, and Hungary. Sometimes, the fighter is designated as Me-109 though this is not it's official designation. With 33,984 Bf-109s of all variants produced, it remains as the most produced fighter aircraft in history.  
+
+===Hario Transceiver Station===
+One of the most powerful radio transmitters in Japan during World War II. Consisting of three 136 meter tall towers all connected by cables, this Japanese Navy controlled station was used to communicate with their fleets spread around the Pacific. 
+
+=== Third Carrier Division===
+Starting as a seaplane tender unit in June 1936, eventually the [https://en.wikipedia.org/wiki/Third_Carrier_Division unit] is formed under several carriers during its history with Ryūjō, Hōshō, Zuihō, and Zuikaku. The unit was disbanded in November 1944. 
+
+===Kitagou Fumika===
+A veteran of the Fuso Sea Incident, [[Kitagou Fumika|Fumika]] is currently the principal for the Sasebo Aviation Preparatory School
+=== 501st Joint Fighter Wing===
+The two witches appearing in the newspaper are [[Sakamoto Mio]] and [[Miyafuji Yoshika]] with the latter just having joined the 501st. 
+
+===Shōkaku-class carrier===
+[[File:Shōkaku-class carrier.png|thumb|Front view of the Shōkaku-class carrier.]]
+Built in the 1930s, these Japanese carriers were some of the most modern carriers when they were commissioned. [https://en.wikipedia.org/wiki/Sh%C5%8Dkaku-class_aircraft_carrier Two carriers] of the class were built, the Shōkaku and Zuikaku. Both ships saw extensive service in the Pacific Theater in World War II, participating in every major naval action in the theater except for the Battle of Midway. The carriers were capable of doing 34.5 knots, and could carry 72 aircraft with 12 spares. Shōkaku was sunk by the USS Cavalla on 19 June 1944 while Zuikaku was sunk at the Battle off Cape Engaño the same year on 25 of October.
+
+===Shindou Mie===
+Another veteran Fuso witch, she is experienced in serving on carriers. [[Shindou Mie|Mie]] is currently a member of the [[508th Joint Fighter Wing]]. 
+
+===Akizuki-class destroyer===
+[[File:Akizuki-class destroyer.png|thumb|Miya flying near a Akizuki-class destroyer.]]
+A class of Japanese destroyers, they were armed with eight 100&nbsp;mm guns in four twin turrets, one quadruple Type 92 torpedo launcher along with an assortment of 25&nbsp;mm and 13&nbsp;mm anti-aircraft guns. The [https://en.wikipedia.org/wiki/Akizuki-class_destroyer_(1942) Akizuki-class] was capable of 33 knots and first entered service in 1941. 32 of the class were ordered. Only 12 were actually finished with half of that number lost during the war.
+
+==Gallery==
+<gallery>
+Principal Kitagou Fumika.png
+</gallery>
+
+[[Category:Brave Witches]]

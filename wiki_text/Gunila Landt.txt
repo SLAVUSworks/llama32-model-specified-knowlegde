@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Gunila Landt
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Karlsland Air Force 53rd Fighter Wing 11th Flying Corps ([[Wikipedia:Jagdgeschwader_53|11./JG53]])
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#K-4|Messerscharf Bf109K-4]] (Yellow No.1)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Gunila Landt''' is a witch originating from [[Karlsland]] and affiliated with the Karlsland Air Force.
+
+==Background==
+A young witch assigned to the JG53 in 1943. She was active on the Western Front and destroyed 16 [[Neuroi]] by the end of 1944.
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109K-4 (yellow No. 1]]
+|image=Bf109K-4 Landt SW2.jpg
+|description=This unit was the black No.2 in the 8th Squadron, but when she moved to the 11th Squadron, the number 1 was painted over it.
+}}
+
+==Trivia==
+*Her ace archetype is Günther Landt.
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Karlsland]]
+[[Category:Characters with no art]]

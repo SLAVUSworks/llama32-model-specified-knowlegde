@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Edith M. la Meslée
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=5 February
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Gallia Airforce GC III/5 Fighter Regiment
+|team =
+|rank=Squadron Leader
+|striker unit(s)=[[Wikipedia:Arsenal_VG-33|Gallia National Aviation Arsenal VG.39 bis]] (GW-Y)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Edith M. la Meslée''', full name "Edith Marie la Meslée", is a witch originating from [[Gallia]].
+
+==Background==
+One of the few Gallian witches who played an active role in the withdrawal battle of Gallia, and the top ace of said withdrawal battle. She withdrew to Africa where her military gains increased, before serving in a coastal patrol unit in [[Britannia]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39bis (letter code GW-Y)]]
+|image=VG39bis La Meslée SW2.jpg
+|description=This is the unit she used during the subsequent coastal patrol missions in Britannia. 
+}}
+
+==Trivia==
+Her ace archetype is [[Wikipedia:Edmond_Marin_la_Meslée|Edmond Marin la Meslée]].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Squadron Leaders]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

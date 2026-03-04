@@ -1,0 +1,64 @@
+__NOTOC__
+{{Striker Unit Infobox
+|title1=Me262
+|image1=Me262 0.jpg 
+|caption1=
+
+<!-- Tabs -->
+|tab1=V1 (SW2)
+|tab2=V1 (OVA)
+
+<!-- Tab1 -->
+|country=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications=[[wikipedia:Messerschmitt Me 262#Variants|V1]]
+|magic_engine=[[wikipedia:Junkers Jumo 004|Juma004B-1]] [[File:Jungfrau.png|23px]]
+|power=1954 lbm (take off)
+|length=125.0 cm
+|weight=Classified
+|maximum_speed=559 mph (19700 ft, average air witch)
+|weapons=[[Wikipedia:MK 108 cannon|MK108]]<br>[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:R4M|R4M]]
+
+<!-- Tab2 -->
+|country2=[[Karlsland]] [[File:Flag of Karlsland.svg|border|23px|link=Karlsland]]
+|manufacturer2=[[Wikipedia:Messerschmitt|Messerscharf]] [[File:Messerscharf.png|23px]]
+|specifications2=[[wikipedia:Messerschmitt Me 262#Variants|V1]]
+|magic_engine2=[[wikipedia:Junkers Jumo 004|Juma004D]] [[File:Jungfrau.png|23px]]
+|power2=2315 lbm (take off)
+|length2=125.0 cm
+|weight2=Classified
+|maximum_speed2=559 mph (19700 ft, average air witch)
+|weapons2=[[Wikipedia:MK 108 cannon|MK108]]<br>[[Wikipedia:MG 42|MG42]]<br>[[Wikipedia:R4M|R4M]]
+}}
+==History==
+The Me262 is a jet striker unit equipped with a newly developed jet engine. Inside this engine, many magic runes are rotating, compressing the atmospheric ether entering from the inlet, which create the jet trust. Striker units using the conventional propeller-type magic rune were limited at a maximum speed of 800 km/h. The jet engine technology was researched in order to exceed this limit. The research started before the appearance of the [[Neuroi]], and [[Wikipedia:Heinkel|Heinzel]] succeeded in flying a prototype unit. Due to the invasion of the Neuroi, the main focus was shifted to the development of conventional units. But along with the intensification of combats, some Neuroi that surpass the speed of ordinary striker units have appeared. Fortunately, the witches specialized in high-speed successfully repelled them, but each country had to cope with the imminent threat of faster types. As a result, the development of jet strikers was resumed.
+
+After the success of the He178, Heinzel subsequently started developing the He280. Meanwhile, [[Wikipedia:Messerschmitt|Messerscharf]] also proceeded with development. At the end of 1940, the first Messerscharf prototype was completed with the in-house code P1065. After receiving the official name Me262V1 from the Air Force Ministry, the development of the Me262 continued, but the development of the engine from the [[Wikipedia:Bayer|BMW]] company that was supposed to be installed was behind schedule, and the prototype did not meet the required performances. Fortunately, [[Wikipedia:Junkers|Jungfrau]] succeeded in developing the Juma004. This engine was installed in the third prototype, and on May 22 of 1943, Air Vice-Marshal [[Adolfine Galland]], Inspector General of the witches, conducted a test-flight. Air Vice-Marshal Galland argued that mass production should be started immediately. 
+
+It was then decided to adopt the Me262 because Heinzel met unexpected difficulties in the development of its in-house engine. This decision was also due to the support of Inspector General Galland, and the Emperor Friedrich IV, who is fond of new innovative technologies, and who received her request. However, mass production was delayed because the production of conventional units could not be reduced due to the war situation. In particular, the durability of the engine and the need of delicate output adjustments were major problems, and urgent improvements were required.
+
+The 131st Preliminary Experiment Squadron "Halb" operated this airframe prior to its mass production, conducting practical tests and trying to master it. During this process, it was identified that the unit requires a huge amount of fuel and magical power, and cannot be easily handled. It has durability problems, and the range is short. It was also found that the engine often stalls, requiring careful management. Nevertheless, its performance was excellent and it demonstrated overwhelming acceleration and climbing ability, as well as high-speed performance. It's expected to be the next-generation unit.
+
+Regarding these issues, Flying Officer [[Ursula Hartmann]] of the Technical Ministry played a central role in discussions with each country manufacturers. Hartmann improved the build quality by adding nickel and cobalt from the South Sea island [[Australis]] to the turbine blades, which drastically extended the operating time. Behind these discussions, Heinzel which widely imposed itself thanks to its collaboration with [[Britannia]], was flustered by the hurried Messerscharf development, and requested the collaboration of Technical Flying Officer Hartmann who had deep interchanges with witches from other nations. As a result, more technology interchanges were held between [[Karlsland]] and [[Fuso]], as well as between Britannia and [[Liberion]]. Thanks to the technology interchanges carried out by these four countries, Jet striker development was unified to a certain extent, which accelerated the researches.
+
+==Known variants==
+*'''V1''': First prototype. It was first equipped with both a conventional and a jet engine, then with Heinzel HeS011A engine and afterward with Jungfrau Juma004 engine.
+*'''A-1a'''
+*'''A-2a''': Bomber type.
+*'''B-1a'''
+*'''C-2a''': Equipped with rocket boosters.
+*'''HG1''': Remodelled version of the 9th prototype. Features increased wing sweep, reduced air resistance and increased high-speed performance
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Messerschmitt Me 262|Messerschmitt Me 262]], the first operational jet-powered fighter.
+*The magic engine is based on the [[wikipedia:Junkers Jumo 004|Junkers Jumo 004]] turbojet engine.
+
+==Gallery==
+<gallery widths="180" captionalign="center" spacing="small" hideaddbutton=true>
+Me262 1.jpg|Strike Witches 2 Gertrude's Me262V1
+Me262 2.jpg|Strike Witches 2 Me262V1 data
+Me262 3.jpg|Strike Witches OVA Gertrude's Me262V1
+Me262 4.jpg|Strike Witches OVA Me262V1 data
+Me262 5.jpg
+</gallery>
+[[Category:Striker Unit]]

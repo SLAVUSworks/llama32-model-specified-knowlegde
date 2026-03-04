@@ -1,0 +1,31 @@
+{{Character_Infobox
+|title1=De la Penne
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=11 February
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Romagna Navy "Dechimas Mas" unit
+|team =
+|rank=Lieutenant
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''De la Penne''' is a Witch originating from [[Romagna]] and affiliated to the Romagnan Navy.
+
+==Trivia==
+*She is based on [[Wikipedia:Luigi_Durand_de_la_Penne|Luigi Durand de la Penne]].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 2.
+[[Category:Strike Witch]]
+[[Category:Romagna]]
+[[Category:Characters with no art]]

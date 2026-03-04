@@ -1,0 +1,26 @@
+{{Striker Unit Infobox
+|title1=Type 2 Ki-44 Shoki
+|image1=
+|caption1=
+|country=[[Fuso]] [[File:Flag of Fuso.svg|border|23px|link=Fuso]] 
+|manufacturer=[[Wikipedia:Nakajima Aircraft Company|Nagashima Flight Legs]]
+|specifications=
+|magic_engine=
+|power=
+|length=
+|weight=
+|maximum_speed=
+|weapons=
+}}
+==History==
+Developed by Nagashima alongside the [[Nagashima Type 1 Ki-43 Hayabusa|Ki-43]], the Ki-44 was a heavily armed striker unit. Unlike previous heavy unit designs, the Ki-44 was developed for fighting large-scale [[Neuroi]]. Its design focused on acceleration, climbing ability, better armament, and heavier armor. Unfortunately, while Nagashima had experience developing combat-effective units, this was their first attempt at a heavily-armored one. They also had their hands full developing the Ki-43 concurrently, so work on the Ki-44 lagged further and further behind. However, thanks to techniques learned by the technicians who had been sent to assist Professor [[Miyafuji Ichiro|Miyafuji]], and tips learned from the [[Messerscharf Bf109|Bf109]] brought over from [[Karlsland]], a prototype unit was eventually completed. This prototype's engine was insufficient, and most of the armaments intended for it were still in development, making it difficult to call the unit a "heavy fighter." Despite that, it was still capable of sending increased magical power to the shields, boosting its defensive capability. It also had excellent diving ability, making it perfect for the increasingly popular hit-and-run tactics. An advanced model of this unit eventually saw use in the European theater.
+
+==Known variants==
+*'''Prototypes'''
+*'''Model I'''
+*'''Model II'''
+*'''Model III'''
+
+==Trivia==
+*This striker unit is based on the [[wikipedia:Nakajima Ki-44|Nakajima Type 2 Ki-44 Shoki]] fighter.
+[[Category:Striker Unit]]

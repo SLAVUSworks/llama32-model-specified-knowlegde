@@ -1,0 +1,42 @@
+{{Character_Infobox
+|title1=Françoise de Geoffre de Chabrignac
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=8 August
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Gallia Airforce GC 3 Fighter Regiment<br>Free Gallia Air Force Normandie-Niemen
+|team =
+|rank=Flying officer
+|striker unit(s)=[[Wikipedia:Arsenal VG 39|Gallia National Aviation Arsenal VG.39bis]] (No. 40)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Françoise de Geoffre de Chabrignac''' is a witch originating from [[Gallia]].
+
+==Background==
+During the battle in Orussia, she was approached to become the commander of the [[506th Joint Fighter Wing]], after Flying Officer Clostermann declined. Because Françoise rank was as low as a baron, there were concerns. She Declined the proposition because it was difficult to move out of Orussia at the moment due to the war situation and there was no other person to organize the unit.
+
+==Striker units==
+{{Striker unit template
+|name=[[Armurier de l'Aéronautique VG.39|Armurier de l'Aéronautique VG.39bis (No. 40)]]
+|image=VG39bis Chabrignac SW OVA3.jpg
+|description=Gallia sent this unit to Orussia when she was approached to become the commander of the 506th Joint Fighter Wing. It has a distinctive light blue color on the lower part. It is believed to be because it was used for high altitude reconnaissance.
+}}
+
+==Trivia==
+*She is based on [http://www.cieldegloire.com/004_de_geoffre.php François de Joffre de Chabrignac].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 5.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Gallia]]
+[[Category:Characters with no art]]

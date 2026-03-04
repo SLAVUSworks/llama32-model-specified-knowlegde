@@ -1,0 +1,32 @@
+{{Infobox
+|Box title = Break Witches
+|image = File:Brave_Witches_9_Eyecatch.jpg
+|imagewidth = 288
+|Row 1 title = Japanese Title:
+|Row 1 info = Bureiku Witchīzu
+|Row 2 title = Season:
+|Row 2 info = [[Brave Witches|01]]
+|Row 3 title = Episode Number:
+|Row 3 info = 09
+|Row 4 title = Airdate:
+|Row 4 info = December 6, 2016
+|Row 5 title = Previous Episode:
+|Row 5 info = [[Brave Witches Episode 8, "Grape Juice for Your Eyes"|Grape Juice for Your Eyes]]
+|Row 6 title = Next Episode:
+|Row 6 info = [[Brave Witches Episode 10, "Big Sister and Little Sister"|Big Sister and Little Sister]]
+}}
+
+A [[Neuroi]] attack occurs while the [[502nd Joint Fighter Wing|502nd]] test their new [[Striker Unit]]s. [[Kanno Naoe|Kanno]] manages to destroy it with her special ability, but at the expense of her new unit. Meanwhile, inside the medical room, Commander [[Gundula Rall|Rall]] reveals to [[Waltrud Krupinski|Krupinski]] about High Command's new campaign. During the next morning, Rall briefs the others on the next step regarding the campaign to destroy the Neuroi hive, Grigori, which involves protecting Petrozavodsk from Neuroi counterattacks. As the next mission is carried out, Kanno is almost hit due to her recklessness, but is saved due to [[Aleksandra I. Pokryshkin|Sasha]] pushing her to the side and taking the hit instead. Due to this setback, they do not manage to kill the attacking Neuroi that day. The next morning, another attack is carried out. But when the team thought victory was at hand, the Neuroi splits into pieces making it impossible to locate the core by normal means. Communicating with Commander Rall through radio, [[Karibuchi Hikari|Hikari]] insists on being allowed to use her Contact Eye ability, previously forbidden from doing so, in order to locate the core. Rall eventually agrees to it, to the confusion of others. Kanno is especially against the idea, as she thinks it will fail miserably due to the dangerous requirement of Hikari having to touch a Neuroi in order to see its core. But after Hikari motivates her, Kanno reluctantly agrees and they finally succeed at destroyed the core, at the expense of all their magical power for the day. In the afternoon, Krupinski finally recovers from her previous wounds, only to find [[Nikka Edvardine Katajainen|Nipa]], Kanno, and Hikari being punished for breaking their Striker Units, again. Krupinski remarks that Hikari is now a "true member" of not only the 502nd but also the "Break Witches" too, leading to a recovered Sasha punishing her as well.
+
+After the ending credits, an additional scene reveals that [[Karibuchi Takami|Takami]] has finally awaken from her coma after having been treated by [[Miyafuji Yoshika]]. To her shock, Takami is told that she has been in a coma for three months.
+
+<div style="clear:both"></div>
+{| style="border-collapse:collapse;" cellspacing="0" cellpadding="5" border="1" align="center"
+|+ 
+|- style="background-color: #EEE;"
+!<< [[Brave Witches Episode 8, "Grape Juice for Your Eyes"|08: "Grape Juice for Your Eyes"]]
+!^^ [[Brave Witches]] ^^
+![[Brave Witches Episode 10, "Big Sister and Little Sister"|10: "Big Sister and Little Sister"]] >>
+|}
+
+[[Category:Brave Witches]]

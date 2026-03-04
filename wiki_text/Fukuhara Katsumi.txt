@@ -1,0 +1,44 @@
+{{Character_Infobox
+|title1=Fukuhara Katsumi
+|image1=File:Fukuhara_Katsumi_1.jpg
+|caption1=
+|kanji_name=福原捷美
+|romaji_name=
+|age=?
+|birth_date=
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Empire Army 2nd Fighter Squadron
+|team =
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Model I Hayabusa]]
+|weapon(s)=?
+|familiar=[[Wikipedia:Japanese hare|Fuso Rabbit]]
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Fukuhara Katsumi''' (福原捷美) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]].
+
+==Background==
+During the Fuso sea incident in 1937, she was the recon witch for the second mobile task fleet.
+
+She was the witch that detected Squadron Leader [[Kitagou Fumika]] when she disobeyed orders and attacked the second fleet in order to prevent the ships from launching an unplanned anti-air attack that would have killed the other witches. Katsumi later warned the witches from the incoming attack using the radio, and told them to withdraw from the area.
+
+==Abilities==
+Her inherent magic is a type of non-visual perception that can detect objects, sorting out their position, number and classification.
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident|Strike Witches Zero]]
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Fukuhara Katsumi 2.jpg
+Fukuhara Katsumi 3.jpg
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Fuso]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]
+[[Category:Pilot Officers]]

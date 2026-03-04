@@ -1,0 +1,20 @@
+{{Stub}}
+{{Character_Infobox
+|title1=Debbie Symour
+|image1=Debbie Symour.png
+|age=?
+|nationality=Liberion
+|affiliation(s)=Liberion
+|caption1=
+}}
+A [[Liberion]] reporter and photographer sent to cover the [[Orussia|Orussian]] front of the war, in contact with various undisclosed media outlets in Liberion.
+
+==Appearances==
+
+==Trivia==
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+</gallery>
+[[Category:Other Characters]]
+[[Category:Liberion]]

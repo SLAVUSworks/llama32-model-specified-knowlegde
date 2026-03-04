@@ -1,0 +1,78 @@
+{{Character_Infobox
+|title1=Kuroe Ayaka
+|image1=ayaka_kuroe.jpg
+|caption1=
+|kanji_name=黒江綾香
+|romaji_name=
+|age=17 (end of 1939)<br>22 (1945)
+|birth_date=17 February 1923
+|height=170 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 1st Fighter Squadron (1937)<br>Fuso Imperial Army Flight Evaluation Bureau (1945)
+|team = [[505th Joint Fighter Wing]]
+|rank=Pilot Officer (1937)<br>Flight Lieutenant (1939)<br>Squadron Leader (1945)
+|striker unit(s)= [[Wikipedia:Kawasaki_Ki-10|Kawataki Type 95]]<br>[[Wikipedia:Nakajima_Ki-27|Nagashima Flight Legs Type 97 Ki-27]]<br>[[Wikipedia:Nakajima_Ki-43|Nagashima Flight Legs Type 1 Ki-43 Model I Hayabusa]]<br>[[Wikipedia:North_American_P-51_Mustang_variants#P-51B_and_P-51C|North Liberion P-51C]]
+|weapon(s)=[[Wikipedia:Japanese_sword|Fuso Sword]]
+|familiar=Satsuma Dog
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Kuroe Ayaka''' (黒江綾香) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. Her inherent magic is grasping the special qualities of things. When first introduced in ''Kimi to Tsunagaru Sora'', she was 23 years old and a Flight Lieutenant.
+
+Nicknamed "Kuroe the Demon" (魔のクロエ, ''ma no kuroe'') out of admiration and fear; feelings that she brought forth in others due to her daring fighting style of closing in upon the [[Neuroi]] and tearing them to pieces with a [[Wikipedia:Japanese_sword|Fuso Sword]]. She currently works as a test pilot developing new [[Striker Unit|Strikers]] with the Flight Evaluation Squad of the Fuso Imperial Army.
+
+==Background==
+A veteran that participated in the [[Fuso Sea Incident]]. At the time, she was attached to the 1st Fighter Squadron along with the "Fuso Sea Triumvirate" - [[Anabuki Tomoko]], [[Katou Takeko]] and [[Katou Keiko]] - under the command of [[Etou Toshiko]].
+
+She was sent to Europe along with the 47th Independent Flying Company, where she unfolded a fierce god-like fight. To others, it seemed a rather reckless method of combat, but it could solely be due to the presence of clear chances of success.
+
+When [[Sakamoto Mio|Squadron Leader Sakamoto]] requested a reunion for the first time in 7 years, she displayed her secret sword technique "Unyou" (''cloud spark'') in the mock battle that also served to gather data on the P-51C and, as a result, Mio learned the technique by looking at her. Incidentally, said battle ended with a draw when both of their swords broke.
+
+Ayaka once retired from military service upon reaching her 20s, but since serving in the air infantry was her life's vocation, she reapplied half-a-year later. As her magic power showed little decay in strength, her request was accepted under the condition that she would not be coming out in the front lines.
+
+Being a mechanical enthusiast who doesn't mind flying prototype models and foreign-developed Strikers, Ayaka was then invited to the Flight Evaluation Squad. Her abilities as a test pilot are also high and, as she can clearly express in numbers things like a unit's special qualities and its output balance, she is also trusted by the engineering staff. In addition, she collaborated in trials for other equipment such as uniforms for Witches, and is shown here wearing a prototype ''Kantou-i'' type flight uniform.
+
+==Personality==
+Besides being very cheerful and open-hearted, she has a personality that can also act with attentiveness. Her ability to manage a squad is high and she fought in numerous battles - under several squads - while being adored by her subordinates. She excels at raising the morale of a squad and the story how she restored the morale of the 42nd Joint Fighter Squadron (which had dropped to the bottoms of the earth) became something of a legend.
+
+Her hobbies include fishing, when Ayaka was assigned to the 64th Flying Squadron she would always fish if she had spare time.
+
+==Abilities==
+Ayaka's close-combat abilities with a Fuso sword are considered top-class even among all the successive generations of Witches, said to get into the ten best. She mastered a secret sword technique - "Unyou" (雲耀, ''cloud spark'') - in which she cuts a Neuroi and its core in two with a single stroke by converging her magical power in the point of her sword. She once succeeded in shooting down a large-type with it, something extremely difficult to do with a sword normally. This technique is also partially responsible for her nickname.
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51C]]
+|image=P51-C Fuso Army Examination Corps SW1.jpg
+|description=A unit supplied to the Fuso Army by Liberion to test its performance. The paint job remains to Liberion's specifications, only the country emblem has been repainted.
+}}
+
+==Appearances==
+'''Manga'''
+*[[Strike Witches Zero:1937 Fuso Sea Incident]]
+*[[Strike Witches: The Sky That Connects Us]] Chapter 7
+'''Light novels'''
+*[[Strike_Witches:_Der_Stern_von_Afrika_(Light_Novel)#Phoenix_in_the_Dunes|Phoenix in the Dunes]], mentioned by Katou Keiko
+
+==Trivia==
+*She is based on [https://en.wikipedia.org/wiki/Yasuhiko_Kuroe Kuroe Yasuhiko]. This includes his testing of many experimental Japanese and captured American aircraft, notably a P-51C that was captured intact and nearly undamaged, which Kuroe evaluated and demonstrated for other Japanese pilots.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+File:Kuroe Scan.png|Kuroe Ayaka in the year 1945
+File:Ayaka scan 2.jpg
+File:13165925 1074237712636575 858270541064882580 n.jpg
+File:Ayaka scan 3.jpg
+File:Ayaka 3.jpg
+File:Ayaka 2.jpg
+File:Kuroe Ayaka Attack.jpg
+</gallery>
+
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:Flight Lieutenants]]
+[[Category:Squadron Leaders]]
+[[Category:Fuso]]
+[[Category:Strike Witches Zero:1937 Fuso Sea Incident]]

@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Elna Kinnunen
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=18 January
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Suomus Air Force 24th Squadron 3rd Company
+|team =
+|rank=Warrant Officer
+|striker unit(s)=[[Wikipedia:Messerschmitt_Bf_109_variants#K-4|Messerscharf Bf109K-4]] (white 1)
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Elna Kinnunen''' is a witch originating from [[Suomus]].
+
+==Striker units==
+{{Striker unit template
+|name=[[Messerscharf Bf109|Messerscharf Bf109K-4 (white No. 1)]]
+|image=Bf109K-4 Kinnunen SW2.jpg
+|description=Warrant Officer Kinnunen was severely injured during a ground Neuroi attack. She started to use this unit after she recovered from said injury. The Squadron emblem, a moose, is painted on the fuselage over the winter camouflage.
+}}
+
+==Trivia==
+*Her ace archetype is [http://www.cieldegloire.com/000_kinnunen.php Eero Aulis Kinnunen].
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 4.
+[[Category:Strike Witch]]
+[[Category:Warrant Officers]]
+[[Category:Suomus]]
+[[Category:Characters with no art]]

@@ -1,0 +1,39 @@
+{{Character_Infobox
+|title1=Berta Welch
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=?
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Army 55th Fighter Group 343rd Fighter Squadron
+|team =
+|rank=Flying Officer
+|striker unit(s)=[[Wikipedia:North_American_P-51_Mustang_variants#P-51D_and_P-51K|North Liberion P-51D]] (44-13837 "Miss Marilyn II")
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Berta Welch''' is a witch originating from [[Liberion]].
+
+==Striker units==
+{{Striker unit template
+|name=[[North Liberion Aviation P-51|North Liberion Aviation P-51D]]
+|image=P51-D Welch SW1.jpg
+|description=The characteristic features of this unit are a red prancing horse emblem and a two-tone dark green and silver paint job. It is nicknamed "Miss Marilyn II". The serial number of the fuselage has been erased.
+}}
+
+==Trivia==
+*Her ace archetype is [https://www.honorstates.org/index.php?id=339692 Robert E. Welch].
+
+==References==
+Strike Witches A complete record of 501st Joint Fighter Wing 3.
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:Liberion]]
+[[Category:Characters with no art]]

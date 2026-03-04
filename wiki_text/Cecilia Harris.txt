@@ -1,0 +1,45 @@
+{{stub}}
+{{Character_Infobox
+|title1=Cecilia E. Harris
+|image1=Cecilia Harris.png
+|caption1=
+|kanji_name=セシリア・E・ハリス
+|romaji_name=
+|age=?
+|birth_date= 2 December
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=Liberion Navy 27th Escort Flying Corps
+|team = [[508th Joint Fighter Wing]]
+|rank=Flying officer
+|striker unit(s)=[[Wikipedia:Grumman_F4F_Wildcat|Grumma F4F]]<br>[[Wikipedia:Grumman_F6F_Hellcat|Grumma F6F]]
+|weapon(s)=[[Wikipedia:M1919_Browning_machine_gun|M1919A6]]
+|familiar=[[Wikipedia:American_Shorthair|Domestic Shorthair]]
+|seyuu_(japanese)= 
+|seyuu_(english)= 
+|appearances=
+}}
+'''Cecilia E. Harris''' (セシリア・E・ハリス) is a Witch of the [[508th Joint Fighter Wing]], originating from [[Liberion]].
+
+==Background==
+Before the [[Neuroi]] invasion Cecilia was planning to enter a teaching staff school. When her witch powers manifested themselves she volunteered to join the Liberion Navy, and received practice as a military cadet. After she was appointed Pilot Officer on the year 1941, she deployed in 27th Escort Flying Corps, where she went through harsh training. They were put in the escort carrier Suwannee, which used to be a tanker. They went into Europe in fleet guard duty.
+
+In 1942 she took part in supporting the Liberion landing operations in North Africa. In the naval port of Dakar she fought together with Flight Sergeant [[Georgette Lemare|Lemare]] and got her first kill on the record. In Mediterranean Sea she brought supplies to North Africa, and when she changed from F4F to F6F she was transferred to 18th Flying Corps. That group went to Pacific Ocean to train to get accustomed to that ocean, and they took part in joint practices with the Fuso witches. A lot of cultural change happened between the witches. When [[508th Joint Fighter Wing|508th JFW]] was established, Wing Commander [[Jane Thach|Thach]], whom she had got to know during the joint practices, elected her.
+
+==Trivia==
+*She is based on [http://acepilots.com/usn_harris.html Cecil E. Harris].
+
+
+==References==
+Strike Witches II A complete record of 501st Joint Fighter Wing 6.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+CVN41DZU4AAtcM1.png
+</gallery>
+[[Category:Article stubs]]
+[[Category:Strike Witch]]
+[[Category:Flying Officers]]
+[[Category:508th Joint Fighter Wing]]
+[[Category:Liberion]]

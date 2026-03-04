@@ -1,0 +1,24 @@
+<gallery position="center" hideaddbutton="true" widths="300">
+Sanya with Fliegerhammer.jpg|Sanya with a Fligerhammer
+</gallery>
+
+The '''Fliegerhammer''' (フリーガーハマー, ''Furīgāhamā'', "Pilot Hammer", "Plane Hammer", or "Aviator Hammer") is a [[Karlsland]] multishot, [[wikipedia:Air-to-air missile|air-to-air]] magic-guided missile launcher being used by many witches. It is also one of the signature weapons of the [[World Witches media|World Witches]] series.
+
+==Overview==
+The Fliegerhammer was designed and developed by [[Erica Hartmann]]'s twin sister and genius Karlslander engineer witch, [[Ursula Hartmann|Ursula]]. The Fliegerhammer has nine barrels. It is able to launch in two modes, either single missiles sequentially, in which case the missiles launch by row top-to-bottom, within rows right-to-left, or in a volley fire setting where four missiles fire in a "+" shape, followed a fraction of a second later by the remaining five in a "×" shape; the design artwork below lists the delay as "4 to 6 frames" (as it's animation reference material) which equates to a roughly 0.2 second delay before the second salvo. The fire mode is controlled by a selector switch on the pistol grip; the vertical position is volley fire, the rearward position is single fire. The rear offhand grip and shoulder rest fold flush with the body of the weapon when not in use. It is also have a carry handle, making it easier to carry. The Fliegerhammer is reusable, with missiles loaded by inserting them into the rear. Its missiles are guidable by witches' magic powers.
+
+==Trivia==
+*The Fliegerhammer is based on the [[wikipedia:Fliegerfaust|Fliegerfaust]], a German multishot, [[wikipedia:Surface-to-air missile|surface-to-air]] rocket launcher/unguided missile launcher, and the predecessor of all [[wikipedia:Man-portable air-defense system|man-portable air-defense systems]], and the [[wikipedia:M202 FLASH|M202 FLASH]], an American multishot rocket launcher.
+*While the Fliegerhammer's standard color is hunter green, [[Edytha Rossmann]]'s one is silver.
+*While [[Sanya V. Litvyak]], Edytha Rossmann, and Ursula Hartmann wield single Fliegerhammer, [[Adriana Visconti]] is thus far the only one who wields dual Fliegerhammers.
+
+==Gallery==
+<gallery position="center" hideaddbutton="true" widths="280">
+Fliegerhammer.jpg|The concept art of the Fligerhammer
+BraveWitches Fliegerhammer.png|Brave Witches FanBook Fliegerhammer info
+Edytha with Flieggerhammer.jpg|Edytha with a Fliegerhammer
+</gallery>
+
+[[Category:Terminology]]
+[[Category:Karlsland]]
+[[Category:Weapons]]

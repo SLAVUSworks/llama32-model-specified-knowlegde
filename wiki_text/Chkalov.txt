@@ -1,0 +1,31 @@
+{{Character_Infobox
+|title1=Chkalov
+|image1=Profile picture doesn't exist.png
+|caption1=
+|kanji_name=
+|romaji_name=
+|age=?
+|birth_date=2 February
+|height=?
+|blood_type=
+|nationality=
+|affiliation(s)=?
+|team =
+|rank=?
+|striker unit(s)=?
+|weapon(s)=?
+|familiar=?
+|seyuu_(japanese)=
+|seyuu_(english)=
+|appearances=
+}}
+'''Chkalov''' is a witch originating from [[Orussia]].
+
+==Background==
+She is a legendary witch in Orussia. She gave her name to an aviation school, the Chkalov School of Military Aeronautics, where [[Alya Alelyuhin]] was trained.
+
+==Trivia==
+*She is based on [[Wikipedia:Valery_Chkalov|Valery Chkalov]].
+[[Category:Strike Witch]]
+[[Category:Orussia]]
+[[Category:Characters with no art]]

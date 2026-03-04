@@ -1,0 +1,67 @@
+{{Character Infobox
+|title1=Nakajima Nishiki
+|image1=Nishiki.jpg
+|caption1=
+|kanji_name=中島錦
+|romaji_name=
+|age=17 (in ''What I Can Do Along With You'')
+|birth_date=15 October (in ''What I Can Do Along With You'')<br>20 December (in ''Silver Wings'' and the BD booklets)
+|height=155 cm
+|blood_type=
+|nationality=
+|affiliation(s)=Fuso Imperial Army 47th Independent Fighter Company<br>Fuso Imperial Army Flight Evaluation Bureau-affiliated Fussa Academy
+|team = [[504th Joint Fighter Wing]]
+|rank=Pilot Officer
+|striker unit(s)=[[Wikipedia:Nakajima Ki-44|Nagashima Flight Legs Type 2 Ki-44 Model I Shouki]]<br>[[Wikipedia:Nakajima Ki-44|Nagashima Flight Legs Type 2 Ki-44 Model II Shouki]]<br>[[Wikipedia:Nakajima Ki-44|Nagashima Flight Legs Type 2 Ki-44 Model III Shouki]]
+|weapon(s)=[[Wikipedia:Ho-103 machine gun|Ho-103]]<br>[[Wikipedia:Ho-301 cannon|Ho-301]]
+|familiar=Ocelot
+|seiyuu_(japanese)=[[Wikipedia:Yuuko Sanpei|Sanpei Yūko]]
+|seiyuu_(english)=[[Wikipedia:Clarine Harp|Clarine Harp]]
+|appearances=
+}}
+'''Nakajima Nishiki''' (中島錦) is a Witch from [[Fuso]] and attached with the [[Fuso Imperial Army]]. A soldier with abundant combat experience, she even participated in the European Dispatch mission. The younger sister of [[Nakajima Kodaka]] and older sister of [[Nakajima Hayate]], she was dispatched to [[504th Joint Fighter Wing]] along with [[Suwa Amaki]].
+
+==Background==
+Her parents have connections with the [[Wikipedia:Nakajima Aircraft Company|Nagashima Flight Legs]], so the whole family - she and her sisters included - cooperate in the development of [[Striker Unit]]s. Nishiki herself was involved in the development and testing of the main combat Striker (the Ki-44). She also cooperated in the development of the Ki-44-III, which equips a [[Liberion]]-made heavyweight-class engine, allowing it to be produced only in small numbers. In order to teach how to use new models of Strikers such as these, she often goes back and forth between Fuso and Europe.
+
+When the decision to mass-produce the Ki-44 came, she joined the 47th Company with the goal of teaching how to use it. She accompanied them in the European Dispatch as well and fought together with a deployment unit of [[Wikipedia:Messerschmitt Bf 109|Bf 109s]] in Karlsland. At the time, Nishiki fought together with both [[Gertrud Barkhorn|Barkhorn]] and [[Erica Hartmann|Hartmann]]... but pitifully, she was completely forgotten by the two.
+
+Her fighting-style stresses power and she mostly employs guns with a high-caliber or with a fast rate-of-fire. She also prefers the "dive and zoom" tactics that she learned in Europe, making them her forte - something unusual in Fuso. Under the influence of this warfare doctrine, she returned to Fuso and received [[Wikipedia:Fleet Replacement Squadron|replacement training]] in the Fuso Imperial Army Flight Evaluation Bureau-affiliated Fuso Academy while the Ki-44-II was being produced.
+
+==Personality==
+Overly serious and owner of a one-tacked mind, Nishiki has a personality like that of a frank, bad-mouthed older sister. Also good at taking care of those younger than her, she treats Amaki as if a younger sister. She looks crude, but actually likes neatness. She is often sweeping the base's vicinities or doing the maintenance and weeding of the runway together with the mechanics.
+
+
+==Appearances==
+'''Anime'''
+*[[Season 02 Episode 12, "Beyond The Skies To Eternity"|Srtike Witches season 2 Episode 12]]
+'''Manga'''
+*[[Strike Witches: Sōkū no Otome-tachi]]
+*[[Strike Witches: Maidens in the Sky]] (cameo in chapter 1, 2 and 8)
+*[[Strike Witches: Kurenai no Majo-tachi]]
+'''Video Games'''
+*[[Strike Witches: What I Can Do Along With You - A Little Peaceful Days]]
+*[[Strike Witches: Silver Wings]] (as DLC)
+
+==Trivia==
+*In ''Silver Wings'', Nishiki received the pet name Nikkii (ニッキー) from [[Francesca Lucchini|Pilot Officer Lucchini]].
+*She is based on [[Wikipedia:Nakajima Ki-44|Nakajima Ki-44 fighter]], also known as Type 2 Single-Seat Fighter (二式単座戦闘機, ''nishiki tanza sentouki''), hence the name Nakajima Nishiki.
+
+==Gallery==
+<gallery widths="170" captionalign="center" spacing="small">
+Nishiki scan 1.jpg
+Nishiki scan 2.jpg
+Nakajima Nishiki.jpg|Nishiki early design
+Nishiki Amaki Yoshika.jpg
+Nishika Yoshika Amaki Junko.jpg
+Silver Wings Nishiki.png|Nishiki in Silver Wings game
+BGEV 13 04.png|A scene from Silver Wings game
+BGEV 13 01.png|Shower scene from Silver Wings game
+Nishiki Amaki a little peaceful days magazine.png
+Nakajima Nishiki Sōkū no Otome-tachi.jpg|Sōkū no Otome-tachi
+Amaki Nishiki 3.png
+</gallery>
+[[Category:Strike Witch]]
+[[Category:Pilot Officers]]
+[[Category:504th Joint Fighter Wing]]
+[[Category:Fuso]]
